@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2020-08-01 10:03+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0207/en_US/>\n"
+"PO-Revision-Date: 2021-07-31 17:30+0000\n"
+"Last-Translator: colebob9 <colebob9@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -26,7 +26,7 @@ msgstr "Otsuki #2"
 msgid "只今より、映画鑑賞会の予定を急佚変更し\n船内レクリエ―ション大会を開催する！\n"
 msgstr ""
 "In lieu of the canceled film festival,\n"
-"we'll have an cabin recreation event!\n"
+"we'll have an cabin recreation event! (test here please ignore)\n"
 
 #  speaker 
 #  warnings: 0 
