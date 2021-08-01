@@ -4,11 +4,11 @@
 All translations are now submitted through our Weblate instance.
 
 1. Make an account.
-  - Go to https://weblate.lolc.at/accounts/register/
+  - Go to https://weblate.colebob9.net/accounts/register/
   - Follow the instructions.
-2. Log in at https://weblate.lolc.at/accounts/login/
+2. Log in at https://weblate.colebob9.net/accounts/login/
 3. Translate!
-  - Go to https://weblate.lolc.at/#suggestions
+  - Go to https://weblate.colebob9.net/#suggestions
   - Choose a component.
   - Click on the `Translate` button for the component.
 
