@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-09-01 17:37+0000\n"
+"PO-Revision-Date: 2021-09-02 18:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0049/en_US/>\n"
@@ -611,7 +611,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:51 
 msgid "（誘拐されちゃう！！）\n"
-msgstr ""
+msgstr "(She's being kidnapped!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -658,8 +658,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:55 
+#, fuzzy
 msgid "でも、私はなのちゃんを知ってるよ？\n"
-msgstr ""
+msgstr "But, I know Nano-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -682,8 +683,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:57 
+#, fuzzy
 msgid "だから私は知らない人じゃなくて\nなのちゃんが知ってる人だよ。\n"
 msgstr ""
+"So, I'm not a stranger, but\n"
+"someone that Nano knows.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -695,7 +699,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:58 
 msgid "そっか！　知らない人じゃない！\n"
-msgstr ""
+msgstr "I see! Nee-chan isn't a stranger!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -707,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:59 
 msgid "だからついていっても大丈夫だよ。\n"
-msgstr ""
+msgstr "So, it's fine for you to come with me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -718,8 +722,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:60 
+#, fuzzy
 msgid "ついていく！\n"
-msgstr ""
+msgstr "Yeah, let's go!\n"
 
 #  speaker 
 #  warnings: 1 
