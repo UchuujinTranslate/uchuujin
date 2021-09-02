@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-07-16 01:03+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0064/en_US/>\n"
+"PO-Revision-Date: 2021-09-03 04:01+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0064/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +198,7 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0064:14 
 msgid "囲碁、何も関係ねえ―っ！！\n"
-msgstr "That has nothing to do with Igo!!\n"
+msgstr "That has nothing to do with Go!!\n"
 
 #  text 
 #  warnings: 1 
@@ -330,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:26 
 msgid "あの、部長！\n"
-msgstr "Um, club president!\n"
+msgstr "Hey, club president!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +367,8 @@ msgstr ""
 #: sc/0064:29 
 msgid "はいっ、もしオレが勝ったら\n囲碁サッカ―を一緒にやって欲しいんです！\n"
 msgstr ""
+"Yes, and if I win, \n"
+"please play Igo-Soccer with us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +896,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:73 
 msgid "……………………あれ？\n"
-msgstr "……………………Wait, what?\n"
+msgstr "……………………Huh?\n"
 
 #  speaker 
 #  warnings: 0 
