@@ -1,7 +1,5 @@
 # *Nichijou: Uchuujin* Translation Project
 
-(Note: Translation Statuses not currently accurate, project still needs lots of work)
-
 [![Translation status](https://weblate.colebob9.net/widgets/uchuujin/-/svg-badge.svg)](https://weblate.lolc.at/engage/uchuujin/?utm_source=widget) [![Discord Chat](https://img.shields.io/discord/607723665798201380.svg)](https://discord.gg/UyT4S7F)
 
 **Welcome!**  
