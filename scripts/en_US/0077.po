@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-30 22:05+0000\n"
+"PO-Revision-Date: 2020-06-27 21:08+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0077/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Male student #2"
 #  warnings: 0 
 #: sc/0077:0 
 msgid "教頭先生、さよ―なら―。\n"
-msgstr ""
+msgstr "Goodbye, Vice Principal-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Vice Principal"
 #  warnings: 0 
 #: sc/0077:1 
 msgid "はい、さようなら。\n"
-msgstr ""
+msgstr "Yes, goodbye.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr "Female student #2"
 #  warnings: 0 
 #: sc/0077:2 
 msgid "教頭先生、失礼しま―す。\n"
-msgstr ""
+msgstr "Vice Principal, thank you for today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:3 
 msgid "はい、お疲れ様。\n"
-msgstr ""
+msgstr "Yes, good work today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,8 @@ msgstr ""
 #: sc/0077:5 
 msgid "はあ……教頭。\n……教頭、か。\n"
 msgstr ""
+"Sigh……Vice Prinipal.\n"
+"……Vice Principal huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +99,8 @@ msgstr ""
 #: sc/0077:6 
 msgid "なぜみんな、私を校長と呼んでくれん？\nなぜだ？　教頭だからとでも言うのか？\n"
 msgstr ""
+"Why is it that everybody calls me Vice Principal. \n"
+"Why is that? Do they say because that's what I am?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +125,8 @@ msgstr ""
 #: sc/0077:8 
 msgid "……それはそうか。\n校長がいる限り私は今のまま……教頭だ。\n"
 msgstr ""
+"……Oh probably.\n"
+"As long as the principal exist……I will the vice principal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +139,8 @@ msgstr ""
 #: sc/0077:9 
 msgid "どうすればいい？\n校長をクビにするには……。\n"
 msgstr ""
+"What should I do?\n"
+"How do I make the principal fired\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +153,8 @@ msgstr ""
 #: sc/0077:10 
 msgid "さっきの臨時集会でも失敗したし……\n一体どうすれば？\n"
 msgstr ""
+"I failed at the school assembly today……\n"
+"How on earth should I do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +179,8 @@ msgstr ""
 #: sc/0077:12 
 msgid "……はあ…………わからん。\n集めた落ち葉でも捨てに行くか。\n"
 msgstr ""
+"……sigh……I don't know.\n"
+"Let me throw away the fallen leaves over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +193,8 @@ msgstr ""
 #: sc/0077:13 
 msgid "おお、おお、燃えとる燃えとる。\n木の枝や枯葉はこうするに限るな。\n"
 msgstr ""
+"Oh, oh it's burning, it's burning.\n"
+"There's nothing like burning tree branches and dry leaves.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +206,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:14 
 msgid "……しかし、焚き火をすると\n気分が落ち着くのはどうしてだろう？\n"
-msgstr ""
+msgstr "……but why does bonfires like this make myself at peace?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +218,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:15 
 msgid "……はあ…………何だっていいか。\n"
-msgstr ""
+msgstr "………sigh…………well whatever.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,12 +231,14 @@ msgstr ""
 #: sc/0077:16 
 msgid "……ん？\nあそこにいるのは……。\n"
 msgstr ""
+"………Hm?\n"
+"Over there is………\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0077:17 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -240,7 +256,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:18 
 msgid "し、鹿！？　なぜ私の学校に鹿が！？\n"
-msgstr ""
+msgstr "A deer!? Why is there a deer at my school!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +269,8 @@ msgstr ""
 #: sc/0077:19 
 msgid "（あ、鹿といえば、町内を亂乘していると言う\n　野生動物の話が……そうか、アイツか！？）\n"
 msgstr ""
+"(Ah, if we are talking about deers, heard they \n"
+"have been seen roaming in town……I see, could it be this one!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +283,8 @@ msgstr ""
 #: sc/0077:20 
 msgid "（ならば、アイツは人を襲うはず！\n　は、早く逃げないと弌弌）\n"
 msgstr ""
+"(In that case, this one will surely want to attack humans!\n"
+"I-I have to get away quickly--)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +296,7 @@ msgstr "Sakamoto-san"
 #  warnings: 0 
 #: sc/0077:21 
 msgid "あ―あ、逃げやがったか。\n意外と根性ないな。\n"
-msgstr ""
+msgstr "Ah-- so he ran away. He had more spirit than what I thought\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +320,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:23 
 msgid "……ッ……ッ……ッ！\n"
-msgstr ""
+msgstr "………hff………hff………hff!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +333,8 @@ msgstr ""
 #: sc/0077:24 
 msgid "……お、おい、何だよ？\n俺は猫だぞ！？　関係ないだろ！？\n"
 msgstr ""
+"………Oh, hey, what's the matter?\n"
+"Well I'm a cat you know!? It does not matter!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +358,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:26 
 msgid "だから俺は弌弌！\n"
-msgstr ""
+msgstr "Well I'm a cat--!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +370,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:27 
 msgid "ッッッッッ！！！！！\n"
-msgstr ""
+msgstr "！！！！！！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,37 +382,40 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:28 
 msgid "ギャアアアアアアッ！？\n"
-msgstr ""
+msgstr "Gyahhhhhhh!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0077:29 
 msgid "あ―っ！？\n"
-msgstr ""
+msgstr "Ah—!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0077:30 
 msgid "まずい！　システムに影響が！\n"
-msgstr ""
+msgstr "Oh no! It's affecting the system!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0077:31 
 msgid "は、早く対処しろっ！\nじゃないと弌弌\n"
 msgstr ""
+"Hah, quickly deal with it!\n"
+"If not then--\n"
 
 #  speaker 
 #  warnings: 3 
 #: sc/0077:32 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0077:32 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +427,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:33 
 msgid "……おや？　あの鹿、どこか見ているな。\n"
-msgstr ""
+msgstr "………Hm that deer seem to be looking that way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +440,7 @@ msgstr ""
 #: sc/0077:34 
 msgid "あそこは確か……校長室のある辺りか？\n"
 msgstr ""
+"If I remember correctly……isn't that the direction of the principals office?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +453,8 @@ msgstr ""
 #: sc/0077:35 
 msgid "そういえば以前、校長が鹿を仕留めたはず……\nもしかして仲間の仇討ちに来たのか？\n"
 msgstr ""
+"Oh right, heard that the principal brought down a deer a little while ago……\n"
+"Could it be out seeking vengeance for his friend?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +479,8 @@ msgstr ""
 #: sc/0077:37 
 msgid "……悪くない。\nあの鹿……利用させてもらおう。\n"
 msgstr ""
+"……that's not bad.\n"
+"That deer……I can take advantage of this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +493,8 @@ msgstr ""
 #: sc/0077:38 
 msgid "いや、人聞きが悪いな。\n互いの利益が合致したから手を組む、共闘だ。\n"
 msgstr ""
+"No, I don't like the sound of that. \n"
+"We should join up as mutually profiting by it. It's an alliance.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +507,8 @@ msgstr ""
 #: sc/0077:39 
 msgid "ぷっ……教頭が共闘か。\nふふふ……。\n"
 msgstr ""
+"Pff……the vice principal is forming an alliance huh. \n"
+"Haha……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +533,8 @@ msgstr ""
 #: sc/0077:41 
 msgid "そ、そんなことはどうでもいい！\nとにかくアイツを手なずけないと。\n"
 msgstr ""
+"Well that is not really important!\n"
+"Anyway I have to think of a way to tame that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -511,6 +547,8 @@ msgstr ""
 #: sc/0077:42 
 msgid "……だが、鹿の手なずけ方なんて知らないし。\nうむむむ……餌付けでもするのか？\n"
 msgstr ""
+"……But, I don't know to tame a creature like that. \n"
+"Hmhmm…should I feed it some perhaps?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:44 
 msgid "む？\n"
-msgstr ""
+msgstr "Hmph?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +597,8 @@ msgstr ""
 #: sc/0077:46 
 msgid "な、なんだね、その雰囲気の悪い鼻息は？\nま、まさか、私を襲う気か！？\n"
 msgstr ""
+"W-What's with the angry sounding nasal breathing?\n"
+"It can't be going to attack me or!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -571,6 +611,8 @@ msgstr ""
 #: sc/0077:47 
 msgid "（マズい！　非常にマズい！\n　早く何とかしなければ……！！）\n"
 msgstr ""
+"(No good! This is really bad!\n"
+"I have to do something quick, or else…!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +625,8 @@ msgstr ""
 #: sc/0077:48 
 msgid "（よ、よし、アイツを手なずけよう……！\n　でないと……殺られる……！）\n"
 msgstr ""
+"(O-Okay, I will try to tame it……!\n"
+"if not then……I'm done for……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +639,8 @@ msgstr ""
 #: sc/0077:49 
 msgid "（だが、どうすればいいんだ？\n　犬や猫と同じでいいのか？　いや待て……）\n"
 msgstr ""
+"(But really how do I do this?\n"
+"Is it the same as for a dog or a cat? No wait……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +652,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:50 
 msgid "え、え〜と確か牛のあやし方は……。\n"
-msgstr ""
+msgstr "Eh, ehrm, if I remember how to cradle a cow\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +665,8 @@ msgstr ""
 #: sc/0077:51 
 msgid "べえ〜、べえべえべえべえ。\n良い子だな〜。べえ〜べえべえべえ。\n"
 msgstr ""
+"Moo~ Moo moo moo moo. \n"
+"Yes good girl~. Moo moo moo moo.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +678,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:52 
 msgid "…………ッ……？\n"
-msgstr ""
+msgstr "……………hh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +690,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:53 
 msgid "（おお、鹿にも効いてる！　これなら弌弌）\n"
-msgstr ""
+msgstr "(Oh it's working for the deer too! With this then--)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +703,8 @@ msgstr ""
 #: sc/0077:54 
 msgid "べえ〜、べえべえべえべえ。\n大丈夫ですよ、怖くないですからね〜。\n"
 msgstr ""
+"Mooo~ moo moo moo moo. \n"
+"It's alright, no need to be scared~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +729,8 @@ msgstr ""
 #: sc/0077:56 
 msgid "べえ〜べえ〜べえ〜べえべえべえ。\n私は怖くないですよ〜、優しいんですよ〜。\n"
 msgstr ""
+"Moo~Moo~Moo~Moo Moo. \n"
+"I'm not scary~ I'm friendly~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +743,8 @@ msgstr ""
 #: sc/0077:57 
 msgid "だからほら、べえ〜べえべえべえ。\nこっちにおいで。撫で撫でしてあげるよ〜。\n"
 msgstr ""
+"So that's why Moo~ Moo~Moomoomoo.\n"
+"Come over here. I'll you pats.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +756,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:58 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:59 
 msgid "（よし！　ぃよしっ！　大成功！\n　後は家に連れて帰ってなつかせるだけ！）\n"
-msgstr ""
+msgstr "(Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -727,6 +781,8 @@ msgstr ""
 #: sc/0077:60 
 msgid "さ、さあ、こっちにおいで。\nここに隠れていれば……。\n"
 msgstr ""
+"Here here, come here. \n"
+"If I just hide behind this then\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +794,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:61 
 msgid "ッ……ッ……ッ……ッ……！\n"
-msgstr ""
+msgstr "hhf…hhf…hhf…hhf…!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -751,6 +807,8 @@ msgstr ""
 #: sc/0077:62 
 msgid "え？　ま、またなぜその鼻息が！？\nなんで怒ってるんだ！？\n"
 msgstr ""
+"Huh? It's doing that angry nasal breathing again!?\n"
+"Why is it angry!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +820,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:63 
 msgid "……ん？　この音は？\n"
-msgstr ""
+msgstr "……Hm? This sound is?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +833,8 @@ msgstr ""
 #: sc/0077:64 
 msgid "しまった、火か！　動物は火を怖がる！\nこ、こ、興奮状態になっとる！\n"
 msgstr ""
+"No, it was the fire! Animals are scared of fire!\n"
+"It's  feeling agitated by it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +846,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:65 
 msgid "（ええ―――――――っ！？）\n"
-msgstr ""
+msgstr "(Ehh————————!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +871,8 @@ msgstr ""
 #: sc/0077:67 
 msgid "ま、待ってくれ！　違う！　誤解だ！\n話せばわか弌弌\n"
 msgstr ""
+"W-Wait hold on! This is not right! It's a misunderstanding!\n"
+"Hear me out--\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +884,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:68 
 msgid "うあああああああっ！！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaah!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +897,8 @@ msgstr ""
 #: sc/0077:69 
 msgid "（……殺気立ってはだめだ。動物は気配を読む。\n　落ち着け……落ち着くんだ）\n"
 msgstr ""
+"(…I should not be frenzied. Animals read the signs of your body language. \n"
+"I have to calm down\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +934,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:72 
 msgid "す―……は―……す―……は―……。\n"
-msgstr ""
+msgstr "Huff—……Puff—……Huff—……Puff—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +946,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:73 
 msgid "…………ッ………………？\n"
-msgstr ""
+msgstr "……………………………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,6 +959,8 @@ msgstr ""
 #: sc/0077:74 
 msgid "（……よし、向こうも落ち着いたぞ。\n　これで後は……後は………………）\n"
 msgstr ""
+"(……alright, seems like it has calmed down too. \n"
+"Now that's left is just……just………)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +972,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:75 
 msgid "……どうしたらいいんだ？\n"
-msgstr ""
+msgstr "……What should I do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +985,8 @@ msgstr ""
 #: sc/0077:76 
 msgid "（しまった！　ノ―アイデアだ！\n　どうすればいい！　どうしたら助かる！？）\n"
 msgstr ""
+"(No wait! I have no idea!\n"
+"What should I do! How do I do to be saved!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -931,6 +999,8 @@ msgstr ""
 #: sc/0077:77 
 msgid "そ、そうだ！　ワラ人形だ！\n鹿のワラ人形を作ればいい！\n"
 msgstr ""
+"O-Of course! The straw dolls!\n"
+"I'll make a straw doll version of that deer!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -943,6 +1013,8 @@ msgstr ""
 #: sc/0077:78 
 msgid "弌弌だめだ！　材料は家だ！　うう……ああ！\nどうする？　人形は何で作ればいいんだ―っ！\n"
 msgstr ""
+"--No I can't! The material is at home! Uwh……Ahh!\n"
+"What do I do? What do I use to make the doll-!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +1026,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:79 
 msgid "……ッ……ッ……ッ……。\n"
-msgstr ""
+msgstr "……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,6 +1039,8 @@ msgstr ""
 #: sc/0077:80 
 msgid "はっ！？　しまった！\n混乱して我を忘れて弌弌！！\n"
 msgstr ""
+"Hah!? Oh dear!\n"
+"I lost disordered and lost track of myself--!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -978,7 +1052,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:81 
 msgid "ッ！　ッ！　ッ！　ッ！\n"
-msgstr ""
+msgstr "hhff! hhff! hhff! hhff!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -991,6 +1065,8 @@ msgstr ""
 #: sc/0077:82 
 msgid "待て！　誤解だ！　今の無し！\n落ち着け！　落ち着くんだ！\n"
 msgstr ""
+"Wait! It's a misunderstanding! This was nothing!\n"
+"Calm down! Please calm down!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1002,7 +1078,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:83 
 msgid "ッッッッッッッッッッッ！！\n"
-msgstr ""
+msgstr "gkhh…………\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,7 +1090,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:84 
 msgid "ぎゃああああ――！？\n"
-msgstr ""
+msgstr "Uwahhhhhhhhhh--!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1027,6 +1103,8 @@ msgstr ""
 #: sc/0077:85 
 msgid "（……目を合わせない。\n　そうしたら動物は襲ってこないはず……）\n"
 msgstr ""
+"(……I will not make eye contact. \n"
+"That way the deer probably won't attack……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1039,6 +1117,8 @@ msgstr ""
 #: sc/0077:86 
 msgid "（き、気づいて無いフリをするんだ。\n　冷静に、そしてごく自然に……）\n"
 msgstr ""
+"(I should act like I didn't notice it. \n"
+"Just calmly, just naturally calm……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1051,6 +1131,8 @@ msgstr ""
 #: sc/0077:87 
 msgid "さ、さ―てゴミの片付けも終わったし、\n職員室に戻らないといかんな！\n"
 msgstr ""
+"(W-Well now that I'm done taking care of the trash, \n"
+"I better head back to the staff room!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1063,6 +1145,8 @@ msgstr ""
 #: sc/0077:88 
 msgid "特に怪しい者はいないし、絶対にいないし、\n動物なんているはずもないし見えないし。\n"
 msgstr ""
+"There's no one suspicious person around, there can't be, \n"
+"and no animals are here either, or I can't see any.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1074,7 +1158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:89 
 msgid "………………？\n"
-msgstr ""
+msgstr "………………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1087,6 +1171,8 @@ msgstr ""
 #: sc/0077:90 
 msgid "（……止まった。それに鼻息も落ち着いたぞ。\n　とりあえず今のうち弌弌）\n"
 msgstr ""
+"(It stopped. And the nasal breathing has calmed down. \n"
+"I'll use this time to--)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1099,6 +1185,8 @@ msgstr ""
 #: sc/0077:91 
 msgid "きょ、今日のおやつは何にしよう？\nき、昨日は大福だったから、今日は……。\n"
 msgstr ""
+"W-What afternoon snacks should I eat today?\n"
+"Y-Yesterday I ate daifuku, so today will be\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1111,6 +1199,8 @@ msgstr ""
 #: sc/0077:92 
 msgid "よし、職員室に帰りながら決めよう。\nそうだ、それがいい。\n"
 msgstr ""
+"Fine, I will decide while I'm heading back to the staff room.\n"
+"Yes, that will be good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1122,7 +1212,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:93 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1135,18 +1225,22 @@ msgstr ""
 #: sc/0077:94 
 msgid "（よし！　いける！　今なら逃げられる！\n　ゆっくりと……けれど速やかに弌弌！）\n"
 msgstr ""
+"(Yes! I can do this! With this I can escape!\n"
+"Just slowly……but at the same time swiftly--)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0077:95 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0077:95 
 msgid "……おや？　教頭先生じゃないですか。\n落ち葉の焼却ですか？\n"
 msgstr ""
+"……Oh see here? Isn't this the Vice Principal. \n"
+"Are you burning the fallen leaves?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1158,7 +1252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:96 
 msgid "こ、校長……！？　なぜここに！？\n"
-msgstr ""
+msgstr "P-Principal……!? Why is he here!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1171,6 +1265,8 @@ msgstr ""
 #: sc/0077:97 
 msgid "私も落ち葉を焼きに来たんですよ。\nこれもお願いできますかな？\n"
 msgstr ""
+"I actually also came here to burn the fallen leaves.\n"
+"Could I ask you to take this pile too?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1195,6 +1291,8 @@ msgstr ""
 #: sc/0077:99 
 msgid "弌弌ん？　……おまえは！！\nまさか、前に倒したアイツの……！\n"
 msgstr ""
+"--Hm? ……You are!!\n"
+"Could it be, that one I defeated earlier…!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1206,7 +1304,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:100 
 msgid "（今までの苦労が台無しだ――！）\n"
-msgstr ""
+msgstr "(All my struggles earlier were all for nothing--!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1218,16 +1316,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0077:101 
 msgid "……ッ……ッ……ッ……ッ……！\n"
-msgstr ""
+msgstr "……hff……hff……hff……hff……!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0077:102 
 msgid "校長先生＆教頭先生"
-msgstr ""
+msgstr "Principal & Vice-Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0077:102 
 msgid "ぎゃあああああああ！！！\n"
-msgstr ""
+msgstr "GYAAAAAAAAAAAAAA！！！\n"

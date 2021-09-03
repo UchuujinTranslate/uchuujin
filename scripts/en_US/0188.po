@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:17+0000\n"
-"PO-Revision-Date: 2019-08-31 23:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-30 21:51+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0188/en_US/>\n"
 "Language: en_US\n"
@@ -12,19 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0188:0 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0188:0 
 msgid "見ろよ関口、コレ！\n"
-msgstr ""
+msgstr "Hey look at this Sekiguchi!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0188:1 
 msgid "囲碁サッカ―だより？\n"
-msgstr ""
+msgstr "News about Igo-soccer?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0188:2 
 msgid "うちの部のこと書いてあるんだよ。\n新鋭、時定高校囲碁サッカ―部だってさ！\n"
 msgstr ""
+"They wrote about us! \"Up-and-coming, \n"
+"the Tokisadame Igo-soccer club\" They know us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0188:3 
 msgid "たしかに書いてますね。\nでも、練習試合に勝っただけなのに？\n"
 msgstr ""
+"Yeah it sure says so. \n"
+"But just because we won that practice match?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0188:4 
 msgid "いや―、それがさ。\n試合した高校って全国常連だったらしくて。\n"
 msgstr ""
+"No, but you see,\n"
+"The high school we met seemed to be national regulars.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0188:6 
 msgid "そんなトコに勝てたのも\n桜井くんと高崎先生のおかげだよな！\n"
 msgstr ""
+"And that we won against them \n"
+"is really thanks to also Sakurai-kun and Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0188:7 
 msgid "私たちは試合に出てませんしね。\n"
 msgstr ""
+"Yeah, well, we didn't \n"
+"participate in any of the games, so.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +131,8 @@ msgstr ""
 #: sc/0188:8 
 msgid "この調子でどんどん勝って、\nうちの部がもっと盛り上がればいいよな―。\n"
 msgstr ""
+"Wouldn't it  be awesome if we went with this\n"
+"pace and kept winning from now on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0188:9 
 msgid "部員も増えたりしてさ、\n団体戦に出られるようになって……。\n"
 msgstr ""
+"We could get new club members, and we could \n"
+"participate in team battle matches too!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0188:10 
 msgid "部長。\n"
-msgstr "Chief.\n"
+msgstr "Club President.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +170,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0188:11 
 msgid "囲碁サッカ―、\n本気で専念するつもりなんですね。\n"
-msgstr ""
+msgstr "So you really will devote yourself to Igo-soccer then?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +194,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0188:13 
 msgid "いや、別に専念する気は無いけど？\n"
-msgstr ""
+msgstr "Well, no I don't have any interest in devoting myself to this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +206,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0188:14 
 msgid "ええ……っ！？\n"
-msgstr ""
+msgstr "EHH……!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +219,8 @@ msgstr ""
 #: sc/0188:15 
 msgid "さっきも言っただろ。\n盛り上がれば、部員が増えるかもって。\n"
 msgstr ""
+"Didn't I say this earlier?\n"
+"If we get good results, then new club members might join.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -216,7 +232,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0188:16 
 msgid "そうすれば、\nもっと色なことで遊べるんだぞ！\n"
-msgstr ""
+msgstr "And that way, we could have fun playing in lot more ways!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +245,8 @@ msgstr ""
 #: sc/0188:17 
 msgid "部員が増えて、団体戦にも\n出られるような人数になったら……。\n"
 msgstr ""
+"If we increased in club members, and\n"
+"got enough to do team battles, then……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +259,8 @@ msgstr ""
 #: sc/0188:18 
 msgid "人数が足りなくて遊べない、なんて悩みは\nなくなるだろ！\n"
 msgstr ""
+"Then we wouldn't have to worry about having\n"
+"too few members to play with, right!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +285,8 @@ msgstr ""
 #: sc/0188:20 
 msgid "で、今、部員が増えたときのこと、\n考えているんだ。\n"
 msgstr ""
+"And yeah, so I'm thinking about what it would be like\n"
+"to have more club members.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,15 +299,17 @@ msgstr ""
 #: sc/0188:21 
 msgid "いや―、大人数でって考えたら、\nこれはこれで何で遊べばいいか悩んでさ―。\n"
 msgstr ""
+"But man, I was wondering what we \n"
+"could play with if we were a large number of people.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0188:22 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0188:22 
 msgid "関口も何かいいの浮かんだら\n教えてくれよな！！\n"
-msgstr ""
+msgstr "Sekiguchi, if you have ideas about it, let me know!!!\n"

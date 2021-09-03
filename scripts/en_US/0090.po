@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:15+0000\n"
-"PO-Revision-Date: 2019-08-30 22:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-05 23:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0090/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:9 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:12 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:20 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -408,7 +408,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:33 
 msgid "む？\n"
-msgstr ""
+msgstr "Hmph?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +600,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:49 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:50 
 msgid "…………あっ。\n"
-msgstr ""
+msgstr "…………Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:52 
 msgid "え、あ、あの……。\n"
-msgstr ""
+msgstr "Eh, ah, um…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +780,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:64 
 msgid "え？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:65 
 msgid "〜〜〜〜〜〜〜〜〜〜！？\n"
-msgstr ""
+msgstr "〜〜〜〜〜〜〜〜〜〜!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +804,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:66 
 msgid "うむ、美味。\n"
-msgstr ""
+msgstr "Yes, delectable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +864,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:71 
 msgid "あ、はい……。\n"
-msgstr ""
+msgstr "Oh, is it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +906,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:75 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -948,7 +948,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:78 
 msgid "あっ！\n"
-msgstr ""
+msgstr "Ah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1020,7 +1020,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:84 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1032,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:85 
 msgid "…………ごくん。\n"
-msgstr ""
+msgstr "…………GULP.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1044,7 +1044,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:86 
 msgid "……オレンジジュ―スです。\n"
-msgstr ""
+msgstr "……It's orange juice.\n"
 
 #  speaker 
 #  warnings: 0 

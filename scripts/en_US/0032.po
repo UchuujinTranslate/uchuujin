@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2019-08-07 00:02+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2021-07-05 23:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0032/en_US/>\n"
 "Language: en_US\n"
@@ -12,19 +12,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0032:0 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0032:0 
 msgid "さ―て、全員揃ったな。\n早速会議を始めるぞ！\n"
 msgstr ""
+"Well, now we're all here.\n"
+"Let's begin the meeting!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0032:1 
 msgid "え―、まず大切なのは練習試合まで\n時間が無いってことだ。\n"
 msgstr ""
+"To start, what's most important is that we \n"
+"don't have that much time until we have the practice match.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr "Makoto"
 #: sc/0032:2 
 msgid "そうですね、日程的にちょっと怖いです。\nあ、あとそれに関わることなんですけど。\n"
 msgstr ""
+"I guess so. It's scary schedule wise.\n"
+"And, about that...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +66,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:3 
 msgid "ん？　どうした？\n"
-msgstr ""
+msgstr "Hmph? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0032:4 
 msgid "オレが部長のコ―チするのはいいですけど、\n自分のための練習時間が減るんですよ。\n"
 msgstr ""
+"I'm fine with coaching you guys, but it would mean\n"
+"that I couldn't practice as much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +93,8 @@ msgstr ""
 #: sc/0032:5 
 msgid "それに、オレで教えられるのは\n中学レベルまでですし。\n"
 msgstr ""
+"And, I can only teach up to a\n"
+"junior high school level.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +107,8 @@ msgstr ""
 #: sc/0032:6 
 msgid "……顧問の先生か。\nでも、高崎先生には断られたんだろ？\n"
 msgstr ""
+"……An advising teacher, huh.\n"
+"But, didn't Mr. Takasaki refuse?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +121,8 @@ msgstr ""
 #: sc/0032:7 
 msgid "そうなんですけど、\nもう一回行ってみませんか？\n"
 msgstr ""
+"Yes, he did.  But should we \n"
+"give it one more shot?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +134,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:8 
 msgid "オレだけじゃなく部長も居れば\n高崎先生も考えを変えてくれると思うんです。\n"
-msgstr ""
+msgstr "If we both try to convince him, we might win him over.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +147,8 @@ msgstr ""
 #: sc/0032:9 
 msgid "それに、試合までなら\n引き受けてくれるかもしれませんし。\n"
 msgstr ""
+"Besides, he might accept knowing \n"
+"it's only for this upcoming match.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +160,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:10 
 msgid "なるほど、確かに。\n"
-msgstr ""
+msgstr "I see, you've got a point.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,30 +173,34 @@ msgstr ""
 #: sc/0032:11 
 msgid "よし、行くぞ桜井くん！\n関口は留守番を頼む！\n"
 msgstr ""
+"Sweet, let's go Sakurai-kun! Sekiguchi,\n"
+"watch the club room for us!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:12 
 msgid "ドアに近づきすぎるな、危ないぞ。\n"
-msgstr ""
+msgstr "Don't get too close to the door, it's dangerous.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:13 
 msgid "な―に、大丈夫だって。それに、\nこう覗き込ませた方が潜入感がでるんだよ。\n"
-msgstr ""
+msgstr "Pfft, it's fine. Peeking through the crack makes me feel like a spy.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:14 
 msgid "あ、おい！　こいつら移動するぞ！\n早く猫をドアから離せ！\n"
 msgstr ""
+"Hey! They're gonna move now!\n"
+"Get the cat away from the door!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:15 
 msgid "ダ、ダメだ。間に合わない！！\n"
-msgstr ""
+msgstr "N-No, I can't make it in time!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +212,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:16 
 msgid "ん？　何か挟まって折れたような音が。\n"
-msgstr ""
+msgstr "Hm? It sounded like something snapped.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +224,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:17 
 msgid "でも、何もありませんよ？\n"
-msgstr ""
+msgstr "Didn't I hear something?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,19 +236,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:18 
 msgid "じゃ、気のせいか―。\n"
-msgstr ""
+msgstr "Eh, it's probably just my imagination.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:19 
 msgid "だからドアに近付けすぎるなって\n言っただろ――っ！\n"
 msgstr ""
+"That's why I said you shouldn't\n"
+"get to close to the door——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:20 
 msgid "すま――――ん！\n"
-msgstr ""
+msgstr "I'm sorryyyy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +262,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:21 
 msgid "弌弌と、いうわけなんです。\n"
-msgstr ""
+msgstr "——So, that's why we need you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +274,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0032:22 
 msgid "そうか、試合か……。\n"
-msgstr ""
+msgstr "I see, a practice match huh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +286,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:23 
 msgid "先生、協力していただけませんか？\n"
-msgstr ""
+msgstr "Teacher, could you lend us a hand?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +299,8 @@ msgstr ""
 #: sc/0032:24 
 msgid "う……ぐ。\nしかし顧問はめんどくさ……いや、え―っと。\n"
 msgstr ""
+"Uh……gh. But, being an\n"
+"advisor is annoyin'… Ah, well , eh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:25 
 msgid "……やっぱりダメみたいですよ、部長。\n"
-msgstr ""
+msgstr "…I guess he won't join, club president.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +325,8 @@ msgstr ""
 #: sc/0032:26 
 msgid "いや、まだチャンスはある。\nここは手っ取り早く短期決戦で行こう。\n"
 msgstr ""
+"No, we can still get him.\n"
+"Let's go with another approach.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +338,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:27 
 msgid "何か作戦があるんですか？\n"
-msgstr ""
+msgstr "You've got a plan?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +351,8 @@ msgstr ""
 #: sc/0032:28 
 msgid "ああ、任せとけ。\nオレの説得力を見てくれ。\n"
 msgstr ""
+"Yeah, just leave it to me. Let me\n"
+"show you my powers of persuasion.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +365,8 @@ msgstr ""
 #: sc/0032:29 
 msgid "先生！　お願いします！！\n次の試合まで、それまででいいですから！！\n"
 msgstr ""
+"Teacher! I beg you!!\n"
+"It'll just be for the next upcoming match!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +379,8 @@ msgstr ""
 #: sc/0032:30 
 msgid "ぶ、部長！\nそんな、土下座までして！？\n"
 msgstr ""
+"P-President! \n"
+"Even kneeling down on the ground like that!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +392,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:31 
 msgid "大工……お前、そこまで……。\n"
-msgstr ""
+msgstr "Daiku....That you would do this much for it....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +405,8 @@ msgstr ""
 #: sc/0032:32 
 msgid "うちの部が勝つにはこれしか無いんです！\nお願いします！！\n"
 msgstr ""
+"For our club to win this, this is the only way!\n"
+"Please accept this request!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +419,8 @@ msgstr ""
 #: sc/0032:33 
 msgid "……わかった。\nお前の熱意には負けたよ。\n"
 msgstr ""
+".....Ok, understood.\n"
+"Your passion won me over.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:34 
 msgid "先生、それじゃあ！\n"
-msgstr ""
+msgstr "Teacher, in that case-!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +445,8 @@ msgstr ""
 #: sc/0032:35 
 msgid "次の試合までだ！\nそれまではお前たちの指導に全力を尽くそう！\n"
 msgstr ""
+"But only up to the next match!\n"
+"Until then I will do my utmost best to advise you guys!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +458,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:36 
 msgid "ありがとうございます！！\n"
-msgstr ""
+msgstr "Thank you so much!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +470,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:37 
 msgid "よし！　早速部室に行ってるからな！\n"
-msgstr ""
+msgstr "Alright! I'll head over to the club room then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +483,8 @@ msgstr ""
 #: sc/0032:38 
 msgid "先生、そっちじゃないです！\nあ……行っちゃったよ。\n"
 msgstr ""
+"Teacher, it's not that way!\n"
+"Ah.....he went off.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +496,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:39 
 msgid "よし、上手くいったみたいだな。\n"
-msgstr ""
+msgstr "Alright! Looks like things went well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +509,8 @@ msgstr ""
 #: sc/0032:40 
 msgid "部長、まさか土下座までするなんて\n思いませんでしたよ。\n"
 msgstr ""
+"President, I didn't think you would go \n"
+"as far as kneeling on the ground for this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +522,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:41 
 msgid "なんだよ、土下座ぐらい簡単だろ？\n"
-msgstr ""
+msgstr "What do you mean? Kneeling on the ground is a piece of cake!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +535,8 @@ msgstr ""
 #: sc/0032:42 
 msgid "うちの家訓でな。人を動かすには\nまず土下座から、ってね。\n"
 msgstr ""
+"Its our family motto. If you want \n"
+"someone to side with you, prostrate yourself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +548,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:43 
 msgid "その家訓、ちょっと変ですよ部長……。\n"
-msgstr ""
+msgstr "Club president, I think that's a little odd for a family motto....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:44 
 msgid "そんな事言わずにお願いしますよ―。\n"
-msgstr ""
+msgstr "No, please, no need to be so hesitant!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:45 
 msgid "いや、しかし……。\n"
-msgstr ""
+msgstr "But, still....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +585,8 @@ msgstr ""
 #: sc/0032:46 
 msgid "お願いします。\n３年とは言いません、２年ならどうですか？\n"
 msgstr ""
+"Please, it would mean a lot to us. If not three, then how about just two "
+"years?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:47 
 msgid "う、ぐぐ……。\n"
-msgstr ""
+msgstr "Uwgh, gh......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +610,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:48 
 msgid "わかりました、１年なら？\n"
-msgstr ""
+msgstr "Alright, how's just one year?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +622,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:49 
 msgid "１年……１年か。\n"
-msgstr ""
+msgstr "One year....one year, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:50 
 msgid "半年、いや……３ヶ月！！\n"
-msgstr ""
+msgstr "Ok half a year, no.... three months!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +646,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:51 
 msgid "そ、それぐらいなら……でも。\n"
-msgstr ""
+msgstr "If it's that amount then....but.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +659,8 @@ msgstr ""
 #: sc/0032:52 
 msgid "よし、じゃあ次の試合まで！\nこれ以上は譲れませんよ！？\n"
 msgstr ""
+"Okay, just for the upcoming match!\n"
+"I can't go any lower than that, you know!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:53 
 msgid "つ、次の試合まで！？\n"
-msgstr ""
+msgstr "Th-the next match!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +685,8 @@ msgstr ""
 #: sc/0032:54 
 msgid "さあどうなんですか？\nやるんですか？　やらないんですか？\n"
 msgstr ""
+"Yeah how does that sound?\n"
+"Will you do it? Will you not?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +699,8 @@ msgstr ""
 #: sc/0032:55 
 msgid "わ、わかった！\nそれなら顧問をやってやる！\n"
 msgstr ""
+"O-Ok I understand!\n"
+"In that case I will be your advisor!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +713,8 @@ msgstr ""
 #: sc/0032:56 
 msgid "ありがとうございます！\n早速部室に行きましょう！\n"
 msgstr ""
+"Thank you so much!\n"
+"Let's head over to the club room at once!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:57 
 msgid "ぶ、部長、凄いですね……。\n"
-msgstr ""
+msgstr "Club President, that was incredible....\n"
 
 #  speaker 
 #  warnings: 1 
@@ -685,6 +739,8 @@ msgstr ""
 #: sc/0032:58 
 msgid "予定通りだな。\n今のは段減らしていくのがミソなんだ。\n"
 msgstr ""
+"Just at I expected. \n"
+"The trick is the lower it in steps you see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +753,8 @@ msgstr ""
 #: sc/0032:59 
 msgid "ほら、先生はオレたちが\n譲歩したみたいに思ってるだろ？\n"
 msgstr ""
+"See how Mr. Takasaki thought that we \n"
+"were the ones that made a compromise?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +766,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:60 
 msgid "よ―し、やるぞ―！\n"
-msgstr ""
+msgstr "Alright, let's do this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +778,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:61 
 msgid "……部長、何かちょっと怖いです。\n"
-msgstr ""
+msgstr ".....Club President, you're a bit scary.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +791,8 @@ msgstr ""
 #: sc/0032:62 
 msgid "先生……ちょっとこっちへ。\n桜井くんはここで待っててくれ。\n"
 msgstr ""
+"Teacher....could you come over here?\n"
+"Sakurai-kun, please wait over here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +804,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:63 
 msgid "あ、はい。\n"
-msgstr ""
+msgstr "Oh, yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +816,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:64 
 msgid "どうした、大工。\n"
-msgstr ""
+msgstr "What's the matter, Daiku?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:65 
 msgid "弌弌こんなもんでどうですか？\n"
-msgstr ""
+msgstr "--Would you accept this gift?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +841,8 @@ msgstr ""
 #: sc/0032:66 
 msgid "なっ……！？\nナシ狩りだと……？\n"
 msgstr ""
+"Wha....!?\n"
+"A p-pear picking trip?...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +855,8 @@ msgstr ""
 #: sc/0032:67 
 msgid "試合でいい結果が出たら更に\nぶどう狩りもつけますよ。\n"
 msgstr ""
+"And if we get a good result in the match,\n"
+"You can even go grape picking.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +868,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:68 
 msgid "い、いや、ちょっと待て、\n教育者としてそれはさすがに……。\n"
-msgstr ""
+msgstr "W-Wait, hold on, as a teacher I can't possibly let this....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +881,9 @@ msgstr ""
 #: sc/0032:69 
 msgid "なら、これくらいはどうですか？\n天然もののマツタケが採れるんですよ？\n"
 msgstr ""
+"Then, if how about something like this?\n"
+"You could pick as many as these wild matsutake shrooms as you'd like on this "
+"one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +895,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:70 
 msgid "……う、ぐぐ。\n"
-msgstr ""
+msgstr ".....Ugh, ghh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +907,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:71 
 msgid "交渉成立ですね。\n"
-msgstr ""
+msgstr "Ok, so that's a deal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +919,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:72 
 msgid "いや―、大工の熱意には負けたよ。\n"
-msgstr ""
+msgstr "Man, your passion won me over, Daiku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,37 +931,39 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:73 
 msgid "こっちこそ先生が\n引き受けてくださって嬉しいです。\n"
-msgstr ""
+msgstr "No, thank you. I'm glad that you are willing to do this.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0032:74 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0032:74 
 msgid "よ―し、早速行くとしよう。\n"
-msgstr ""
+msgstr "Alright, let's go.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0032:75 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0032:75 
 msgid "な、桜井くん。\nオレの説得、上手くいっただろ？\n"
 msgstr ""
+"See, Sakurai-kun? \n"
+"My persuasion worked out great.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0032:76 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0167/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Tamamura"
 #  warnings: 0 
 #: sc/0167:0 
 msgid "うん、大体覚えたみたいね。\n"
-msgstr ""
+msgstr "Yes, looks like you've got the gist of it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0167:1 
 msgid "はい、多分は。\n"
-msgstr ""
+msgstr "Yes, I think so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:2 
 msgid "すご―い。助かるわ。\n"
-msgstr ""
+msgstr "That's great. It's a real help that you're here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:3 
 msgid "でも、ごめんね。\n急にヘルプで入ってもらっちゃって。\n"
-msgstr ""
+msgstr "But sorry for calling you for coming to help so suddenly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +73,8 @@ msgstr ""
 #: sc/0167:4 
 msgid "いえ……まあ、部長命令ですし。\n急なのはいつものことなので。\n"
 msgstr ""
+"No no…and well it was an order from the club president so.\n"
+"And it's no problem it being sudden\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:5 
 msgid "ふふ、健三郎さんと仲が良いのね。\n"
-msgstr ""
+msgstr "Fufu, so you are close to Kenzaburou-san.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +98,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:6 
 msgid "いえ……ただの先輩後輩です。\n"
-msgstr ""
+msgstr "No……we're just senior and juniors.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +110,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:7 
 msgid "ふふふ。\n"
-msgstr ""
+msgstr "Fufufu.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +123,7 @@ msgstr ""
 #: sc/0167:8 
 msgid "あ、関口さん、ごめん、次のお客さんから\n注文受けてみてくれる？\n"
 msgstr ""
+"Ah, Sekiguchi-san, sorry could you take the order for the next customer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +135,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:9 
 msgid "わかりました。\n"
-msgstr ""
+msgstr "Understood.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +147,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:10 
 msgid "弌弌あ、早速来たみたい。\n"
-msgstr ""
+msgstr "——Ah, looks like there's already someone here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +159,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:11 
 msgid "い、いらっしゃいませ―。\n"
-msgstr ""
+msgstr "W- Welcome—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +171,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0167:12 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +183,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:13 
 msgid "……あの、玉村さん。\n"
-msgstr ""
+msgstr "……Um, Tamamura-san.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +195,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:14 
 msgid "なあに？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +273,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0167:24 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -300,7 +303,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:26 
 msgid "（あ、同じ学校の人）\n"
-msgstr ""
+msgstr "(Ah, it's her from the same school as me)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +315,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:27 
 msgid "……よしっ！\n"
-msgstr ""
+msgstr "……alright!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +327,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:28 
 msgid "関口さん……気をつけてね。\n"
-msgstr ""
+msgstr "Sekiguchi-san……be careful.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +339,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:29 
 msgid "え？　あの、それって弌弌\n"
-msgstr ""
+msgstr "Huh? Uhm, what's that supposed to——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +351,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:30 
 msgid "すみません、注文いいですか？\n"
-msgstr ""
+msgstr "Excuse me, can I give my order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +363,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:31 
 msgid "は、はい。どうぞ。\n"
-msgstr ""
+msgstr "Y- Yes. Please go ahead.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +375,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:32 
 msgid "……みおちゃんの言ってた通り。\n"
-msgstr ""
+msgstr "……Just like how Mio said it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +387,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:33 
 msgid "え―っと、\nモカホワイトチョコペチ―ノのフランデ！！\n"
-msgstr ""
+msgstr "Ehem, can I have a White chocolate pecchino Frande, please!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +399,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:34 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +412,8 @@ msgstr ""
 #: sc/0167:35 
 msgid "あ、あれ！？\nチョコホワイトモカペチ―ノ？\n"
 msgstr ""
+"Ah wait what!?\n"
+"Choco-white mocha pecchino?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +425,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:36 
 msgid "違う違う、モカチョコレイ―トのホワイト？\n"
-msgstr ""
+msgstr "No that's not it, mocha chocolate with white?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +438,8 @@ msgstr ""
 #: sc/0167:37 
 msgid "いやいや、コ―ヒ―は黒いから！\nあれ、じゃあホワイトじゃなくてブラック？\n"
 msgstr ""
+"No no no, isn't coffee supposed to be black!\n"
+"Wait, then so it's not white but black?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +451,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:38 
 msgid "（どうしよう、これ）\n"
-msgstr ""
+msgstr "(What should I do)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +463,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:39 
 msgid "え―っと、え―っと。\n"
-msgstr ""
+msgstr "Ehm, ehhm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +475,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:40 
 msgid "……ホワイトチョコレ―ト？\n"
-msgstr ""
+msgstr "……White chocolate?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +499,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:42 
 msgid "ホワイトチョコレ―トですね？\n"
-msgstr ""
+msgstr "It's white chocolate that you mean right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +512,8 @@ msgstr ""
 #: sc/0167:43 
 msgid "え―っと、え―っと……！\nそ、そう！　それです！\n"
 msgstr ""
+"Ehm, ehhm……!\n"
+"Y- Yes that one! Exactly!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +525,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:44 
 msgid "で、モカフラペチ―ノ。\n"
-msgstr ""
+msgstr "and mocha frappuccino.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +538,8 @@ msgstr ""
 #: sc/0167:45 
 msgid "そ、それ！\nホワイトチョコモカフラペチ―ノ！\n"
 msgstr ""
+"Y- Yes that!\n"
+"White chocolate mocha frappuccino!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +552,8 @@ msgstr ""
 #: sc/0167:46 
 msgid "はい。\nホワイトチョコレ―トモカフラペチ―ノ。\n"
 msgstr ""
+"Yes.\n"
+"White chocolate mocha frappuccino.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +565,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:47 
 msgid "ホワイトチョコレ―トモカフラペチ―ノ！\n"
-msgstr ""
+msgstr "White chocolate mocha frappuccino!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +577,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:48 
 msgid "サイズがグランデですね。\n"
-msgstr ""
+msgstr "In size grande right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +590,8 @@ msgstr ""
 #: sc/0167:49 
 msgid "は、はい！！\nそれです、ソレ！！\n"
 msgstr ""
+"Y- Yes!!\n"
+"That thing, that's what I wanted!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +603,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:50 
 msgid "（良かった、合ってたみたい）\n"
-msgstr ""
+msgstr "(I'm glad, looks like I was right.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +615,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:51 
 msgid "あの〜……。\n"
-msgstr ""
+msgstr "Excuse me〜……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +627,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:52 
 msgid "あ、はい。追加ですか？\n"
-msgstr ""
+msgstr "Ah, yes. Is it something more you want to order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +640,8 @@ msgstr ""
 #: sc/0167:53 
 msgid "いや、その……それで、今頼んだのって\nどんな飲み物ですか？\n"
 msgstr ""
+"No, it's uh……the thing I ordered.\n"
+"What kind of drink is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +665,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:55 
 msgid "あの。\n"
-msgstr ""
+msgstr "Uhm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +677,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:56 
 msgid "はっ、はひっ！？\n"
-msgstr ""
+msgstr "Y- Yes!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +689,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:57 
 msgid "店員のオススメコ―ヒ―はいかがでしょう？\n"
-msgstr ""
+msgstr "How about the employee's coffee reccomendation?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +701,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:58 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +714,8 @@ msgstr ""
 #: sc/0167:59 
 msgid "その、店員おすすめの組み合わせを\nお出ししています。\n"
 msgstr ""
+"Well, we are giving out this reccomended\n"
+"ordering combination selected by the employees.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +739,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:61 
 msgid "そ、それ！！　それください！！\n"
-msgstr ""
+msgstr "Y- Yes that!! One of those please!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +751,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:62 
 msgid "（本当はそんなのないんだけど……）\n"
-msgstr ""
+msgstr "(Actually there's no such thing like it but……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +763,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:63 
 msgid "いや―、こんな便利な注文方法があるとは！\n"
-msgstr ""
+msgstr "Man—, to think there was such a convinient way to order like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +775,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:64 
 msgid "これはみおちゃんにも教えてあげねば！\n"
-msgstr ""
+msgstr "I gotta tell Mio-chan about this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +787,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:65 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +800,8 @@ msgstr ""
 #: sc/0167:66 
 msgid "いや……むしろみおちゃんには内緒にして、\n私の方が通だってこと見せ付けるべきか！\n"
 msgstr ""
+"No……better yet, I keep it a secret for Mio-chan,\n"
+"and show her who really knows the best!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +813,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:67 
 msgid "あ、あの……。\n"
-msgstr ""
+msgstr "Ah, uhm…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +825,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:68 
 msgid "ん？　なんですか？\n"
-msgstr ""
+msgstr "Hm? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +837,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:69 
 msgid "いえ……何でもないです。\n"
-msgstr ""
+msgstr "No……it was nothing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +850,8 @@ msgstr ""
 #: sc/0167:70 
 msgid "え、え―っと……え―っと、\nホ、ホワイトカルボナ―ラ！？\n"
 msgstr ""
+"Eh, ehm……ehh, \n"
+"A W- White carbonara, please!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +864,8 @@ msgstr ""
 #: sc/0167:71 
 msgid "何言ってんだわたし―っ！？\nカフェにカルボナ―ラなんて……。\n"
 msgstr ""
+"What am I even saying—!?\n"
+"Carbonara at a coffee shop……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +877,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:72 
 msgid "ありますよ。\n"
-msgstr ""
+msgstr "We have that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +889,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:73 
 msgid "え？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +901,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:74 
 msgid "カルボナ―ラ、置いてます。\n"
-msgstr ""
+msgstr "Carbonara, we have that in store.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +913,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:75 
 msgid "え……。\n"
-msgstr ""
+msgstr "Eh……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,6 +926,8 @@ msgstr ""
 #: sc/0167:76 
 msgid "カルボナ―ラですね。\nかしこまりました、では席でお待ちください。\n"
 msgstr ""
+"So one carbonara then.\n"
+"Understood, please have a seat while waiting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +939,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:77 
 msgid "え、いや……あ、あれ？\n"
-msgstr ""
+msgstr "Eh, no I mean……huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -925,6 +952,8 @@ msgstr ""
 #: sc/0167:78 
 msgid "オ―ダ―入ります。\nカルボナ―ラ、ワン。\n"
 msgstr ""
+"New order.\n"
+"Carbonara, one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -935,9 +964,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0167:79 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,16 +977,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0167:80 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0167:81 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0167:81 
 msgid "コ―ヒ―……\n飲みにきたはずだったのに。\n"
-msgstr ""
+msgstr "But I thought I came here to order coffee……\n"

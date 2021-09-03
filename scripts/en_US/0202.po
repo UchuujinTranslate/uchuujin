@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2018-10-04 20:02+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
+"PO-Revision-Date: 2020-02-02 20:50+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0202/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0202:11 
 msgid "むむ？\n"
-msgstr ""
+msgstr "Hmph?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +342,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0202:27 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -354,13 +354,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0202:28 
 msgid "笹原＆ジェントルマン"
-msgstr ""
+msgstr "Sasahara & Gentleman"
 
 #  text 
 #  warnings: 0 
 #: sc/0202:28 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +390,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0202:31 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 

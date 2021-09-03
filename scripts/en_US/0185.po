@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2020-07-27 22:24+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0185/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0185:1 
 msgid "はぁ……。\n"
-msgstr "Ha...\n"
+msgstr "*Sigh*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:2 
 msgid "ご注文は何になさいますか。\n"
-msgstr ""
+msgstr "What would you like to order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:3 
 msgid "ホットコ―ヒ―。ト―ルで。\n"
-msgstr ""
+msgstr "A hot coffee. Tall.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:4 
 msgid "かしこまりました。\n"
-msgstr ""
+msgstr "Understood, thank you very much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +84,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +97,9 @@ msgstr ""
 #: sc/0185:6 
 msgid "（結局、桜井先生は誤解したままだ。\n　次に会うのが気まずいな……）\n"
 msgstr ""
+"(In the end the misunderstanding with Sakurai-sensei still remains "
+"uncleared. \n"
+"It will be a little awkward when we meet next time……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +111,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:7 
 msgid "（はぁ。今日はひどい１日だった……）\n"
-msgstr ""
+msgstr "(Sigh. Today really wasn't the best day……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +123,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:8 
 msgid "お待たせいたしました。\n"
-msgstr ""
+msgstr "Thanks for waiting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +135,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:9 
 msgid "ん？　このスコ―ンは頼んでいないが？\n"
-msgstr ""
+msgstr "Hm? I haven't ordered these scones?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +147,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:10 
 msgid "これはコ―ヒ―を頼んだお客様全員に\nサ―ビスさせていただいているんです。\n"
-msgstr ""
+msgstr "It's service for all customers who orders a cup of coffee.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +159,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:11 
 msgid "あっ、カップが熱いので\nお気をつけください。\n"
-msgstr ""
+msgstr "Ah, the coffee is really hot so please be careful.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +183,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:13 
 msgid "……お客様？\n"
-msgstr ""
+msgstr "……customer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +195,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:14 
 msgid "おぉ……。\n"
-msgstr ""
+msgstr "ohh\n"
 
 #  speaker 
 #  warnings: 0 
@@ -203,8 +206,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0185:15 
+#, fuzzy
 msgid "（な、なぜだ、胸の中があたたかい……）\n"
-msgstr ""
+msgstr "(W-Why does my heart feel so warm……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +221,8 @@ msgstr ""
 #: sc/0185:16 
 msgid "（そうか……今日、初めて触れる人の優しさに\n　私は感動しているんだ……！）\n"
 msgstr ""
+"(I get it……I'm being moved by the first person I meet today showing me this "
+"kindness……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:17 
 msgid "あの、お客様？\n"
-msgstr ""
+msgstr "Ehm, customer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +246,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:18 
 msgid "店員さん！　ありがとう！\n"
-msgstr ""
+msgstr "Staff worker! Thank you so much!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:19 
 msgid "ひっ！？\n"
-msgstr ""
+msgstr "Hihh-!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,13 +276,13 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0185:21 
 msgid "ゆっこ"
-msgstr "Yuuko"
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0185:21 
 msgid "あれ……理科の中村じゃん。\n"
-msgstr ""
+msgstr "Hey……isn't that our science teacher Nakamura.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +295,8 @@ msgstr "Mio"
 #: sc/0185:22 
 msgid "だよね……\n何やってるんだろ……。\n"
 msgstr ""
+"Yeah right……\n"
+"what is she doing……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:23 
 msgid "（……なんだ？）\n"
-msgstr ""
+msgstr "(……what is it?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +321,8 @@ msgstr ""
 #: sc/0185:24 
 msgid "（あれは……うちの学校の生徒か？\n　……おや、後ろにも、もう一人いるな）\n"
 msgstr ""
+"(That's ……isn't that my students from school?\n"
+"……and oh, behind her there's another one)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +334,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0185:25 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:26 
 msgid "東雲！？\n"
-msgstr ""
+msgstr "Shinonome!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +358,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:27 
 msgid "中村先生……それは一体……。\n"
-msgstr ""
+msgstr "Nakamura-sensei……what are you…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +370,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:28 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +394,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:30 
 msgid "ち、違う！　私は別に弌弌\n"
-msgstr ""
+msgstr "N-No this is not right! I wasn't really\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +407,8 @@ msgstr ""
 #: sc/0185:31 
 msgid "白衣の不審者を見たと聞いてきたが、\nさてはお前だな？\n"
 msgstr ""
+"I heard there was a suspicious person wearing a white robe, so it must be "
+"you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:32 
 msgid "！？　それは違う、私は無実だ！\n"
-msgstr ""
+msgstr "!? No you are misunderstanding, I'm innocent!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:33 
 msgid "なら、まず署まで来てもらおうか。\n"
-msgstr ""
+msgstr "Then, please follow me to the police station.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +444,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:34 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,22 +462,22 @@ msgstr ""
 #  warnings: 0 
 #: sc/0185:36 
 msgid "警察"
-msgstr ""
+msgstr "The Police"
 
 #  text 
 #  warnings: 0 
 #: sc/0185:36 
 msgid "あっ！　待て！！\n"
-msgstr ""
+msgstr "Ah! Wait!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0185:37 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0185:37 
 msgid "うわあああああ！！\n"
-msgstr ""
+msgstr "Uwahhhhhhh!!\n"

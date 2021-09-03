@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:01+0000\n"
-"PO-Revision-Date: 2019-08-30 22:00+0000\n"
+"PO-Revision-Date: 2020-07-16 03:51+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0011/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Yuuko"
 #: sc/0011:0 
 msgid "くそ―！　せっかく大金出して買ったのに\nお守りの効果全然ないじゃん！\n"
 msgstr ""
+"Shit—! I took the trouble to use money\n"
+"and pay for a charm that doesn't work!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0011:1 
 msgid "あのおばあさん、どこにいる！？\n見つけ出してお金返してもらう！\n"
 msgstr ""
+"Where is that woman!?\n"
+"I gotta find her and get my money back!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0011:2 
 msgid "くっ、とは言え\nまだこの辺りにいるかどうか……。\n"
 msgstr ""
+"Geez. Though, I don't\n"
+"even know if she's even nearby here…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0011:3 
 msgid "初めて見た人だから\nこの街の人じゃないだろうし……。\n"
 msgstr ""
+"Since she was just a passerby\n"
+"she's not in this neighborhood, right…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +81,8 @@ msgstr ""
 #: sc/0011:4 
 msgid "とにかく探し回るしかない。\n絶対に見つけてやる！\n"
 msgstr ""
+"I have no choose but to go around\n"
+"and look for her. I gotta find her!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,12 +95,14 @@ msgstr ""
 #: sc/0011:5 
 msgid "あっ！？　見つけた！！\nさっきのおばあさんだ！\n"
 msgstr ""
+"Ah!? I found her!!\n"
+"It's that lady!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0011:6 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -108,7 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:7 
 msgid "わっ、すみません！\n"
-msgstr ""
+msgstr "Wah, excuse me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,30 +133,38 @@ msgstr ""
 #: sc/0011:8 
 msgid "でもそれどこじゃないんで！\n待て―！　おばあさ―ん！\n"
 msgstr ""
+"That's not where she is!\n"
+"Wait—! Ma'am～!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0011:9 
 msgid "おい、アンテナのダメ―ジ状態を調べろ！\n今の衝撃で破損したかもしれん！\n"
 msgstr ""
+"Hey, tune up the antenna! In the shock\n"
+"of the moment, it may have been damaged!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0011:10 
 msgid "了解！　破損レベル確認！\nアンテナ弌弌\n"
 msgstr ""
+"Yes, sir! Confirming damage levels!\n"
+"The antenna is——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0011:11 
 msgid "アンテナ……アウトです。\n脆すぎま―す！\n"
 msgstr ""
+"The antenna is…… kaput.\n"
+"It's too fragile—!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0011:12 
 msgid "やっぱりか――――っ！！\n"
-msgstr ""
+msgstr "So, it comes to this————!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +177,8 @@ msgstr ""
 #: sc/0011:13 
 msgid "ちょっとおばあさん！\nどういうこと！？\n"
 msgstr ""
+"Wait! Ma'am!\n"
+"What do you mean!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +190,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0011:14 
 msgid "はい？　あっ、さっきの悪霊の……。\n"
-msgstr ""
+msgstr "Yes? Ah, the one with the bad spirits….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +202,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:15 
 msgid "それじゃまるで私が悪霊みたいじゃん！\n"
-msgstr ""
+msgstr "Now it looks like I'm the demon!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +215,8 @@ msgstr ""
 #: sc/0011:16 
 msgid "何を怒っているんです？\n悪霊は除霊されたでしょ？\n"
 msgstr ""
+"What are you mad about?\n"
+"I exorcised the evil spirits for you, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +229,8 @@ msgstr ""
 #: sc/0011:17 
 msgid "全然だよ！\n全くもってこれっぽっちも効果ないよ！\n"
 msgstr ""
+"Not at all!\n"
+"This had no affect at all!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +242,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:18 
 msgid "ふむ……。\n"
-msgstr ""
+msgstr "Hmph…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +254,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:19 
 msgid "うわっ！？\n"
-msgstr ""
+msgstr "Uwah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +266,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:20 
 msgid "な、何！？　びっくりしたぁ。\n"
-msgstr ""
+msgstr "W-What!? You scared me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +279,8 @@ msgstr ""
 #: sc/0011:21 
 msgid "あなたについていた悪霊、\nどうやら本性を現したようですね。\n"
 msgstr ""
+"It seems the demons following you\n"
+"have manifested their true nature.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +292,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:22 
 msgid "へっ？　本性？\n"
-msgstr ""
+msgstr "Heh? Their true nature?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +305,8 @@ msgstr ""
 #: sc/0011:23 
 msgid "まんまと佶されました。さっきまでは\n弱い悪霊の振りをしていたようです。\n"
 msgstr ""
+"We've been deceived. It seems they\n"
+"were pretending to be much weaker.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:24 
 msgid "ええっ！？　ど、どうするの！？\n"
-msgstr ""
+msgstr "Eeh!? W-What should I do!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:25 
 msgid "こうなったら私が知っている手段は１つ。\n"
-msgstr ""
+msgstr "I know a trick for times like this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +343,8 @@ msgstr ""
 #: sc/0011:26 
 msgid "この高価なお守りを\n身につけるしかありません。\n"
 msgstr ""
+"You have no other choice but to\n"
+"wear this expensive charm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +356,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:27 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +368,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:28 
 msgid "もういいよお守りは！\n"
-msgstr ""
+msgstr "I'm done with charms!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +381,8 @@ msgstr ""
 #: sc/0011:29 
 msgid "いいんですか？　さっきのとは\n効果も値段も数倍のお守りですよ？\n"
 msgstr ""
+"Are ya sure? The effect and price is\n"
+"remarkably better than the last charm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +395,8 @@ msgstr ""
 #: sc/0011:30 
 msgid "すすす、数倍！？\nあれよりまだ高くなるの！？\n"
 msgstr ""
+"R-R-Remarkably better!? But more\n"
+"importantly, will it be expensive again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +408,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:31 
 msgid "除霊とはそういうものです。\n"
-msgstr ""
+msgstr "That's the way exorcism is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +421,8 @@ msgstr ""
 #: sc/0011:32 
 msgid "それで、どうします？\n悪霊は本性を現しましたよ？\n"
 msgstr ""
+"So, what should I do? The demons\n"
+"showed their true nature, didn't they?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +434,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:33 
 msgid "うっ……で、でも、もうお金は……。\n"
-msgstr ""
+msgstr "Uh…… B-But, my money's already…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +446,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:34 
 msgid "いくらあります？\n"
-msgstr ""
+msgstr "How much do you have?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +459,8 @@ msgstr ""
 #: sc/0011:35 
 msgid "え？　５千円……\nでも値段が数倍だと５千円じゃ……。\n"
 msgstr ""
+"Eh? 5,000 yen…… But it's drastically\n"
+"more expensive than 5,000 yen…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +472,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:36 
 msgid "じゃあサ―ビスで５千円で。\n"
-msgstr ""
+msgstr "Alrighty. It's on sale for 5,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +484,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:37 
 msgid "本当！？　買う！　買います！\n"
-msgstr ""
+msgstr "Really!? I'll buy it! I'd like to buy it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +496,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:38 
 msgid "はい。まいどあり―。\n"
-msgstr ""
+msgstr "Thank you for your continued patronage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +508,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:39 
 msgid "……これで本当に除霊ができるんですよね？\n"
-msgstr ""
+msgstr "……Can you really exorcise with this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +521,8 @@ msgstr ""
 #: sc/0011:40 
 msgid "はい。……あ、もう効果が。\n悪霊が苦しんでいます。\n"
 msgstr ""
+"Yes. …… Ah! And, it's already working.\n"
+"The evil spirits are in pain.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +535,8 @@ msgstr ""
 #: sc/0011:41 
 msgid "ほ、本当！？\nすげ―！　このお守りすげ―！\n"
 msgstr ""
+"R-Really!?\n"
+"Amazing—! This charm is amazing—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +549,8 @@ msgstr ""
 #: sc/0011:42 
 msgid "大事にしてください。\nあなたの身を守る物ですから。\n"
 msgstr ""
+"Please take care. Your\n"
+"charming body is something to protect.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +562,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:43 
 msgid "はい！　ありがとう、おばあさん！\n"
-msgstr ""
+msgstr "Yes! Thank you, ma'am!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +574,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:44 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +586,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:45 
 msgid "フッ。\n"
-msgstr ""
+msgstr "Huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:46 
 msgid "またそうやって偽物を売る気？\n"
-msgstr ""
+msgstr "You still plan on selling fakes again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +610,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:47 
 msgid "偽物じゃないです。本物です。\n"
-msgstr ""
+msgstr "It's not a fake. It's the real deal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +622,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:48 
 msgid "でも、こっちのお守りは効果なかったし。\n"
-msgstr ""
+msgstr "But, this charm didn't do anything.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +635,8 @@ msgstr ""
 #: sc/0011:49 
 msgid "悪霊が強いんです。だからこそ\n２つのお守りの力を合わせるのです。\n"
 msgstr ""
+"Those demons are strong. So it should\n"
+"work with the power of two charms.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +648,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:50 
 msgid "（えっ？　何それ。ちょっとカッコイイ）\n"
-msgstr ""
+msgstr "(Eh? What's that about. Sounds kinda cool)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +661,8 @@ msgstr ""
 #: sc/0011:51 
 msgid "どうするんです？　こっちを買わないと\nそのお守りは効果ありませんよ？\n"
 msgstr ""
+"What should I do? If I don't buy this\n"
+"charm it'll have no affect, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +674,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:52 
 msgid "……値段次第。\n"
-msgstr ""
+msgstr "……It depends on the price.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +686,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:53 
 msgid "希望は？\n"
-msgstr ""
+msgstr "And for what price would you go with?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +698,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:54 
 msgid "タダ。\n"
-msgstr ""
+msgstr "If it's for free.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +710,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:55 
 msgid "１万円。\n"
-msgstr ""
+msgstr "10,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +722,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:56 
 msgid "３千円。\n"
-msgstr ""
+msgstr "3,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +734,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:57 
 msgid "７千円。\n"
-msgstr ""
+msgstr "7,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,13 +752,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:59 
 msgid "ゆっこ＆イタコ"
-msgstr ""
+msgstr "Yukko ＆ Itako"
 
 #  text 
 #  warnings: 0 
 #: sc/0011:59 
 msgid "５千円。\n"
-msgstr ""
+msgstr "5,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +782,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:61 
 msgid "買った。\n"
-msgstr ""
+msgstr "It's a deal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +794,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:62 
 msgid "まいどあり―。\n"
-msgstr ""
+msgstr "Thank you for your continued patronage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +807,8 @@ msgstr ""
 #: sc/0011:63 
 msgid "ちょっと待って。そもそも最初に買ったお守りが\n効果なかったのはそっちの責任でしょ？\n"
 msgstr ""
+"Wait a minute. Aren't you're the one\n"
+"responsible for the first charm not working?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +821,8 @@ msgstr ""
 #: sc/0011:64 
 msgid "ではお詫びも兼ねてこのお守りの値段を\n５千円まで下げましょう。\n"
 msgstr ""
+"Then as an apology, let's lower\n"
+"the price of this charm to 5,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +834,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:65 
 msgid "５千円か……。\n"
-msgstr ""
+msgstr "5,000 yen, huh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +847,8 @@ msgstr ""
 #: sc/0011:66 
 msgid "（厳しい値段だけど……でも、\n　悪霊が本性を現した今、頼れるのは……）\n"
 msgstr ""
+"(The price is rough… but, my demon's true nature\n"
+"has been revealed. All I can rely on now…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +861,8 @@ msgstr ""
 #: sc/0011:67 
 msgid "……買ったら悪霊が除霊されるんですね？\n"
 msgstr ""
+"……If I buy this, the demons\n"
+"will be exorcised, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +874,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:68 
 msgid "もちろん。私を信じてください。\n"
-msgstr ""
+msgstr "Of course. Please believe me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +887,8 @@ msgstr ""
 #: sc/0011:69 
 msgid "（信じれね―……\n　だけど、信じるしか……）\n"
 msgstr ""
+"( I can't trust her—……\n"
+"But, I've got no other choice……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +900,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:70 
 msgid "……それじゃあ、買います。\n"
-msgstr ""
+msgstr "……Okay then, I'll buy it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +912,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:71 
 msgid "はい。まいどあり。\n"
-msgstr ""
+msgstr "Thank you for your continued patronage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:72 
 msgid "あの、今度こそこのお守りで……。\n"
-msgstr ""
+msgstr "Um, this time for sure the charm will….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +936,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:73 
 msgid "それでは、私は私用があるのでこれで。\n"
-msgstr ""
+msgstr "I have personal business, so I'm off.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +948,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:74 
 msgid "あっ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,16 +960,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0011:75 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0011:76 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0011:76 
 msgid "……うん。信じよう。\n"
-msgstr ""
+msgstr "……Yeah. Let's believe her.\n"

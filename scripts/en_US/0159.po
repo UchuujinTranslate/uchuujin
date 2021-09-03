@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 00:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:30+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0159/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:1 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:3 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -222,7 +222,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0159:19 
 msgid "わん！\n"
-msgstr ""
+msgstr "Woof!\n"
 
 #  text 
 #  warnings: 1 
@@ -270,7 +270,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0159:24 
 msgid "＆"
-msgstr ""
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -504,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:43 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +588,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:50 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:52 
 msgid "ふむ……。\n"
-msgstr ""
+msgstr "Hmph…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:62 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
@@ -756,7 +756,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0159:64 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 00:02+0000\n"
+"PO-Revision-Date: 2020-06-17 10:51+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0174/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Weboshi"
 #  warnings: 0 
 #: sc/0174:0 
 msgid "ヒマ―。\n"
-msgstr ""
+msgstr "ue\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:3 
 msgid "……あれ？　あそこにいるのは弌弌\n"
-msgstr ""
+msgstr "……Wait, wait? Who's that over there——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +73,8 @@ msgstr "Nakanojo"
 #: sc/0174:4 
 msgid "ふう、ありがとう安中さん。\nいつもいつも助けてもらってごめんね。\n"
 msgstr ""
+"Phew, thanks Annaka-san.\n"
+"Sorry for always getting your help.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +87,8 @@ msgstr ""
 #: sc/0174:5 
 msgid "気にしなくていいよ。\nクラスメ―トだもの。\n"
 msgstr ""
+"Don't worry about it.\n"
+"It's a classmate's.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,12 +101,14 @@ msgstr ""
 #: sc/0174:6 
 msgid "でも、大変だよね。\n落とし穴に落ちてばかりで。\n"
 msgstr ""
+"But, that's terrible. \n"
+"To only fall into pit falls.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0174:7 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -276,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:23 
 msgid "ううううううううううう！\n"
-msgstr ""
+msgstr "Uuuuuuuuuuuuuuuuuugh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +354,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:29 
 msgid "わわわわわかりません！\n"
-msgstr ""
+msgstr "I, I, I, I, I don't understand!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +366,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:30 
 msgid "なんで！？\n"
-msgstr ""
+msgstr "Why!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +451,8 @@ msgstr ""
 #: sc/0174:37 
 msgid "そうです！　高崎先生に頼んでます！\n本当です！　いつもいつもいつもいつもです！\n"
 msgstr ""
+"Yes, of course! I can always count on\n"
+"Takasaki-sensei! Really! Always!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +476,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:39 
 msgid "……ふ……。\n"
-msgstr ""
+msgstr "……phweh……..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:40 
 msgid "……ふふ……ふふ……ふふふ……。\n"
-msgstr ""
+msgstr "……haha……haha……hahaha…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:41 
 msgid "は―っはははははははははははっ！\n"
-msgstr ""
+msgstr "AHA HAHAHAHAHAHAHAHAHAHAHA!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +596,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:49 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:60 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +932,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0174:77 
 msgid "何ですか？\n"
-msgstr ""
+msgstr "What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,10 +950,10 @@ msgstr ""
 #  warnings: 1 
 #: sc/0174:79 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 1 
 #: sc/0174:79 
 msgid "！！？\n"
-msgstr ""
+msgstr "!!?\n"

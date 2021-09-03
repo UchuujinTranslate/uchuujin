@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:12+0000\n"
-"PO-Revision-Date: 2019-08-31 23:02+0000\n"
+"PO-Revision-Date: 2020-06-27 21:10+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0074/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,8 +25,8 @@ msgstr ""
 #: sc/0074:0 
 msgid "う―ん、いい朝だね―。\n今日は何だかいい事がありそうな予感。\n"
 msgstr ""
-"Mmm, what a nice morning.\n"
-"I have a feeling something good's gonna happen today.\n"
+"Mmm, what a nice morning. Something\n"
+"good's gonna happen today, I know it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -39,8 +39,8 @@ msgstr ""
 #: sc/0074:1 
 msgid "あれ？　今のって中村先生だよね。\n走ってたけど、急ぎの用事かな？\n"
 msgstr ""
-"Huh? That was Nakamura-sensei.\n"
-"She was running... I wonder if it's something urgent.\n"
+"Huh? That was Nakamura-sensei running.\n"
+"I wonder if it's something urgent.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -54,7 +54,7 @@ msgstr ""
 msgid "まいっか。\n早く教室行ってみんなとおしゃべり……！？\n"
 msgstr ""
 "Eh, whatever.\n"
-"Let's hurry to class and tell everyo... !?\n"
+"Let's hurry to class and tell everyo…!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,7 +79,7 @@ msgstr ""
 #: sc/0074:4 
 msgid "な、何あれ……。\n凄い山があるんですけど！！\n"
 msgstr ""
-"W-What's that......\n"
+"W-What's this…….\n"
 "Uh, there's a gigantic mountain here!!\n"
 
 #  speaker 
@@ -116,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:7 
 msgid "た、助けないと！\n"
-msgstr ""
+msgstr "I, I need help!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -128,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:8 
 msgid "あっ！　ワンちゃん！\n"
-msgstr ""
+msgstr "Ah! Doggy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -141,18 +141,20 @@ msgstr ""
 #: sc/0074:9 
 msgid "あ、あのっ！\n中之条くんを助けてあげて欲しいんですけど！\n"
 msgstr ""
+"Um!\n"
+"I wanted Nakanojou-kun's help though!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0074:10 
 msgid "ええ―――っ！！？\n"
-msgstr ""
+msgstr "Ehhhh———！！？\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0074:11 
 msgid "ど、どうするよ……？\n"
-msgstr ""
+msgstr "What, what should I do……?\n"
 
 #  text 
 #  warnings: 1 
@@ -176,7 +178,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0074:15 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -195,6 +197,8 @@ msgstr ""
 #: sc/0074:16 
 msgid "せんせ―！\n高崎先生―！\n"
 msgstr ""
+"Teacher!\n"
+"Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -207,6 +211,8 @@ msgstr ""
 #: sc/0074:17 
 msgid "弌弌ここも居ない！\nだったら弌弌\n"
 msgstr ""
+"——Not here either!\n"
+"In that case——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -230,7 +236,7 @@ msgstr "Teacher"
 #  warnings: 0 
 #: sc/0074:19 
 msgid "高崎先生？　……いないみたいだねえ。\n"
-msgstr ""
+msgstr "Mr. Takasaki? Seems like he's not here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -266,7 +272,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:22 
 msgid "いつも高崎先生が助けてくれるのに……。\n"
-msgstr ""
+msgstr "Mr. Takasaki always helps me though…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -350,7 +356,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:29 
 msgid "うん！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -482,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:40 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -518,7 +524,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:43 
 msgid "……あれ？\n"
-msgstr ""
+msgstr "……Wait, what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -686,7 +692,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:57 
 msgid "（ええ―――っ！！？）\n"
-msgstr ""
+msgstr "(Ehh———!!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -698,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:58 
 msgid "あ、あ、安中さん！　助けて――！！\n"
-msgstr ""
+msgstr "A, A, Annaka-san! Help——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -710,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:59 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -759,6 +765,8 @@ msgstr ""
 #: sc/0074:63 
 msgid "あわ、あわわわ……。\n中之条くん、大丈夫―！？\n"
 msgstr ""
+"Awah, awawawah…….\n"
+"Nakanojou-kun, are you alright—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -854,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:71 
 msgid "……安中さ―ん、聞いてる―？\n"
-msgstr ""
+msgstr "……Annaka-san, are you listening—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -920,7 +928,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:77 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
@@ -932,7 +940,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:78 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 20:00+0000\n"
-"PO-Revision-Date: 2019-08-19 04:00+0000\n"
-"Last-Translator: Aioi Yuuko <danishtube2015@gmail.com>\n"
+"PO-Revision-Date: 2019-09-22 01:00+0000\n"
+"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0211/en_US/>\n"
 "Language: en_US\n"
@@ -51,7 +51,6 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0211:3 
-#, fuzzy
 msgid "他に聞きたいことはあるか？\n"
 msgstr "What else do you want to hear?\n"
 

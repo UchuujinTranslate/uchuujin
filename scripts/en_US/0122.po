@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-11 21:31+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0122/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +96,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:6 
 msgid "ほ、本当ですか？\n"
-msgstr ""
+msgstr "R-Really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:19 
 msgid "弌弌ああ、桜井先生。\n"
-msgstr ""
+msgstr "——Ah, Sakurai-sensei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +264,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0122:20 
 msgid "あ、はい、何でしょうか？\n"
-msgstr ""
+msgstr "Ah, yes. What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -455,26 +455,27 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0122:39 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0122:39 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0122:40 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0122:40 
 msgid "は、はい！　ありがとうございます！\n"
-msgstr ""
+msgstr "Y-yes! Thank you very much!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +488,8 @@ msgstr ""
 #: sc/0122:41 
 msgid "いやいや。\nそれでは弌弌\n"
 msgstr ""
+"No, no.\n"
+"Well then, c'ya——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +681,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:57 
 msgid "なんで！？\n"
-msgstr ""
+msgstr "Why!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +765,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:64 
 msgid "何が？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,13 +909,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:76 
 msgid "は、はあ……。\n"
-msgstr ""
+msgstr "Y-yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0122:77 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -930,7 +933,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:78 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +945,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:79 
 msgid "……はい。\n"
-msgstr "...yes.\n"
+msgstr "……Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1002,7 +1005,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:84 
 msgid "うわっ！？\n"
-msgstr ""
+msgstr "Uwah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1074,7 +1077,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0122:90 
 msgid "失礼しま―す。\n"
-msgstr ""
+msgstr "Excuse me—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1098,7 +1101,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:92 
 msgid "なに？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1152,7 +1155,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0122:97 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

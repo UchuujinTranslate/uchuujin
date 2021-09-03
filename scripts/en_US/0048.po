@@ -3,8 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-31 17:22+0000\n"
+"Last-Translator: Edmundo Felipe Jimenez Valles "
+"<fiestasyservicios31@hotmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0048/en_US/>\n"
 "Language: en_US\n"
@@ -12,13 +13,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0048:0 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
@@ -36,7 +37,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:1 
 msgid "ん――……。\n"
-msgstr ""
+msgstr "Hmm——…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +49,7 @@ msgstr "Sakamoto-san"
 #  warnings: 0 
 #: sc/0048:2 
 msgid "おいガキ。\n"
-msgstr ""
+msgstr "Hey, kid.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +61,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:3 
 msgid "ん―？　どうしたの阪本？\n"
-msgstr ""
+msgstr "Hmph—? What's up Sakamoto?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +74,8 @@ msgstr ""
 #: sc/0048:4 
 msgid "それはこっちのセリフだ。\nさっきから何を个ってやがる。\n"
 msgstr ""
+"Hey, that's my line.\n"
+"What have you been up to recently?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +87,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:5 
 msgid "それはね―、なののことだよ。\n"
-msgstr ""
+msgstr "You see—, it's something for Nano.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +99,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:6 
 msgid "娘の？\n"
-msgstr ""
+msgstr "The girl?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +112,8 @@ msgstr ""
 #: sc/0048:7 
 msgid "そう。今度はなのに\nどんな改造してあげようかな―って。\n"
 msgstr ""
+"Yeah. What kind of upgrade\n"
+"should I give Nano this time?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +125,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:8 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +149,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:10 
 msgid "あっ！？　犬だ！？\n"
-msgstr ""
+msgstr "Ah!? A dog!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +173,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:12 
 msgid "あわわわわ、かまれちゃう……。\n"
-msgstr ""
+msgstr "Awawawawah, I'll get bitten…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +197,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:14 
 msgid "なにか頭に見えるな……アンテナ？\n"
-msgstr ""
+msgstr "On it's head, there's an…… an antenna?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,25 +209,29 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:15 
 msgid "アンテナ―――！？\n"
-msgstr ""
+msgstr "An antenna———!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0048:16 
 msgid "うわああああ！？\nアンテナ引っこ抜かれた――！？\n"
 msgstr ""
+"UWWAAAAAAAH!?\n"
+"She took the antenna off——!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0048:17 
 msgid "怖がっていたのに、\nなんでそんなことをするんだ！\n"
 msgstr ""
+"That scared the heck out of me!\n"
+"What in the world do you think you're doing!?"
 
 #  text 
 #  warnings: 1 
 #: sc/0048:18 
 msgid "……怖すぎたんじゃね？\n"
-msgstr ""
+msgstr "……was it too scary maybe?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,6 +244,8 @@ msgstr ""
 #: sc/0048:19 
 msgid "改造って、\nまた娘に変な機能つけるつもりか？\n"
 msgstr ""
+"With upgrade, \n"
+"does that mean you're planning to put a weird function to her again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,6 +258,8 @@ msgstr ""
 #: sc/0048:20 
 msgid "変じゃないよ？\nカッコイイし可愛いよ？\n"
 msgstr ""
+"It's not weird.\n"
+"It will be cool and also cute.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -259,6 +272,8 @@ msgstr ""
 #: sc/0048:21 
 msgid "お前は娘をカッコよくしたいのか\n可愛くしたいのかどっちだ。\n"
 msgstr ""
+"Make up your mind. Do you want her\n"
+"to look cool or do you want her to look cute?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +285,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:22 
 msgid "どっちも！\n"
-msgstr ""
+msgstr "Both!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +298,8 @@ msgstr ""
 #: sc/0048:23 
 msgid "……だったらまず\nあのダサいネジを取れ。\n"
 msgstr ""
+"……in that case, can you take \n"
+"off that lame key on her back.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +311,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:24 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +335,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:26 
 msgid "ダサい。\n"
-msgstr ""
+msgstr "Lame.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,6 +348,8 @@ msgstr ""
 #: sc/0048:27 
 msgid "ダサくないもん！\n可愛いもん！\n"
 msgstr ""
+"It's not lame!\n"
+"It's cute!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +362,8 @@ msgstr ""
 #: sc/0048:28 
 msgid "ダサい。\n可愛くない。\n"
 msgstr ""
+"It's not cute.\n"
+"It's lame.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -353,8 +374,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0048:29 
+#, fuzzy
 msgid "それは阪本がダサいからだもん！\n"
-msgstr ""
+msgstr "No! That's because you are, Sakamoto!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:30 
 msgid "えええ―――！？\n"
-msgstr ""
+msgstr "EHHH———!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +401,8 @@ msgstr ""
 #: sc/0048:31 
 msgid "そうだよ、ダサい阪本には\nネジの良さはわからないもん！\n"
 msgstr ""
+"That's right! It's because you don't know \n"
+"the awesomeness of the screws!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +415,8 @@ msgstr ""
 #: sc/0048:32 
 msgid "なら良さのわかるやつは\nお前以外にどこにいる？　いないだろ？\n"
 msgstr ""
+"If that's what you think,\n"
+"who else do you think finds it cool? No one, is there?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,7 +452,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:35 
 msgid "いるもん！\n"
-msgstr ""
+msgstr "There are!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -438,7 +464,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:36 
 msgid "いない。\n"
-msgstr ""
+msgstr "Nope. No one."
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +476,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:37 
 msgid "うう〜〜〜……。\n"
-msgstr ""
+msgstr "Uuugh～～～…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +489,8 @@ msgstr ""
 #: sc/0048:38 
 msgid "じゃあ捜してくるもん！\nみんなネジは可愛いって言うもん！\n"
 msgstr ""
+"Then I'll go and look!\n"
+"I'll prove that everyone will say that the screw is cute!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +502,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:39 
 msgid "フン。いるわけないだろそんなやつ。\n"
-msgstr ""
+msgstr "Hmph. There's no way she'll find anyone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +514,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:40 
 msgid "……………。\n"
-msgstr ""
+msgstr "…………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +527,8 @@ msgstr ""
 #: sc/0048:41 
 msgid "……あのガキ、一人で外に出て大丈夫だよな？\n"
 msgstr ""
+"……Hey, will that kid be\n"
+"okay going outside alone?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:42 
 msgid "ダサくないもん！\n"
-msgstr ""
+msgstr "It's not lame!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:43 
 msgid "弌弌あ、レトロだからダサいの？\n"
-msgstr ""
+msgstr "——do you think it's lame because it's retro?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,6 +565,8 @@ msgstr ""
 #: sc/0048:44 
 msgid "そういうダサさじゃなくてだな。\nネジ自体がダメだと……。\n"
 msgstr ""
+"No it's not that kind of lameness.\n"
+"It's the key itself that is……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +578,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:45 
 msgid "じゃあどんなネジがいいの？\n"
-msgstr ""
+msgstr "Then.. what kind of key do you like?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +590,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:46 
 msgid "まずはネジをつけることをやめないか？\n"
-msgstr ""
+msgstr "Can't you go with something other than a key?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +602,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:47 
 msgid "じゃあ羽とかがいいの？\n"
-msgstr ""
+msgstr "Do you prefer wings?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +615,8 @@ msgstr ""
 #: sc/0048:48 
 msgid "そうじゃなくてだな、\n背中に何かをつけることをやめるんだ。\n"
 msgstr ""
+"No that's not what I meant.\n"
+"How about you have nothing on the back?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +628,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:49 
 msgid "じゃあどこに何をつければいいの？\n"
-msgstr ""
+msgstr "Then where should I put it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +641,8 @@ msgstr ""
 #: sc/0048:50 
 msgid "だからな、余計なものを\nつける必要は無いと言ってるんだ。\n"
 msgstr ""
+"No, that's not my point. I'm saying that you don't need \n"
+"to put unnecessary things on in the first place.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +655,8 @@ msgstr ""
 #: sc/0048:51 
 msgid "ダメ！\nそれじゃ何も可愛くないもん！\n"
 msgstr ""
+"No way!\n"
+"Then there's nothing cute about it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +669,8 @@ msgstr ""
 #: sc/0048:52 
 msgid "だからってネジが\n可愛いなんて言ってるのはガキくらいだぞ。\n"
 msgstr ""
+"But I'm telling you, \n"
+"it's only you that think that key is cute.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -643,6 +683,8 @@ msgstr ""
 #: sc/0048:53 
 msgid "そんなことないよ？\nみんな可愛いって言うよ？\n"
 msgstr ""
+"I don't think so.\n"
+"Everyone says that's it's cute, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +697,8 @@ msgstr ""
 #: sc/0048:54 
 msgid "じゃあ誰かに聞いてみろ。\nそしたら自分の間違いに気付くだろ。\n"
 msgstr ""
+"Go ahead and ask someone.\n"
+"You'll soon realize your mistake.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +711,8 @@ msgstr ""
 #: sc/0048:55 
 msgid "わかった！　じゃあ可愛いって言ったら\nネジつけるからね！\n"
 msgstr ""
+"Okat! So if people say it's cute,\n"
+"I should put it on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:56 
 msgid "好きにしろ。\n"
-msgstr ""
+msgstr "Do as you like.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +748,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:58 
 msgid "……どっちになっても俺に害はない。\n"
-msgstr ""
+msgstr "......Either way it doesn't concern me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +761,8 @@ msgstr ""
 #: sc/0048:59 
 msgid "ぷぷぷ。\n可愛くない、だって。ぷぷぷ。\n"
 msgstr ""
+"Hehehe.\n"
+"You say it's not cute, really. Hehehe.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +774,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:60 
 msgid "なんだ？　何がおかしい？\n"
-msgstr ""
+msgstr "What? What's so funny?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:61 
 msgid "だって猫にそんなことわかるわけないもん。\n"
-msgstr ""
+msgstr "That's because cats don't understand cuteness.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +811,8 @@ msgstr ""
 #: sc/0048:63 
 msgid "じゃあはかせが他の人にもネジが\n可愛いかどうか聞いてきてあげる。\n"
 msgstr ""
+"Then Hakase will ask other people\n"
+"whether the key is cute or not.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +825,8 @@ msgstr ""
 #: sc/0048:64 
 msgid "それならいいでしょ？\nきっとはかせが正しいってわかるよ。\n"
 msgstr ""
+"Isn't that good?\n"
+"I'm sure people will agree with me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +838,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:65 
 msgid "望むところだ。\n"
-msgstr ""
+msgstr "Yes go for it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,6 +851,8 @@ msgstr ""
 #: sc/0048:66 
 msgid "じゃあ今から聞きに行ってくるね。\n負けたらご飯抜きね。\n"
 msgstr ""
+"Then I'll go and ask now.\n"
+"No dinner for you if you lose, okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +864,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:67 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,4 +876,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0048:68 
 msgid "……えっ？\n"
-msgstr ""
+msgstr "……Huh?\n"

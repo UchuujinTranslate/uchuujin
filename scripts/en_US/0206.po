@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2019-08-06 03:00+0000\n"
-"Last-Translator: Jiggly Jellyfish <jiggly.jellyfish.kurage@gmail.com>\n"
+"PO-Revision-Date: 2020-06-18 22:11+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0206/en_US/>\n"
 "Language: en_US\n"
@@ -12,13 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0206:1 
 msgid "……い、いかがでしょうか？\n"
-msgstr "...h-how was it, ma'am?\n"
+msgstr "……H-how was it, your highness?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -30,7 +30,7 @@ msgstr "Princess Starla"
 #  warnings: 0 
 #: sc/0206:2 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -42,4 +42,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0206:3 
 msgid "長いな。\n"
-msgstr "Too long.\n"
+msgstr "Way too long.\n"

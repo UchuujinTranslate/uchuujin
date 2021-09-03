@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2019-08-31 23:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-21 23:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0135/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +174,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:13 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -240,13 +240,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0135:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0135:22 
 msgid "うおわああああああ！！\n"
-msgstr ""
+msgstr "Uwoaaaaaaaaaaaah！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -306,7 +306,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:27 
 msgid "ぎゃあああ！！\n"
-msgstr ""
+msgstr "Gyaaaaaaah!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +534,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:46 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +546,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:47 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:53 
 msgid "よいしょっと。\n"
-msgstr ""
+msgstr "Huff, there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:61 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +744,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:64 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -774,13 +774,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:66 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0135:67 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

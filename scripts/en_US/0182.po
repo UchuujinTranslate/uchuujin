@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:19+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2020-07-14 13:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0182/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0182:0 
 msgid "いや―、悪いね―、みおちゃん。\nおごってもらっちゃって。\n"
-msgstr ""
+msgstr "Really, thanks again for treating me, Mio-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0182:1 
 msgid "今度返してね。\n"
-msgstr ""
+msgstr "Next time you pay back, okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0182:2 
 msgid "……と言いたいけど、\n今日なんか元気なかったし。乂るよ。\n"
 msgstr ""
+"……is what I want to say but, \n"
+"you seemed to be kind of down for the entire day. I'll treat you this time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0182:3 
 msgid "ありがとう、みおちゃん！\n"
 msgstr ""
+"Oh really?\n"
+"Thank you Mio-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:4 
 msgid "ゆっこ。クラブサンド食べる？\n"
-msgstr ""
+msgstr "Yukko. You want a Club Sandwich?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:5 
 msgid "うん、ありがとう、麻衣ちゃん！\n"
-msgstr ""
+msgstr "Yes, thank you, Mio-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +101,8 @@ msgstr ""
 #: sc/0182:6 
 msgid "（二人が優しくしてくれるのは、\n　もしかしたら悪霊が消えたからかな）\n"
 msgstr ""
+"(Both of them being so nice to me now, \n"
+"could it mean that the evil spirits have dissapeared?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +115,8 @@ msgstr ""
 #: sc/0182:7 
 msgid "（高い買い物しちゃって財布の中は\n　スッカラカン。……でも、いいや）\n"
 msgstr ""
+"(I made a expensive purchase today so \n"
+"my wallet is flat out empty…But, no)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0182:8 
 msgid "（私にはみおちゃんと麻衣ちゃんという\n　大切な親友が二人もいるんだから！）\n"
 msgstr ""
+"(I have Mio-chan and Mai-chan as friends, \n"
+"that I wouldn't trade for anything!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0182:9 
 msgid "（あと、この２つのお守り。\n　これから一生身につけていよう）\n"
 msgstr ""
+"(Also, these two charms. \n"
+"I will have these on for the rest of my life.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:11 
 msgid "（あっ！　あれはさっきのおばあさん！）\n"
-msgstr ""
+msgstr "(Ah! That's the old lady from before!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0182:12 
 msgid "ふぅ……。\n"
-msgstr ""
+msgstr "Phew………\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:13 
 msgid "（……私には気付いてないみたい）\n"
-msgstr ""
+msgstr "(……Looks like she hasn't noticed me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -191,8 +203,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0182:14 
+#, fuzzy
 msgid "（にしし、後ろから声かけて\n　驚かせてあげようかな―？）\n"
 msgstr ""
+"(Hehe, should I say hi to her from behind \n"
+"and give her a little surprise maybe—)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +220,8 @@ msgstr ""
 #: sc/0182:15 
 msgid "……はい。もしもし？\nあ―、久しぶり―。\n"
 msgstr ""
+"……Hello. Oh hi it's you.\n"
+"Long time no hear—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +234,8 @@ msgstr ""
 #: sc/0182:16 
 msgid "（友達かな？　きっと私にとっての\n　みおちゃんと麻衣ちゃんみたいな人かも）\n"
 msgstr ""
+"(Is it a friend maybe?\n"
+"I bet it's someone like for me Mio-chan and Mai-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +248,8 @@ msgstr ""
 #: sc/0182:17 
 msgid "あははは、そうそう、聞いて聞いて。\n今日、すごい儲かったの。\n"
 msgstr ""
+"Ahahaha, yeah, and listen to this.\n"
+"Today I made a big profit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -239,8 +260,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0182:18 
+#, fuzzy
 msgid "突然、私、悪霊に取り亅かれてるんです！\nなんて言ってくる変な学生がいてさぁ。\n"
 msgstr ""
+"There was a weird student that just walked up to me saying \n"
+"something like \"I'm being possessed by evil spirits!\".\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +289,8 @@ msgstr ""
 #: sc/0182:20 
 msgid "ちょうどいいから適当にお守り渡して\n儲けさせてもらった―。\n"
 msgstr ""
+"I just played along and gave her charm\n"
+"for some easy money.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +302,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:21 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +326,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:23 
 msgid "あはは、でさ―……。\n"
-msgstr ""
+msgstr "Ahahaha, and then—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +338,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:24 
 msgid "……あれ？　ゆっこ？　どうしたの？\n"
-msgstr ""
+msgstr "……Hey? Yukko? What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,22 +356,22 @@ msgstr ""
 #  warnings: 0 
 #: sc/0182:26 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0182:26 
 msgid "ゆっこ？\n"
-msgstr ""
+msgstr "Yukko?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0182:27 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0182:27 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

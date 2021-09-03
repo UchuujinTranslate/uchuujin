@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-30 22:03+0000\n"
+"PO-Revision-Date: 2020-07-08 21:51+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0083/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +61,8 @@ msgstr "Nano"
 #: sc/0083:3 
 msgid "え？　あ、あなたは……\nこの間道ばたで会った……。\n"
 msgstr ""
+"Huh? Oh. You……\n"
+"I met you on that side road…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr ""
 #: sc/0083:4 
 msgid "覚えててくれたんだ。嬉し―。\n久しぶりだね―。\n"
 msgstr ""
+"You remembered. I'm glad—.\n"
+"It's been a while, huh—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -162,13 +166,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:12 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0083:12 
 msgid "がっ！？\n"
-msgstr ""
+msgstr "Gwargh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +304,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:25 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +568,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:47 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +754,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:63 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
@@ -972,7 +976,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:81 
 msgid "えええ―――！？\n"
-msgstr ""
+msgstr "EHHH———!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -996,7 +1000,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:83 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "Eee―—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1104,7 +1108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:92 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "EHH―—!?\n"
 
 #  speaker 
 #  warnings: 0 

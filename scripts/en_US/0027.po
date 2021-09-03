@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0027/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0027:0 
 msgid "睡眠薬、亳れ薬、回路ショ―ト君……。\n"
-msgstr ""
+msgstr "Sleeping pills, Short Circuit-kun…….\n"
 
 #  speaker 
 #  warnings: 1 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0027:1 
 msgid "これまで色な作戦を試してみたが、\nいまだに東雲なのを捕獲できていない。\n"
 msgstr ""
+"Tried various strategies so far, but I\n"
+"still haven't been able to capture her.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0027:2 
 msgid "方法は悪くないと思うのだが、どうしても\nあと一歩と言うところで失敗してしまう。\n"
 msgstr ""
+"The methods aren't bad I think but I always\n"
+"end up messing up something at the very last step.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:3 
 msgid "……私の失態で。\n"
-msgstr ""
+msgstr "……It's all my fault.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0027:4 
 msgid "どうする？　このままでは、\nどんな作戦を試したところで同じことでは？\n"
 msgstr ""
+"What should I do? At this rate, won’t\n"
+"every strategy I think of end the same?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0027:5 
 msgid "いや待て、そうとは限らない。\nどんな油断をしても成功する作戦ならば！\n"
 msgstr ""
+"No wait, it’s not limited to just that.\n"
+"Yet, if there’s a will, there’s a way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,19 +104,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:6 
 msgid "弌弌なんて、何がある。\n"
-msgstr ""
+msgstr "——What, something's over there.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0027:7 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
 #: sc/0027:7 
 msgid "あっ、はかせだ。\n"
-msgstr ""
+msgstr "Ah, it's Hakase.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:8 
 msgid "はっ？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +140,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:9 
 msgid "ねえねえ、はかせ、何してるの？\n"
-msgstr ""
+msgstr "Hey, what are you up to?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +153,8 @@ msgstr ""
 #: sc/0027:10 
 msgid "私のことだろうか？　……ああ、白衣だからか。\n違う、私は博士ではなく教師だ。\n"
 msgstr ""
+"Me? …… Ah, it must be the white coat.\n"
+"No, I'm not a professor. I'm a teacher.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +165,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0027:11 
+#, fuzzy
 msgid "先生なの？\nでも、はかせははかせだよ。\n"
-msgstr ""
+msgstr "[Hakase's name means professor joke]\n"
 
 #  speaker 
 #  warnings: 0 
@@ -167,8 +178,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0027:12 
+#, fuzzy
 msgid "……博士は博士？\n"
-msgstr ""
+msgstr "[Hakase's name means professor misunderstanding]\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:13 
 msgid "はかせが！\n"
-msgstr ""
+msgstr "[Still]\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +205,8 @@ msgstr ""
 #: sc/0027:14 
 msgid "（なるほど、博士ごっこでもしてるのか？\n　……まあいい、適当にあしらうか）\n"
 msgstr ""
+"(I see, so you're playing professor? \n"
+"……Well okay, I'll treat you as such.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +218,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0027:15 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:16 
 msgid "あっ！？\n"
-msgstr ""
+msgstr "Ah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +242,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:17 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +255,8 @@ msgstr ""
 #: sc/0027:18 
 msgid "い、い、犬だ……\nかかか、噛まれちゃう……。\n"
 msgstr ""
+"It, it's a dog…………\n"
+"I'm gonna be b-bitten……….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +269,8 @@ msgstr ""
 #: sc/0027:19 
 msgid "ああ、大丈夫。シッシッ。\nほら、こうやって追い払えばいい。\n"
 msgstr ""
+"Ah, no worries. Shoo! Shoo!\n"
+"Hey, you can shoo them away like this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +294,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:21 
 msgid "あっち行かないよ？\n"
-msgstr ""
+msgstr "They won’t go away.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:23 
 msgid "あっち行け。\n"
-msgstr ""
+msgstr "Go away!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,42 +337,50 @@ msgstr "!?\n"
 #: sc/0027:25 
 msgid "ひどい！　犬を叩くなんて！\n軽くでも、すごく怒られた気分になるんだぞ！\n"
 msgstr ""
+"That's terrible! You can't hit a dog!\n"
+"Even if it's light, you'll feel angry!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0027:26 
 msgid "い、いや、そんなことより、\n今は自分たちのことを気にしろよ！　ほら！\n"
 msgstr ""
+"No, rather than that,\n"
+"we have to worry about ourselves now! See!\n"
 
 #  text 
 #  warnings: 3 
 #: sc/0027:27 
 msgid "警報がなんだ！　しかも、\nお前ほどの犬好きがそんなことだと！？\n"
 msgstr ""
+"What's the alarm? And for dog lover why\n"
+"would you do such a thing!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0027:28 
 msgid "状況が状況だ！\nそれに……。\n"
 msgstr ""
+"Desperate times, desperate measures!\n"
+"That, and…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0027:29 
 msgid "それに……？\n"
-msgstr ""
+msgstr "And……?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0027:30 
 msgid "最近、猫も可愛いなって思えてさ……。\n"
-msgstr ""
+msgstr "You know and recently I've started to think cats are pretty cute….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0027:31 
 msgid "この裏切り者ぉおおお！！\n"
-msgstr ""
+msgstr "You traitor! Oooooh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +393,8 @@ msgstr ""
 #: sc/0027:32 
 msgid "キミは博士らしいが、\n過去にどんな発明をしたんだ？\n"
 msgstr ""
+"You seem professor-like. What kind of\n"
+"inventions have you made in the past?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +407,8 @@ msgstr ""
 #: sc/0027:33 
 msgid "（博士とは言え子供だ。\n　せいぜい夏休みの工作レベルだろう）\n"
 msgstr ""
+"(She's a child despite saying she's a profes-\n"
+"sor. At best, a summer break handwork.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +421,8 @@ msgstr ""
 #: sc/0027:34 
 msgid "ん―、ん―。見てもらいたいけど\n今どこにいるかわからないし……。\n"
 msgstr ""
+"Hmm—, hmm—. I'd like you see them but,\n"
+"I don't know where they are right now……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +435,8 @@ msgstr ""
 #: sc/0027:35 
 msgid "そうだ！\nあれなら、このボタンを押せば！\n"
 msgstr ""
+"That's it!\n"
+"If that's it, if I press this button…!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +448,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:36 
 msgid "ん？　一体何が起きるんだ？\n"
-msgstr ""
+msgstr "Hm? What the heck is going on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +473,8 @@ msgstr ""
 #: sc/0027:38 
 msgid "あっ！\nあれあれ―、あれ作ったの、はかせだよ。\n"
 msgstr ""
+"Ah!\n"
+"That, that—, that creation is Hakase's.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +486,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:39 
 msgid "な、ななな……。\n"
-msgstr ""
+msgstr "W-W-W-hat-the…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +499,8 @@ msgstr ""
 #: sc/0027:40 
 msgid "（すごい！　あんな物を\n　こんな子供が作ったと言うのか？）\n"
 msgstr ""
+"(It's amazing! Is that really\n"
+"something a kid could make?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +513,8 @@ msgstr ""
 #: sc/0027:41 
 msgid "（とても信じられない……が、待て？\n　この子供の親が天才なのかも……）\n"
 msgstr ""
+"(It's completely unbelievable…… Wait.\n"
+"This kid's parents may be geniuses……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +527,8 @@ msgstr ""
 #: sc/0027:42 
 msgid "（だが、そうであれば、同じ環境にいる\n　この子供の知識や知恵もヒントには弌弌）\n"
 msgstr ""
+"(But if so, the environment of the kid's\n"
+"smarts and wisdom is also a hint that—)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +541,8 @@ msgstr ""
 #: sc/0027:43 
 msgid "よし、はかせ！\n私に知恵を貸してくれ！\n"
 msgstr ""
+"Alright, Hakase!\n"
+"Give me your wisdom!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:44 
 msgid "へっ？　なになに？\n"
-msgstr ""
+msgstr "Huh? Yes, what?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -523,6 +567,8 @@ msgstr ""
 #: sc/0027:45 
 msgid "実は、ある者を捕獲しようと\n私は色と手を尽くしてきたのだが……。\n"
 msgstr ""
+"To tell the truth, I have tried all my\n"
+"might to capture a certain person but……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +580,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:46 
 msgid "うんうん。\n"
-msgstr ""
+msgstr "Okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +593,8 @@ msgstr ""
 #: sc/0027:47 
 msgid "かくかくしかじかで……\nずっと失敗続きなんだ。\n"
 msgstr ""
+"Blah-blah yadda-yadda……\n"
+"I've always continued to fail.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +607,8 @@ msgstr ""
 #: sc/0027:48 
 msgid "あははははは！\nまぬけ―！　あははは！\n"
 msgstr ""
+"Ahahahahaha!\n"
+"You fool—! Ahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -571,6 +621,8 @@ msgstr ""
 #: sc/0027:49 
 msgid "う……そ、そういうわけだから、\nはかせに何か作戦を考えてほしいのだが……。\n"
 msgstr ""
+"Uh…… So, that's why I want you to\n"
+"think of some sort of strategy, but…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +659,8 @@ msgstr ""
 #: sc/0027:52 
 msgid "人の失敗を笑うと\nろくな大人になれないぞ。\n"
 msgstr ""
+"If you laugh at people's mistakes,\n"
+"you won't become a good adult!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +685,8 @@ msgstr ""
 #: sc/0027:54 
 msgid "きっと将来のはかせは\n自分の頭脳を鼻にかける嫌な大人だろう。\n"
 msgstr ""
+"The future Hakase will be a disgusting\n"
+"adult who only brags about her brains.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +698,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:55 
 msgid "う―……。\n"
-msgstr ""
+msgstr "Uuhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +711,8 @@ msgstr ""
 #: sc/0027:56 
 msgid "（う、ちょっと言い過ぎたか？\n　大人気なかったかもしれんな）\n"
 msgstr ""
+"(Uh, did I say a little too much? That\n"
+"might not have been very mature of me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +725,8 @@ msgstr ""
 #: sc/0027:57 
 msgid "だ、だが、これからの行動次第では\n簡単に良い大人になれるから……。\n"
 msgstr ""
+"B-but depending on what you do from now\n"
+"on you can easily become a good adult…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +739,8 @@ msgstr ""
 #: sc/0027:58 
 msgid "ホント！？　はかせはどうやったら\n良い大人になれるの？\n"
 msgstr ""
+"REALLY!? What should I do\n"
+"in order to be a good adult?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +753,8 @@ msgstr ""
 #: sc/0027:59 
 msgid "それははかせが考えることだ。わからないからと\n他人に聞いているようではダメだな。\n"
 msgstr ""
+"That's up to you to decide. And you can't\n"
+"ask others that if you don't know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +766,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:60 
 msgid "そっかぁ……。\n"
-msgstr ""
+msgstr "I see…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +779,8 @@ msgstr ""
 #: sc/0027:61 
 msgid "（やはり子供か。\n　簡単に言いくるめられた）\n"
 msgstr ""
+"(I guess she's still a child. \n"
+"That was easy to talk her into.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -727,6 +793,8 @@ msgstr ""
 #: sc/0027:62 
 msgid "さてはかせ。そろそろ私に\nアドバイスをしてもらいたいのだが。\n"
 msgstr ""
+"Now Hakase. I would like to\n"
+"hear your advise sometime soon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +806,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:63 
 msgid "わからないことは自分で考えなきゃダメ！\n"
-msgstr ""
+msgstr "If you don't know work it out yourself!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +830,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:65 
 msgid "良い大人になれないよ！\n"
-msgstr ""
+msgstr "You'll never gonna be a good adult otherwise!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:67 
 msgid "（……簡単に言いくるめられた！）\n"
-msgstr ""
+msgstr "(……That was easy to talk her into!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,6 +867,8 @@ msgstr ""
 #: sc/0027:68 
 msgid "（くっ、悔しいが私の度重なる失態は事実だ。\n　……笑いたくもなるだろう）\n"
 msgstr ""
+"(It's frustrating but my repeated failures \n"
+"are true. …It may make you laugh.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +881,8 @@ msgstr ""
 #: sc/0027:69 
 msgid "（だからこそ今は笑われてもいい。\n　はかせの助言さえもらえれば……！）\n"
 msgstr ""
+"(So, it'll be reasonable to laugh.\n"
+"Only to get Hakase's advice……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -823,6 +895,8 @@ msgstr ""
 #: sc/0027:70 
 msgid "はかせ、頼む。\n私のために作戦を考えてくれないか？\n"
 msgstr ""
+"Hakase, I'm begging you. Could you\n"
+"think of a battle plan for my sake?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +909,8 @@ msgstr ""
 #: sc/0027:71 
 msgid "あははは、はぁ、はぁ。\nうん、いいよ―。\n"
 msgstr ""
+"Ahahaha. Haa, haa.\n"
+"Okay, sure～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,7 +922,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:72 
 msgid "（よし！）\n"
-msgstr ""
+msgstr "(Alright!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -857,8 +933,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0027:73 
+#, fuzzy
 msgid "でははかせ、早速で悪いのだが……。\n"
-msgstr ""
+msgstr "So Hakase, I'm sorry to press you, but…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +947,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:74 
 msgid "えっとね―。ネジをつければいいよ。\n"
-msgstr ""
+msgstr "Let me see～. Just put a key on it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +959,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:75 
 msgid "……ネジ？\n"
-msgstr ""
+msgstr "……A windmill key?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,6 +972,8 @@ msgstr ""
 #: sc/0027:76 
 msgid "うん！　ネジは可愛いから\nそれだけでバッチリ！\n"
 msgstr ""
+"Yup! Since a key is cute, with that,\n"
+"it's all you'll ever need.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +998,8 @@ msgstr ""
 #: sc/0027:78 
 msgid "（ネジ？\n　ネジってアレだよな？）\n"
 msgstr ""
+"(A key?\n"
+"By key does she mean what I think it is?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -931,6 +1012,8 @@ msgstr ""
 #: sc/0027:79 
 msgid "（つけるって、誰に？\n　まさか私ではないだろうし……）\n"
 msgstr ""
+"(And with \"put it on\", on who does she mean?)\n"
+"It's not on myself, is it……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -943,6 +1026,8 @@ msgstr ""
 #: sc/0027:80 
 msgid "（では東雲なのにつけるのか？\n　だが、あいつにはすでについているし……）\n"
 msgstr ""
+"(So, so should I put one on Shinonome Nano?\n"
+"But, she already has one……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,6 +1052,8 @@ msgstr ""
 #: sc/0027:82 
 msgid "（そうか、２つつけることによって\n　東雲のスピ―ドを落とす作戦か！）\n"
 msgstr ""
+"(I see! By having two keys\n"
+"attached Shinonome's speed will drop!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,7 +1077,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:84 
 msgid "……本当に？\n"
-msgstr ""
+msgstr "……Really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1002,7 +1089,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:85 
 msgid "何が？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1015,6 +1102,8 @@ msgstr ""
 #: sc/0027:86 
 msgid "いや、ネジをつけることで\n相手の速さを奪うことかと……。\n"
 msgstr ""
+"No, I thought by attaching the key\n"
+"it would slow the opponent down….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1026,7 +1115,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:87 
 msgid "何それ！　あははははは！\n"
-msgstr ""
+msgstr "What's that! Ahahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1038,7 +1127,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:88 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1050,7 +1139,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:89 
 msgid "（もしかしてバカにされてるだけ！？）\n"
-msgstr ""
+msgstr "(Could it be that she's just making fun of me!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1151,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:90 
 msgid "（ム、ムカつく……！）\n"
-msgstr ""
+msgstr "(I-I'm fed up with this……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1075,6 +1164,8 @@ msgstr ""
 #: sc/0027:91 
 msgid "（だがここで怒ったりしたら\n　はかせは作戦を考えてくれないだろう）\n"
 msgstr ""
+"(But if I get upset now, Hakase \n"
+"won't think of a strategy for me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1087,6 +1178,8 @@ msgstr ""
 #: sc/0027:92 
 msgid "（ここは大人の余裕で耐えるんだ。\n　なに、所詮は子供の戯言だ）\n"
 msgstr ""
+"(I can endure it as an adult.\n"
+"After all, it's just a childish joke.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1099,6 +1192,8 @@ msgstr ""
 #: sc/0027:93 
 msgid "睡眠薬で自分が眠るなんて！\nあはははは！\n"
 msgstr ""
+"Of all things, you fell asleep to your\n"
+"own sleeping drugs! Ahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1110,7 +1205,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:94 
 msgid "ははははは。\n"
-msgstr ""
+msgstr "Hahahahaha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1123,6 +1218,8 @@ msgstr ""
 #: sc/0027:95 
 msgid "捕まえるからって落とし穴掘るなんて！\nあはははは！\n"
 msgstr ""
+"You dug a trap just to catch her even!\n"
+"Ahahahaha!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1134,7 +1231,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:96 
 msgid "ハハハハハ。\n"
-msgstr ""
+msgstr "HAHAHAHAHA.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1147,6 +1244,8 @@ msgstr ""
 #: sc/0027:97 
 msgid "別の人を気絶させちゃうなんて！\n髪まで刈って！　あはははは！\n"
 msgstr ""
+"Making the wrong person faint!\n"
+"And even cutting their hair off! Ahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1171,6 +1270,8 @@ msgstr ""
 #: sc/0027:99 
 msgid "こ―んなにやって一度も成功してないなんて！\nあははは、お腹がよじれる―！\n"
 msgstr ""
+"You've done so much but haven't even succeeded once.\n"
+"Ahahaha, my stomach hurts—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1182,19 +1283,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:100 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0027:101 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0027:101 
 msgid "くっ！\n"
-msgstr ""
+msgstr "TSK!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1206,7 +1307,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:102 
 msgid "あはははは！\n"
-msgstr ""
+msgstr "Ahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1219,6 +1320,8 @@ msgstr ""
 #: sc/0027:103 
 msgid "……あれ？\nさっきの人、消えちゃった！\n"
 msgstr ""
+"……What?\n"
+"That person just disappeared!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1230,4 +1333,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0027:104 
 msgid "あははははは！\n"
-msgstr ""
+msgstr "Ahahahahaha!\n"

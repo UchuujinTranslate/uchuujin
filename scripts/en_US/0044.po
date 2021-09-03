@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:06+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-27 16:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0044/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0044:0 
 msgid "さて、今日のホ―ムル―ムは何を話そう。\n"
-msgstr ""
+msgstr "Now, what will I talk about in today's homeroom.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0044:1 
 msgid "この前の山菜ト―クはなぜか不評だったから、\n今日は旬の野菜についての話題でも……。\n"
 msgstr ""
+"The talk about edible wild plants didn't seem to be that well received, \n"
+"so why don't I talk some about the seasonal vegetables……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:2 
 msgid "高崎先生！\n"
-msgstr ""
+msgstr "Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0044:3 
 msgid "体育館裏で中之条くんが\nまた埋まっちゃってるんですけど！！\n"
 msgstr ""
+"Nakanojou is\n"
+"buried behind the school gym again!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:4 
 msgid "ええ――――っ！！？\n"
-msgstr ""
+msgstr "Ehh!————!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0044:5 
 msgid "な、中之条くんが！？\n"
-msgstr ""
+msgstr "Na, Nakanojou-kun!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:6 
 msgid "さっ、桜井先生！！\n"
-msgstr ""
+msgstr "Sa-sakurai-sensei!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:7 
 msgid "高崎先生っ、助けに行きましょうっ！\n"
-msgstr ""
+msgstr "Takasaki-sensei, let's help him out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +124,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:8 
 msgid "もちろんですとも！！\n"
-msgstr ""
+msgstr "Of course!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +136,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:9 
 msgid "先生、そっちじゃなくて……あっ！！\n"
-msgstr ""
+msgstr "Teacher, it's not that way……ah!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +148,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0044:10 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +160,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:11 
 msgid "高崎先生、前に犬が！！\n"
-msgstr ""
+msgstr "Takasaki-sensei, the dog in front of you!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,55 +172,63 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:12 
 msgid "なんのぉぉぉっ！！！\n"
-msgstr ""
+msgstr "What the!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:13 
 msgid "マルセイユル―レット！？\n"
-msgstr ""
+msgstr "The marseille turn!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:14 
 msgid "何だそれ。\n"
-msgstr ""
+msgstr "What's that.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:15 
 msgid "サッカ―のテクニックさ。\n昨日見た試合でもあっただろ？\n"
 msgstr ""
+"It's a technical trick in soccer. \n"
+"There was one in last match we watched yesterday remember?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:16 
 msgid "ああ、アレか！\n実に熱いプレイだったな！\n"
 msgstr ""
+"Ahh, that huh!\n"
+"It sure is a hot move!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:17 
 msgid "……アレを使いこなせるとは、あのタ―ゲット、\n名の知れたスポ―ツ選手に違いない！\n"
 msgstr ""
+"……That he can make full use of that trick, it must mean he is a soccer "
+"player that has made a name for himself!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:18 
 msgid "でも、ボ―ルじゃなくて犬でやったら、\nアンテナ折れるんじゃないか？\n"
 msgstr ""
+"But, if he does it with the dog rather than a ball, \n"
+"won't the antenna break?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:19 
 msgid "もう手遅れさ！\n"
-msgstr ""
+msgstr "It's already too late!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0044:20 
 msgid "だよな！\n"
-msgstr ""
+msgstr "Yeah right!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +240,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:21 
 msgid "ここです！！\n"
-msgstr ""
+msgstr "It's here!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:22 
 msgid "た、確かに埋まってる！\n"
-msgstr ""
+msgstr "H-He sure is buried there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +265,8 @@ msgstr ""
 #: sc/0044:23 
 msgid "は、早く助けないと！\n中之条くん、大丈夫っ！？\n"
 msgstr ""
+"W-We have to help him!\n"
+"Nakanojou-kun, are you alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +279,8 @@ msgstr "Nakanojo"
 #: sc/0044:24 
 msgid "その声は桜井先生！？\n助けてください！！\n"
 msgstr ""
+"That voice, is that Sakurai-sensei!?\n"
+"Please help me!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +292,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:25 
 msgid "引っ張りあげるから手をっ。\n"
-msgstr ""
+msgstr "I will pull you out. So, reach out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +304,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:26 
 msgid "！！！！！！！！\n"
-msgstr ""
+msgstr "！！！！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +317,8 @@ msgstr ""
 #: sc/0044:27 
 msgid "（さ、桜井先生と手を！？\n　あの水撒きが似合いそうな手を！？）\n"
 msgstr ""
+"(He's holding S-Sakurai-sensei's hand!?\n"
+"Those hand's that would fit well for watering plants!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +331,8 @@ msgstr ""
 #: sc/0044:28 
 msgid "（羨ましい……しかし、\n　嫉妬心で生徒を救わないのは教師失格！）\n"
 msgstr ""
+"(I'm envious……but not helping out your \n"
+"student for jealousy then I'm not worthy as a teacher!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +344,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:29 
 msgid "……そうだ！\n"
-msgstr ""
+msgstr "……I know!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +357,8 @@ msgstr ""
 #: sc/0044:30 
 msgid "うおおお！！\n中之条、今ひっぱりあげるぞ！！！\n"
 msgstr ""
+"Uwoohh!!\n"
+"Nakanojou, I will pull you up now!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +370,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:31 
 msgid "桜井先生、一気に引っ張り上げましょう！\n"
-msgstr ""
+msgstr "Ms. Sakurai, let's pull him up at once!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +382,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:32 
 msgid "は、はいっ。せ―の―！\n"
-msgstr ""
+msgstr "Y-Yes. Ready, go—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +394,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:33 
 msgid "た、助かった……。\n"
-msgstr ""
+msgstr "P-Phew, that really helped…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +407,8 @@ msgstr ""
 #: sc/0044:34 
 msgid "よ、良かった〜。\n中之条くん、怪我は無い？\n"
 msgstr ""
+"I'm really glad～.\n"
+"Nakanojou-kun, you're not hurt right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +421,8 @@ msgstr ""
 #: sc/0044:35 
 msgid "はい。\nところで……高崎先生は？\n"
 msgstr ""
+"Yeah.\n"
+"By the way…… where is Mr. Takasaki?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +434,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:36 
 msgid "さ、桜井先生……。\n"
-msgstr ""
+msgstr "M-Ms. S-Sakurai…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +446,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:37 
 msgid "桜井先生―！　助けてくださ―い！！\n"
-msgstr ""
+msgstr "Ms. Sakurai—! Please help me—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +470,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:39 
 msgid "えええええええっ！？\n"
-msgstr ""
+msgstr "EHHHHHHHHHH!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +483,8 @@ msgstr ""
 #: sc/0044:40 
 msgid "（これだ！　中之条を助けた後オレが落ちる！\n　そうすれば桜井先生と手を！！）\n"
 msgstr ""
+"(This is it! After Nakanojou is helped out, I fall in myself!\n"
+"That way I can hold hands with Ms. Sakurai!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +497,8 @@ msgstr ""
 #: sc/0044:41 
 msgid "ど、どうしようっ。\n別の穴があるなんて……。\n"
 msgstr ""
+"W-What should I do. \n"
+"To think there was another hole…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +511,8 @@ msgstr ""
 #: sc/0044:42 
 msgid "わ、私、他の男の人を呼んできますねっ！\nその間少し待っててくださいっ。\n"
 msgstr ""
+"I-I'll go and ask another male teacher for help!\n"
+"Could you hold on for that time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +524,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:43 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +536,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:44 
 msgid "すぐ戻りますので！\n"
-msgstr ""
+msgstr "I'll be back in no time!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +548,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:45 
 msgid "（ええええええええ――――っ！？）\n"
-msgstr ""
+msgstr "(EHHHHHHHHHHH————!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:46 
 msgid "せ、先生も早く！\n"
-msgstr ""
+msgstr "T- Teacher please hurry you too!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +573,8 @@ msgstr ""
 #: sc/0044:47 
 msgid "ちょっと待て！！\nあれはど―ゆ―ことなんだ！！\n"
 msgstr ""
+"Wait a second!!\n"
+"Can you explain what that is!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +586,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:48 
 msgid "！！？\n"
-msgstr ""
+msgstr "!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:49 
 msgid "もう少し……がんばってねっ！\n"
-msgstr ""
+msgstr "Just hold on……for a little longer!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +610,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:50 
 msgid "早く助けてください！\n"
-msgstr ""
+msgstr "Please can someone help me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -587,8 +621,12 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0044:51 
+#, fuzzy
 msgid "埋まってるからといってあんな羨ま……\nもといけしからん流れを取り締まる方がだな。\n"
 msgstr ""
+"Despite being buried, to do something so envious……\n"
+"or no rather, doing something so outrageous controlling the situation like "
+"that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +639,8 @@ msgstr ""
 #: sc/0044:52 
 msgid "教育者としてその……なんだ！！\nその……教育者だ！！！！\n"
 msgstr ""
+"As a teacher's …what uhm, what is it!!\n"
+"It's er……as a teacher!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -611,8 +651,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0044:53 
+#, fuzzy
 msgid "先生が桜井先生の手を引っ張れば\nいいと思うんですけど！！\n"
-msgstr ""
+msgstr "I think you can just help by pulling Sakurai-sensei's hand!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +665,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:54 
 msgid "ナイスアイディア！\n"
-msgstr ""
+msgstr "Nice idea!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +677,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:55 
 msgid "（急いで助けるぜ）\n"
-msgstr ""
+msgstr "(I'll hurry up and save him)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +689,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:56 
 msgid "（それが教師ってもんだろ？）\n"
-msgstr ""
+msgstr "(Isn't that what it means to be a teacher?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +701,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:57 
 msgid "さ、桜井先生！！\n"
-msgstr ""
+msgstr "S-Sakurai-sensei!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +713,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:58 
 msgid "は、はいっ。\n"
-msgstr ""
+msgstr "Y-yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +726,8 @@ msgstr ""
 #: sc/0044:59 
 msgid "こういう時は男手の方がいいです！\n安中と一緒に誰か呼んできてください！！\n"
 msgstr ""
+"At times like this it's better to let a man do it!\n"
+"Can you call somebody here together with Ms. Annaka!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +739,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:60 
 msgid "は、はいっ、わかりましたっ！\n"
-msgstr ""
+msgstr "Y-Yes, I understand!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +751,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:61 
 msgid "安中、頼むぞ！\n"
-msgstr ""
+msgstr "Annaka, we're counting on you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +763,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:62 
 msgid "ハイッ！\n"
-msgstr ""
+msgstr "Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +776,8 @@ msgstr ""
 #: sc/0044:63 
 msgid "（よし、これで中之条と桜井先生が\n　手を繋いでいる状態は解消……）\n"
 msgstr ""
+"(Alright, now Ms. Sakurai doesn't\n"
+"have to hold hands with Nakanojou……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +789,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:64 
 msgid "（されたけど……）\n"
-msgstr ""
+msgstr "(It did solve that problem but……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +801,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:65 
 msgid "せ、先生助けて……。\n"
-msgstr ""
+msgstr "T-Teacher help me……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +813,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:66 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +825,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:67 
 msgid "先生……。\n"
-msgstr ""
+msgstr "Teacher…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,52 +837,52 @@ msgstr ""
 #  warnings: 0 
 #: sc/0044:68 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0044:69 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0044:69 
 msgid "高崎先生、お待たせ……あ、あれ？\n"
-msgstr ""
+msgstr "Takasaki-sensei, thanks for wait……or where did he?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0044:70 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0044:70 
 msgid "助けてくださ―い！\n"
-msgstr ""
+msgstr "Please help me!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0044:71 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0044:71 
 msgid "助けて……。\n"
-msgstr ""
+msgstr "Help me……\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0044:72 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
 #: sc/0044:72 
 msgid "ええ―――――っ！？\n"
-msgstr ""
+msgstr "Ehh—————!?\n"

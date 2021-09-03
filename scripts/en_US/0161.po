@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-08-31 23:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-20 22:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0161/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -126,13 +126,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:9 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0161:9 
 msgid "あ、あわわわわ……。\n"
-msgstr ""
+msgstr "Ah, awawawah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +144,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:10 
 msgid "こ、校長！？\n"
-msgstr ""
+msgstr "P-principal!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:11 
 msgid "逃げた！？\n"
-msgstr ""
+msgstr "He escaped!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:12 
 msgid "信じられん……まさか校長が。\n"
-msgstr ""
+msgstr "I can't believe it…… Really, principal…\n"
 
 #  text 
 #  warnings: 1 
@@ -210,7 +210,7 @@ msgstr "＆"
 #  warnings: 2 
 #: sc/0161:17 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  text 
 #  warnings: 1 
@@ -282,7 +282,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0161:25 
 msgid "えええっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Ehhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +312,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0161:28 
 msgid "＆"
-msgstr ""
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -402,7 +402,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:35 
 msgid "今のは囲碁サッカ―の練習だったんですよ。\n"
-msgstr ""
+msgstr "That was Igo-soccer practice.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +414,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:36 
 msgid "囲碁サッカ―……？\n"
-msgstr ""
+msgstr "Igo Soccer……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +654,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:56 
 msgid "え、え……？\n"
-msgstr ""
+msgstr "Eh, eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:62 
 msgid "は、はいっ！？\n"
-msgstr ""
+msgstr "Y-yes!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:67 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,10 +1056,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:90 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0161:90 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

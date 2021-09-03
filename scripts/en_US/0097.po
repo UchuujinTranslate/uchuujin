@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-31 23:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-10-10 09:26+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0097/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0097:0 
 msgid "ふぅ。ようやく掘り終わったな。\n"
-msgstr ""
+msgstr "Phew. I finally finished digging it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0097:1 
 msgid "前に落とし穴を仕掛けたときは、\n全て他人が落ちて失敗してしまった。\n"
 msgstr ""
+"With the last pitfall I set up,\n"
+"everyone else fell in it and it flopped.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0097:2 
 msgid "だが、今回はあの時よりも数を増やした。\n東雲が来る前に一杯になることはないだろう。\n"
 msgstr ""
+"But this time, I've increase the number of holes.\n"
+"So it won't be full before Shinonome comes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0097:3 
 msgid "正確な数と場所は失念してしまったが弌弌\n東雲がこの辺りを歩けば確実に捕獲できる！\n"
 msgstr ""
+"I forgot how many and where I dug them. But if Nano were\n"
+"to come by, I'd surely be able to catch her!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0097:4 
 msgid "おっと、そろそろ東雲が通る時間だ。\n隠れて待つとするか。\n"
 msgstr ""
+"Ooh, it's about the time Nano will\n"
+"be arriving. I ought to hide and wait.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0097:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:6 
 msgid "（来た！）\n"
-msgstr ""
+msgstr "(She's here!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0097:7 
 msgid "（フフフ、今度こそ捕獲してやるぞ東雲）\n"
 msgstr ""
+"(Fufufu. This time, I'll capture you,\n"
+"Nano Shinonome)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0097:10 
 msgid "……？\n普通に通り過ぎて行った……。\n"
 msgstr ""
+"……?\n"
+"She just passed right through them…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0097:11 
 msgid "おかしい。あそこを通ったのなら、\n確実に落ちるはずだ、何か不備が弌弌\n"
 msgstr ""
+"Odd.  I surely should've\n"
+"captured her. Something's off——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,19 +194,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:13 
 msgid "かかった！　東雲か！？\n"
-msgstr ""
+msgstr "It worked! Nano Shinonome!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:14 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:14 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +218,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:15 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  text 
 #  warnings: 1 
@@ -217,6 +231,8 @@ msgstr ""
 #: sc/0097:17 
 msgid "こんな場所にまで掘っていたのか！？\n地球の学校はここまで許されるのか！？\n"
 msgstr ""
+"A hole? Here!? Who on earth\n"
+"would do something like this!?\n"
 
 #  text 
 #  warnings: 2 
@@ -246,13 +262,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0097:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0097:22 
 msgid "それは無理だ！！\n"
-msgstr ""
+msgstr "That's impossible!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +281,8 @@ msgstr "Nakanojo"
 #: sc/0097:23 
 msgid "うわっ！？\nまたこんなとこに落とし穴が！\n"
 msgstr ""
+"Uwah!?\n"
+"There's a hole here once again!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +306,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:25 
 msgid "（またお前か……！）\n"
-msgstr ""
+msgstr "(You again……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +319,8 @@ msgstr ""
 #: sc/0097:26 
 msgid "誰か―！　誰かいませんか―！\n助けてくださ―い！\n"
 msgstr ""
+"Somebody!? Anybody!? Is there anyone\n"
+"there—!? Please help me—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +333,8 @@ msgstr ""
 #: sc/0097:27 
 msgid "（くっ、また邪魔をして……\n　そんなにモヒカンを刈られたいのか）\n"
 msgstr ""
+"(Tsk, you're in my way again……\n"
+"Do you want your Mohawk cut off so badly.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +347,8 @@ msgstr ""
 #: sc/0097:28 
 msgid "先生、あっちです！\nあっちに中之条くんが！\n"
 msgstr ""
+"Teacher, he's over there!\n"
+"Nakanojou-kun is over there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +360,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0097:29 
 msgid "よし！　行くぞ安中！\n"
-msgstr ""
+msgstr "Alright! Let's go Annaka!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:30 
 msgid "（うわ、まためんどくさいのが来た……）\n"
-msgstr ""
+msgstr "(Urgh, some other annoying ones have come……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +385,8 @@ msgstr ""
 #: sc/0097:31 
 msgid "（……あ、このままあの二人が来たら\n　落とし穴に落ちて弌弌）\n"
 msgstr ""
+"(……Hmm, at this rate, those two over\n"
+"there are sure to fall into the——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +399,8 @@ msgstr ""
 #: sc/0097:32 
 msgid "（だが、この辺りに落とし穴があると言えば\n　穴を掘ったのが私だとバレてしまう）\n"
 msgstr ""
+"(But if I say to them that there are pitfalls here they will \n"
+"likely figure out that I dug them.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +424,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:34 
 msgid "高崎先生！\n"
-msgstr ""
+msgstr "Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +436,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:35 
 msgid "（よし、今だ）\n"
-msgstr ""
+msgstr "(Alright, now is the chance.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +449,8 @@ msgstr ""
 #: sc/0097:36 
 msgid "何だこれは。\n安中、一体何があった？\n"
 msgstr ""
+"What's this.\n"
+"Annaka, do you know what has happend?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +463,8 @@ msgstr ""
 #: sc/0097:37 
 msgid "あっ、中村先生！\n中之条くんと高崎先生が穴に落ちたんです。\n"
 msgstr ""
+"Ah! Nakamura-sensei! Nakanojou-kun and\n"
+"Takasaki-sensei have fallen into a pit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +477,8 @@ msgstr ""
 #: sc/0097:38 
 msgid "ふむ。安中、シャベルを持ってこい。\n助けた後に穴を埋めるぞ。\n"
 msgstr ""
+"Hm. Annaka, can you bring a shovel.\n"
+"After we've saved them, let's bury the hole.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +490,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:39 
 msgid "あっ、はい！\n"
-msgstr ""
+msgstr "Ah, yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +502,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:40 
 msgid "（……よし、うまくごまかせた）\n"
-msgstr ""
+msgstr "(……nice, I managed to deceive them.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +514,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:41 
 msgid "高崎先生、今助けます。\n"
-msgstr ""
+msgstr "Takasaki-sensei, let me help you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +527,8 @@ msgstr ""
 #: sc/0097:42 
 msgid "その声は中村先生。\nすみません、助かります。\n"
 msgstr ""
+"That voice is, Nakamura-sensei.\n"
+"I'm sorry, thank you for helping.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:43 
 msgid "いきますよ。ふっ！\n"
-msgstr ""
+msgstr "Okay I'm going. Hgh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +564,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:45 
 msgid "う〜〜〜！！\n"
-msgstr ""
+msgstr "Uwhhhh〜!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +588,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:47 
 msgid "はぁ、はぁ、はぁ……。\n"
-msgstr ""
+msgstr "Huff, huff, huff…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +600,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:48 
 msgid "あの……中村先生？\n"
-msgstr ""
+msgstr "Eh……Nakamura-sensei?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +624,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:50 
 msgid "……上がらない。\n"
-msgstr ""
+msgstr "……I can't pull you out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:51 
 msgid "中村先生、持ってきました！\n"
-msgstr ""
+msgstr "Nakamura-sensei, I have brought the shovel!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +660,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:53 
 msgid "……このまま埋めるか。\n"
-msgstr ""
+msgstr "……let's just bury the hole like this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:54 
 msgid "ええ――――っ！\n"
-msgstr ""
+msgstr "EHH————!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +697,8 @@ msgstr ""
 #: sc/0097:56 
 msgid "よし。あの二人が落ちてから助けよう。\nそれなら私が疑われることは無い。\n"
 msgstr ""
+"Okay. Let's save them after they both have fallen into the pits.\n"
+"That way they will not suspect me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +711,8 @@ msgstr ""
 #: sc/0097:57 
 msgid "あっ、中村先生！　丁度いいところに。\n生徒が穴に落ちたんです。手伝って下さい。\n"
 msgstr ""
+"Ah, Nakamura-sensei! Good timing.\n"
+"A student fell into a pitfall. Could you help me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:58 
 msgid "（モミアゲ……！！）\n"
-msgstr ""
+msgstr "(Sideburns……!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +736,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:59 
 msgid "……わかりました。\n"
-msgstr ""
+msgstr "……Understood.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +749,8 @@ msgstr ""
 #: sc/0097:60 
 msgid "（まあ、元はと言えば私が蒔いた種だ。\n　このくらいはしないとな）\n"
 msgstr ""
+"(Welp, it's still me that caused this whole commotion.\n"
+"This is the least I can do.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +763,8 @@ msgstr ""
 #: sc/0097:61 
 msgid "（っと、この辺は落とし穴がいくつもある。\n　迂佛に歩けないな）\n"
 msgstr ""
+"(Oh, there are a lot of holes around here.\n"
+"Can't just walk carelessly.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +776,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:62 
 msgid "（掘った穴は、確かそことあそこだったはず。\n　ここは大丈弌弌）\n"
-msgstr ""
+msgstr "(The holes I dug I'm pretty sure was there, there and over the——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,19 +788,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:63 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:64 
 msgid "高崎先生＆安中"
-msgstr ""
+msgstr "Takasaki-sensei & Annaka"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:64 
 msgid "中村先生―――！！\n"
-msgstr ""
+msgstr "Nakamura-sensei———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +824,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:66 
 msgid "……ふっ弌弌\n"
-msgstr ""
+msgstr "……Fuh\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +836,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:67 
 msgid "弌弌次からは、メモが必要だな。\n"
-msgstr ""
+msgstr "——For next time, I need to do notetaking.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +848,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:68 
 msgid "うおっ！？\n"
-msgstr ""
+msgstr "Uwoah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +860,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:69 
 msgid "高崎先生！？\n"
-msgstr ""
+msgstr "Takasaki-sensei!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +872,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:70 
 msgid "きゃっ！？\n"
-msgstr ""
+msgstr "Gasp!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,37 +890,37 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:72 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:72 
 msgid "誰か―、助けて―！\n"
-msgstr ""
+msgstr "Someone-, help—!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:73 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:73 
 msgid "動けん！　くそ、全く動けん！\n"
-msgstr ""
+msgstr "I can't move! Shit, I can't move at all!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:74 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:74 
 msgid "狭い〜……。\n"
-msgstr ""
+msgstr "It's so tight〜…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +944,7 @@ msgstr "Vice Principal"
 #  warnings: 0 
 #: sc/0097:76 
 msgid "み、みなさん、大丈夫ですか！？\n"
-msgstr ""
+msgstr "E- Everyone, are you alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +956,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:77 
 msgid "うわっ！？\n"
-msgstr ""
+msgstr "Uwah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,19 +968,19 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0097:78 
 msgid "わわっ、だ、大丈夫ですか！？\n"
-msgstr ""
+msgstr "WWahh, a- are you okay!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:79 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:79 
 msgid "わぁっ！？\n"
-msgstr ""
+msgstr "Waaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,16 +992,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0097:80 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0097:81 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0097:81 
 msgid "逃げろっ！\n"
-msgstr ""
+msgstr "Run away!\n"

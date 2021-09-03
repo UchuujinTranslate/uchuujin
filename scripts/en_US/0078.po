@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:18+0000\n"
-"PO-Revision-Date: 2019-08-31 23:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-20 22:23+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0078/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakanojo-san"
 #  warnings: 0 
 #: sc/0078:0 
 msgid "う―む。\n"
-msgstr ""
+msgstr "Hmm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -126,13 +126,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:9 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0078:9 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:12 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +210,7 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0078:16 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "Eee―—!?\n"
 
 #  text 
 #  warnings: 1 
@@ -222,13 +222,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0078:18 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0078:18 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "EHH―—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:22 
 msgid "う―ん……。\n"
-msgstr ""
+msgstr "Hmmm—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +288,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:23 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:25 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +408,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:33 
 msgid "……あ、ホントだ、おいしい。\n"
-msgstr ""
+msgstr "……Ah, you're right. It's delicious.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:34 
 msgid "そうだろう！？\n"
-msgstr ""
+msgstr "Right!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:45 
 msgid "いえいえ。\n"
-msgstr ""
+msgstr "No, it's fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +684,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:56 
 msgid "ん―……。\n"
-msgstr ""
+msgstr "Hmm…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +708,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:58 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,13 +744,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0078:61 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0078:62 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 

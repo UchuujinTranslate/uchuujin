@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:01+0000\n"
-"PO-Revision-Date: 2019-08-31 02:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-10-10 09:25+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0098/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakamura-sensei"
 #: sc/0098:0 
 msgid "……よし。\nここまでが次のテスト範囲だ。\n"
 msgstr ""
+"……Alright. Up until this\n"
+"point will be what the test covers.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -35,8 +37,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:1 
+#, fuzzy
 msgid "もちろん前回の授業で出た元素記号も\n問題として出すので覚えるように。\n"
 msgstr ""
+"And of course, last lecture's periodic table symbols will appear in the "
+"test. So be sure to remember them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +54,8 @@ msgstr "Yuuko"
 #: sc/0098:2 
 msgid "ええ―！　こんなの覚えられませ―ん！\n"
 msgstr ""
+"WHAT!?\n"
+"There's no way anyone can remember this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +68,8 @@ msgstr ""
 #: sc/0098:3 
 msgid "教科書の７４ペ―ジを見ろ。\n元素記号はここに全て書かれている。\n"
 msgstr ""
+"Take a look at page 74 in the textbook.\n"
+"The periodic table can be found there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +82,8 @@ msgstr ""
 #: sc/0098:4 
 msgid "覚えやすくするために、\n歌にして覚えるのもアリだ。\n"
 msgstr ""
+"In order to more easily remember it,\n"
+"you can study it by singing it to a song.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -85,6 +96,8 @@ msgstr "Tanaka"
 #: sc/0098:5 
 msgid "すいへ―り―べ―ぼくのふね\nってやつだよね―。\n"
 msgstr ""
+"Like:\n"
+"♪ Hydrogen, Helium, Lithium, Berylium ♪\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,12 +110,14 @@ msgstr ""
 #: sc/0098:6 
 msgid "そうだ。自分の覚えやすい歌にして覚えろ。\n"
 msgstr ""
+"Precisely.\n"
+"Pick a song that will help you remember.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0098:7 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -120,7 +135,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:8 
 msgid "……ん？　校長？\n"
-msgstr ""
+msgstr "……Hmm? Principal?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +147,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:9 
 msgid "……あ、あわわ！！\n"
-msgstr ""
+msgstr "……Ah, awawah!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +159,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:10 
 msgid "な、なにか？\n"
-msgstr ""
+msgstr "W-What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +171,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:11 
 msgid "ふ……普通に授業してる！\n"
-msgstr ""
+msgstr "T……  Teaching class like normal!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,31 +189,38 @@ msgstr ""
 #  warnings: 1 
 #: sc/0098:13 
 msgid "おい、オッサンになんてこと言わせてんだよ！\n"
-msgstr ""
+msgstr "Hey, what did you just make him say!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:14 
 msgid "で、でも！\nお前もそう思うだろ？\n"
 msgstr ""
+"B-But!\n"
+"Don't you think it was the case?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:15 
+#, fuzzy
 msgid "ああ、いつも悪巧みしてるし、\n信じられないって！\n"
 msgstr ""
+"Yes. Usually she's always scheming over something evil.\n"
+"It's unbelievable!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:16 
 msgid "まぁ、確かにそうだが弌弌\n"
-msgstr ""
+msgstr "Yeah , that's true–—\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:17 
 msgid "って、オッサン！！\n何された――――っ！？\n"
 msgstr ""
+"Hey, Pops!!\n"
+"What happened――――!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +232,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:18 
 msgid "覚えやすい歌か……。\n"
-msgstr ""
+msgstr "An easy to remember song, huh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,6 +245,8 @@ msgstr ""
 #: sc/0098:19 
 msgid "む？　あまり時間も無いな。\nでは残った時間で元素記号を覚えてみろ。\n"
 msgstr ""
+"Hmm? There isn't much time. So, use the\n"
+"left over time to study the periodic table.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,6 +259,8 @@ msgstr ""
 #: sc/0098:20 
 msgid "（さてと、残った時間で私は\n　東雲なのの捕獲方法でも……）\n"
 msgstr ""
+"(Now, with the remaining time, I might\n"
+"be able to think of a plan to capture Nano Shinonome……)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -258,7 +284,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:22 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:23 
 msgid "（なんだ？　勉強なのに\n　相生が楽しそうにしている？）\n"
-msgstr ""
+msgstr "(What? Aioi is having fun…… studying?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -281,8 +307,12 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:24 
+#, fuzzy
 msgid "（一体何を書いている？　元素記号だよな？\n　何か相生の気に入る要素があったか？）\n"
 msgstr ""
+"(What is she writing? It's about the periodic table,\n"
+"right? Is there an element that is Aioi interested in?)\n"
+"[SHORTEN THIS IF POSSIBLE]\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +324,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:25 
 msgid "ねえねえみおちゃん。これ見て。\n"
-msgstr ""
+msgstr "Hey, Mio-chan. Take a look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +337,8 @@ msgstr "Mio"
 #: sc/0098:26 
 msgid "ん？　…………プフッ！\n何やってるのアンタ。\n"
 msgstr ""
+"Hmm? …………Huh!\n"
+"What are you up to.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,6 +363,8 @@ msgstr ""
 #: sc/0098:28 
 msgid "（な、何が書かれている？\n　くっ、悔しいが、気になるぞ……）\n"
 msgstr ""
+"(Wh-What is she writing? It's,\n"
+"it's frustrating, but I need to know……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +377,8 @@ msgstr ""
 #: sc/0098:29 
 msgid "（気になるな……\n　よし。ちょっと覗きに行ってみるか）\n"
 msgstr ""
+"(I wanna know……\n"
+"Alright, I'll just take a little peek)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -355,6 +391,8 @@ msgstr ""
 #: sc/0098:30 
 msgid "……あっ、ちょ、ヤバイゆっこ。\nすぐ消さないと！\n"
 msgstr ""
+"……Ah! Hey, that's sketchy Yukko.\n"
+"Erase it, quick!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:31 
 msgid "えっ？　うわっ！\n"
-msgstr ""
+msgstr "Huh? Uwah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +417,8 @@ msgstr ""
 #: sc/0098:32 
 msgid "（何っ！？　消す？　それほどまでに\n　私に見られてはマズイものなのか！？）\n"
 msgstr ""
+"(What!? Erase it? Is it so bad\n"
+"that even I shouldn't see it!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +430,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:33 
 msgid "相生！　見せろ！\n"
-msgstr ""
+msgstr "Aioi! Show it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +454,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:35 
 msgid "！！！\n"
-msgstr "!!!\n"
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +479,8 @@ msgstr ""
 #: sc/0098:37 
 msgid "（逃げた！？　ということはあのノ―トには\n　私に見られるとかなりまずいことが！？）\n"
 msgstr ""
+"(She ran away!? Then that means that that\n"
+"notebook has something it would be bad for me to see!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:38 
 msgid "逃がすかっ！　待て相生！！\n"
-msgstr ""
+msgstr "You can't run from this! Wait, Aioi!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +516,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:40 
 msgid "はっ、はっ、はっ！\n"
-msgstr ""
+msgstr "Huff, huff, huff!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +528,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0098:41 
 msgid "あっ、ろ、廊下を走っちゃだ弌弌\n"
-msgstr ""
+msgstr "Ah, no, no running in the——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:42 
 msgid "あっ……行っちゃった……。\n"
-msgstr ""
+msgstr "Ah…… She got away…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:43 
 msgid "…………あ。\n"
-msgstr "...........Ah.\n"
+msgstr "…………Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -523,6 +565,8 @@ msgstr ""
 #: sc/0098:44 
 msgid "はぁ、はぁ、はぁ……\nま、待て、相生……！\n"
 msgstr ""
+"Pant, pant, pant……\n"
+"W-Wait, Aioi……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,18 +591,20 @@ msgstr ""
 #: sc/0098:46 
 msgid "足、速すぎ……お、追いつけない……。\n"
 msgstr ""
+"My feet. She's too fast……\n"
+"I- I can't catch up…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0098:47 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0098:47 
 msgid "！？　えっ！？　えっ！？　中村先生！？\n"
-msgstr ""
+msgstr "!? Ah!? Huh!? Ms. Nakamura!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +629,8 @@ msgstr ""
 #: sc/0098:49 
 msgid "（気になる……が、\n　つられて見に行くのも亶だな）\n"
 msgstr ""
+"(I wanna know…… but, I'm getting\n"
+"too wrapped up in trying to see it.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -593,8 +641,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:50 
+#, fuzzy
 msgid "（しかし一度気にしてしまうと\n　見たくて見たくてたまらなくなるな……）\n"
 msgstr ""
+"(Once I start caring about something,\n"
+"I'll do anything to see it through……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +658,8 @@ msgstr ""
 #: sc/0098:51 
 msgid "ねえゆっこ、ここはもっと\nこうした方がいいんじゃない？\n"
 msgstr ""
+"Hey Yukko, here, do you think\n"
+"it'd be better to do it like this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +672,8 @@ msgstr ""
 #: sc/0098:52 
 msgid "おお！　流石みお先生！\nさっきよりも全然良くなったよ。\n"
 msgstr ""
+"Oh!! Spot on, teacher Mio!\n"
+"It's way much better than before.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:54 
 msgid "（な、何だ、一体何が\n　さっきよりも良くなったんだ？）\n"
-msgstr ""
+msgstr "(W-What? What is it that got better than before?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +710,8 @@ msgstr ""
 #: sc/0098:55 
 msgid "（それにさっきはどんな物だったんだ？\n　気になる気になる気になる……）\n"
 msgstr ""
+"(What was it like before?\n"
+"Ah, I wanna know. I wanna know……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -665,8 +722,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:56 
+#, fuzzy
 msgid "（あっ、終わった……\n　結局ノ―トの中身は見られずじまいか）\n"
 msgstr ""
+"(Ah, it's over…… In the end, the content\n"
+"of that notebook won't be unearthed)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +738,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:57 
 msgid "（…………あ、そうだ）\n"
-msgstr ""
+msgstr "(…………Ah, I know.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +751,8 @@ msgstr ""
 #: sc/0098:58 
 msgid "これで授業は終わる。\nあと、ノ―トを提出するように。\n"
 msgstr ""
+"And with that, class is over.\n"
+"Please pass your exercise books forward.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +765,8 @@ msgstr ""
 #: sc/0098:59 
 msgid "ふふふ、我ながら\n素晴らしい方法を思いついたものだ。\n"
 msgstr ""
+"All thanks to my brilliant on-the-spot\n"
+"thinking if I were to say so myself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +779,8 @@ msgstr ""
 #: sc/0098:60 
 msgid "これなら誰にも見られることなく、\nいくらでも相生のノ―トの中身を見られるぞ。\n"
 msgstr ""
+"At last, without bystander, I may view\n"
+"Aioi's notebook as much as I'd like.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:61 
 msgid "さて、相生のノ―トには一体何が書かれて……。\n"
-msgstr ""
+msgstr "Now then, let's see what Aioi wrote…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:64 
 msgid "消されてる！\n"
-msgstr ""
+msgstr "It's been erased!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +841,8 @@ msgstr ""
 #: sc/0098:65 
 msgid "（よし。さりげなく、\n　遠くからノ―トを覗いてやる）\n"
 msgstr ""
+"(Okay. I'll casually look at\n"
+"the notebook from a distance)\n"
 
 #  speaker 
 #  warnings: 3 
@@ -786,19 +854,19 @@ msgstr ""
 #  warnings: 3 
 #: sc/0098:66 
 msgid "〜〜〜\n"
-msgstr ""
+msgstr "〜〜〜〜〜\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0098:67 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0098:67 
 msgid "でさ、こんな感じじゃないかな？\n"
-msgstr ""
+msgstr "So, I think it's more like this maybe?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:68 
 msgid "あはははは。\n"
-msgstr ""
+msgstr "Ahahahaha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -821,8 +889,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:69 
+#, fuzzy
 msgid "（ここからノ―トを……！）\n"
-msgstr ""
+msgstr "(Looking at the notebook from here……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +903,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:70 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,7 +915,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:71 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +927,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:72 
 msgid "（似てね――――！！）\n"
-msgstr ""
+msgstr "(It's not similar at all————!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,16 +939,17 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:73 
 msgid "（と言うか……）\n"
-msgstr ""
+msgstr "(Or, rather……)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0098:74 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0098:74 
+#, fuzzy
 msgid "（自習しろよ……）\n"
-msgstr ""
+msgstr "(study for the test instead……)\n"

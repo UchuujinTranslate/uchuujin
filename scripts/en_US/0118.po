@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0118/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0118:0 
 msgid "こんにちは……今日も一番かな。\n"
-msgstr ""
+msgstr "Hello……I guess I'm the first one here like usual.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0118:1 
 msgid "（すぐ来るだろうし、\n　いつも通りにして待ってればいいか）\n"
 msgstr ""
+"(They will probably be here soon anyways, \n"
+"I guess i'll just wait like I usually do)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0118:2 
 msgid "……あれ？\nボ―ル、昨日片付け忘れてたっけ。\n"
 msgstr ""
+"……what's this?\n"
+"A ball, did I forget to put it aways yesterday.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:3 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:4 
 msgid "ちょっとだけ、遊んでみようかな？\n"
-msgstr ""
+msgstr "Maybe I will play with it a little?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:5 
 msgid "えいっ。\n"
-msgstr ""
+msgstr "There.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:6 
 msgid "あ……意外と続くかも。\n"
-msgstr ""
+msgstr "Ah……I might be able to keep this for a while actually.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:7 
 msgid "９、１０、１１、１２……。\n"
-msgstr ""
+msgstr "9, 10, 11, 12\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +124,7 @@ msgstr "Makoto"
 #  warnings: 0 
 #: sc/0118:8 
 msgid "こんにちは―。\n"
-msgstr ""
+msgstr "Hello—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +136,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:9 
 msgid "あ、こんにちは。\n"
-msgstr ""
+msgstr "Ah, hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +148,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:10 
 msgid "あれ、関口さんそれ……。\n"
-msgstr ""
+msgstr "Wait, Sekiguchi-san isn't that\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +160,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:11 
 msgid "いえ、遊んでただけなので弌弌。\n"
-msgstr ""
+msgstr "No, I was just playing around a little——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +172,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:12 
 msgid "すっごく上手いですよ！！\n"
-msgstr ""
+msgstr "You were really amazing!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:13 
 msgid "弌弌え？\n"
-msgstr ""
+msgstr "——Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +197,8 @@ msgstr ""
 #: sc/0118:14 
 msgid "ボ―ルコントロ―ルに才能を感じます！\nもうちょっと見せてくれませんか！？\n"
 msgstr ""
+"I feel you have a talent for ball control!\n"
+"Could you show me a little more!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:15 
 msgid "いえ、私はその……。\n"
-msgstr ""
+msgstr "No, I'm not that…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:16 
 msgid "お願いします！\n"
-msgstr ""
+msgstr "Please!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:17 
 msgid "……少しだけですよ。\n"
-msgstr ""
+msgstr "…Only for a while okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +246,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:18 
 msgid "えい……っ、やっ！\n"
-msgstr ""
+msgstr "Hey……yahh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +259,8 @@ msgstr ""
 #: sc/0118:19 
 msgid "うまいうまい。\nやっぱり才能ありますって。\n"
 msgstr ""
+"Wow, that's really good.\n"
+"I'm sure you have a talent for it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +273,8 @@ msgstr ""
 #: sc/0118:20 
 msgid "そうですか？\n弌弌あっ、強く蹴りすぎ……。\n"
 msgstr ""
+"Do you think so?\n"
+"——Ah, I kicked too hard\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,19 +286,19 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0118:21 
 msgid "キャン！？\n"
-msgstr ""
+msgstr "Kyaa!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0118:22 
 msgid "関口＆桜井誠"
-msgstr ""
+msgstr "Sekiguchi & Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0118:22 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  text 
 #  warnings: 1 
@@ -337,6 +347,8 @@ msgstr ""
 #: sc/0118:29 
 msgid "うん、やっぱり上手い。\n関口さん、本当に初心者なんですか？\n"
 msgstr ""
+"Yeah, it sure is good.\n"
+"Sekiguchi-san, are you sure you are a beginner at this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +360,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:30 
 msgid "サッカ―ボ―ルなんて、\n授業以外で触ったことないですよ。\n"
-msgstr ""
+msgstr "For soccer, I have never kicked one outside of gym class.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,18 +373,20 @@ msgstr ""
 #: sc/0118:31 
 msgid "それでこの実力弌弌\n本物だ、本物の天才が……。\n"
 msgstr ""
+"And then with this competence——\n"
+"This is it, this is a true genius\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0118:32 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0118:32 
 msgid "お―っす、お、二人とも早いな。\n"
-msgstr ""
+msgstr "Hello, oh you two are here early.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +399,8 @@ msgstr ""
 #: sc/0118:33 
 msgid "部長！　見てくださいよこれ！！\n関口さん凄くないですか！？\n"
 msgstr ""
+"Club President! Just look at this!\n"
+"Isn't Sekiguchi-san amazing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +413,8 @@ msgstr ""
 #: sc/0118:34 
 msgid "おおっ、確かにすげぇ！\n関口リフティング上手いじゃないか！\n"
 msgstr ""
+"Ohh, she sure is!\n"
+"From when have you been so good at ball juggling, Sekiguchi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +426,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:35 
 msgid "……そうですか？\n"
-msgstr ""
+msgstr "……I don't know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +438,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:36 
 msgid "（褒められるのは、悪くないかも）\n"
-msgstr ""
+msgstr "(Getting praised by doesn't feel that bad actually)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +451,8 @@ msgstr ""
 #: sc/0118:37 
 msgid "ただ、欠点を言うなら……。\n見えてるんだよな。\n"
 msgstr ""
+"But, if I would say one weak point……\n"
+"it's that your are showing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +464,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:38 
 msgid "！！！！？\n"
-msgstr ""
+msgstr "!!!!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +476,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:39 
 msgid "（み、見られた！？）\n"
-msgstr ""
+msgstr "(D- Did he see it!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:40 
 msgid "部長っ、危ない！！\n"
-msgstr ""
+msgstr "C- Club President, watch out!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:41 
 msgid "がはっ！？\n"
-msgstr ""
+msgstr "Guhahh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +512,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:42 
 msgid "部長っ、大丈夫ですか部長！？\n"
-msgstr ""
+msgstr "President, are you alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +525,8 @@ msgstr ""
 #: sc/0118:43 
 msgid "……す、すみません。\n足が滑っちゃって……。\n"
 msgstr ""
+"……I- I'm sorry.\n"
+"I slipped and……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:44 
 msgid "いたたたた……関口、ナイスシュ―ト。\n"
-msgstr ""
+msgstr "Ouch ouch ouch……Sekiguchi, nice shot.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:45 
 msgid "弌弌ぶ、部長これ！！\n"
-msgstr ""
+msgstr "——C- Club President look at this!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +563,8 @@ msgstr ""
 #: sc/0118:46 
 msgid "うん？　こ、これは！？\nボ―ルの上に碁石が並んでる！！\n"
 msgstr ""
+"Hm? W- What's this!?\n"
+"There's Igo-stones lined up on top of the ball!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +577,8 @@ msgstr ""
 #: sc/0118:47 
 msgid "これは伝説の大技、九連星弌弌\nそう、紅白碁石合戦（オ―ルスタ―）っ！\n"
 msgstr ""
+"It's that legendary special move, the Nine Stars——\n"
+"Yes, it's the Kohaku Igo Battle (The All Stars)!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +590,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:48 
 msgid "そんな技、あるんですか？\n"
-msgstr ""
+msgstr "There's really a move like that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +603,8 @@ msgstr ""
 #: sc/0118:49 
 msgid "こんなのプロでも滅多に見られませんよ！\n関口さん、本当に初心者ですか！？\n"
 msgstr ""
+"You hardly even see pros doing this move often!\n"
+"Sekiguchi- are you sure you are a beginner at this!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:50 
 msgid "本当ですって。\n"
-msgstr ""
+msgstr "I'm telling you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +628,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:51 
 msgid "凄い才能だ……部長っ！\n"
-msgstr ""
+msgstr "This is incredible talent……Club President!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +641,8 @@ msgstr ""
 #: sc/0118:52 
 msgid "おう！　関口、今日からお前も練習な！\n一緒に全国を目指そうぜ！！\n"
 msgstr ""
+"Yeah! Sekiguchi, from today you'll practice too!\n"
+"Let's aim for the world championship together!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +654,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:53 
 msgid "嫌です。\n"
-msgstr ""
+msgstr "I don't.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +667,8 @@ msgstr ""
 #: sc/0118:54 
 msgid "そう言うなって！\nよ―し、早速リフティングからだ！\n"
 msgstr ""
+"C'mon don't say that!\n"
+"Alright, let's start with ball lifting then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +680,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:55 
 msgid "関口さん、一緒に頑張りましょう！\n"
-msgstr ""
+msgstr "Sekiguchi-san, come on let's do our best together!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:57 
 msgid "っっっ！！！！\n"
-msgstr ""
+msgstr "！！！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:58 
 msgid "んげッ！！\n"
-msgstr ""
+msgstr "HNGHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:59 
 msgid "ぶ、部長！？\n"
-msgstr ""
+msgstr "C- Club President!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:60 
 msgid "……ネジ？\n"
-msgstr ""
+msgstr "……A windmill key?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +752,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:61 
 msgid "しっかりしてください部長！\n"
-msgstr ""
+msgstr "Are you okay, Club President?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:62 
 msgid "ハラホロヒレハレ〜。\n"
-msgstr ""
+msgstr "Hara-horo-hire-hare〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +776,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:63 
 msgid "……部長、しっかりしてください。\n"
-msgstr ""
+msgstr "……Club President, pull yourself together.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +789,8 @@ msgstr ""
 #: sc/0118:64 
 msgid "ん、ああ……いたたた。\nあれ？　今どうなったんだ？\n"
 msgstr ""
+"Hm, ahh……ow- ow- ow-. \n"
+"Wait? What just happend now?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +802,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:65 
 msgid "どこからかネジが飛んできて\n部長に直撃したんです。\n"
-msgstr ""
+msgstr "There was a key that flew by that landed directly on you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +815,8 @@ msgstr ""
 #: sc/0118:66 
 msgid "部長ってばついてないですよね。\n部室に来ていきなりですよ。\n"
 msgstr ""
+"It sure isn't your day Club President.\n"
+"Really the first that happend when you got here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:67 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +841,8 @@ msgstr ""
 #: sc/0118:68 
 msgid "あれ……？　あ―、そっか。ドア開けて\nいきなりネジが飛んできたのか。\n"
 msgstr ""
+"Wait huh……? Ah— I see. So the moment I \n"
+"stepped through the doorway there was a key that hit me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +855,8 @@ msgstr ""
 #: sc/0118:69 
 msgid "そうですよ！\n来ていきなり！　オレたちが挨拶してすぐ！\n"
 msgstr ""
+"That's right!\n"
+"Right when you got here! Right after you greeted us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +868,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:70 
 msgid "だよな。いたたた……。\n"
-msgstr ""
+msgstr "Yeah right. Ouch ouch……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +880,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:71 
 msgid "ハンカチ濡らしてきます。\n"
-msgstr ""
+msgstr "I'll go wet a handkerchief.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +892,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:72 
 msgid "サンキュ―、関口。\n"
-msgstr ""
+msgstr "Thank you, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +905,8 @@ msgstr ""
 #: sc/0118:73 
 msgid "（……何だかわからないけど、\n　ありがとうネジ。それと桜井くん）\n"
 msgstr ""
+"(I don't really get this but, \n"
+"thank you key. And also Sakurai-kun.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,6 +919,8 @@ msgstr ""
 #: sc/0118:74 
 msgid "ぶ、部長！\n流石にそれはちょっとデリカシ―が……。\n"
 msgstr ""
+"C- Club President! \n"
+"I think you got to have more delicacy with your wording……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +932,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:75 
 msgid "いいですよ。\n"
-msgstr "Okay.\n"
+msgstr "It's fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +956,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:77 
 msgid "どうせ体操着下に着てますし。\n"
-msgstr ""
+msgstr "Either way I'm wearing my gym uniform under.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +968,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:78 
 msgid "な―んだ。\n"
-msgstr ""
+msgstr "So that's how it was.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +980,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:79 
 msgid "いや、でもやっぱり気になりませんか？\n"
-msgstr ""
+msgstr "No but aren't you bothered by it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +992,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:80 
 msgid "それほどでも。\n"
-msgstr ""
+msgstr "Not that much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1005,8 @@ msgstr ""
 #: sc/0118:81 
 msgid "関口ってそんな感じだもんな。\nク―ルっていうかさ。\n"
 msgstr ""
+"Sekiguchi is usually like that right. \n"
+"Like always cool, you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -972,7 +1018,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:82 
 msgid "う―ん……。\n"
-msgstr ""
+msgstr "Hmmm—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -985,6 +1031,7 @@ msgstr ""
 #: sc/0118:83 
 msgid "でも、気にしないのと怒らないのは別なので。\n"
 msgstr ""
+"But being bothered and being angry for it are two different things so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -996,7 +1043,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:84 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1008,7 +1055,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:85 
 msgid "二人とも正座してください。\n"
-msgstr ""
+msgstr "You two please sit in seiza.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1020,7 +1067,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:86 
 msgid "えぇ―――っ！？\n"
-msgstr ""
+msgstr "EHH——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1079,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:87 
 msgid "え、オレも！？\n"
-msgstr ""
+msgstr "Eh, me too!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1044,13 +1091,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:88 
 msgid "正座。\n"
-msgstr ""
+msgstr "Seiza.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0118:89 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -1062,22 +1109,22 @@ msgstr ""
 #  warnings: 0 
 #: sc/0118:90 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0118:90 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0118:91 
 msgid "大工＆桜井誠"
-msgstr ""
+msgstr "Daiku & Sakurai Makoto"
 
 #  text 
 #  warnings: 0 
 #: sc/0118:91 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"

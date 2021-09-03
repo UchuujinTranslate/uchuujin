@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
+"PO-Revision-Date: 2021-03-11 21:31+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0082/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -66,13 +66,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:4 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
 #: sc/0082:4 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +96,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:6 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:8 
 msgid "こんにちは。\n"
-msgstr ""
+msgstr "Hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:9 
 msgid "え、あ、はい。こんにちは。\n"
-msgstr ""
+msgstr "Eh, ah, yeah. Hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:15 
 msgid "へ？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0082:22 
 msgid "ん？　どうした？\n"
-msgstr ""
+msgstr "Hmph? What is it?\n"
 
 #  text 
 #  warnings: 1 
@@ -294,13 +294,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0082:25 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0082:25 
 msgid "うわああああああ！\n"
-msgstr ""
+msgstr "Uwahhhhhhhh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:42 
 msgid "なに？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:56 
 msgid "うん！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +852,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:71 
 msgid "……ま、いっか。\n"
-msgstr ""
+msgstr "……Well, whatever.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -924,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:77 
 msgid "うん！　教えるよ！\n"
-msgstr ""
+msgstr "Yeah! I'll teach you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,6 +937,8 @@ msgstr "Yuuko"
 #: sc/0082:78 
 msgid "あれ？　あれってはかせと……\nみおちゃんのお姉さん？　何してるんだろ？\n"
 msgstr ""
+"What? Is that Hakase with…… Mio-chan's\n"
+"older sister? What are they doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,13 +1070,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0082:89 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0082:90 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

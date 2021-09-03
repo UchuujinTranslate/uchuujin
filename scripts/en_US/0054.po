@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2019-08-30 22:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-12 22:31+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0054/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:0 
 msgid "今日が半日で良かった。\n"
-msgstr ""
+msgstr "We're lucky today was a half day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0054:1 
 msgid "（早く、早く帰って……\n　木製と銅製の弥佗菩薩を並べて飾ろう）\n"
 msgstr ""
+"(Let's go home quickly… I want to\n"
+"set up and decorate my Maitreyas)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -47,8 +49,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:2 
+#, fuzzy
 msgid "（ふふ、これは良い機会かもしれない。\n　銅製にも手を伸ばして弌弌）\n"
 msgstr ""
+"(Haha, this might be a good chance.\n"
+"I'll try my hand at bronzes as well)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +65,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:3 
 msgid "弌弌うっ！？\n"
-msgstr ""
+msgstr "——uh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +77,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:4 
 msgid "（また、金縛り……）\n"
-msgstr ""
+msgstr "(Again, this paralysis……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +89,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:5 
 msgid "（やっぱり体は動かせない）\n"
-msgstr ""
+msgstr "(Like before, I can't move my body)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +101,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:6 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +113,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:7 
 msgid "（弌弌はっ！）\n"
-msgstr ""
+msgstr "(Ohh!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +125,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:8 
 msgid "（……あ、右手が動くようになった）\n"
-msgstr ""
+msgstr "(……ah, I can move my right hand now.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,19 +137,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:9 
 msgid "（でも右手だけで声は出せない……）\n"
-msgstr ""
+msgstr "(but I can't speak with only my hand……)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0054:10 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0054:10 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +160,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:11 
+#, fuzzy
 msgid "（あれは校長？\n　うまく伝えることができれば弌弌あっ）\n"
 msgstr ""
+"(Is that the Principal?\n"
+"If only I could communicate with him.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -175,78 +183,103 @@ msgstr "!?\n"
 #: sc/0054:13 
 msgid "突然倒れたぞ！？\nど、どうしよう！\n"
 msgstr ""
+"She collapsed!?\n"
+"Wa— What should we do?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:14 
 msgid "慌てるな！\nまずは体を起こしてあげるんだ。\n"
 msgstr ""
+"Stay calm!\n"
+"First, let me sit you back up.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:15 
 msgid "でも、それってセクハラじゃないのか？\nこのお年頃の女の子は難しいって聞くぞ？\n"
 msgstr ""
+"But, isn't that sexual harassment?\n"
+"Shouldn't we ask a girl to do it?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:16 
+#, fuzzy
 msgid "そうだった。地球では挨拶しただけで、\n犯罪者として通報されるらしいしな。\n"
 msgstr ""
+"That's right. We've only just come to Earth,\n"
+"Let's not give the impression that we're criminals.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:17 
 msgid "ああ。助けたいが通報はまずい……\n弌弌くそ、俺たちには何もできないのか！？\n"
 msgstr ""
+"Argh. I want to help, but…\n"
+"Damnit, isn't there anything we can do!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:18 
 msgid "ええい、通報がなんだ！\n俺は、この子を助けるぞ！\n"
 msgstr ""
+"Hey, what about this!\n"
+"I'll go and help her!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:19 
 msgid "……そうだよな！　それが人の道だよな！\nよし、早速この子を助け弌弌\n"
 msgstr ""
+"……Right on! That's how people act!\n"
+"OK, go help that girl at once——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:20 
+#, fuzzy
 msgid "どわ―っ！？　少し目を離してた隙に、\n警官に捕まった――っ！！！\n"
 msgstr ""
+"Dwa—!? I take my eyes off her for a \n"
+"second, and the police arrest her!!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:21 
 msgid "そ、そうか！　倒れた女の子の前に\nオッサンがいたら、俺ならオッサンを疑う！\n"
 msgstr ""
+"I– I see! If I saw a middle-aged man \n"
+"in front of a fallen girl, I'd suspect him!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:22 
+#, fuzzy
 msgid "……すまない……オッサン！\n俺たちも同罪だと言うのに……。\n"
 msgstr ""
+"I'm……sorry……middle-aged man!\n"
+"I'd say we're just as guilty as you……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:23 
 msgid "大丈夫さ。\n天罰は、俺たちにも用意されてるみたいだぜ？\n"
 msgstr ""
+"It's fine.\n"
+"Looks like we're in for a bit of divine punishment, huh?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:24 
 msgid "え……まさか、それって……。\n"
-msgstr ""
+msgstr "Eh……It can't be, not like that……\n"
 
 #  text 
 #  warnings: 2 
 #: sc/0054:25 
 msgid "イェ―――ス\n"
-msgstr ""
+msgstr "Yessss\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +291,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0054:26 
 msgid "うわっ！？　どうしたの麻衣ちゃん！\n"
-msgstr ""
+msgstr "Uwa!? What's the matter, Mai-chan!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +303,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:27 
 msgid "（あ、ゆっこ。いいところに……）\n"
-msgstr ""
+msgstr "(Ah, Yukko. Good timing……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +316,8 @@ msgstr ""
 #: sc/0054:28 
 msgid "（あ、でも右手しか動かさないで\n　金縛りを伝えるのは……）\n"
 msgstr ""
+"(Ah, but how can I tell her I'm paralyzed\n"
+"if I can only move my right hand……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,8 +340,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:30 
+#, fuzzy
 msgid "な、なに？　手で字を書いて……\nか…な…。\n"
 msgstr ""
+"Wh– what? Are you writing something…?\n"
+"P – A – R – A –\n"
 
 #  speaker 
 #  warnings: 0 
@@ -317,8 +355,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:31 
+#, fuzzy
 msgid "……ばり？　かなばり？\n金針？　金張り？\n"
 msgstr ""
+"L  – ? Parallel? \n"
+"Paralegal? Parality?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +383,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:33 
 msgid "（やっぱりゆっこじゃダメだ）\n"
-msgstr ""
+msgstr "(As expected, she's useless.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +408,8 @@ msgstr ""
 #: sc/0054:35 
 msgid "麻衣ちゃんお願い！　もう一回！\nもう一回だけチャンスちょうだい？\n"
 msgstr ""
+"Mai-chan, please! One more time!\n"
+"Just give me one more chance!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +421,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:36 
 msgid "ふぉっ！？\n"
-msgstr ""
+msgstr "Fwo!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +433,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:37 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +445,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:38 
 msgid "ふぅ。\n"
-msgstr ""
+msgstr "Phew.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -438,7 +481,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:41 
 msgid "じゃ、また明日。\n"
-msgstr ""
+msgstr "Well, see you tomorrow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +518,8 @@ msgstr ""
 #: sc/0054:44 
 msgid "ん？　これは……普通に手招き？\n顔近付けろって？\n"
 msgstr ""
+"Hm? Is this…… your normal way of beckoning?\n"
+"You want me to move my face closer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +543,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:46 
 msgid "はいはい、何？\n"
-msgstr ""
+msgstr "Alright, what's up?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -510,7 +555,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0054:47 
 msgid "！！！\n"
-msgstr ""
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -523,6 +568,8 @@ msgstr ""
 #: sc/0054:48 
 msgid "何さ！　喋ってくれないとわかんないよ！\n"
 msgstr ""
+"What is it!?\n"
+"Why won't you just talk to me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +594,8 @@ msgstr ""
 #: sc/0054:50 
 msgid "え、手の平を貸せ？　あ、指で文字書くのね。\nええと……い、ま……か、な……し弌弌\n"
 msgstr ""
+"My palm? Oh, you want to use your finger\n"
+"to write? Uh, D – A – P – A – I ???\n"
 
 #  speaker 
 #  warnings: 0 
@@ -557,8 +606,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:51 
+#, fuzzy
 msgid "長い！　麻衣ちゃん、携帯にしよ？\n携帯で文字打とう？\n"
 msgstr ""
+"That's taking too long! Mai-chan, what about\n"
+"a phone? Can you try using the keyboard?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:53 
 msgid "ほら、私の貸すから。\n"
-msgstr ""
+msgstr "Here, I'll give you mine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +659,8 @@ msgstr ""
 #: sc/0054:55 
 msgid "はいはい。えっと、なになに？\n金縛りなう？\n"
 msgstr ""
+"Ok, ok. Uh, What's this?\n"
+"You're paralyzed?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +673,8 @@ msgstr ""
 #: sc/0054:56 
 msgid "あっ、金縛りにあってたんだ！\nなんだも―、それなら早く言ってよ―。\n"
 msgstr ""
+"Ah, so it was paralysis!\n"
+"Well then, why didn't you say so sooner—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +686,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:57 
 msgid "痛っ！\n"
-msgstr ""
+msgstr "Ouch!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +698,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:58 
 msgid "もう治った。\n"
-msgstr ""
+msgstr "I'm better.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +710,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:59 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +723,8 @@ msgstr ""
 #: sc/0054:60 
 msgid "あ、違った？\nじゃあ、えっと……。\n"
 msgstr ""
+"Ah, was it something else?\n"
+"Well, err……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +736,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:61 
 msgid "あっ！　かなりバリバリ！！\n"
-msgstr ""
+msgstr "Ah! Parappa the rappa!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +761,8 @@ msgstr ""
 #: sc/0054:63 
 msgid "……ごめん。\n麻衣ちゃんはそんなボケしないよね。\n"
 msgstr ""
+"……Sorry.\n"
+"You wouldn't make a joke like that, heh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,19 +786,20 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:65 
 msgid "ちょっとだけ時間ちょうだい！\n"
-msgstr ""
+msgstr "Just give me a minute!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0054:66 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0054:66 
+#, fuzzy
 msgid "絶対に麻衣ちゃんからのパスで\nシュ―トを決めるから！\n"
-msgstr ""
+msgstr "I'll definitely shoot it with a pass from Mai-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,16 +811,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:67 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0054:68 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0054:68 
 msgid "（ダメだこりゃ）\n"
-msgstr ""
+msgstr "(This is hopeless)\n"

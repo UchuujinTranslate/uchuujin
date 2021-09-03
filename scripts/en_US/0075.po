@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:03+0000\n"
-"PO-Revision-Date: 2019-08-31 23:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-06-17 09:02+0000\n"
+"Last-Translator: Rio Okamoto <laaaa@sute.jp>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0075/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:7 
 msgid "あ、あわわっ！　どうしよっ、また！？\n"
-msgstr ""
+msgstr "Ah, awawah! Again what should I do!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:8 
 msgid "きゃっ、カバンが！！\n"
-msgstr ""
+msgstr "Kyah, my bag's!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,13 +192,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0075:17 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0075:17 
 msgid "うわああああああ――――っ！\n"
-msgstr ""
+msgstr "UWAAAAAAAAAAAH————!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,8 +305,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0075:26 
+#, fuzzy
 msgid "助けてくれ―！\n"
-msgstr ""
+msgstr "Heeelp!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +319,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:27 
 msgid "高崎先生！\n"
-msgstr ""
+msgstr "Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +355,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:30 
 msgid "桜井せんせ弌弌\n"
-msgstr ""
+msgstr "Ms. Sakurai!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +367,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:31 
 msgid "ま、待て安中！！！\n"
-msgstr ""
+msgstr "W-wait Annaka!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +523,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:44 
 msgid "ありがとな安中！\n"
-msgstr ""
+msgstr "Thanks Annaka!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +535,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:45 
 msgid "……えっ、えっ？\n"
-msgstr ""
+msgstr "……Eh, eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +547,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:46 
 msgid "（ええ―――っ！！？）\n"
-msgstr ""
+msgstr "(Ehh———!!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +559,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:47 
 msgid "先生、大丈夫ですか！？\n"
-msgstr ""
+msgstr "Teacher, is everything alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +571,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:48 
 msgid "安中か！　大丈夫なわけないだろう！\n"
-msgstr ""
+msgstr "Annaka! Everything is not alright!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +619,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:52 
 msgid "なるほど、こうか！\n"
-msgstr ""
+msgstr "I see, like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +703,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:59 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +715,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:60 
 msgid "あ、あ、あ、安中っ！　助けてくれ―！\n"
-msgstr ""
+msgstr "A, A, A, Annaka! Please help—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +799,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:67 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +841,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:71 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -882,13 +883,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0075:74 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0075:75 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-08-31 23:05+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-17 17:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0014/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0014:0 
 msgid "はぁ……やっと帰れる……。\n"
-msgstr ""
+msgstr "Sigh…… I can finally go home…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0014:1 
 msgid "（すぐに郵便局行って\n　この原稿を送らなきゃ……）\n"
 msgstr ""
+"(I'll head to the post office right\n"
+"away and post these draft pages……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0014:2 
 msgid "（……っと、その前に、\n　念のため中を確認しとこっと）\n"
 msgstr ""
+"(……Oh yeah,\n"
+"I'll check one last time just in case)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0014:3 
 msgid "（…………よし。周りに誰もいない。\n　今の内に……１……４……８……）\n"
 msgstr ""
+"(………Ok, there's no one around.\n"
+"Let me see……1 ……4 ……8 ……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0014:4 
 msgid "……ん？\n数え間違えたかな。もう一回……。\n"
 msgstr ""
+"……Hm? I must've counted them wrong.\n"
+"I'll count them again…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:7 
 msgid "（な――――――いっ！！）\n"
-msgstr ""
+msgstr "(It's—————— gone!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0014:8 
 msgid "（いや違う、正確には、\n　足りな―――――――いっ！！）\n"
 msgstr ""
+"(Or actually, rather, \n"
+"they are lacking——————!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0014:9 
 msgid "（やっぱりあれだ！\n　ゆっことぶつかった時！！）\n"
 msgstr ""
+"(It must've been then! The time when\n"
+"Yukko and I bumped into each other!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +157,8 @@ msgstr ""
 #: sc/0014:10 
 msgid "（くっ、タイムリミットは！？\n　ううっ！？　あと数時間しかない！）\n"
 msgstr ""
+"(Tsk, what's the time limit!?\n"
+"Uwahh!? I only have a few hours!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +171,8 @@ msgstr ""
 #: sc/0014:11 
 msgid "（ええい、悔やんでいる間も惜しい！\n　今からでも探し出してやる！）\n"
 msgstr ""
+"(No. There's no time for frustration!\n"
+"I can still go and look for them!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +185,8 @@ msgstr "Sakurai Sensei"
 #: sc/0014:12 
 msgid "あっ、長野原さん。\nちょっと相談があるんですけど弌弌\n"
 msgstr ""
+"Ah, Miss Naganohara. \n"
+"Could you wait just a moment, I have something I want to discuss with you\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +199,8 @@ msgstr ""
 #: sc/0014:13 
 msgid "え―っ！？　すみません、\nいま急いでるんで今度にしてください！！\n"
 msgstr ""
+"Huh!? S- Sorry I'm in a bit of a rush right now so could we take it another "
+"time perhaps!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +213,8 @@ msgstr ""
 #: sc/0014:14 
 msgid "あの、お時間は取らせませんから……\nちょっとだけお願いします。\n"
 msgstr ""
+"Er, this won't take long.....\n"
+"Please, just for a minute.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +226,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:15 
 msgid "うぅ〜……な、なんですか？\n"
-msgstr ""
+msgstr "Uhh~.....W- What is it about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +238,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:16 
 msgid "はい、実は……あれのことなんですけど。\n"
-msgstr ""
+msgstr "Well you see, it's about that thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +250,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:17 
 msgid "あれ？\n"
-msgstr ""
+msgstr "That?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +275,9 @@ msgstr ""
 #: sc/0014:19 
 msgid "長野原さんの絵がとても素敵だったので、\n生活指導の垂れ幕に使わせてもらったんです。\n"
 msgstr ""
+"I thought your drawings were so lovely, \n"
+"so I thought I could put it up on this hanging poster to promote students "
+"civic guidance.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +302,8 @@ msgstr ""
 #: sc/0014:21 
 msgid "美術部の子が描いてくれたんです。\n元の絵そっくりで良くできてますよね。\n"
 msgstr ""
+"It was the nice students in the art club who made this. \n"
+"It's just like the original art piece right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +327,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:23 
 msgid "？？？\n"
-msgstr ""
+msgstr "???\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +340,8 @@ msgstr ""
 #: sc/0014:24 
 msgid "（終わった……\n　私の平穏な学園生活が崩れていく……）\n"
 msgstr ""
+"(It's over.....\n"
+"My peaceful student life is crumbling to pieces.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +353,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:25 
 msgid "…………ん？\n"
-msgstr ""
+msgstr "………Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +378,8 @@ msgstr ""
 #: sc/0014:27 
 msgid "（あそこに引っかかってるの、\n　私の原稿だ！！）\n"
 msgstr ""
+"(What's the thing stuck up there..\n"
+"It's my draft page!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,12 +392,14 @@ msgstr ""
 #: sc/0014:28 
 msgid "あっ！？　こっちに落ちてくる！！\nやった、そのまま弌弌\n"
 msgstr ""
+"Ah!? It's falling this way!!\n"
+"Yay, just a bit more and——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0014:29 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -396,7 +429,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:31 
 msgid "見るな――――――！！\n"
-msgstr ""
+msgstr "Hey don't watch--------!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,49 +441,55 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:32 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:33 
 msgid "見えた！\n"
-msgstr ""
+msgstr "I saw it!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:34 
 msgid "えっ、嘘！？\n"
-msgstr ""
+msgstr "Eh, no way!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:35 
 msgid "マジだ！\nほんの一瞬だけどな。\n"
 msgstr ""
+"I'm not kidding!\n"
+"Just for a moment though.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:36 
 msgid "くっそおおおお！\n俺、全く見えなかったぁああ！\n"
 msgstr ""
+"Shit!\n"
+"I couldn't see anything--!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:37 
 msgid "お、おい、教えてくれよ。\nどんなのが見えたんだ？\n"
 msgstr ""
+"P- Please tell me. \n"
+"What did you see?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:38 
 msgid "それが……なんかモヒカンのやつが\n服を脱いでる絵だったんだけどさ。\n"
-msgstr ""
+msgstr "Well....there was a drawing of a Mohawk guy stripping of his clothes.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0014:39 
 msgid "…………えっ？\n"
-msgstr ""
+msgstr "…………Eh?\n"
 
 #  text 
 #  warnings: 1 
@@ -462,13 +501,13 @@ msgstr "Huh?\n"
 #  warnings: 2 
 #: sc/0014:41 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0014:41 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +519,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:42 
 msgid "ああっ！！　飛ぶ！！\n"
-msgstr ""
+msgstr "Ahh!! It's falling!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +531,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:43 
 msgid "えっ？　な、何がですか？\n"
-msgstr ""
+msgstr "Eh? What did you say?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +543,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:44 
 msgid "（あっ、堪えた！　まだ飛ばされずに\n　ポスタ―にくっついてる！）\n"
-msgstr ""
+msgstr "(Ah, it endured it! It's still hanging on to the poster!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +555,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:45 
 msgid "あれなら……屋上に行けば……。\n"
-msgstr ""
+msgstr "If it's still there then....if I go the rooftop....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:46 
 msgid "屋上？　屋上がどうかしたんですか？\n"
-msgstr ""
+msgstr "Rooftop? What did you mean by rooftop?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +580,8 @@ msgstr ""
 #: sc/0014:47 
 msgid "ごめんなさい！！\n私、行きます！\n"
 msgstr ""
+"I'm sorry!!\n"
+"I have to go!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +593,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:48 
 msgid "きゃ！　長野原さん！？\n"
-msgstr ""
+msgstr "No! Miss Naganohara!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +605,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:49 
 msgid "飛ぶ……屋上……逝く……。\n"
-msgstr ""
+msgstr "Falling....the rooftop...have to go....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +630,8 @@ msgstr ""
 #: sc/0014:51 
 msgid "はぁ、はぁ……！\nげ、原稿は…………！？\n"
 msgstr ""
+"Huff! Huff……!\n"
+"Where is the page…………!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +644,8 @@ msgstr ""
 #: sc/0014:52 
 msgid "あっ！！　良かった〜、\nまだ風に飛ばされてなかった！\n"
 msgstr ""
+"Ah!! Thank goodness～,\n"
+"it hasn't been taken by the wind yet!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +658,8 @@ msgstr ""
 #: sc/0014:53 
 msgid "回収回収っと。……あっ！\nこのシ―ン一番重要なとこじゃん！\n"
 msgstr ""
+"I gotta retrieve it… Ah!\n"
+"This page is for the most important scene!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +672,8 @@ msgstr ""
 #: sc/0014:54 
 msgid "見られたら一番ヤバいシ―ンだよ……\nホントに危なかった……。\n"
 msgstr ""
+"This is the most risky scene. If people were to see this…\n"
+"That was really a close call….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +685,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:55 
 msgid "さて、誰かに見られる前に\nさっさと退散を弌弌\n"
-msgstr ""
+msgstr "Now then, before anyone sees me I better leave this place--\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:56 
 msgid "長野原さん！　待って！　早まらないで！\n"
-msgstr ""
+msgstr "Miss Naganohara! Wait up! Don't be hasty!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +709,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0014:57 
 msgid "こら、長野原！　馬鹿な真似はやめろ！\n"
-msgstr ""
+msgstr "Hey, Naganohara! Don't think of anything stupid!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +721,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:58 
 msgid "（ワオ――――！？）\n"
-msgstr ""
+msgstr "(Wahhhhh----!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +734,8 @@ msgstr ""
 #: sc/0014:59 
 msgid "飛び降りなんてバカなこと考えるな！\n今すぐこっちに来るんだ！\n"
 msgstr ""
+"Don't you dare think of anything stupid like jumping!\n"
+"Come here this very instant!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +748,8 @@ msgstr ""
 #: sc/0014:60 
 msgid "（えええっ！？　飛び降り！？\n　何でそんなことになってるの！？）\n"
 msgstr ""
+"(Ehhhh!? Jumping!?\n"
+"Why have they come to that conclusion!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +761,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:61 
 msgid "その遺書も先生に渡すんだ！　さあ早く！\n"
-msgstr ""
+msgstr "And give us that suicide note too! Come now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +774,8 @@ msgstr ""
 #: sc/0014:62 
 msgid "！？\nい、いや、これは遺書じゃ弌弌\n"
 msgstr ""
+"!?\n"
+"N-No this paper is not a suicide note——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +788,8 @@ msgstr ""
 #: sc/0014:63 
 msgid "わかってる！　お前の気持ちはわかっている！\nだから早まるんじゃない！\n"
 msgstr ""
+"I understand! I understand where you are coming from!\n"
+"So just don't make any rash decisions!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +801,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:64 
 msgid "（わかってな――――い！！）\n"
-msgstr ""
+msgstr "(No, they don't get it at all———!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +814,8 @@ msgstr ""
 #: sc/0014:65 
 msgid "（飛び降りなんかしないよ！\n　というか原稿見られたら飛び降りるよ！）\n"
 msgstr ""
+"(There's no way I'd jump!\n"
+"Or hey, if they were to see this page then I might reconsider actually!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +827,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:66 
 msgid "長野原！！\n"
-msgstr ""
+msgstr "Naganohara!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +839,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:67 
 msgid "長野原さん！！\n"
-msgstr ""
+msgstr "Miss Naganohara!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +851,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:68 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +864,8 @@ msgstr ""
 #: sc/0014:69 
 msgid "（原稿を見られるわけには……！\n　だけど逃げるには無理が……）\n"
 msgstr ""
+"(There's no way I can let them see this.....!\n"
+"But there's no where to escape from.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +878,8 @@ msgstr ""
 #: sc/0014:70 
 msgid "（ハッ！？　そ、そうか！\n　道はまだ１つだけある！！）\n"
 msgstr ""
+"(Ah!? Oh of course!\n"
+"There's actually one way!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +892,8 @@ msgstr ""
 #: sc/0014:71 
 msgid "（あの垂れ幕……あれをカンフ―アクション\n　みたいに裂きながら降りれば弌弌）\n"
 msgstr ""
+"(That hanging banner.....If I kung-fu style my way down from there while I "
+"also tear it apart——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +906,8 @@ msgstr ""
 #: sc/0014:72 
 msgid "（そう、垂れ幕を抹消できて、脱出も出来る。\n　……まさに一石二鳥だよ！）\n"
 msgstr ""
+"(Yes, tearing the banner apart, as well as being able to escape.\n"
+"......that's like killing two birds with one stone!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +919,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:73 
 msgid "うおおおおおおおお！！\n"
-msgstr ""
+msgstr "UWOHHHHHHHHHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +931,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:74 
 msgid "！！！！？\n"
-msgstr ""
+msgstr "!!!!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,19 +943,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:75 
 msgid "え、絡まった！？\n"
-msgstr ""
+msgstr "Huh, did I get stuck!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0014:76 
 msgid "桜井先生＆高崎先生"
-msgstr ""
+msgstr "Sakurai-sensei & Takasaki-sensei"
 
 #  text 
 #  warnings: 0 
 #: sc/0014:76 
 msgid "宙づり！？\n"
-msgstr ""
+msgstr "Suspended in midair!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +967,7 @@ msgstr "Male student #1"
 #  warnings: 0 
 #: sc/0014:77 
 msgid "おい、あそこに誰かぶら下がってるぞ。\n"
-msgstr ""
+msgstr "Hey, there's someone hanging over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -913,6 +980,8 @@ msgstr "Male student #2"
 #: sc/0014:78 
 msgid "本当だ、何してるんだ？\nっていうか、あんな所に垂れ幕あったのか。\n"
 msgstr ""
+"Oh you're right, what are they doing?\n"
+"And also, was there really a banner hanging there?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -925,6 +994,8 @@ msgstr ""
 #: sc/0014:79 
 msgid "そういやそうだな、今まで知らなかったけど。\n……へぇ、誰が描いたんだろうな。\n"
 msgstr ""
+"Yeah, I didn't notice it until now. \n"
+".......hmn, I wonder who it was that drew it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,6 +1008,8 @@ msgstr ""
 #: sc/0014:80 
 msgid "（い、一石二鳥どころか……\n　恥ずかしさのダブルパンチだよ……）\n"
 msgstr ""
+"(That was far from two bird with one stone.....\n"
+"Felt more like a double punch of pure embarrassment.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,6 +1022,8 @@ msgstr ""
 #: sc/0014:81 
 msgid "（ま、まだ何か用が！？\n　もう勘弁してほしいんだけど！）\n"
 msgstr ""
+"(D- Do they still need to discuss something with me!?\n"
+"Please give me a break!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,7 +1035,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:82 
 msgid "長野原！　飛び降りなんて\nバカなことはやめろ！\n"
-msgstr ""
+msgstr "Naganohara! Stop thinking about something stupid like jumping!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -972,7 +1047,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:83 
 msgid "は、はい！？　と、飛び降り！？\n"
-msgstr ""
+msgstr "E-Excuse me!? J-Jumping!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,7 +1059,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:84 
 msgid "そうだ！　こんなことで死ぬなんて\n馬鹿げているぞ！\n"
-msgstr ""
+msgstr "That's right! It's foolish to think you would die from this height!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1009,6 +1084,8 @@ msgstr ""
 #: sc/0014:86 
 msgid "（よくわからないけど、飛び降りるために\n　屋上に来たって思われてる？）\n"
 msgstr ""
+"(I don't really understand but do they think I came to the rooftop to jump?)"
+"\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1021,6 +1098,8 @@ msgstr ""
 #: sc/0014:87 
 msgid "ち、違います。飛び降りじゃなくて\n無くした原稿を取りに来ただけですよ。\n"
 msgstr ""
+"T- This is a misunderstanding. I won't jump. I just came here to retrieve "
+"one of my lost draft sketches.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1111,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:88 
 msgid "げ、原稿……？\n"
-msgstr ""
+msgstr "D-Draft sketches....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1045,6 +1124,8 @@ msgstr ""
 #: sc/0014:89 
 msgid "はい。\nだから心配しないでください。\n"
 msgstr ""
+"Yes. \n"
+"So please don't worry about me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,7 +1137,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:90 
 msgid "そ、そうだったんですか……。\n"
-msgstr ""
+msgstr "O- Oh so that's how it was.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,7 +1149,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:91 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1080,7 +1161,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:92 
 msgid "弌弌あっ！　原稿！！\n"
-msgstr ""
+msgstr "——Ah! The page!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1093,6 +1174,8 @@ msgstr ""
 #: sc/0014:93 
 msgid "おっと。危ないぞ長野原。\nしっかり掴んでおかないと弌弌\n"
 msgstr ""
+"Uh-oh. Be careful there Naganohara. \n"
+"You should hold on tight to the railing——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1128,7 +1211,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:96 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1140,19 +1223,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:97 
 msgid "わ―っ！　面白そうですね―！\n"
-msgstr ""
+msgstr "Wah--! That looks really fun-!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0014:98 
 msgid "みお＆高崎先生"
-msgstr "The Class"
+msgstr "Mio ＆ Takasaki-sensei"
 
 #  text 
 #  warnings: 0 
 #: sc/0014:98 
 msgid "！！！？\n"
-msgstr ""
+msgstr "!!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1165,6 +1248,8 @@ msgstr ""
 #: sc/0014:99 
 msgid "ごめんなさい！\n私が勝手なことしちゃったから……！\n"
 msgstr ""
+"I'm sorry! \n"
+"It was all because of my selfishness.....!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1177,6 +1262,8 @@ msgstr ""
 #: sc/0014:100 
 msgid "桜井先生も反省してるんだ！\n許してあげてくれ！\n"
 msgstr ""
+"See Sakurai-sensei and me are really sorry!\n"
+"So please forgive us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1200,7 +1287,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:102 
 msgid "……えっ？　何がですか？\n"
-msgstr ""
+msgstr ".......huh? About what exactly?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1224,7 +1311,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:104 
 msgid "えっ？　飛び降りは……？\n"
-msgstr ""
+msgstr "Eh? What about jumping.....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1236,13 +1323,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:105 
 msgid "飛び降り？　誰がするんですか？\n"
-msgstr ""
+msgstr "Jumping? Who here is going to jump?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0014:106 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -1260,7 +1347,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:107 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1272,7 +1359,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:108 
 msgid "…………？？\n"
-msgstr ""
+msgstr "…………??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1296,7 +1383,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:110 
 msgid "勘違い……ですか？\n"
-msgstr ""
+msgstr "Could this be a…… misunderstanding?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1308,7 +1395,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:111 
 msgid "…………多分。\n"
-msgstr ""
+msgstr "…………Probably.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1320,16 +1407,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0014:112 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0014:113 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0014:113 
 msgid "お騒がせ……しました……。\n"
-msgstr ""
+msgstr "Sorry for…… causing a disturbance…….\n"

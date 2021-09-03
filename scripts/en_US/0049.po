@@ -3,22 +3,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0049/en_US/>\n"
+"PO-Revision-Date: 2021-09-02 18:37+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0049/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0049:0 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:4 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,8 @@ msgstr ""
 #: sc/0049:5 
 msgid "ねえねえ、なんで白衣着てるの？\n"
 msgstr ""
+"Hey hey, \n"
+"why do are you wearing a lab coat?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +99,8 @@ msgstr ""
 #: sc/0049:6 
 msgid "えへへ、それはね、\nはかせがはかせだからだよ。\n"
 msgstr ""
+"Ehehe, about that,\n"
+"it's because Hakase is a profesor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +292,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:22 
 msgid "……………！\n"
-msgstr ""
+msgstr "............!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +328,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:25 
 msgid "あっ、阪本！\n"
-msgstr ""
+msgstr "Oh, Sakamoto!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +340,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:26 
 msgid "えっ？　この猫喋るの！？\n"
-msgstr ""
+msgstr "Wha? Can this cat talk!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +352,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:27 
 msgid "うん！　喋れるんだよ。\n"
-msgstr ""
+msgstr "Yeah! He can talk.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +388,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0049:32 
 msgid "ええっ！？\n"
-msgstr ""
+msgstr "EH!?\n"
 
 #  text 
 #  warnings: 1 
@@ -402,7 +406,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:34 
 msgid "あっ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -509,8 +513,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:43 
+#, fuzzy
 msgid "オムライスが食べたい！\n"
-msgstr ""
+msgstr "Hakase wants Omelette rice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +599,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:50 
 msgid "……………。\n"
-msgstr ""
+msgstr "…………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +611,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:51 
 msgid "（誘拐されちゃう！！）\n"
-msgstr ""
+msgstr "(She's being kidnapped!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -653,8 +658,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:55 
+#, fuzzy
 msgid "でも、私はなのちゃんを知ってるよ？\n"
-msgstr ""
+msgstr "But, I know Nano-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:56 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -677,8 +683,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:57 
+#, fuzzy
 msgid "だから私は知らない人じゃなくて\nなのちゃんが知ってる人だよ。\n"
 msgstr ""
+"So, I'm not a stranger, but\n"
+"someone that Nano knows.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +699,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:58 
 msgid "そっか！　知らない人じゃない！\n"
-msgstr ""
+msgstr "I see! Nee-chan isn't a stranger!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:59 
 msgid "だからついていっても大丈夫だよ。\n"
-msgstr ""
+msgstr "So, it's fine for you to come with me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -713,8 +722,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0049:60 
+#, fuzzy
 msgid "ついていく！\n"
-msgstr ""
+msgstr "Yeah, let's go!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -786,7 +796,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:66 
 msgid "うん！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +844,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:70 
 msgid "そっか！　じゃあ行こ―！\n"
-msgstr ""
+msgstr "I see! Let's go then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,4 +856,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:71 
 msgid "（あれ―！？）\n"
-msgstr ""
+msgstr "(Wait, what!?)\n"

@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:05+0000\n"
-"PO-Revision-Date: 2019-08-07 00:04+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0022/en_US/>\n"
+"PO-Revision-Date: 2021-09-01 17:37+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0022/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:0 
 msgid "あれ？　あの後姿は……。\n"
-msgstr ""
+msgstr "Wait? Who's that…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0022:1 
 msgid "笹原じゃない。\nあいつ、こんなところで何してんのよ。\n"
 msgstr ""
+"Isn't that Sasahara?\n"
+"What the heck is he doing around here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0022:2 
 msgid "まさか、\nまたはた迷惑なことしてるんじゃ弌弌\n"
 msgstr ""
+"Really?\n"
+"Irritating the public again, huh——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0022:3 
 msgid "外で食事！！\nしかもあれは……カニ！？\n"
 msgstr ""
+"Eating outside!!\n"
+"And what's more, he's eating a…… crab!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr "Sasahara"
 #: sc/0022:4 
 msgid "バリッ！　ベキッ！　ホジホジ……\nパクリ……モグモグ……ゴクン。\n"
 msgstr ""
+"CRUNCH! CLINK! \n"
+"SMACK……NOM NOM……GLUG.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:5 
 msgid "うむ、美味。\n"
-msgstr ""
+msgstr "Yes, delectable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0022:6 
 msgid "笹原！　あんた、\nこんなところで何やってんのよ！！\n"
 msgstr ""
+"Sasahara! What the heck are\n"
+"you doing in this kind of a place?!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:7 
 msgid "？　私は一人静かに食事をしていただけだが。\n"
-msgstr ""
+msgstr "? I was just eating quietly by myself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +131,8 @@ msgstr ""
 #: sc/0022:8 
 msgid "なにが静かによ！\nカニ解体する音がまわりに響いてるわよ！\n"
 msgstr ""
+"Quiet? Like hell! The sound of a\n"
+"dismantled crab is echoing everywhere!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0022:9 
 msgid "……そうであったか。\nそれはすまないことをした。\n"
 msgstr ""
+"……Is that so?\n"
+"What I did was something inexcusable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +159,8 @@ msgstr ""
 #: sc/0022:10 
 msgid "（カニ三昧フルコ―スが\n　もれなく焼きガニになってしまった）\n"
 msgstr ""
+"(The full three course meal of crab\n"
+"has completely become grilled crab)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +173,8 @@ msgstr "Sakamoto-san"
 #: sc/0022:11 
 msgid "お、カニか！　美味そうだな。\n一度食ってみたかったんだよな！\n"
 msgstr ""
+"Oh! Crab! Seems delicious.\n"
+"I haven't had the chance to try one!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +186,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:12 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +198,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:13 
 msgid "むっ？\n"
-msgstr ""
+msgstr "Hmph?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +211,8 @@ msgstr ""
 #: sc/0022:14 
 msgid "（し、しまった！\n　つい匂いにつられて……）\n"
 msgstr ""
+"(C-crap!\n"
+"I'm being lured in by the smell……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +224,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:15 
 msgid "こやつ……。\n"
-msgstr ""
+msgstr "This guy…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +236,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:16 
 msgid "に、にゃ〜。\n"
-msgstr ""
+msgstr "M-meow～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +248,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:17 
 msgid "ちょ、ちょっと笹原……。\n"
-msgstr ""
+msgstr "Hey, wait Sasahara…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +261,8 @@ msgstr ""
 #: sc/0022:18 
 msgid "猫の分際で大儀である。\n一杯進ぜよう。\n"
 msgstr ""
+"For a cat, this is troublesome.\n"
+"I offer you this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +275,8 @@ msgstr ""
 #: sc/0022:19 
 msgid "（え、喋ったことはスル―！？\n　……ま、いいや、ラッキ―！）\n"
 msgstr ""
+"(Eh, he DID what he said—!?\n"
+"……Well, whatever. Good for me—!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +289,8 @@ msgstr ""
 #: sc/0022:20 
 msgid "やめなさいよ！\nあんた、何考えてんのよ！\n"
 msgstr ""
+"Stop that!\n"
+"What the hell are you thinking?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +303,8 @@ msgstr ""
 #: sc/0022:21 
 msgid "猫にカニは良くないのよ！\nビタミンＡ１分解酵素がどうとかで！\n"
 msgstr ""
+"Crab isn't good for cats! There's stuff\n"
+"like vitamin A1 and catabolic enzymes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +316,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:22 
 msgid "（え、そうなのか！？）\n"
-msgstr ""
+msgstr "(Eh, really!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +329,8 @@ msgstr ""
 #: sc/0022:23 
 msgid "だから、ごめんね。ところで笹原弌弌\nあ、死にたくなかったらあっち行ってね。\n"
 msgstr ""
+"I'm sorry. By the way, Sasahara— Ah, if\n"
+"you don't wish to die, go over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,30 +343,34 @@ msgstr ""
 #: sc/0022:24 
 msgid "（ぬおおおおお〜〜〜〜っ！？\n　警告してすぐ撃つんじゃねえ〜〜！）\n"
 msgstr ""
+"(WOAAAAAAAAAAH～～～～!?\n"
+"Don't warn me and shoot right away～～!)\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0022:25 
 msgid "ふう、危ないなぁ。\nぎりぎり避けられてよかったぜ。\n"
 msgstr ""
+"Phew, that was close. Glad I was able\n"
+"to avoid it by the skin of my teeth.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0022:26 
 msgid "……あっ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0022:27 
 msgid "ん？　どうした？\n"
-msgstr ""
+msgstr "Hmph? What is it?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0022:28 
 msgid "アンテナに……命中してた。\n"
-msgstr ""
+msgstr "The antenna took…… a direct hit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +383,8 @@ msgstr ""
 #: sc/0022:29 
 msgid "ところで立花みさとよ。\n１つ聞きたいことがあるのだが。\n"
 msgstr ""
+"By the way Misato Tachibana.\n"
+"I have something to inquire of you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +396,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:30 
 msgid "え？　な、なによ……。\n"
-msgstr ""
+msgstr "Eh? W-What…….\n"
 
 #  speaker 
 #  warnings: 2 
@@ -373,6 +409,8 @@ msgstr ""
 #: sc/0022:31 
 msgid "俗世にはカニカマなる庶民の食品が\nあるらしいが。\n"
 msgstr ""
+"In the world, imitation crab sticks\n"
+"seem to be a common people food.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -383,8 +421,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0022:32 
+#, fuzzy
 msgid "あれは何なのだ？\nカニなのか、カマボコなのか。\n"
 msgstr ""
+"What is that? Is that crab,\n"
+"or is that imitation crab sticks?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +438,8 @@ msgstr ""
 #: sc/0022:33 
 msgid "一体どんな味がするのものなのか……\nまったく想像できんのだ。教えてくれ。\n"
 msgstr ""
+"What does it taste like……?\n"
+"I can't imagine it at all. Please help.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +452,8 @@ msgstr ""
 #: sc/0022:34 
 msgid "ど、どんなって言われても……\nカニっぽい味のするカマボコよ。\n"
 msgstr ""
+"H-How should I put it……\n"
+"Imitation crab tastes crab-like.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +466,8 @@ msgstr ""
 #: sc/0022:35 
 msgid "カニっぽい味のカマボコと言われても……\nどうも解せんな。\n"
 msgstr ""
+"In spite of saying that it tastes like\n"
+"crab…… I still don't quite understand.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +480,8 @@ msgstr ""
 #: sc/0022:36 
 msgid "カニの味を楽しみたいなら\nカニを食べれば良いではないか。\n"
 msgstr ""
+"If you enjoy the taste of crab,\n"
+"then why not eat crab?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +494,8 @@ msgstr ""
 #: sc/0022:37 
 msgid "カマボコを食べたいなら\nカマボコを食べれば良いはずだ。\n"
 msgstr ""
+"And, if you like imitation crab,\n"
+"then you should eat imitation crab.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +508,8 @@ msgstr ""
 #: sc/0022:38 
 msgid "あえてカニカマを食すのは、カニカマ独自の\n味わいを求めているからではないのか。\n"
 msgstr ""
+"I dare to eat imitation crab,\n"
+"because I wish for it's unique taste.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +522,8 @@ msgstr ""
 #: sc/0022:39 
 msgid "私はそれが知りたい。\nカニカマとは、いかなる味がするものなのか。\n"
 msgstr ""
+"That is what I wish to know. What\n"
+"sort of taste does imitation crab have?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +536,8 @@ msgstr ""
 #: sc/0022:40 
 msgid "ってか、気になるなら\n実際食べてみればいいでしょ！\n"
 msgstr ""
+"I mean, if you're interested,\n"
+"you should actually try it then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +550,8 @@ msgstr ""
 #: sc/0022:41 
 msgid "何を馬鹿な。笹原家の長男ともあろう者が、\nあのような庶民の食品を買うなど考えられん。\n"
 msgstr ""
+"How silly. Being my family's eldest,\n"
+"I couldn't dare eat such common food.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +563,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:42 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +576,8 @@ msgstr ""
 #: sc/0022:43 
 msgid "何が庶民の食品よ！\nカニカマ、馬鹿にしないでよね！\n"
 msgstr ""
+"Like hell that's common people food!\n"
+"It's imitation crab. Don't be stupid!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +590,8 @@ msgstr ""
 #: sc/0022:44 
 msgid "っていうか、\nあんたん家だってただの農家でしょ！\n"
 msgstr ""
+"What's more,\n"
+"your family is just farmers!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +604,8 @@ msgstr ""
 #: sc/0022:45 
 msgid "農家だからこそだ。漁師ならば\nカニカマも食す機会があるのだろうが。\n"
 msgstr ""
+"Precisely! If we were fishermen, we'd\n"
+"have a chance to eat imitation crab.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +618,8 @@ msgstr ""
 #: sc/0022:46 
 msgid "関係ないでしょ！\n漁師が水揚げしてるわけじゃないんだから！\n"
 msgstr ""
+"That's irrelevant! It's not like\n"
+"fishermen catch crab sticks!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +631,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:47 
 msgid "漁師が……水揚げ……。\n"
-msgstr ""
+msgstr "A fisherman…… catching……. crab sticks.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +643,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:48 
 msgid "……ぷっ、はははは。これは愉快だ。\n"
-msgstr ""
+msgstr "……Pwahahahaha. That's delightful.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +656,8 @@ msgstr ""
 #: sc/0022:49 
 msgid "立花みさとにも可愛いところがあるのだな。\nカニカマが海で泳いでいる、とは！\n"
 msgstr ""
+"Misato Tachibana has a cute side too.\n"
+"Crab sticks swimming in the sea!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +670,8 @@ msgstr ""
 #: sc/0022:50 
 msgid "なっ！？\nな、な、な、何言ってるのよ！？\n"
 msgstr ""
+"Wha!?\n"
+"W-W-W-What did you say!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +683,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:51 
 msgid "なに、恥ずかしがることはない。\n"
-msgstr ""
+msgstr "What? There is nothing to be shy about.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +696,8 @@ msgstr ""
 #: sc/0022:52 
 msgid "女人であれば、メルヘンチックな空想も\n許されようというもの。\n"
 msgstr ""
+"You have quite the\n"
+"fairy-tale-like imagination.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +710,8 @@ msgstr ""
 #: sc/0022:53 
 msgid "しかし……立花みさとがな……\nそうか……人には意外な一面がある弌弌\n"
 msgstr ""
+"However…… Misato Tachibana…… yes……\n"
+"you have quite an unpredictable side——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +736,8 @@ msgstr ""
 #: sc/0022:55 
 msgid "なに馬鹿なこと言ってるのよ！\nいい加減なこと言わないで！！\n"
 msgstr ""
+"What stupid crap are you saying!?\n"
+"Don't say reckless stuff like that!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +750,8 @@ msgstr ""
 #: sc/0022:56 
 msgid "私が可愛いだなんて、\nそんな、そんな、そんな〜〜〜〜〜〜っ！！\n"
 msgstr ""
+"It's not like I'm cute or anything.\n"
+"I mean, I mean, I mean～～～～～～!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +776,8 @@ msgstr ""
 #: sc/0022:58 
 msgid "公共の公園で下らないこと考えないでよ！\n近所迷惑なのよ！\n"
 msgstr ""
+"Don't think about such nonsense in\n"
+"a public park! You'll annoy passer-bys!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +790,8 @@ msgstr ""
 #: sc/0022:59 
 msgid "いやしかし、疑問は解決するに如かず。\n気になるものは気になるのだ。\n"
 msgstr ""
+"No but, the question should be solved.\n"
+"I'm curious about what I care about.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +804,8 @@ msgstr ""
 #: sc/0022:60 
 msgid "あ―もうめんどくさいわね！\nちょっとそこで待ってなさいよ！\n"
 msgstr ""
+"Ah—, you're such a bother!\n"
+"Just wait over there for a bit!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +817,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:61 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +830,8 @@ msgstr ""
 #: sc/0022:62 
 msgid "ほら、買ってきてあげたわ。\nこれがカニカマよ。\n"
 msgstr ""
+"Hey, I went and bought\n"
+"imitation crab for you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +844,8 @@ msgstr ""
 #: sc/0022:63 
 msgid "そうか、これが夢にまで見た……\n立花みさとよ、わざわざすまぬな。\n"
 msgstr ""
+"I see. This is a dream come true……\n"
+"Misato Tachibana, sorry for the hassle.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +858,8 @@ msgstr ""
 #: sc/0022:64 
 msgid "い、いいから！\nさっさと食べなさいよ！\n"
 msgstr ""
+"It's, it's alright!\n"
+"Well, go ahead. Eat it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +871,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:65 
 msgid "うむ、ではさっそく。馳走になろう。\n"
-msgstr ""
+msgstr "Hmm, well then, I'll partake.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +883,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:66 
 msgid "（あ、あれ！？　しまった！！）\n"
-msgstr ""
+msgstr "(Wait, what!? Crap!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +896,8 @@ msgstr ""
 #: sc/0022:67 
 msgid "（間違えて笹かま\n　買って来ちゃった〜〜〜〜っ！！）\n"
 msgstr ""
+"(I messed up! I bought a bamboo-shaped\n"
+"fishcake called Sasa-kama～～～～!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +910,8 @@ msgstr ""
 #: sc/0022:68 
 msgid "ふむ、これがカニカマか。\nしかし、これの一体どこがカニなのやら。\n"
 msgstr ""
+"Hmm, so this is imitation crab.\n"
+"But, why on earth is it leaf-shaped?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +924,8 @@ msgstr ""
 #: sc/0022:69 
 msgid "ち、違うの！　そ、その……\nそれはカニカマじゃなくて笹かまよ！\n"
 msgstr ""
+"N-No! It's, it's…… it's not\n"
+"imitation crab, it's Sasa-kama!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +938,8 @@ msgstr ""
 #: sc/0022:70 
 msgid "笹原のこと考えてたら……\n笹ってのが頭にあったから……。\n"
 msgstr ""
+"I was thinking of you and……\n"
+"the \"Sasa\" part of your name stuck…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +951,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:71 
 msgid "なるほど、これは笹かまか。\n"
-msgstr ""
+msgstr "I see. So this is Sasa-kama, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +964,8 @@ msgstr ""
 #: sc/0022:72 
 msgid "カニカマがカニのようなカマボコなら、\n笹かまは私のようなカマボコなのだろうな。\n"
 msgstr ""
+"If imitation crab is krab-like crab,\n"
+"then Sasa-kama might be a krab like me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +977,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:73 
 msgid "は？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -889,6 +990,8 @@ msgstr ""
 #: sc/0022:74 
 msgid "気に入った！\n今日からこの笹かまの名は笹原カマジロ―だ！\n"
 msgstr ""
+"I'm curious! Now on, the name of this\n"
+"Sasa-kama will be Sasahara Kamajirou!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -913,6 +1016,8 @@ msgstr ""
 #: sc/0022:76 
 msgid "うむ。と言うわけで、今日の記念にカマジロ―を\n立花みさとに進ぜよう。\n"
 msgstr ""
+"Hmm. So, in commemoration of Kamajirou,\n"
+"Misato Tachibana, I offer you this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +1029,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:77 
 msgid "え？　わ、私にくれるの？\n"
-msgstr ""
+msgstr "Huh? For, for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,6 +1042,8 @@ msgstr ""
 #: sc/0022:78 
 msgid "うむ。せいぜい可愛がってやってくれ。\n……では失礼。\n"
 msgstr ""
+"Indeed. Please love it dearly.\n"
+"……Well, I take my leave.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +1055,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:79 
 msgid "笹原の……笹かま……。\n"
-msgstr ""
+msgstr "Sasahara's…… sasa-kama…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,7 +1067,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:80 
 msgid "ぱくっ。\n"
-msgstr ""
+msgstr "*Gobble*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -985,6 +1092,8 @@ msgstr ""
 #: sc/0022:82 
 msgid "（あ、カニカマ……\n　あるならさっさと出しなさいよね）\n"
 msgstr ""
+"(Ah, imitation crab…… If you\n"
+"have it, take it out this instant)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -997,6 +1106,8 @@ msgstr ""
 #: sc/0022:83 
 msgid "ふむ、これがカニカマというものか。\nではさっそく食してみるかな。\n"
 msgstr ""
+"Hmm. So this is what you call imitation\n"
+"crab. I guess I'll give it a taste.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1009,6 +1120,8 @@ msgstr ""
 #: sc/0022:84 
 msgid "赤い部分が甲羅か。\nなるほど、良くできているな。\n"
 msgstr ""
+"This red part is the shell, huh.\n"
+"I see, it's well done.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1145,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:86 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1045,6 +1158,8 @@ msgstr ""
 #: sc/0022:87 
 msgid "（あ、赤いところを避けて食べてる……\n　甲羅だと思って……？）\n"
 msgstr ""
+"(H-He's avoiding the red areas……\n"
+"And he thinks it's the shell……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,19 +1171,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:88 
 msgid "ふむ、これは……なんというか……。\n"
-msgstr ""
+msgstr "Hmm. What…… what do you call this…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0022:89 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0022:89 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1080,4 +1195,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0022:90 
 msgid "……なんとも、言えんな。\n"
-msgstr ""
+msgstr "……I am not able to say at all.\n"

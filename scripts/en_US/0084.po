@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:30+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0084/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Yuuko"
 #: sc/0084:0 
 msgid "あと少しで体育祭だね―。\nなんかテンション上がってくるよ。\n"
 msgstr ""
+"The sports festival is happening soon right?\n"
+"I'm kind of getting pumped up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr "Nano"
 #: sc/0084:1 
 msgid "そうですね。\n私は体育祭は初めてなので楽しみです。\n"
 msgstr ""
+"Yeah. I've never been in a sports festival\n"
+"before, but I'm looking forward to it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr "Mio"
 #: sc/0084:2 
 msgid "じゃあ少し練習した方がいいかもね。\nほら、リレ―のバトン渡しとか。\n"
 msgstr ""
+"Some practice wouldn't hurt then, huh.\n"
+"Hey, let's try passing the relay baton.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0084:3 
 msgid "お、そうだね。\nなのちゃんしたことないでしょ？\n"
 msgstr ""
+"Ah, yeah. Nano-chan,\n"
+"you haven't done it before right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:4 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +93,8 @@ msgstr ""
 #: sc/0084:5 
 msgid "じゃあ少しだけ練習する？\nバトンは携帯でいいよね。\n"
 msgstr ""
+"Then we'll practice just for a bit, OK?\n"
+"The baton will be my cell phone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +106,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:6 
 msgid "はい。お願いします。\n"
-msgstr ""
+msgstr "Okay. Thank you very much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:7 
 msgid "じゃあ行くよ―。\n"
-msgstr ""
+msgstr "Alright, here we go—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:8 
 msgid "はい、お願いします！\n"
-msgstr ""
+msgstr "Okay, I'm ready!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:9 
 msgid "よっ、と……。\n"
-msgstr ""
+msgstr "Huff, here you go……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +154,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:10 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +167,8 @@ msgstr ""
 #: sc/0084:11 
 msgid "なのちゃん、みおちゃんが近くに来たら\n走りながらバトンを受け取るんだよ。\n"
 msgstr ""
+"Nano-chan, when Mio-chan gets close you should be running while you receive "
+"it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:12 
 msgid "は、はい！\n"
-msgstr ""
+msgstr "Y-Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:13 
 msgid "なのちゃん、バトン渡すよ。\n"
-msgstr ""
+msgstr "Nano-chan, I'm passing the baton.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:14 
 msgid "はいっ！！\n"
-msgstr ""
+msgstr "Yes!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:15 
 msgid "おっ、ナイスキャッチ！\n"
-msgstr ""
+msgstr "Oh! Nice catch!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:16 
 msgid "そのまま走って、\n今度はゆっこにバトンを渡して！\n"
-msgstr ""
+msgstr "Now just run and pass it along to Yukko!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +240,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:17 
 msgid "はい！！\n"
-msgstr ""
+msgstr "Okay!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:18 
 msgid "わっ！？\n"
-msgstr ""
+msgstr "Wah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +265,8 @@ msgstr ""
 #: sc/0084:19 
 msgid "いたたた……\nどうしてこんなところにワンちゃんが……。\n"
 msgstr ""
+"O-Ouch……\n"
+"Why is there a doggie here………\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,54 +279,67 @@ msgstr ""
 #: sc/0084:20 
 msgid "あっ！！　ご、ごめんなさい！\nすぐに退くから！\n"
 msgstr ""
+"Ah!! S-Sorry!\n"
+"I will retreat immediately!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:21 
 msgid "ふぅ、間一髪だぜ。\nあいつが助かってよかった。\n"
 msgstr ""
+"Phew, that was a close call.\n"
+"I'm glad I was able to stop it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:22 
 msgid "とっさにバリアを展開したのか。\nお前の犬好きには恐れ入るよ。\n"
 msgstr ""
+"You pulled out the safety barrier in an instant.\n"
+" You truly are a dog lover.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:23 
 msgid "へへっ。そういうお前も、\n反重力場を発生させてたじゃないか。\n"
 msgstr ""
+"Heheh. Same goes to you for activating those anti-gravitational fields.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:24 
 msgid "ま、俺も犬は嫌いじゃないしな。\n辛い目には遭わせたくない。\n"
 msgstr ""
+"Well yeah, I don't dislike dogs either so.\n"
+"I didn't want it to get harmed.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:25 
 msgid "……その結果、\n俺たちが辛い目に遭いそうだな。\n"
 msgstr ""
+"……but for that reason, \n"
+"seems like we'll be the ones that will.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0084:26 
 msgid "所詮は試作機能だったからな。\n負荷がかかりすぎちまったみたいだ。\n"
 msgstr ""
+"After all, they both they were just trial manufactured prototypes. No wonder "
+"it caused a load on the circuit.\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0084:27 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0084:27 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +352,8 @@ msgstr ""
 #: sc/0084:28 
 msgid "さあ急いでなのちゃん！\nちんたらしてるとビリになるよ！\n"
 msgstr ""
+"Hurry up Nano-chan!\n"
+"If you take your time you'll get in last place!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +366,8 @@ msgstr ""
 #: sc/0084:29 
 msgid "はい！！\n急いでバトンを渡します！！\n"
 msgstr ""
+"Yes!!\n"
+"I will hand it over quickly!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +379,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:30 
 msgid "（これは練習だけど、練習だと思って\n　手を抜いたら駄目）\n"
-msgstr ""
+msgstr "(This is still practice, but I can't ease up just for that.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +392,8 @@ msgstr ""
 #: sc/0084:31 
 msgid "（これは本番だと思って全力で走る！\n　全力で相生さんにバトンを渡す！）\n"
 msgstr ""
+"(I have to run like this is the real thing!\n"
+"I will pass along the baton to Aioi-san with the all I've got!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +405,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:32 
 msgid "うおおおおお！！\n"
-msgstr ""
+msgstr "Uwohhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +417,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:33 
 msgid "おおおおおおお！？？\n"
-msgstr ""
+msgstr "OHHHHHHHHH!??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +453,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:36 
 msgid "（と、飛んでった―！？）\n"
-msgstr ""
+msgstr "(It, it flew—!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +465,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:37 
 msgid "相生さん！　避けてください！！\n"
-msgstr ""
+msgstr "Aioi-san! Please watch out!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +489,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:39 
 msgid "受け止めた――！？\n"
-msgstr ""
+msgstr "She caught it——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +537,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:43 
 msgid "（あっ！？　手！！！）\n"
-msgstr ""
+msgstr "(Ah!? My hand!!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +550,8 @@ msgstr ""
 #: sc/0084:44 
 msgid "（早くあの手をはめ直さないと\n　片手が無い姿を多くの人に見られる！）\n"
 msgstr ""
+"(I have to retrieve my hand before people see \n"
+"that I lost one them!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +563,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:45 
 msgid "相生さん！　止まってください！\n"
-msgstr ""
+msgstr "Aioi-san! Please stop!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +588,7 @@ msgstr ""
 #: sc/0084:47 
 msgid "（ダメだ、止まらない……追いかけるにしても\n　こんなに距離を離されたら……）\n"
 msgstr ""
+"(No, she isn't stopping……and catching up with her at this distance is……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,6 +601,8 @@ msgstr ""
 #: sc/0084:48 
 msgid "（いや！？　諦めるな！！\n　まだ手は残っている！！）\n"
 msgstr ""
+"(No! I can't give up!!\n"
+"I still have one option left!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +614,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:49 
 msgid "（文字通り、片手だけは残っている！）\n"
-msgstr ""
+msgstr "(Literary, just one left!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +626,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:50 
 msgid "いっけぇえええええ！！\n"
-msgstr ""
+msgstr "GOOOOOOOOOOOO!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +650,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:52 
 msgid "はああああああ！！\n"
-msgstr ""
+msgstr "HAAAAAHHHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +662,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:53 
 msgid "また受け止められた！？\n"
-msgstr ""
+msgstr "She caught it again!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +723,8 @@ msgstr ""
 #: sc/0084:58 
 msgid "（手を相生さんに持っていかれた！\n　……いや、それよりも問題は……）\n"
 msgstr ""
+"(Aioi-san carried away my hand!\n"
+"……or no, the real problem is…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +748,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:60 
 msgid "（手が飛ぶところを\n　長野原さんに見られた……）\n"
-msgstr ""
+msgstr "(That Naganohara-san saw my hand flying……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +761,8 @@ msgstr ""
 #: sc/0084:61 
 msgid "（これで私がロボだということが広まったら\n　もう学校に通うことはできない……）\n"
 msgstr ""
+"(If the word spreads around the school that I'm a robot I can't continue "
+"going to school……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:63 
 msgid "長野原さん……。\n"
-msgstr ""
+msgstr "Naganohara-san…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +798,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:64 
 msgid "えっ！？　な、なに？\n"
-msgstr ""
+msgstr "Huh!? W-What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +810,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:65 
 msgid "……見ましたか？\n"
-msgstr ""
+msgstr "……Did you see?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +846,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:68 
 msgid "……な、何のこと？\n"
-msgstr ""
+msgstr "……See, see what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +858,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:69 
 msgid "それはもちろん弌弌\n"
-msgstr ""
+msgstr "Are you really sure—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +871,8 @@ msgstr ""
 #: sc/0084:70 
 msgid "ああ、なのちゃんのバトンを受け取る\nタイミングは見たよ。１００点満点。\n"
 msgstr ""
+"Ahh, I saw the timing when you handed over the baton. \n"
+"It was perfect!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +884,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:71 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,6 +897,8 @@ msgstr ""
 #: sc/0084:72 
 msgid "（良かった！\n　手が飛ぶ所を見られてない！）\n"
 msgstr ""
+"(That was good!\n"
+"She didn't see the part where the hand was flying!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +911,8 @@ msgstr ""
 #: sc/0084:73 
 msgid "あ、ありがとうございます！\nじゃあもう一度練習しましょう！\n"
 msgstr ""
+"T-Thank you so much!\n"
+"Then let's practice one more time!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:74 
 msgid "あ、うん、ゆっこ呼んでこないとね。\n"
-msgstr ""
+msgstr "Ah, sure, let's call Yukko to come back then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -889,6 +937,8 @@ msgstr ""
 #: sc/0084:75 
 msgid "私行ってきます！\nちょっと待っててください。\n"
 msgstr ""
+"I can go to her!\n"
+"Just wait here and I'll be back.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +950,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:76 
 msgid "う、うん、お願い。\n"
-msgstr ""
+msgstr "Ah, yes please.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -913,6 +963,8 @@ msgstr ""
 #: sc/0084:77 
 msgid "（私はまた学校に通えるんだ……\n　本当に嘘みたい……）\n"
 msgstr ""
+"(So I can still attend school……\n"
+"I'm so relieved……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +976,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:78 
 msgid "……飛ぶんだ、あれ。\n"
-msgstr ""
+msgstr "……so that thing flies, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +1000,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:80 
 msgid "な、なのちゃん……今、手が……。\n"
-msgstr ""
+msgstr "N-Nano-chan……that hand just……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1013,8 @@ msgstr ""
 #: sc/0084:81 
 msgid "え？　手が、ど、どうしたんですか？\n痛いんですか？\n"
 msgstr ""
+"Eh? What about hands? \n"
+"Did your hand get hurt?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -973,6 +1027,8 @@ msgstr ""
 #: sc/0084:82 
 msgid "えっ？\nいや、なのちゃんの手が弌弌\n"
 msgstr ""
+"Eh? \n"
+"No, your hand was\n"
 
 #  speaker 
 #  warnings: 0 
@@ -985,6 +1041,8 @@ msgstr ""
 #: sc/0084:83 
 msgid "相生さん、どこまで行ったんでしょうね。\n全然帰ってきませんよ？\n"
 msgstr ""
+"I wonder how far off Aioi-san ran off to. \n"
+"She hasn't come back yet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1008,7 +1066,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:85 
 msgid "はっ、はっ、はっ……。\n"
-msgstr ""
+msgstr "Huff, huff, huff\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1021,6 +1079,8 @@ msgstr ""
 #: sc/0084:86 
 msgid "あっ、お帰りなさい相生さん。\nどこまで行ってたんですか？\n"
 msgstr ""
+"Ah, welcome back Aioi-san.\n"
+"Where did you run to exactly?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1033,6 +1093,8 @@ msgstr ""
 #: sc/0084:87 
 msgid "あ、ちょっとそこまで……\nところでなのちゃん……この手弌弌\n"
 msgstr ""
+"Ah, no just over there……\n"
+"but by the way Nano-chan……that hand—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1044,7 +1106,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:88 
 msgid "あっ、ちょっとすみません。\n"
-msgstr ""
+msgstr "Ah, sorry excuse me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,19 +1118,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:89 
 msgid "！！！\n"
-msgstr ""
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0084:90 
 msgid "ゆっこ＆みお"
-msgstr "Yuuko & Mio"
+msgstr "Yukko & Mio"
 
 #  text 
 #  warnings: 0 
 #: sc/0084:90 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1080,7 +1142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:91 
 msgid "弌弌えっと、なんでしょうか相生さん。\n"
-msgstr ""
+msgstr "——Um, Aioi-san, what was your question?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1104,19 +1166,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:93 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0084:94 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0084:94 
 msgid "体育祭、頑張ろうね……。\n"
-msgstr ""
+msgstr "Let's do our best in the sport festival……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1128,4 +1190,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0084:95 
 msgid "はいっ。\n"
-msgstr "Okay.\n"
+msgstr "Yeah.\n"

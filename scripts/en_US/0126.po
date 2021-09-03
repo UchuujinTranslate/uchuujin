@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-30 22:06+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-19 21:23+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0126/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0126:1 
 msgid "……やっぱり中之条だ。\nほんと、モヒカンがよく似合うな―。\n"
 msgstr ""
+"……Of course it's Nakanojou.\n"
+"Yeah, a Mohawk is really suiting—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +200,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:15 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -288,7 +290,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:22 
 msgid "はああああああ！！\n"
-msgstr ""
+msgstr "HAAAAAHHHHH!!\n"
 
 #  text 
 #  warnings: 1 
@@ -311,14 +313,15 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0126:26 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0126:26 
 msgid "うあああああああっ！\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaaah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +369,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:30 
 msgid "弌弌はっ！？　あれってまさか弌弌！！\n"
-msgstr ""
+msgstr "——Ah!? Could that possibly be——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +387,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:32 
 msgid "？？？（７５番）"
-msgstr ""
+msgstr "？？？"
 
 #  text 
 #  warnings: 0 
@@ -426,7 +429,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:35 
 msgid "あははははは、何それ？\n"
-msgstr ""
+msgstr "Ahahahahaha. What's that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +447,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:37 
 msgid "７５番"
-msgstr ""
+msgstr "No. 75"
 
 #  text 
 #  warnings: 0 
@@ -498,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:41 
 msgid "ごめんくださ―い。\n"
-msgstr ""
+msgstr "May I come in?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,19 +513,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:42 
 msgid "あ、いらっしゃいま弌弌\n"
-msgstr ""
+msgstr "Ah, please come in——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0126:43 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 
 #: sc/0126:43 
 msgid "大福がしゃべるなっ！\n"
-msgstr ""
+msgstr "Don't speak of daifuku!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,13 +537,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:44 
 msgid "ぐはぅっ！？\n"
-msgstr ""
+msgstr "GWAH!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0126:45 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -714,7 +717,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:59 
 msgid "へ？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +825,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:68 
 msgid "……あ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +837,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0126:69 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 

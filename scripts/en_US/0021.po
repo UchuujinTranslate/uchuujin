@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:06+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0021/en_US/>\n"
+"PO-Revision-Date: 2021-09-01 17:37+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0021/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,8 +25,8 @@ msgstr ""
 #: sc/0021:0 
 msgid "さてと、授業も終わったし、\n部活に行かないとね〜。\n"
 msgstr ""
-"Well, class is over.\n"
-"I have an after-school club i need to go to.\n"
+"Well, class is over. And I have\n"
+"an after-school club I gotta go to～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -38,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:1 
 msgid "ん？　あ、あれは……。\n"
-msgstr "Hmm?　I can't wait to see what you're up to.\n"
+msgstr "Hmm? Th-that's…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,8 +51,8 @@ msgstr ""
 #: sc/0021:2 
 msgid "ウェボシ―が言ってたモヒカン……\nなんで花壇の花に水をあげてるの？\n"
 msgstr ""
-"The Mohawk that Weboshi was talking about.……\n"
-"Why are you watering the flower beds?\n"
+"The Mohawk-guy Weboshi talked about.…\n"
+"Why is he watering flower beds?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -65,8 +65,8 @@ msgstr ""
 #: sc/0021:3 
 msgid "あ、そうか。前にフェっちゃんが\n花壇の花に水あげてるって言ってたっけ。\n"
 msgstr ""
-"Oh, that's right. Fe-chan said\n"
-"she was watering the flowers earlier.\n"
+"Oh, that's right. Fe-chan told me that \n"
+"he used to do that I think.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,8 +79,8 @@ msgstr ""
 #: sc/0021:4 
 msgid "冗談かと思ったけど……ホントだったんだ。\nあんな髪形してるのに……。\n"
 msgstr ""
-"I thought it was a joke, but ... it was true.\n"
-"I don't know what to do.\n"
+"I thought it was a joke, but… he really\n"
+"does it. Despite the hairstyle….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -93,8 +93,8 @@ msgstr ""
 #: sc/0021:5 
 msgid "もしかして不良じゃないとか？\nでもあの髪形だしねぇ……。\n"
 msgstr ""
-"Maybe it's not a bad idea?\n"
-"But it's that hairdo.......\n"
+"Maybe he's not really a degenerate?\n"
+"But with that hair though…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -105,11 +105,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0021:6 
-#, fuzzy
 msgid "まあ、ウェボシ―の友達としては\nあいつが不良じゃない方がうれしいけど。\n"
 msgstr ""
-"Well, as a friend of Weboshii,\n"
-"I'm glad he's not bad.\n"
+"Well, as a friend of Weboshi, I'd be\n"
+"glad if he wasn't a degenerate though.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -123,7 +122,7 @@ msgstr "Nakanojo"
 msgid "〜〜〜\n……あれ、こんなところにてんとう虫……。\n"
 msgstr ""
 "〜〜〜\n"
-"…I'm sure you'll find it here.\n"
+"……There's a ladybug over here…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,7 +134,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:8 
 msgid "あ！　虫を捕まえた！\n"
-msgstr "Ah! I caught a bug!\n"
+msgstr "Ah! He caught a bug!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -148,8 +147,8 @@ msgstr ""
 #: sc/0021:9 
 msgid "花に害虫は付き物……\nどうするの？　殺しちゃうの？\n"
 msgstr ""
-"With flowers come bugs...\n"
-"What should I do!? Will it kill me?\n"
+"With flowers come bugs……\n"
+"What will he do!? Will he kill it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -162,8 +161,8 @@ msgstr ""
 #: sc/0021:10 
 msgid "花に水をあげるからちょっとどいててね。\n"
 msgstr ""
-"I'm gonna water the flowers, so get out\n"
-"of the way!!\n"
+"Hey little bug, I'm gonna water the\n"
+"flowers, so could you move a bit?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -176,8 +175,8 @@ msgstr ""
 #: sc/0021:11 
 msgid "……はい。これでよし。邪魔してごめんね。\n花に戻してあげるよ。\n"
 msgstr ""
-"Ok. This is fine. My apologies.\n"
-"You can go back to the flower.\n"
+"Ok, that'll do. Sorry for the fuss. I'm\n"
+"gonna put you back on the flower now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -189,7 +188,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:12 
 msgid "（キャッチ　アンド　リリ―――ス！？）\n"
-msgstr "(Catch and release!?)\n"
+msgstr "(A catch and release!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -200,11 +199,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0021:13 
-#, fuzzy
 msgid "な、なんて良い人っぽいのよ……モヒカン……\nこんな陸上で魅せてくれるじゃない……。\n"
 msgstr ""
-"What a good person ... Mohican ...\n"
-"I'm fascinated by this kind of land ...\n"
+"What a seemingly good person……\n"
+"Showing charm even at this front, huh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -218,7 +216,7 @@ msgstr ""
 msgid "これは疑い様もないわね。\nアイツ……かなりいい人だわ。\n"
 msgstr ""
 "No doubt about it.\n"
-"yes, a very good person.\n"
+"He's…… actually a very good person.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -230,7 +228,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0021:15 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -244,7 +242,7 @@ msgstr ""
 msgid "ん？\n……迷子かな？\n"
 msgstr ""
 "Hmm?\n"
-"…Are you lost?\n"
+"……Are you lost?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -268,7 +266,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:18 
 msgid "うわ、人なつっこい犬だなあ。\n"
-msgstr ""
+msgstr "Wow, what a friendly dog.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -281,18 +279,20 @@ msgstr ""
 #: sc/0021:19 
 msgid "なっ！　笑顔で犬の頭を！\nこれは間違いなく良い人――っ！！\n"
 msgstr ""
+"Wha! Petting a dog with a smile!?\n"
+"No doubt, they're good person——!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0021:20 
 msgid "なっ！　笑顔でアンテナを！\n"
-msgstr ""
+msgstr "Wha! The antenna was broken by a smile!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0021:21 
 msgid "間違いなく悪い人だ――！！！\n"
-msgstr ""
+msgstr "Without a doubt, he's a bad dude——!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,6 +305,8 @@ msgstr ""
 #: sc/0021:22 
 msgid "で、でも、優しさだったら\n笹原だって負けてないんだから！\n"
 msgstr ""
+"B-But, if we're talking kindness, \n"
+"Sasahara isn't too far from him either!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -317,6 +319,8 @@ msgstr ""
 #: sc/0021:23 
 msgid "……はっ！？\n今、私、何言ったの！？\n"
 msgstr ""
+"……Ah!?\n"
+"What did I just say!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -329,6 +333,8 @@ msgstr ""
 #: sc/0021:24 
 msgid "大声で独り言なんて、\nめちゃ恥ずいじゃない！\n"
 msgstr ""
+"Saying something like that out-loud\n"
+"to myself feel so awkward!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -341,6 +347,8 @@ msgstr ""
 #: sc/0021:25 
 msgid "……じゃなくて、誰が、誰と、\n何を比べてどうだって言うのよ！\n"
 msgstr ""
+"……Or hey, what comes out of comparing\n"
+"them in the first place!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -353,6 +361,8 @@ msgstr ""
 #: sc/0021:26 
 msgid "そりゃ笹原だったら害虫だってキャッチアンド\nリリ―スなんて中途半端なことしないわよ。\n"
 msgstr ""
+"But, Sasahara wouldn't do something\n"
+"half-baked like catch-and-release bugs.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -365,6 +375,8 @@ msgstr ""
 #: sc/0021:27 
 msgid "責任もってビニ―ルハウスで自家栽培よ！\n"
 msgstr ""
+"Then, take responsibility and do home\n"
+"gardening in a polytunnel greenhouse!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -376,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:28 
 msgid "夫婦で家庭菜園よ！\n"
-msgstr ""
+msgstr "Home gardening as husband and wife!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -388,7 +400,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:29 
 msgid "……じゃなくて！\n"
-msgstr ""
+msgstr "……No, that's not it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -401,6 +413,8 @@ msgstr ""
 #: sc/0021:30 
 msgid "なんで私がこんなに笹原のことばっかり\n考えなきゃいけないのよっ！\n"
 msgstr ""
+"Why do I always have to think\n"
+"about Sasahara all the time!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -413,6 +427,8 @@ msgstr "Sasahara"
 #: sc/0021:31 
 msgid "……私がどうかしたか。\n立花みさとよ。\n"
 msgstr ""
+"……Is there something I did,\n"
+"Misato Tachibana?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -449,6 +465,8 @@ msgstr ""
 #: sc/0021:34 
 msgid "き、急に声かけないでよね！\nビックリするじゃない！！\n"
 msgstr ""
+"D-Don't just talk to me from out of\n"
+"nowhere! You startled me!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -461,6 +479,8 @@ msgstr ""
 #: sc/0021:35 
 msgid "ああ……そうか。それは失敬。\n以後気をつけよう。\n"
 msgstr ""
+"Ahh…… I see. Pardon me.\n"
+"In the future, I will be more heedful.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:36 
 msgid "あわ……あわわ……。\n"
-msgstr ""
+msgstr "Awah…… Awawah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -509,18 +529,22 @@ msgstr ""
 #: sc/0021:39 
 msgid "そ、そんな馬鹿な！\nニッポンの学校で銃撃事件なんて！！\n"
 msgstr ""
+"N-No way, this is unreal!\n"
+"Gunfire at a school in Japan?!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0021:40 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0021:40 
 msgid "そんな嘘みたいなこと、\nあるはずがないんだ！！\n"
 msgstr ""
+"There's no way that something\n"
+"like this is happening!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -533,6 +557,8 @@ msgstr ""
 #: sc/0021:41 
 msgid "待って！！　笹原だから銃撃じゃないの！\nちょ、ちょっと逃げないで！　説明を！\n"
 msgstr ""
+"No wait!! It's fine. It's not a shooting, it's fine since it's Sasahara!\n"
+"Ah, hey wait don't run away! Let me explain!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -555,8 +581,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0021:43 
+#, fuzzy
 msgid "むう、私だからと言うのはさておき、\nそもそも校内で銃撃とは、いかがだろうか。\n"
 msgstr ""
+"I don't mind that you are making an exception for me, \n"
+"but I'm not so sure how good it is to be shooting inside a school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -568,7 +597,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:44 
 msgid "あんたは黙ってて！\n"
-msgstr ""
+msgstr "You keep quiet!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -580,7 +609,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:45 
 msgid "なるほど、砲撃であったか。\n"
-msgstr ""
+msgstr "I see, so it was a canon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -592,7 +621,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:46 
 msgid "ちょ……笹原、あんたいつからそこに……？\n"
-msgstr ""
+msgstr "Huh…since when were you here, Sasahara?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -605,6 +634,8 @@ msgstr ""
 #: sc/0021:47 
 msgid "？　いつからと言われても。\nここに来てからだが。\n"
 msgstr ""
+"Hm? Even if you say so.\n"
+"Well, since I came here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -617,6 +648,8 @@ msgstr ""
 #: sc/0021:48 
 msgid "正直に答えなさい！\n今の、聞いたの？　聞いてないの！？\n"
 msgstr ""
+"Just be honest, okay! Did you,\n"
+"or did you not hear what I just said!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -629,6 +662,8 @@ msgstr ""
 #: sc/0021:49 
 msgid "はて、何のことだ。\n立花みさとよ、わけがわからんぞ。\n"
 msgstr ""
+"Now, what are you talking about? Misato\n"
+"Tachibana, you aren't making any sense.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,6 +676,8 @@ msgstr ""
 #: sc/0021:50 
 msgid "だから！　わ、私が今言ってた独り言を、\n聞いたのかって聞いてるのよ！！\n"
 msgstr ""
+"C'mon! I, I asked if you heard what\n"
+"I was talking to myself about or not!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -653,6 +690,8 @@ msgstr ""
 #: sc/0021:51 
 msgid "独り言？　ああ、そう言えば\nなにやらぶつぶつ言っていたな。\n"
 msgstr ""
+"A soliloquy? Ah, speaking of which,\n"
+"you were muttering about something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -664,7 +703,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:52 
 msgid "や、やっぱり聞いたのね！\n"
-msgstr ""
+msgstr "S-So you did hear it, huh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -675,8 +714,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0021:53 
+#, fuzzy
 msgid "私が笹原と家庭菜園で仲良く汗する\n未来計画を聞いたのねっ！？\n"
 msgstr ""
+"About my future plans of me and you happily \n"
+"working on our home garden together!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -689,6 +731,8 @@ msgstr ""
 #: sc/0021:54 
 msgid "いやいや、\nそんな話は出てこなかったはずだが。\n"
 msgstr ""
+"No no, \n"
+"I believe I didn't hear any of that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -700,7 +744,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:55 
 msgid "…………えっ？\n"
-msgstr ""
+msgstr "…………Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -713,6 +757,8 @@ msgstr ""
 #: sc/0021:56 
 msgid "しかし……ふむ、立花みさとは\n家庭菜園を営むのが夢なのだな。\n"
 msgstr ""
+"But still……I see, so you have a dream of \n"
+"running a home gardening place in the future.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -724,7 +770,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:57 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -736,7 +782,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:58 
 msgid "そそそ、そんなわけ弌弌\n"
-msgstr ""
+msgstr "N-N-No, that's not——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -747,8 +793,13 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0021:59 
+#, fuzzy
 msgid "近代化の進む中、こんなに身近な者が\n家庭菜園を夢見ていたとは感動した。\n"
 msgstr ""
+"During these times when things are moving towards modernization, that "
+"someone this \n"
+"close to me were dreaming of running a home garden. I think that's really "
+"inspiring.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -760,7 +811,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:60 
 msgid "是非私にも\nその夢の一端を担がせてくれ。\n"
-msgstr ""
+msgstr "Please let me in some way partake in that dream of yours.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -784,7 +835,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:62 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -796,7 +847,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:63 
 msgid "……………………………………うん。\n"
-msgstr ""
+msgstr "……………………………………Okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -809,6 +860,8 @@ msgstr ""
 #: sc/0021:64 
 msgid "（聞かれた？　聞かれたわよね！？）\n"
 msgstr ""
+"(Did he hear?\n"
+"He heard what I said, right?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -821,6 +874,8 @@ msgstr ""
 #: sc/0021:65 
 msgid "（さっきの問題発言、\n　もろ聞かれちゃったわよね！？）\n"
 msgstr ""
+"(Did he flat-out hear that\n"
+"problematic remark of mine just now!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -833,6 +888,8 @@ msgstr ""
 #: sc/0021:66 
 msgid "（どうしよう……言い訳しようとしても、\n　かえって泥沼な気がするし……）\n"
 msgstr ""
+"(What should I do…… Making up an excuse\n"
+"for it would probably be no use……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -845,6 +902,8 @@ msgstr ""
 #: sc/0021:67 
 msgid "？　どうした、立花みさとよ。\n何を黙っている。\n"
 msgstr ""
+"? What's the matter, Misato Tachibana. \n"
+"Why the silence?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -857,6 +916,8 @@ msgstr ""
 #: sc/0021:68 
 msgid "（ここは……もう……\n　あえて無視するしか……！）\n"
 msgstr ""
+"(I guess…… I have……\n"
+"no choice but to ignore him now……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -868,7 +929,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:69 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -892,7 +953,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:71 
 msgid "はて、どうしたのだ。\n"
-msgstr ""
+msgstr "Hmm, I wonder what the matter was.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -905,6 +966,8 @@ msgstr ""
 #: sc/0021:72 
 msgid "まあ良い。では帰るとするか。\n"
 msgstr ""
+"I guess it was nothing.\n"
+"Well then, I think I will return home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -934,7 +997,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:75 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -946,25 +1009,27 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:76 
 msgid "通行人男性"
-msgstr ""
+msgstr "Male Pedestrian"
 
 #  text 
 #  warnings: 0 
 #: sc/0021:76 
 msgid "うわっ、何だあれ！？　ほら見ろよ。\n鹿と執事と……大砲？\n"
 msgstr ""
+"Woah, what the hell!? Hey look at that.\n"
+"A deer, a butler, and…… a cannon?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0021:77 
 msgid "通行人女性"
-msgstr ""
+msgstr "Female Pedestrian"
 
 #  text 
 #  warnings: 0 
 #: sc/0021:77 
 msgid "しっ、やめなさいよ。\n"
-msgstr ""
+msgstr "Shhhh, stop it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -976,4 +1041,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0021:78 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

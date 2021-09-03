@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:05+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-26 00:46+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0042/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Takasaki-sensei"
 #: sc/0042:0 
 msgid "なんとすがすがしい朝だろう。\n教育者として身が引き締まる思いだ。\n"
 msgstr ""
+"What a refreshing morning!\n"
+"As an educator, I think it's sobering.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:1 
 msgid "ややっ！？\n"
-msgstr ""
+msgstr "Oh gosh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:2 
 msgid "あそこに見えるのは桜井先生じゃないか！\n"
-msgstr ""
+msgstr "Isn't that Sakurai-sensei over there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr "Female student #1"
 #  warnings: 0 
 #: sc/0042:3 
 msgid "おはようございま―す。\n"
-msgstr ""
+msgstr "Good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr "Sakurai Sensei"
 #: sc/0042:4 
 msgid "あ、おはようございます。\n今日も授業がんばってね。\n"
 msgstr ""
+"Oh, good morning.\n"
+"Good luck with your studies today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:5 
 msgid "先生もがんばってくださいね―。\n"
-msgstr ""
+msgstr "Please do your best teaching as well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:6 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:7 
 msgid "（は―――――――あっ）\n"
-msgstr ""
+msgstr "(*Sigh————hh*)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +124,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:8 
 msgid "（無農薬野菜でもてなして―っ！）\n"
-msgstr ""
+msgstr "(I want to treat her with organic vegetables!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +137,8 @@ msgstr ""
 #: sc/0042:9 
 msgid "（あれほど生徒に慕われる人格者も居ない。\n　まさに私の理想とする人物だ！）\n"
 msgstr ""
+"(There is nobody who the students \n"
+"adore more. She's perfect for me!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +151,8 @@ msgstr ""
 #: sc/0042:10 
 msgid "（桜井誠の一件で見せた世話焼きぶりからしても\n　きっと家庭では良き妻としてだな……）\n"
 msgstr ""
+"(Just as she showed being assiduous towards Sakurai Makoto, \n"
+" I'm sure she could be a good housewife……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +176,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:12 
 msgid "ん？　廊下に犬？\n"
-msgstr ""
+msgstr "Hmm? Is that a dog in the hallway?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +189,8 @@ msgstr ""
 #: sc/0042:13 
 msgid "……犬？　そうだ、犬も必要だ！\nロ―ンは苦しいが立派な一戸建て！\n"
 msgstr ""
+"…A dog? Yes, we need a dog!\n"
+"It will be a pain with the loan but also a single-family home!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,24 +203,31 @@ msgstr ""
 #: sc/0042:14 
 msgid "そして庭では犬が元気に走り回る！\nそれを見つめる、お、お、俺と桜井先生弌弌！\n"
 msgstr ""
+"And our dog will run around at the garden outside! And\n"
+"we'll  watch, m, m, me and Sakurai-sensei, together——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0042:15 
 msgid "えっ！？　なんだ、何が起こった？\n……うおっ、犬の精神値に妙な干渉値が！？\n"
 msgstr ""
+"What? What happened? Something is interfering with the mind of the dog!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0042:16 
 msgid "な、なんだこれは、ジャミングなのか！？\nそれとも、何か別な攻撃が弌弌うわあっ！\n"
 msgstr ""
+"Hey, what's jamming the signal?\n"
+"Or, some other offense—— Woah!\n"
 
 #  text 
 #  warnings: 2 
 #: sc/0042:17 
 msgid "フ……我は恐ろしい惑星に\n来てしまっていたのかもしれないな。\n"
 msgstr ""
+"Haha…… we may have come \n"
+"to a dreadful planet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,6 +240,8 @@ msgstr ""
 #: sc/0042:18 
 msgid "（……って、うおぉ――――っ！\n　な、何を考えているんだ、オレは！！）\n"
 msgstr ""
+"（……Er, woah!\n"
+"　W-what the heck am I thinking!!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,6 +254,8 @@ msgstr ""
 #: sc/0042:19 
 msgid "（違う、そうじゃないだろう！\n　あくまで尊敬する同僚としてだな……）\n"
 msgstr ""
+"（No way that's it! Only meaning\n"
+"as a respected colleague……）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,6 +268,8 @@ msgstr ""
 #: sc/0042:20 
 msgid "そうだ！　同僚として前を歩いている同僚に\n挨拶をするのは自然なことじゃないか？\n"
 msgstr ""
+"Oh right! It's natural to greet a co-\n"
+"worker walking in front of you, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -259,6 +282,8 @@ msgstr ""
 #: sc/0042:21 
 msgid "そして職員室まではまだ距離があるんだから、\n同僚として世間話くらいは当たり前だ。\n"
 msgstr ""
+"And there's some time 'til the staff room.\n"
+"As a coworker, it's natural to chitchat.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,6 +296,8 @@ msgstr ""
 #: sc/0042:22 
 msgid "（自然にだ。自然にだぞ、高崎学。\n　あくまで世間話をするだけ、だからな）\n"
 msgstr ""
+"（Naturally. Do it naturally, Manabu Takasaki.\n"
+"After all, it's just small talk.）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +310,8 @@ msgstr ""
 #: sc/0042:23 
 msgid "さ、桜井先生、\nおはようございます。\n"
 msgstr ""
+"M-Ms. Sakurai,\n"
+"Good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,6 +324,8 @@ msgstr ""
 #: sc/0042:24 
 msgid "あ、高崎先生。\nおはようございます。\n"
 msgstr ""
+"Ah, Takasaki-sensei.\n"
+"Good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +338,8 @@ msgstr ""
 #: sc/0042:25 
 msgid "桜井先生は職場結婚をどう思われますか？\n"
 msgstr ""
+"Sakurai-sensei, what do you\n"
+"think of workplace marriage?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +375,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:28 
 msgid "（なに言ってんだオレは―――！！！）\n"
-msgstr ""
+msgstr "(What did I just say———!!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -355,6 +388,8 @@ msgstr ""
 #: sc/0042:29 
 msgid "（何で桜井先生にこんなことを聞くんだ！\n　聞きたいのはやまやま……ってバカ！！）\n"
 msgstr ""
+"(Why did I ask Ms. Sakurai about that!\n"
+"I could have asked anything but that… stupid!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +402,8 @@ msgstr ""
 #: sc/0042:30 
 msgid "職場結婚……ですか？\nえっと、急にどうされたんですか？\n"
 msgstr ""
+"Workplace marriages…… Right? Uh,\n"
+"why a question like that so suddenly?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +415,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:31 
 msgid "い、いえ、その！\n"
-msgstr ""
+msgstr "Uh, n-no, it's uh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +428,8 @@ msgstr ""
 #: sc/0042:32 
 msgid "そ、そう！　親戚が教師でして！\nこの間職場結婚をですね！\n"
 msgstr ""
+"Y-yeah! My relatives are teachers!\n"
+"Recently, they had a workplace marriage!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +441,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:33 
 msgid "あ、そうだったんですか―。\n"
-msgstr ""
+msgstr "Oh,  is that so—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +454,8 @@ msgstr ""
 #: sc/0042:34 
 msgid "（親戚の教師なんていないだろ！！\n　でも、桜井先生信じちゃったよ！！！）\n"
 msgstr ""
+"（I don't have teacher relatives!!\n"
+"　 Yet, Ms. Sakurai somehow trusts me!!!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +468,8 @@ msgstr ""
 #: sc/0042:35 
 msgid "（嘘をつくなんて教師失格だぞ高崎学！\n　だが、今更訂正するわけにも……）\n"
 msgstr ""
+"（It's dishonorable for me as a teacher to tell a lie.\n"
+"　But, I can't take it back now……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +482,8 @@ msgstr ""
 #: sc/0042:36 
 msgid "職場結婚ですか―。\n素敵なことだと思います。\n"
 msgstr ""
+"Workplace marriage, huh.\n"
+"I think it's a wonderful thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +495,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:37 
 msgid "（ワンダフ――――――ル！！！）\n"
-msgstr ""
+msgstr "(WONDERFUUUUUUL—————!!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +507,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:38 
 msgid "あ、あの―、高崎先生？\n"
-msgstr ""
+msgstr "U-um, Mr. Takasaki?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +520,8 @@ msgstr ""
 #: sc/0042:39 
 msgid "あっ、失礼しました。\n急に妙なことを聞いてしまいまして。\n"
 msgstr ""
+"Ah, pardon me.\n"
+"Sorry for suddenly asking about something strange.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +534,8 @@ msgstr ""
 #: sc/0042:40 
 msgid "いえ、平気ですよ。\nあっ、そろそろ朝の会議が始まっちゃいます。\n"
 msgstr ""
+"No, it's fine. Oh, it's about time.\n"
+"The morning meeting is about to start.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +547,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:41 
 msgid "はい！　では職員室へ急ぎましょう！\n"
-msgstr ""
+msgstr "Yeah! Then let's hurry to the staff room!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -511,6 +560,8 @@ msgstr ""
 #: sc/0042:42 
 msgid "（本当に、なんとすがすがしい朝なんだ。\n　今日１日、いいことがありそうだぜ！！）\n"
 msgstr ""
+"（Really! What a refreshing morning. It\n"
+"seems like it's going to be a good day!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +573,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:43 
 msgid "その、今日はいい天気ですね。\n"
-msgstr ""
+msgstr "Um, the weather is nice today, isn't it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,6 +586,8 @@ msgstr ""
 #: sc/0042:44 
 msgid "あっ、はい。\nあったかくていい陽気ですね。\n"
 msgstr ""
+"Ah, yes.\n"
+"It's warm and cheerful, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +600,8 @@ msgstr ""
 #: sc/0042:45 
 msgid "はい。こんな日は\n絶好の山菜摘み日和だと思いませんか？\n"
 msgstr ""
+"Yeah. Don't you think this\n"
+"is a great day for wild-mushroom picking?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +613,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:46 
 msgid "山菜摘み……ですか？\n"
-msgstr ""
+msgstr "Mushroom…… picking?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +625,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:47 
 msgid "はい、山菜摘みです。\n"
-msgstr ""
+msgstr "Yeah, mushroom picking.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +650,8 @@ msgstr ""
 #: sc/0042:49 
 msgid "えっと、そうですね。\nこんな日は体を動かしたくなりますね。\n"
 msgstr ""
+"Ehm, that's true. On a day like this,\n"
+"it would be lovely to be active.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -605,8 +662,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0042:50 
+#, fuzzy
 msgid "（よしきた―――！！）\n"
-msgstr ""
+msgstr "（Awesome―――!!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +677,8 @@ msgstr ""
 #: sc/0042:51 
 msgid "そうですよね！\n先生は山菜はお好きですか？\n"
 msgstr ""
+"That's right!\n"
+"Do you like wild mushrooms?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +691,8 @@ msgstr ""
 #: sc/0042:52 
 msgid "えっ、えっと……\nあんまり食べないですけど好きですよ。\n"
 msgstr ""
+"U-uh……\n"
+"I don't really eat them all that much but I like them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,8 +703,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0042:53 
+#, fuzzy
 msgid "（もういっちょよしきた―――！！！）\n"
-msgstr ""
+msgstr "（Even more! Awesome———!!!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +718,8 @@ msgstr ""
 #: sc/0042:54 
 msgid "（いいんじゃないか！？\n　同僚同士、自然に会話できているぞ！）\n"
 msgstr ""
+"(Isn't that nice!? I'm having just a natural \n"
+"conversation with my colleague!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +743,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:56 
 msgid "桜井先生！　今日みたいな日には弌弌\n"
-msgstr ""
+msgstr "Ms. Sakurai! On a day like this would——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +756,8 @@ msgstr ""
 #: sc/0042:57 
 msgid "あ、あのっ、高崎先生。\nそろそろ朝の職員会議の時間が……。\n"
 msgstr ""
+"Uh, um, Mr. Takasaki.\n"
+"It's time for the morning staff meeting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +770,8 @@ msgstr ""
 #: sc/0042:58 
 msgid "あっ、すみません！\nそれでは職員室まで急ぎましょう！\n"
 msgstr ""
+"Oh, I'm so sorry!\n"
+"Let's hurry to the staff room!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +783,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:59 
 msgid "そして山菜の会議、頑張りましょう！\n"
-msgstr ""
+msgstr "And let's do our best in today's mushroom meeting!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +807,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:61 
 msgid "……あ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +819,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:62 
 msgid "議題に出来るだろうか、山菜摘み。\n"
-msgstr ""
+msgstr "I think it can be on the agenda.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +831,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:63 
 msgid "そろそろ朝の会議が始まりそうですね。\n"
-msgstr ""
+msgstr "The morning meeting is about to begin, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +844,8 @@ msgstr ""
 #: sc/0042:64 
 msgid "あっ、ほんとですね。\n早く職員室に行かなきゃ。\n"
 msgstr ""
+"Oh, yeah right.\n"
+"We have to go to the staff room now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +882,8 @@ msgstr ""
 #: sc/0042:67 
 msgid "（ちょっと待て高崎学！\n　何で無言で歩いてるんだよ！）\n"
 msgstr ""
+"(Wait a minute, Manabu Takasaki!\n"
+"Why are you walking in silence? )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -823,6 +896,8 @@ msgstr ""
 #: sc/0042:68 
 msgid "（何でもいいから話題を振るんだ。\n　えっと、そうだ、天気のことでも弌弌）\n"
 msgstr ""
+"（We can talk about anything.\n"
+"　And uh, well, even about the weather——）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +909,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:69 
 msgid "さ、桜井先生！\n"
-msgstr ""
+msgstr "M-Ms. Sakurai!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,7 +921,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:70 
 msgid "は、はい？\n"
-msgstr ""
+msgstr "Y- Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +933,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:71 
 msgid "今日はいい天気ですね！\n"
-msgstr ""
+msgstr "It's a lovely day today, isn't it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,6 +946,8 @@ msgstr ""
 #: sc/0042:72 
 msgid "そ、そうですね。\nとってもすごしやすいです。\n"
 msgstr ""
+"Y-yeah.\n"
+"It's very comfortable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -907,6 +984,8 @@ msgstr ""
 #: sc/0042:75 
 msgid "（だからちょっと待て高崎学！\n　そこから話を膨らませろよ！）\n"
 msgstr ""
+"(Wait a minute, Manabu Takasaki! \n"
+"How do you plan to expand the conversation from here!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +998,8 @@ msgstr ""
 #: sc/0042:76 
 msgid "（他に何か話題は無いか？\n　何でもいい。職員室につくまでに何か！）\n"
 msgstr ""
+"（Are there not any other topics? Anything\n"
+"will work. Anything until staff room!）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -930,7 +1011,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:77 
 msgid "あの―、高崎先生……。\n"
-msgstr ""
+msgstr "Um, Mr. Takasaki…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -943,6 +1024,8 @@ msgstr ""
 #: sc/0042:78 
 msgid "（そうだ、桜井誠のことはどうだ？\n　これならすぐに会話が途切れることは弌弌）\n"
 msgstr ""
+"（Right! What about Makoto Sakurai?\n"
+"If I talk about that then it will surely continu—)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +1037,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:79 
 msgid "あの、高崎先生？\n"
-msgstr ""
+msgstr "Um, Mr. Takasaki?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -966,19 +1049,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:80 
 msgid "は、はいっ！？\n"
-msgstr ""
+msgstr "Y-yes!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0042:81 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0042:81 
 msgid "職員室、つきましたよ？\n"
-msgstr ""
+msgstr "The staff room. We're here now?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,16 +1073,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0042:82 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0042:83 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0042:83 
 msgid "（うおおおおおぉぉぉ――――！！！）\n"
-msgstr ""
+msgstr "（WOOOHHHHHHH————!!!）\n"

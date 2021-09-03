@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 00:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-11-04 20:25+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0132/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Weboshi"
 #  warnings: 0 
 #: sc/0132:0 
 msgid "あっ、そこの子、ちょっといい？\n"
-msgstr ""
+msgstr "Ah, you over there, could I talk with you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0132:1 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0132:2 
 msgid "キミ１年だよね？\n東雲なのちゃんって知らない？\n"
 msgstr ""
+"You're a freshman right?\n"
+"Do you know someone that's named Nano Shinonome?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:3 
 msgid "え？　なのは私ですけど……。\n"
-msgstr ""
+msgstr "Eh? That's me…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr ""
 #: sc/0132:4 
 msgid "あなたがなのちゃんか〜。\nえっとね、今度体育祭があるでしょ？\n"
 msgstr ""
+"Ah so you are Nano-chan, huh~\n"
+"Okay, so you know about the sport day that's coming up, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:5 
 msgid "あっ、はい。\n"
-msgstr ""
+msgstr "Ah, yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +101,8 @@ msgstr ""
 #: sc/0132:6 
 msgid "おめでとうっ。３学年混合の組み体操で、\nピラミッド役に選ばれました。\n"
 msgstr ""
+"Congrats. You've been elected for the mixed grades gymnastic formation "
+"event,  for the pyramid part.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +114,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:7 
 msgid "えっ？　えっ！？\n"
-msgstr ""
+msgstr "Eh? Ehh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +127,8 @@ msgstr ""
 #: sc/0132:8 
 msgid "先生がくじで勝手に決めちゃったんだって。\n学年ちがうけど、私たちも仲間だよ。\n"
 msgstr ""
+"Apparently the teachers drew lots for it by themselves.\n"
+"We're in different grades but, we are your partners.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0132:9 
 msgid "と言うわけでピラミッドのどの位置がいいか\nなのちゃんの意見を聞きにきたんだ。\n"
 msgstr ""
+"So that's why we wanted to ask for your opinion of what position you want to "
+"have in the pyramid.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0132:10 
 msgid "どの位置がいいかですか。\nう―ん……私は別にどこでも弌弌\n"
 msgstr ""
+"The position I want to be in, huh.\n"
+"Hmm……I could take whatev——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +168,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0132:11 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:12 
 msgid "あれ？　この犬、また……。\n"
-msgstr ""
+msgstr "Huh? That dog, it's here again……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +193,8 @@ msgstr ""
 #: sc/0132:13 
 msgid "おっ！　犬だ！\nよしよし、こっちおいで。\n"
 msgstr ""
+"Oh! There's a dog!\n"
+"There there, come over here.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -192,31 +206,35 @@ msgstr ""
 #  warnings: 1 
 #: sc/0132:14 
 msgid "あははは、かわい―\n"
-msgstr ""
+msgstr "Ahahaha, so cute～\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:15 
 msgid "おい、タ―ゲットが見えないぞ？\nちゃんと映せないのか？\n"
 msgstr ""
+"Hey, we can't see our targets.\n"
+"Can't you film them any better?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:16 
 msgid "ううむ、がっちり捕まってるから\n身動きが取れないな。\n"
-msgstr ""
+msgstr "Uhmm, it's been trapped so I'm not able to move it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:17 
 msgid "全く……うらやましいやつめ。\nとりあえず暴れてみろ。\n"
 msgstr ""
+"Jeez……that dog making me jealous.\n"
+"Could you at least try to struggle.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:18 
 msgid "オッケ―。\n"
-msgstr ""
+msgstr "OK—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,24 +247,30 @@ msgstr ""
 #: sc/0132:19 
 msgid "あっ、こいつ！\n逃がさないぞ――！\n"
 msgstr ""
+"Ah, hey there! \n"
+"I won't let you get away——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:20 
 msgid "……俺も女の子にハグされて、\nこんなこと言われてみたいよ。\n"
 msgstr ""
+"……Man, I would also wanna get hugged and then being \n"
+"called like that by those girls.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:21 
 msgid "はは、まったくだ。\nま、今は気分だけでも味わおうぜ。\n"
 msgstr ""
+"Haha, sure thing.\n"
+"Welp, let's just enjoy the feeling of it at least.\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0132:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -258,13 +282,13 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0132:23 
 msgid "ぎゃあああ！？　折れた――！\n"
-msgstr ""
+msgstr "Gyaaaaaaah!? It snapped——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0132:24 
 msgid "余計なこと、\nするんじゃなかった――！！\n"
-msgstr ""
+msgstr "I should have just minded my own business——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +300,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:25 
 msgid "（あっ！？　背中！！）\n"
-msgstr ""
+msgstr "(Ah!? My back!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:26 
 msgid "（組み体操でピラミッドになったら\n　ネジが邪魔になる！！）\n"
-msgstr ""
+msgstr "(If I do formation gymnastic my key will be in the way!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +325,8 @@ msgstr ""
 #: sc/0132:27 
 msgid "（こんなところでもネジの弊害が……\n　う―ん、一番上なら邪魔にならないかな？）\n"
 msgstr ""
+"(The key is causing me problems even here……\n"
+"Hmm, but couldn't it work if I was at the top?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +338,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:28 
 msgid "それじゃあ私は一番上でお願いします。\n"
-msgstr ""
+msgstr "Then I will go for the top position.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +351,8 @@ msgstr ""
 #: sc/0132:29 
 msgid "一番上か―。\nなのちゃんって体重軽い方？\n"
 msgstr ""
+"At the top, huh.\n"
+"Are you on the lightweight side, Nano-chan?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +377,8 @@ msgstr ""
 #: sc/0132:31 
 msgid "ピラミッドって下の人に負担かかるじゃん？\nだからできるだけ軽い人を上にしたいんだ。\n"
 msgstr ""
+"With pyramids, it's the most burden for the people at the bottom, right?\n"
+"So that's why we want to put light people at the top.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +391,8 @@ msgstr ""
 #: sc/0132:32 
 msgid "あっ、そうですね。\nえ―、私の体重は……。\n"
 msgstr ""
+"Ah, I understand.\n"
+"Ehh, my weight is……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:33 
 msgid "（あっ！？　体重！！）\n"
-msgstr ""
+msgstr "(Ah!? My weight!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +417,8 @@ msgstr ""
 #: sc/0132:34 
 msgid "（私はロボットだから絶対に軽くない。\n　なのに私が一番上になったら……）\n"
 msgstr ""
+"(I'm a robot so there is no way I would be light weight.\n"
+"Meaning if I were to be at the top then……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +430,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:35 
 msgid "（ピラミッドは崩壊を免れない！）\n"
-msgstr ""
+msgstr "(The pyramid is doomed to fall!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +443,8 @@ msgstr ""
 #: sc/0132:36 
 msgid "（これじゃ私は一番下になるしか……\n　でもネジのせいで下にもなれない……）\n"
 msgstr ""
+"(Then I have to be at the bottom……\n"
+"but because of the key I can't do that either……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:37 
 msgid "……あれ？　もしかしてなのちゃんって\n言えないくらい重いの？\n"
-msgstr ""
+msgstr "……wait? Could it be that you are so heavy you don't want to say it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +469,8 @@ msgstr ""
 #: sc/0132:38 
 msgid "そ、そんなことないです！\n他の人よりちょっと重いだけです！\n"
 msgstr ""
+"N- No that's not it!\n"
+"I'm just a little bit heavier than most people!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +483,8 @@ msgstr ""
 #: sc/0132:39 
 msgid "ん―、それなら一番上は無理かな。\n悪いけど下の方に弌弌\n"
 msgstr ""
+"Hmm—, then I think the top will be hard.\n"
+"Sorry but could you go with a bottom\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +520,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:42 
 msgid "ダイエットしますから！！\n"
-msgstr ""
+msgstr "I will diet!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +533,8 @@ msgstr ""
 #: sc/0132:43 
 msgid "で、でも、今からダイエットしても\n一番軽くなるのは難しいし……。\n"
 msgstr ""
+"B- But even if you start now it would still be hard to\n"
+"become the most light weight…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:46 
 msgid "軽量化なら一晩ですから！\n"
-msgstr ""
+msgstr "Weight reduction takes just one night!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +582,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:47 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +594,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:48 
 msgid "あっ！？\n"
-msgstr ""
+msgstr "Ah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +606,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:49 
 msgid "軽量化？\n"
-msgstr ""
+msgstr "Weight reduction?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:50 
 msgid "軽量化という名のダイエットです！\n"
-msgstr ""
+msgstr "Weight Reduction is the name of a new diet method!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +631,8 @@ msgstr ""
 #: sc/0132:51 
 msgid "じゃあやっぱり一晩じゃ\n間に合わないんじゃ弌弌\n"
 msgstr ""
+"But then, you wouldn't be \n"
+"able to do it in one night——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:52 
 msgid "いえ！　大丈夫です！\n"
-msgstr ""
+msgstr "No! It's fine!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +656,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:53 
 msgid "ふぇっ！？\n"
-msgstr ""
+msgstr "Fehh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,19 +668,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:54 
 msgid "腕の立つ人を知っていますから！\n"
-msgstr ""
+msgstr "I know someone that knows how!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0132:55 
 msgid "ウェボシ―＆フェっちゃん"
-msgstr ""
+msgstr "Weboshi & Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0132:55 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +692,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:56 
 msgid "そ、そっか―。じゃあ、ダイエット、\n頑張ってきてよ。\n"
-msgstr ""
+msgstr "I- I see—. Then, good luck with your diet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:57 
 msgid "はい！　頑張ります！\n"
-msgstr ""
+msgstr "Yes! I will do my best!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +717,8 @@ msgstr ""
 #: sc/0132:58 
 msgid "（重い！\n　きっと普通の女の子の何倍も重い！）\n"
 msgstr ""
+"(Heavy!\n"
+"I'm sure I'm several times heavier than a normal girl!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +731,8 @@ msgstr ""
 #: sc/0132:59 
 msgid "（それを認めると強制的に下の方に……\n　でもネジ……上はみんなが怪我……）\n"
 msgstr ""
+"(If I admit that I will be forced to be at the bottom……\n"
+"but the key……everyone above will get hurt……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +745,8 @@ msgstr ""
 #: sc/0132:60 
 msgid "あれ？　お―いなのちゃ―ん？\n……聞こえてないみたい。\n"
 msgstr ""
+"Wait? Hey— Nano-chan?\n"
+"……Looks like she isn't hearing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +759,8 @@ msgstr ""
 #: sc/0132:61 
 msgid "重いって言われてショックだったんだよ。\nオブラ―トにつつみなって。\n"
 msgstr ""
+"She's in shock after you calling her heavy.\n"
+"Could have said it in a more round-about way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +772,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:62 
 msgid "あっ、そっか……。\n"
-msgstr ""
+msgstr "Ah, I see…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +785,8 @@ msgstr ""
 #: sc/0132:63 
 msgid "あっ、すみません。\n何か言いましたか？\n"
 msgstr ""
+"Ah, pardon me.\n"
+"What did you say?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +799,8 @@ msgstr ""
 #: sc/0132:64 
 msgid "い、いや、何も。それより、\nごめんねなのちゃん。私たちそろそろ……。\n"
 msgstr ""
+"Ah, no it was nothing. Actually \n"
+"sorry Nano-chan but I think we gotta……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +813,8 @@ msgstr ""
 #: sc/0132:65 
 msgid "ほ、他の人にも聞かないといけないし。\nじゃあね！\n"
 msgstr ""
+"W- We have other people to ask too so.\n"
+"See you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +827,8 @@ msgstr ""
 #: sc/0132:66 
 msgid "あっ……\n行っちゃった……。\n"
 msgstr ""
+"Ah……\n"
+"They're gone……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +841,8 @@ msgstr ""
 #: sc/0132:67 
 msgid "……結局、私はどのポジションになれば\nいいんだろう……。\n"
 msgstr ""
+"……In the end, I still don't know \n"
+"what position I'm in……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +855,8 @@ msgstr ""
 #: sc/0132:68 
 msgid "ど、どうでしょう。\n最近体重を量ってませんし。\n"
 msgstr ""
+"I- I wonder.\n"
+"I haven't checked recently too so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +868,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:69 
 msgid "前に量った時は\n何キロだったか覚えてない？\n"
-msgstr ""
+msgstr "You don't remember how much you weighed last time you measured?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +881,8 @@ msgstr ""
 #: sc/0132:70 
 msgid "う―ん……ちょっと覚えてないですね。\nでも軽い方だったはずです。\n"
 msgstr ""
+"Hmmm……No I don't remember exactly.\n"
+"But I'm pretty sure it was on the light side.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +894,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:71 
 msgid "へ〜。なら一番上になれるかも。\n"
-msgstr ""
+msgstr "I see〜. Then you could perhaps be at the top.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +907,8 @@ msgstr ""
 #: sc/0132:72 
 msgid "あ、そうだ。\n今から保健室に行って量ってみようよ。\n"
 msgstr ""
+"Ah, I know.\n"
+"Let's head to the school infirmary and go measure it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,6 +921,7 @@ msgstr ""
 #: sc/0132:73 
 msgid "あ―……すみません、今日は急いでいて\nすぐに帰らなくちゃいけなくて……。\n"
 msgstr ""
+"Ah—……I'm sorry, I'm a little busy today so I have to head straight home……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +934,8 @@ msgstr ""
 #: sc/0132:74 
 msgid "あ、そうなんだ。\nごめんね呼び止めて。\n"
 msgstr ""
+"Ah, I understand.\n"
+"Sorry for calling you out so suddenly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,18 +948,20 @@ msgstr ""
 #: sc/0132:75 
 msgid "いえ。\nまた体重量ってきますから。\n"
 msgstr ""
+"No worries.\n"
+"I will make sure to measure my weight again.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0132:76 
 msgid "フェっちゃん"
-msgstr ""
+msgstr "Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0132:76 
 msgid "うん。じゃあね―。\n"
-msgstr ""
+msgstr "Okay. See you\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +973,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:77 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +985,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:78 
 msgid "嘘をつき通しちゃった……。\n"
-msgstr ""
+msgstr "The ended up lying to them……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,4 +997,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0132:79 
 msgid "ピラミッドの崩壊は免れない……。\n"
-msgstr ""
+msgstr "Now the pyramid is doomed to fall……\n"

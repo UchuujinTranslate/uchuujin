@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-30 22:04+0000\n"
+"PO-Revision-Date: 2020-01-03 21:50+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0209/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -66,7 +66,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0209:4 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -204,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0209:15 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 

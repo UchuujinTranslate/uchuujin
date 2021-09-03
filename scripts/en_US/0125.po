@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:00+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-06-17 09:02+0000\n"
+"Last-Translator: Rio Okamoto <laaaa@sute.jp>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0125/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -23,11 +23,10 @@ msgstr "Yoshino"
 #  text 
 #  warnings: 0 
 #: sc/0125:0 
-#, fuzzy
 msgid "ここカフェになったんだ―。\nへ―、けっこうオシャレじゃない。\n"
 msgstr ""
-"Hey, it looks like this place's been turned into a cafe.\n"
-"Huh, that's pretty trendy, isn't it.\n"
+"This place's been turned into a cafe.\n"
+"Hey, that's pretty trendy, isn't it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -78,7 +77,7 @@ msgstr ""
 msgid "奇遇だね―。玉村、\nここでバイトしてたんだ―。\n"
 msgstr ""
 "Well, this unexpected. Tamamura,\n"
-"you used to work here, right?\n"
+"you are working here, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -116,9 +115,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:7 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -129,9 +127,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:8 
-#, fuzzy
 msgid "お待たせいたしました―。\n"
-msgstr "Sorry to have kept you waiting.\n"
+msgstr "Thank you for waiting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -154,8 +151,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:10 
+#, fuzzy
 msgid "……ほとんど毎日って言っていたけど、\nこんな時間からバイトしてて単位大丈夫なの？\n"
 msgstr ""
+"...You said you work here just about every day,\n"
+"but doesn't that impact your studies?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,20 +181,26 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:12 
+#, fuzzy
 msgid "本当は一限目にあったんですけど、\n先生の都合で休講になっちゃったんで。\n"
 msgstr ""
+"Actually, I was in first period, but the class was cancelled\n"
+"due to the teacher's circumstances.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0125:13 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0125:13 
+#, fuzzy
 msgid "はっ！？\nそうだ、私も学校へ行かねばならんのだ！\n"
 msgstr ""
+"Oh!?\n"
+"It looks like I need to get to school!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -221,7 +227,7 @@ msgstr ""
 msgid "私の生徒たちが待っている！\nすぐに学校へ行かなければ――――！！\n"
 msgstr ""
 "My students are waiting!\n"
-"You must to to the school at once!\n"
+"I must go to the school at once!\n"
 
 #  text 
 #  warnings: 1 
@@ -249,13 +255,14 @@ msgstr ""
 #  warnings: 2 
 #: sc/0125:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0125:19 
+#, fuzzy
 msgid "ああああ―――！？\n"
-msgstr ""
+msgstr "Aaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -327,7 +334,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:25 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -339,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:26 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -374,8 +381,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:29 
+#, fuzzy
 msgid "早くなのちゃんを捜さないと！\n"
-msgstr ""
+msgstr "I have to find Nano!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -386,8 +394,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:30 
+#, fuzzy
 msgid "弌弌ええっ？\n大学じゃなくて……なのちゃん？　って誰？\n"
 msgstr ""
+"Ehh!?\n"
+"You're not going to the university? Who is Nano...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -447,7 +458,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:35 
 msgid "……あら、コ―ヒ―もまだ残ってる。\n"
-msgstr ""
+msgstr ".....oh, there's still more coffee left.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -555,7 +566,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:44 
 msgid "ええ――っ！？\n"
-msgstr ""
+msgstr "Ehh——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -753,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:61 
 msgid "女性客（女性客１）"
-msgstr "Female customer #1"
+msgstr "Female Customer #1"
 
 #  text 
 #  warnings: 0 
@@ -806,8 +817,9 @@ msgstr "Female Customer (Female Customer 2)"
 #  text 
 #  warnings: 0 
 #: sc/0125:65 
+#, fuzzy
 msgid "あら？　レジ、誰もいないわね？\n"
-msgstr ""
+msgstr "Oh? Cashier, there really isn't anyone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -842,8 +854,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:68 
+#, fuzzy
 msgid "キャラメルマキア―トは、いかがでしょ―。\n"
-msgstr ""
+msgstr "How is your Caramel Macchiato?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -879,7 +892,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:71 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 

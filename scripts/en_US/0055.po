@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2021-03-11 21:31+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0055/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:0 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0055:1 
 msgid "おかしい。\n今日はよく金縛りになる。\n"
 msgstr ""
+"It's strange.\n"
+"I kept feeling paralyzed today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0055:2 
 msgid "偶然？　それとも他に理由が？\n"
 msgstr ""
+"Just randomly?\n"
+"Or was there some reason for it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0055:3 
 msgid "……わからない。\n今日は偶然、そういう日だから？\n"
 msgstr ""
+"……I don't know.\n"
+"Today was random, that sort of day?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +102,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:6 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:8 
 msgid "なに？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +139,8 @@ msgstr ""
 #: sc/0055:9 
 msgid "も、ものすごい悪寒がする……\nあんた、なんて恐ろしい物を持って……。\n"
 msgstr ""
+"I just felt a huge chill…\n"
+"You, you're carrying something dreadful.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +152,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:10 
 msgid "恐ろしい物？\n"
-msgstr ""
+msgstr "Dreadful?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +165,8 @@ msgstr ""
 #: sc/0055:11 
 msgid "気付いてないのか？　そのカバンの中から\n恐ろしいくらいの波動が……。\n"
 msgstr ""
+"You don't feel it? A dreadful aura is\n"
+"coming from somewhere in that bag.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +179,8 @@ msgstr ""
 #: sc/0055:12 
 msgid "カバンの中？\nこの中には教科書とかノ―トとか……。\n"
 msgstr ""
+"In the bag?\n"
+"There are just books and notes in here…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:13 
 msgid "弥佗菩薩くらいしかないけど？\n"
-msgstr ""
+msgstr "Unless it could be this Maitreya?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +205,8 @@ msgstr ""
 #: sc/0055:14 
 msgid "それだ！　その菩薩から波動が！！\n"
 msgstr ""
+"That's it!\n"
+"The aura is from that Bodhisattva!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +218,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:15 
 msgid "この菩薩から……？\n"
-msgstr ""
+msgstr "From this……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +231,8 @@ msgstr ""
 #: sc/0055:16 
 msgid "悪いことは言わない。それは捨てなさい。\nさもなくば弌弌\n"
 msgstr ""
+"I'm telling you this for your own good— \n"
+"Throw that thing away. Otherwise…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +293,8 @@ msgstr ""
 #: sc/0055:21 
 msgid "（じゃあ、この人の言うように、\n　ずっと持っていたら酷いことが起こる？）\n"
 msgstr ""
+"(Well, if they're right, as long as I\n"
+"keep this, bad things will happen.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,13 +330,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:24 
 msgid "バイバイ。\n"
-msgstr ""
+msgstr "Bye-bye.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0055:25 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -329,8 +347,11 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0055:26 
+#, fuzzy
 msgid "うわっ！　ぼ、菩薩がこっちに！\n呪われちまう！？\n"
 msgstr ""
+"Wa! Th– the Bodhisattva is here!\n"
+"Is it cursed!?\n"
 
 #  text 
 #  warnings: 1 
@@ -408,7 +429,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0055:37 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -438,7 +459,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:39 
 msgid "あっ……。\n"
-msgstr ""
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +471,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:40 
 msgid "（しまった……金縛りが……）\n"
-msgstr ""
+msgstr "(Dang… this paralysis…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +496,8 @@ msgstr ""
 #: sc/0055:42 
 msgid "（うっ……\n　やっぱり、動くのは片手くらいしか弌弌）\n"
 msgstr ""
+"(Ooh……\n"
+"Like before, my hand is all I can move—)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +522,8 @@ msgstr ""
 #: sc/0055:44 
 msgid "（あ、この人、確か教頭……）\n"
 msgstr ""
+"(Ah, this is definitely \n"
+"our Vice Principal……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -511,6 +536,8 @@ msgstr ""
 #: sc/0055:45 
 msgid "怪我をしているんですか？\n待ってなさい、すぐに救急車を呼びます！\n"
 msgstr ""
+"Are you injured?\n"
+"Wait here, I'll go call an ambulance!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +586,8 @@ msgstr ""
 #: sc/0055:49 
 msgid "ぼ、菩薩？　うわ、何故ここに菩薩が！？\n"
 msgstr ""
+"A Bodhisattva?\n"
+"Wait, what'd that doing here!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +599,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:50 
 msgid "私がプレゼントでもらった。\n"
-msgstr ""
+msgstr "I got it as a present.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +635,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:53 
 msgid "そう。私は木製の方が好きだけど。\n"
-msgstr ""
+msgstr "Yes. But I prefer wooden ones.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,13 +665,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:56 
 msgid "イタコ＆教頭先生"
-msgstr ""
+msgstr "Itako & Vice-Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0055:56 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "EHH―—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +696,8 @@ msgstr ""
 #: sc/0055:58 
 msgid "とりあえず、この菩薩は供養する。\n"
 msgstr ""
+"First of all, we should hold a \n"
+"memorial for the Bodhisattva.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +709,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:59 
 msgid "（バイバイ、銅製菩薩……）\n"
-msgstr ""
+msgstr "(Bye bye, bronze Bodhisattva……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +734,8 @@ msgstr ""
 #: sc/0055:61 
 msgid "そこの人、これは病気ではない。\n悪霊から金縛りを受けているのだ。\n"
 msgstr ""
+"This person isn't sick.\n"
+"An evil spirit is paralyzing them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +747,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:62 
 msgid "（あれ？　この人は喋れる？）\n"
-msgstr ""
+msgstr "(Huh? This person can speak?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -727,6 +760,8 @@ msgstr ""
 #: sc/0055:63 
 msgid "か、金縛り？　悪霊？\nではどうすれば？\n"
 msgstr ""
+"Paralysis? Evil spirits?\n"
+"Well then, what should we do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -739,6 +774,8 @@ msgstr ""
 #: sc/0055:64 
 msgid "私の言う通りにしなさい。\nそこにある菩薩を弌弌\n"
 msgstr ""
+"Do what I'm telling you to.\n"
+"Take that Bodhisattva and—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -749,8 +786,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0055:65 
+#, fuzzy
 msgid "（……霊能者？　よくわからないけど\n　この人に任せれば大丈夫そう）\n"
 msgstr ""
+"(A medium? I don't really get it, \n"
+"but I'll probably be OK in her hands.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +803,8 @@ msgstr ""
 #: sc/0055:66 
 msgid "その菩薩をまず清める。\n私の荷物の中から道具を弌弌\n"
 msgstr ""
+"First, we must exorcise the statue.\n"
+"Get my tools out of my bag and —\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +817,8 @@ msgstr ""
 #: sc/0055:67 
 msgid "は、はい！　これを振りかけるんですな？\n"
 msgstr ""
+"Al– alright. \n"
+"Should I sprinkle this over it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +830,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:68 
 msgid "そう、そして私の言葉に続きなさい。\n"
-msgstr ""
+msgstr "Yes, then repeat what I say.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:70 
 msgid "（楽だ……）\n"
-msgstr ""
+msgstr "(Simple……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:72 
 msgid "ほおああああ！！\n"
-msgstr ""
+msgstr "Hoaaaaa!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,7 +890,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:73 
 msgid "（ほおああああ？）\n"
-msgstr ""
+msgstr "(\"Hoaaaaa\"?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +914,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:75 
 msgid "（…………）\n"
-msgstr ""
+msgstr "(…………)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -881,8 +925,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0055:76 
+#, fuzzy
 msgid "（……無い）\n"
-msgstr ""
+msgstr "(……Nope.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +939,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:77 
 msgid "うっ！？　こ、これは！？\n"
-msgstr ""
+msgstr "Uh!? This, this is!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +963,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:79 
 msgid "…………！\n"
-msgstr ""
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,13 +1005,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:83 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0055:83 
 msgid "（ん？）\n"
-msgstr ""
+msgstr "(Hmm?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,10 +1029,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0055:85 
 msgid "麻衣＆教頭先生"
-msgstr ""
+msgstr "Mai & Vice Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0055:85 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

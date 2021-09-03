@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-16 01:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0063/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -35,8 +35,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0063:1 
+#, fuzzy
 msgid "生徒をマコちゃんと思っても\n結局は私の気の弱さが出ちゃうし……。\n"
 msgstr ""
+"Even when I pretended everyone was Mako-\n"
+"chan, in the end I was still too timid……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +52,8 @@ msgstr ""
 #: sc/0063:2 
 msgid "高崎先生の考えてくれた方法で\n先生らしくなれると思ったのに……。\n"
 msgstr ""
+"I was that Mr. Takasaki's plan would \n"
+"help me act more like a teacher, but……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +65,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:3 
 msgid "これ以上に良い方法ってあるのかな。\n"
-msgstr ""
+msgstr "Maybe if that's just the best I can do.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -84,7 +89,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +101,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:6 
 msgid "……えっと、人って書いて……。\n"
-msgstr ""
+msgstr "……Okay, \"person\"……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,32 +136,37 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0063:9 
+#, fuzzy
 msgid "この場合は……犬？\n"
-msgstr ""
+msgstr "Or in this case……\"dog\"?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0063:10 
 msgid "いや、人でも可！\n"
-msgstr ""
+msgstr "No, \"person\" is fine!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0063:11 
 msgid "だが正しいのは犬だな。\n彼女の前にいるのは犬なのだから！\n"
 msgstr ""
+"But, \"dog\" is right.\n"
+"Because it's a dog that's in front of her!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0063:12 
 msgid "ま、そうだよな。\n……あ、犬って書いた。\n"
 msgstr ""
+"Well, I guess so.\n"
+"...... Oh, I did do \"dog\".\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0063:13 
 msgid "おっ、今ので自信を持てたみたいだな。\nちゃんと注意し始めたぞ。\n"
-msgstr ""
+msgstr "\n"
 
 #  text 
 #  warnings: 1 
@@ -186,13 +196,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:17 
 msgid "……あれ？\n"
-msgstr ""
+msgstr "……Wait, what?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0063:18 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -204,7 +214,7 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0063:19 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -235,6 +245,8 @@ msgstr ""
 #: sc/0063:21 
 msgid "（えっ、な、なにこれ！？\n　校長先生が鹿に襲われてる！）\n"
 msgstr ""
+"(Eh, wha- what the!?\n"
+"The deer's attacking Mr. Takasaki!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,6 +259,8 @@ msgstr ""
 #: sc/0063:22 
 msgid "（た、助けないと……\n　で、でも狂暴そうだから怖い……）\n"
 msgstr ""
+"(I- I have to help……\n"
+"B- but it looks enraged……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +536,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:45 
 msgid "遅かった……。\n"
-msgstr ""
+msgstr "I was too late……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:54 
 msgid "こら―！　鹿さん！　やめなさ―い！\n"
-msgstr ""
+msgstr "Hey—! Deer-san—! Stop doing that—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +692,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:58 
 msgid "あれ……？\n"
-msgstr ""
+msgstr "Huh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:59 
 msgid "いなくなってる……。\n"
-msgstr ""
+msgstr "It went away……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,19 +776,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:65 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0063:66 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0063:66 
 msgid "他の先生呼んでこようっ！\n"
-msgstr ""
+msgstr "I'll get another teacher!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +800,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:67 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,4 +812,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0063:68 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"

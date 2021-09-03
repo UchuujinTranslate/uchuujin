@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-25 23:22+0000\n"
+"Last-Translator: Bald Man <raultortats@outlook.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0124/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Kiyoshi"
 #  warnings: 0 
 #: sc/0124:0 
 msgid "ふぁあ〜……。\n"
-msgstr ""
+msgstr "PwaaAH～…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0124:1 
 msgid "いつものことだけど、朝の散歩は\n早起きしないといけないのが辛いなぁ……。\n"
 msgstr ""
+"I know it's part of the routine, but waking up \n"
+"early every morning for a walk is getting a bit rough...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0124:2 
 msgid "おはようバディ、コバディ。\nそれじゃ、散歩に行くぞ〜。\n"
 msgstr ""
+"Good morning Buddy, Lil-buddy.\n"
+"Alright, let's go for a walk.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:3 
 msgid "……おや？\n"
-msgstr ""
+msgstr "……Oh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:4 
 msgid "あっ、おじいちゃん。おはよ〜。\n"
-msgstr ""
+msgstr "Oh, Grandpa. Good morning～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:5 
 msgid "おはよう。ご飯は……。\n"
-msgstr ""
+msgstr "Good morning. Breakfast is…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +101,8 @@ msgstr ""
 #: sc/0124:6 
 msgid "ご飯は後でね。\n先にバディたちと散歩に行ってくるよ。\n"
 msgstr ""
+"Save it for later.\n"
+"I got to walk the dogs first.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +114,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:7 
 msgid "ふむ。\n"
-msgstr ""
+msgstr "I see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,19 +126,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:8 
 msgid "あれ？　今、何か音が弌弌\n"
-msgstr ""
+msgstr "Wait, what? That sound——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0124:9 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0124:9 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +151,8 @@ msgstr ""
 #: sc/0124:10 
 msgid "わっ！？　おじいちゃん！\n変な人がうちの中に！！\n"
 msgstr ""
+"Uwah!? Grandpa!\n"
+"There's a weird guy inside the house!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:11 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,13 +176,15 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:12 
 msgid "やっちゃえ、じいちゃ―ん！\n"
-msgstr ""
+msgstr "Get them grandpa!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:13 
 msgid "げっ、見つかった！\n上手く隠れてたと思ったのに！\n"
 msgstr ""
+"Geh, he found it!\n"
+"I thought we hid it fine enough!\n"
 
 #  text 
 #  warnings: 1 
@@ -187,48 +197,56 @@ msgstr ""
 #: sc/0124:15 
 msgid "おい、早く逃げるように操作しろって！\nあのオッサンやられるぞ！\n"
 msgstr ""
+"Oi, we need to abort right now!\n"
+"That old man is dangerous!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:16 
 msgid "ああ……。\n"
-msgstr "Ah...\n"
+msgstr "Yeah…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:17 
 msgid "……どうした？\n"
-msgstr ""
+msgstr "..... What's wrong?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:18 
 msgid "いや、あの子供を見ていたら、\n昔飼ってたペットを思い出して……うう。\n"
 msgstr ""
+"Nothing, it's just that,\n"
+"watching this kid reminds me of my childhood's pet... uhh.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:19 
 msgid "お、おい、泣くなよ……いい大人だろ？\n"
-msgstr ""
+msgstr "He, hey, don't cry..... you are now a great adult, aren't you?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:20 
 msgid "そうだけど……まだ心は子供のつもりだよ。\n"
-msgstr ""
+msgstr "Yeah but.... My heart still being a kid's one.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:21 
 msgid "（うわぁ……こいつ、本気で言ってるよ。\n　いい歳こいて、子供のつもりだなんて弌弌）\n"
 msgstr ""
+"(Uwah.... this guy.\n"
+"It's time to leave that and grow up.)\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0124:22 
 msgid "……ええっ？　どうして俺まで、\n子供の頃の思い出が、走馬灯のように弌弌\n"
 msgstr ""
+"....Eeh? Now me too,\n"
+"I'm having flashbacks of my childhoodーー\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +259,8 @@ msgstr ""
 #: sc/0124:23 
 msgid "そうだ、おじいちゃんも\n一緒に散歩に行こうよ。\n"
 msgstr ""
+"Wait, grandpa why you\n"
+"don't come with us?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +272,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:24 
 msgid "ふむ……。そうじゃな。\n"
-msgstr ""
+msgstr "Well.... Okey.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,12 +285,14 @@ msgstr ""
 #: sc/0124:25 
 msgid "やった！　じゃあ早く行こう！\nバディ、コバディ、行くぞ！\n"
 msgstr ""
+"Yay! Let's go!\n"
+"Buddy, Lil-buddy, let's go!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0124:26 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -288,7 +310,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:27 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +322,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:28 
 msgid "（鹿っ！？）\n"
-msgstr ""
+msgstr "(A deer!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +335,8 @@ msgstr ""
 #: sc/0124:29 
 msgid "お、おじいちゃん！？\n玄関の前に、何かいたよ！\n"
 msgstr ""
+"Gra, grandpa!?\n"
+"there's something at the entrance!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +348,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:30 
 msgid "これは羊と言って弌弌\n"
-msgstr ""
+msgstr "We call this a sheepーー\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +360,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:31 
 msgid "鹿だよ！\n"
-msgstr ""
+msgstr "It's a deer!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:32 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +384,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:33 
 msgid "わっ！？　怒った！\n"
-msgstr ""
+msgstr "Uwah!? He's mad!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +396,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:34 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,19 +420,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0124:36 
 msgid "おじいちゃん！？\n"
-msgstr ""
+msgstr "Grandpa!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0124:37 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 
 #: sc/0124:37 
 msgid "う……ううっ……。\n"
-msgstr ""
+msgstr "Uh..... uuh.....\n"
 
 #  speaker 
 #  warnings: 13 

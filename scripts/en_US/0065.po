@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-07 05:00+0000\n"
-"Last-Translator: Puuli Puuli <qcthulhu0@gmail.com>\n"
+"PO-Revision-Date: 2021-07-18 02:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0065/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,19 +24,21 @@ msgstr "Makoto"
 #  warnings: 0 
 #: sc/0065:0 
 msgid "こんにちは―。\n"
-msgstr ""
+msgstr "Hello—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0065:1 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0065:1 
 msgid "おう桜井くん。\n今日は遅かったな。\n"
 msgstr ""
+"Hey, Sakurai-kun.\n"
+"You're late today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:2 
 msgid "いや―、ちょっと取りに行くものがあって。\n"
-msgstr ""
+msgstr "Well— I had to go and get something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0065:3 
 msgid "その、手にあるものですか？\n"
-msgstr ""
+msgstr "Is that what you're holding?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr ""
 #: sc/0065:4 
 msgid "はい、予約してた欧州囲碁サッカ―のＣＵＣ、\n今日発売だったんですよ。\n"
 msgstr ""
+"Yes, it's a European Igo-soccer DVD.\n"
+"It was just released today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0065:5 
 msgid "欧州！？\nそんなのもあるの！？\n"
 msgstr ""
+"Europe!?\n"
+"They even have it there!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0065:6 
 msgid "やだな―。欧州リ―グの試合、\nすごくカッコイイんですよ？\n"
 msgstr ""
+"Yep— the European League's \n"
+"matches are so cool, aren't they?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0065:7 
 msgid "それで、せっかくだから\nみんなで見ようかな―って思ったんです。\n"
 msgstr ""
+"So, since I have it, \n"
+"I thought we should watch it together.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:8 
 msgid "マジで？　見る見る！\n"
-msgstr ""
+msgstr "Really? Let's do it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:9 
 msgid "じゃあ早速。\n"
-msgstr ""
+msgstr "Alright.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0065:10 
 msgid "あ―、ちょっと待っててくれよ、\nジュ―スとポップコ―ン買って来る！\n"
 msgstr ""
+"Ah—, one sec.\n"
+"I'm gonna buy some popcorn and soda!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -167,8 +179,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0065:12 
+#, fuzzy
 msgid "いや―、面白そうなもの持ってきてくれたよな。\nすぐ買ってくるよ！\n"
 msgstr ""
+"No— you brought something fun.\n"
+"I'll get them right away!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +195,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:13 
 msgid "あ！！　部長っ、前！\n"
-msgstr ""
+msgstr "Ah!! President, look out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +219,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:15 
 msgid "うおおおお―っ！？\n"
-msgstr ""
+msgstr "Waaahhh—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +231,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:16 
 msgid "……大丈夫だったかな？\n"
-msgstr ""
+msgstr "……I wonder if he's okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +244,8 @@ msgstr ""
 #: sc/0065:17 
 msgid "ぎりぎり避けられたようですから、\n大丈夫だと思いますよ。\n"
 msgstr ""
+"It looks like it just missed him, \n"
+"so I think he'll be fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +257,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:18 
 msgid "ホントか？\n"
-msgstr ""
+msgstr "Really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +270,8 @@ msgstr ""
 #: sc/0065:19 
 msgid "でも、頭のアンテナは折れてますけどね。\n"
 msgstr ""
+"But it looks like \n"
+"the antenna snapped, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +283,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:20 
 msgid "……まじで？\n"
-msgstr ""
+msgstr "……Seriously?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +295,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:21 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,19 +307,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:22 
 msgid "ドンマイドンマイ！！\n"
-msgstr ""
+msgstr "Don't sweat it, don't sweat it!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0065:23 
 msgid "お前が言うなよ！！\n"
-msgstr ""
+msgstr "Don't you talk!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0065:24 
 msgid "うわあああああ！\n"
-msgstr ""
+msgstr "Uwahahahahah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +331,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:25 
 msgid "……う―ん。\n"
-msgstr ".......Yup.\n"
+msgstr "……Hmm—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +344,8 @@ msgstr ""
 #: sc/0065:26 
 msgid "（興味持ってくれてるっぽいけど、\n　どうも本気っぽくないんだよなぁ……）\n"
 msgstr ""
+"(They seem interested, but it doesn't \n"
+"look like they're really that serious……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +369,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:28 
 msgid "何ですか？\n"
-msgstr ""
+msgstr "What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +382,8 @@ msgstr ""
 #: sc/0065:29 
 msgid "部長って、囲碁サッカ―のこと\nどう思ってるか知ってます？\n"
 msgstr ""
+"Club President, how did you\n"
+"learn about Igo-soccer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +395,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:30 
 msgid "どう、と言われても。\n"
-msgstr ""
+msgstr "How, how should I say this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +515,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:40 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +671,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:53 
 msgid "……どうしよう。\n"
-msgstr ""
+msgstr "……What should I do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +707,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:56 
 msgid "あ、あの……。\n"
-msgstr ""
+msgstr "Ah, uhm…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +731,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:58 
 msgid "え？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +887,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:71 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +923,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:74 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +959,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:77 
 msgid "……はぁ。\n"
-msgstr ""
+msgstr "……*Sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1020,7 +1043,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:84 
 msgid "ただいま―！\n"
-msgstr ""
+msgstr "I'm back—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1044,7 +1067,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:86 
 msgid "……はい。\n"
-msgstr "...yes.\n"
+msgstr "……Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,7 +1091,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:88 
 msgid "ん―？\n"
-msgstr ""
+msgstr "Hmm-?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,7 +1109,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:90 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -1104,16 +1127,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:91 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0065:92 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0065:92 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2019-08-30 22:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-16 01:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0064/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Makoto"
 #  warnings: 0 
 #: sc/0064:0 
 msgid "よっ、はっ……おっと。\n"
-msgstr ""
+msgstr "Whoo, huff…… ooof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:1 
 msgid "う―ん、やっぱりヒ―ルが弱点かな。\n"
-msgstr ""
+msgstr "Well, hills are my weakness, I guess.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0064:2 
 msgid "ダメダメ、これくらいは出来ないと\n高校レベルじゃ通じないぞ。もう一回！\n"
 msgstr ""
+"If you can't do this, no way you can do\n"
+"it at the high school level. Again!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,19 +62,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:3 
 msgid "よっ……はっ、やっ、とうっ！\n"
-msgstr ""
+msgstr "Whoo…… Huff, haff, phoo!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0064:4 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0064:4 
 msgid "お、桜井くん。\n相変わらず練習熱心だなぁ。\n"
 msgstr ""
+"Oh, Sakurai-kun.\n"
+"As usual, diligently practicing, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0064:5 
 msgid "あ、部長。こんにちは。\n部長も一緒にやりませんか？\n"
 msgstr ""
+"Ah, club president. Hello. \n"
+"Will you join us club president?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0064:6 
 msgid "そうだな……よし！\nちょっとボ―ル貸してくれるか？\n"
 msgstr ""
+"I guess so…… Yeah!\n"
+"Could you lend me the ball for a sec?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0064:7 
 msgid "はいっ！\nそれじゃ、リフティングから……。\n"
 msgstr ""
+"Yup!\n"
+"Alright, let's start with lifting…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:8 
 msgid "いや、ちょっと見ててくれ。\n"
-msgstr ""
+msgstr "Yea, take a quick look at this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0064:9 
 msgid "弌弌実は昨日、囲碁サッカ―が\nどんな競技か考えてみたんだ。\n"
 msgstr ""
+"――Yesterday, I was thinking about \n"
+"what kind of game Igo Soccer could be.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:10 
 msgid "え、あの、オレに聞いてくれれば。\n"
-msgstr ""
+msgstr "Ah, um, if you could just listen to me…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,19 +186,19 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0064:13 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0064:13 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0064:14 
 msgid "囲碁、何も関係ねえ―っ！！\n"
-msgstr ""
+msgstr "That has nothing to do with Igo!!\n"
 
 #  text 
 #  warnings: 1 
@@ -258,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:21 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:26 
 msgid "あの、部長！\n"
-msgstr ""
+msgstr "Um, club president!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +342,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:27 
 msgid "オレと勝負しませんか！？\n"
-msgstr ""
+msgstr "Will you have a match with me!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +354,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:28 
 msgid "勝負だって！？\n"
-msgstr ""
+msgstr "A match!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +378,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:30 
 msgid "お願いします、部長！！\n"
-msgstr ""
+msgstr "Please, club president!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +402,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:32 
 msgid "ホントですか！？\n"
-msgstr ""
+msgstr "Really!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:58 
 msgid "……さすが、中学ＬＵＯ。\n"
-msgstr ""
+msgstr "……As expected of the middle school MVP.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +798,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:65 
 msgid "負けませんよ―。\n"
-msgstr ""
+msgstr "I won't lose, you know—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +852,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:70 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -870,7 +882,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:72 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +894,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:73 
 msgid "……………………あれ？\n"
-msgstr ""
+msgstr "……………………Wait, what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +912,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:75 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 

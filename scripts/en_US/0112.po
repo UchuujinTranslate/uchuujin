@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 21:26+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0112/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0112:3 
 msgid "えっ……あわわわっ！\n"
-msgstr ""
+msgstr "Eh…… Awawawah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:4 
 msgid "むう……っ。\n"
-msgstr ""
+msgstr "Mhmm…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:13 
 msgid "なっ！？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +210,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0112:16 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  text 
 #  warnings: 1 
@@ -246,7 +246,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0112:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -288,7 +288,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:25 
 msgid "あいたたた……。\n"
-msgstr ""
+msgstr "Ow, ow, ow…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:27 
 msgid "え……ええ……？\n"
-msgstr ""
+msgstr "Eh…… Ehhh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +324,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:28 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +336,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:29 
 msgid "あ、あわわわ……っ！？\n"
-msgstr ""
+msgstr "Ah, awawawah……!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +348,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:30 
 msgid "あ……ああっ！？\n"
-msgstr ""
+msgstr "Ah…… huh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +360,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:31 
 msgid "ふむ……。\n"
-msgstr ""
+msgstr "Hmph…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +384,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:33 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +588,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:50 
 msgid "ホントですよ！？\n"
-msgstr ""
+msgstr "Really!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:52 
 msgid "そうだよね……あははははは。\n"
-msgstr ""
+msgstr "I guess so, huh…… Ahahahaha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:54 
 msgid "ぎゃっ！？\n"
-msgstr ""
+msgstr "Gyah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +684,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:58 
 msgid "ちょ、ちょっと待ちなさい！！\n"
-msgstr ""
+msgstr "Hey, hey wait!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,13 +804,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0112:68 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0112:69 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 

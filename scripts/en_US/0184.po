@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2019-08-07 00:05+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-14 13:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0184/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr ""
 #: sc/0184:0 
 msgid "あ、そう言えばウェボシ―。\n今日、例のモヒカンに会ったわよ。\n"
 msgstr ""
+"Ah, by the way Weboshi—\n"
+"I met that Mohawk guy you were talking about.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr "Weboshi"
 #  warnings: 0 
 #: sc/0184:1 
 msgid "おっ、会ったんだ。どうだった？\n"
-msgstr ""
+msgstr "Oh, so you met him. How was he?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:2 
 msgid "なんかさ、普通に良いヤツだった。\n"
-msgstr ""
+msgstr "Well, actually pretty nice.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0184:3 
 msgid "私、あいつなら良いと思うけどな。\nワルじゃないってよくわかったし。\n"
 msgstr ""
+"I wouldn't mind being with someone like that.\n"
+"Now that we know he's not a bad guy.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:4 
 msgid "笹原よりも―？\n"
-msgstr ""
+msgstr "More than Sasahara—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0184:5 
 msgid "冗談！　良いヤツ度で比べたら、\n笹原なんか話になんないわよ！\n"
 msgstr ""
+"I'm joking! If we are talking niceness \n"
+"than Sasahara wouldn't even compare!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0184:6 
 msgid "ははは、笹原かわいそ―。\nあいつだって十分優しいと思うけどな。\n"
 msgstr ""
+"Hahaha, poor Sasahara—\n"
+"I think he's is just as kind too though.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:7 
 msgid "フン！　どこがよあんな奴！\n"
-msgstr ""
+msgstr "Humph! Like hell there is!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0184:8 
 msgid "あはは―、じゃあみさととウェボシ―、\nお互い相手を交換すればいいんじゃない？\n"
 msgstr ""
+"Ahaha—, then why don't you two \n"
+"switch your partners with each other?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0184:9 
 msgid "みさとはモヒカンに乗り換えて、\nウェボシ―は笹原にすんの。良いでしょ！\n"
 msgstr ""
+"Misato switch to the Mohawk guy, \n"
+"and Weboshi with Sasahara. Doesn't that sound good!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:10 
 msgid "ふぇ〜……。\n"
-msgstr ""
+msgstr "Fwehhh~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0184:11 
 msgid "まったく……\n……あれ？　電話鳴ってる。誰から弌弌\n"
 msgstr ""
+"Seriously……\n"
+"……hm? The phone is rining. Who could it——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +182,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:12 
 msgid "あ、これ……！\n"
-msgstr ""
+msgstr "Ah, this is……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +195,8 @@ msgstr ""
 #: sc/0184:13 
 msgid "なになに、誰からなの？\n……おっ！　これはこれは〜。\n"
 msgstr ""
+"Hey hey, who is it?\n"
+"……oh! How about that\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +209,8 @@ msgstr ""
 #: sc/0184:14 
 msgid "どしたの〜？　……わ、笹原からじゃん！\nな―んだ、もうそういう関係だったんだ―。\n"
 msgstr ""
+"What is it〜? ……wah, it's Sasahara!\n"
+"I see, so you two are already in that kind of relationship—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +223,8 @@ msgstr ""
 #: sc/0184:15 
 msgid "ほら、どうしたの？\n早く出ないと切れちゃうよ？\n"
 msgstr ""
+"Hey, what's the wait-up?\n"
+"If you don't take it he'll hang up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +236,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:16 
 msgid "あいつ……。\n"
-msgstr ""
+msgstr "That guy…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +260,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:18 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +273,8 @@ msgstr ""
 #: sc/0184:19 
 msgid "こんな時間に女の子に電話かけてくるなんて、\n何て非常識なのっ！！\n"
 msgstr ""
+"What is that guy thinking calling a girl at a time like this.\n"
+"Is he lacking common sense!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +286,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:20 
 msgid "ぎゃっ！\n"
-msgstr ""
+msgstr "Gyah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +298,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:21 
 msgid "ふぇ〜。\n"
-msgstr ""
+msgstr "Fwehh~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +310,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:22 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +322,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:23 
 msgid "あ―あ、携帯まで壊してやんの。\n"
-msgstr ""
+msgstr "See there, you even broke your cellphone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +334,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:24 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,19 +346,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:25 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0184:26 
 msgid "フェっちゃん"
-msgstr ""
+msgstr "Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0184:26 
 msgid "よしよし、みさと、元気出して。\n"
-msgstr ""
+msgstr "There there, Misato, cheer up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +370,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:27 
 msgid "そうだぞ。明日はきっと上手くいくさ！\n"
-msgstr ""
+msgstr "Yes. I'm sure it will work out great tomorrow!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,28 +382,28 @@ msgstr ""
 #  warnings: 0 
 #: sc/0184:28 
 msgid "うう…………。\n"
-msgstr ""
+msgstr "Uugh………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0184:29 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0184:29 
 msgid "笹原の、バカ――――――！！\n"
-msgstr ""
+msgstr "Sasahara, YOU IDIOOOOOT!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0184:30 
 msgid "ウェボシ―＆フェっちゃん"
-msgstr ""
+msgstr "Weboshi & Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0184:30 
 msgid "（いや……バカはアンタだよ、みさと）\n"
-msgstr ""
+msgstr "(No……it's clearly you that are, Misato)\n"

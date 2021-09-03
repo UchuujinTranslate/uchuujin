@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2019-08-07 00:10+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-23 22:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0094/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:0 
 msgid "ね―、いつも思うんだけどさ―。\n"
-msgstr ""
+msgstr "Hey, you know every time I come here—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:1 
 msgid "え？　何？\n"
-msgstr ""
+msgstr "Hm? What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:2 
 msgid "みさとの部屋って、\nあんま女の子っぽくないよね―。\n"
-msgstr ""
+msgstr "I'm surprised by how not girly your room is—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:3 
 msgid "ぐっ……！\n"
-msgstr ""
+msgstr "Ggh……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +73,8 @@ msgstr "Weboshi"
 #: sc/0094:4 
 msgid "まあまあ、あんま言ってやるなよ。\nみさとは剣道一筋だからさ―。\n"
 msgstr ""
+"Hey there, don't have to say that much.\n"
+"She's devoted to Kendo after all\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:5 
 msgid "そうよ！　私は部活に青春賭けてるの！\n"
-msgstr ""
+msgstr "That's right! I'm putting my youth at stake for that club activity!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +99,8 @@ msgstr ""
 #: sc/0094:6 
 msgid "え―、どっちかって言うと\nみさとは笹原一筋じゃない？\n"
 msgstr ""
+"Eh—, but if it's one thing I'd say \n"
+"you're more devoted to Sasahara though?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:7 
 msgid "ふぇ〜……。\n"
-msgstr ""
+msgstr "Fwehhh~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -119,8 +123,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0094:8 
+#, fuzzy
 msgid "誰が一途な初体験か！！\n"
-msgstr ""
+msgstr "Who do you say is wholeheartedly devoted to their first experience!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +138,8 @@ msgstr ""
 #: sc/0094:9 
 msgid "あははは。相変わらず、みさとは\n笹原のことになるとメチャクチャだな―。\n"
 msgstr ""
+"Ahaha. You are just as heated as ever when it \n"
+"comes to talking about Sasahara, it's crazy—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -143,8 +150,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0094:10 
+#, fuzzy
 msgid "ホントそうだよね……\n銃とか平気で撃っちゃうし。\n"
 msgstr ""
+"Yeah totally……\n"
+"And you'll fire guns without any hesitation too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +167,8 @@ msgstr ""
 #: sc/0094:11 
 msgid "……あ、そう言えばこれも\n笹原がらみで持ってきてたよね―。\n"
 msgstr ""
+"……Ah, this thing. You brought this\n"
+"to school concerning Sasahara too—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:12 
 msgid "あ、そ、それは……！\n"
-msgstr ""
+msgstr "Ah, t-that's……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +193,8 @@ msgstr ""
 #: sc/0094:13 
 msgid "お―、見たことあるぞ。\nってか部屋に置いてあるのかよ……。\n"
 msgstr ""
+"Oh—, I've seen that too.\n"
+"Or hey, is that something to have in your room……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +207,8 @@ msgstr ""
 #: sc/0094:14 
 msgid "わああっ！\n……ビックリしたぁ。\n"
 msgstr ""
+"Wahh!\n"
+"……that surprised me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +220,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:15 
 msgid "な、なんか今、発射されたぞ……？\n"
-msgstr ""
+msgstr "I-I think something got fired off now……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +232,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:16 
 msgid "ちょっと、それ危ないから触んないで！\n"
-msgstr ""
+msgstr "Hey wait, don't touch it, it's dangerous!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +244,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:17 
 msgid "うん、危ないね。ここ置いとくよ―。\n"
-msgstr ""
+msgstr "Yeah, it looks to be. I'll leave it here—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,19 +256,21 @@ msgstr "Sakamoto-san"
 #  warnings: 0 
 #: sc/0094:18 
 msgid "ぎゃあああああああああああ！？\n"
-msgstr ""
+msgstr "GYAAAAAAAAAAAAAAAAAAAAAH!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0094:19 
 msgid "あ、アンテナ壊れた。\n"
-msgstr ""
+msgstr "Ah, the antenna broke.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0094:20 
 msgid "……なあ。\nなんであんなところに隠れさせたんだよ。\n"
 msgstr ""
+"……hey.\n"
+"Why were you even hiding over there?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +283,8 @@ msgstr ""
 #: sc/0094:21 
 msgid "ちょっとフェっちゃん！\nそれ危ないから触っちゃダメ！\n"
 msgstr ""
+"No wait, Fecchan!\n"
+"That's dangerous, you shouldn't play around with that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:22 
 msgid "え―、いいじゃんちょっとくらい。\n"
-msgstr ""
+msgstr "C'mon, can't I just for a little while.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +309,8 @@ msgstr ""
 #: sc/0094:23 
 msgid "ダメだって！\n触るんならこっちの小さい方にして。\n"
 msgstr ""
+"No you can't.\n"
+"But you can try out with this small version.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +322,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:24 
 msgid "小っさ！\n"
-msgstr ""
+msgstr "How small!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +335,8 @@ msgstr ""
 #: sc/0094:25 
 msgid "わ―い、ありがと。ねえねえ、\nこれも弾がびゅ―んって出るの？\n"
 msgstr ""
+"Yayy, thank you. \n"
+"So does this also fire bullets?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +349,8 @@ msgstr ""
 #: sc/0094:26 
 msgid "そりゃそうよ。\n小さくても本物だもん。\n"
 msgstr ""
+"Yeah of course.\n"
+"Even if it's smaller, it's still real.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,18 +363,20 @@ msgstr ""
 #: sc/0094:27 
 msgid "ふ―ん、そうなんだ。\nおもしろそ―。\n"
 msgstr ""
+"Hmm, I see.\n"
+"That's fun—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0094:28 
 msgid "みさと＆ウェボシ―"
-msgstr ""
+msgstr "Misato & Weboshi"
 
 #  text 
 #  warnings: 0 
 #: sc/0094:28 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:29 
 msgid "わっ！？　あっぶな〜。\n"
-msgstr ""
+msgstr "Wah!? Watch out〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +400,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:30 
 msgid "あれあれ、ゴメ〜ン。\n"
-msgstr ""
+msgstr "Oh-oh, sorry〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +413,8 @@ msgstr ""
 #: sc/0094:31 
 msgid "ったく……\nその危ないの、さっさと脱いじゃいなよ。\n"
 msgstr ""
+"Jeez……\n"
+"You should take off such a dangerous thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +427,8 @@ msgstr ""
 #: sc/0094:32 
 msgid "うん、そうする〜。\n……あれ？　あれあれ？\n"
 msgstr ""
+"Yeah, I think I'll do〜\n"
+"……huh? Wait what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +452,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:34 
 msgid "……とれなくなっちゃった。\n"
-msgstr ""
+msgstr "……I can't take it off anymore.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +464,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:35 
 msgid "ひゃっ！！　ちょっと、ウソでしょ！？\n"
-msgstr ""
+msgstr "Hiyhh!! You gotta be kidding with me!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +476,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:36 
 msgid "そ、そんなはずないんだけど……。\n"
-msgstr ""
+msgstr "T-That shouldn't be the case\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:37 
 msgid "だって〜ホントにとれないんだも〜ん。\n"
-msgstr ""
+msgstr "But I'm telling you〜I really can't take it off〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:38 
 msgid "ウェボシ―、とってよ〜！\n"
-msgstr ""
+msgstr "Weboshi, help me out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +513,8 @@ msgstr ""
 #: sc/0094:39 
 msgid "わ〜〜〜〜〜！？\nこっちくんな〜〜〜〜〜〜〜！！\n"
 msgstr ""
+"Waah〜〜〜〜!?\n"
+"Don't come over here〜〜〜〜〜!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:40 
 msgid "大変！　なんとかしなくちゃ！\n"
-msgstr ""
+msgstr "Shit! I have to do something!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:41 
 msgid "フェっちゃん、止まって！！\n"
-msgstr ""
+msgstr "Fecchan, stand still!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:42 
 msgid "大丈夫？\n"
-msgstr ""
+msgstr "Are you alright?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +563,8 @@ msgstr ""
 #: sc/0094:43 
 msgid "やった、爆発のおかげで取れたよ！\n……あれ、ウェボシ―どうしたの？\n"
 msgstr ""
+"Yay, thanks to the explosion it got off!\n"
+"……wait, where's Weboshi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +577,8 @@ msgstr ""
 #: sc/0094:44 
 msgid "わ、わたしだけ……\n生身だったの……に……。\n"
 msgstr ""
+"B-But I was……\n"
+"not wearing any protection……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +591,8 @@ msgstr ""
 #: sc/0094:45 
 msgid "わ―、なんか怖そう。\nここに置いとこっと。\n"
 msgstr ""
+"Wah, it looks kind of scary.\n"
+"Let me just put it here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:46 
 msgid "まあ、それが賢明だな。\n"
-msgstr ""
+msgstr "Yeah, think that's wise.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +617,8 @@ msgstr ""
 #: sc/0094:47 
 msgid "にしても、なんでみさとはこれ被るんだ？\nそれも、笹原がらみの時だけ。\n"
 msgstr ""
+"But Misato, why do you wear this?\n"
+"And only when it's concerning Sasahara.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +631,8 @@ msgstr ""
 #: sc/0094:48 
 msgid "えっ！？　そ、それはその……\nいいじゃない別に！\n"
 msgstr ""
+"Eh!? T-That's just……\n"
+"I mean why not!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +645,8 @@ msgstr ""
 #: sc/0094:49 
 msgid "わ―、なんか理由があるんだ。\n気になる気になる―！\n"
 msgstr ""
+"Wah-, so there's a reason for it.\n"
+"I'm curious—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +659,8 @@ msgstr ""
 #: sc/0094:50 
 msgid "照れるなよ〜。\nみさと、言っちゃえ言っちゃえ！\n"
 msgstr ""
+"Don't be shy about it〜\n"
+"Misato, just say what it is!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -623,8 +671,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0094:51 
+#, fuzzy
 msgid "その……これは……\n前に、笹原とちょっとね……。\n"
 msgstr ""
+"Well……that thing is……\n"
+"from one time before with Sasahara……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +688,8 @@ msgstr ""
 #: sc/0094:52 
 msgid "え―、なになに？\n思い出の品、ってやつ―？\n"
 msgstr ""
+"Eh, what is it?\n"
+"So it's a memorabilia of some kind—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +702,8 @@ msgstr ""
 #: sc/0094:53 
 msgid "なっ……！\nそ、そう言うんじゃないわよ……ただ……。\n"
 msgstr ""
+"Wha……!\n"
+"N-No it's not like that……but……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +715,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:54 
 msgid "ただ？\n"
-msgstr ""
+msgstr "But?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +728,8 @@ msgstr ""
 #: sc/0094:55 
 msgid "〜〜〜〜〜〜〜〜！\n笹原が、演劇部で被ってたからっ！\n"
 msgstr ""
+"〜〜〜〜〜〜〜〜！\n"
+"Sasahara wore that in his theater club!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +742,8 @@ msgstr ""
 #: sc/0094:56 
 msgid "だから私もって思って……\nホントにそれだけなんだからっ！\n"
 msgstr ""
+"So I thought I should keep it……\n"
+"it's only that alright-!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +756,8 @@ msgstr ""
 #: sc/0094:57 
 msgid "ふぇ〜、そうなんだ〜！\nうちの演劇部って過激なんだね。\n"
 msgstr ""
+"Fweh〜, so that's how it was〜!\n"
+"Didn't know our theater club was so extreme.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +769,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:58 
 msgid "いや……みさと……。\n"
-msgstr ""
+msgstr "No but……Misato…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +782,8 @@ msgstr ""
 #: sc/0094:59 
 msgid "それ、この砲台？　みたいのじゃなくて、\nクマみたいののことじゃね？\n"
 msgstr ""
+"Really, the canon? Aren't you thinking \n"
+"about that bear mask?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +807,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:61 
 msgid "ねえねえ、似合う〜？\n"
-msgstr ""
+msgstr "Hey hey, does it look good〜?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +819,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:62 
 msgid "あ―はいはい、似合う似合う。\n"
-msgstr ""
+msgstr "Ah yeah sure, it suits you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +832,8 @@ msgstr ""
 #: sc/0094:63 
 msgid "それでみさと、マジな話どうなの。\n笹原とはなんか進展あった？\n"
 msgstr ""
+"But Misato, tell me about it.\n"
+"Has there been any progress with you and Sasahara?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +846,8 @@ msgstr ""
 #: sc/0094:64 
 msgid "なっ！？　なによ急に！\nどうしてそういう話になるの！！\n"
 msgstr ""
+"Wha-!? Out of nowhere!\n"
+"Why does it have to be about that!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +859,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:65 
 msgid "あ―、私も聞きたい聞きた―い！\n"
-msgstr ""
+msgstr "Ah— I wanna hear too—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +871,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:66 
 msgid "んじゃ、私はそろそろ帰るよ。\n"
-msgstr ""
+msgstr "Alright, think I better go home now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +883,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:67 
 msgid "あ、じゃあ私も帰る〜。\n"
-msgstr ""
+msgstr "Ah, then I'm going too〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +895,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:68 
 msgid "そう、じゃあまた学校でね。\n"
-msgstr ""
+msgstr "Okay, then see you guys at school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,19 +907,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:69 
 msgid "おう、またな〜。\n"
-msgstr ""
+msgstr "Yeah, see ya〜.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0094:70 
 msgid "フェっちゃん"
-msgstr ""
+msgstr "Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0094:70 
 msgid "バイバ―イ。\n"
-msgstr ""
+msgstr "Bye bye.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,16 +931,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:71 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0094:72 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0094:72 
 msgid "……あれ？\n"
-msgstr ""
+msgstr "……Wait, what?\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-31 02:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-19 17:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0076/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -30,7 +30,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:1 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:11 
 msgid "それじゃ早速弌弌\n"
-msgstr ""
+msgstr "In that case, let me——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:21 
 msgid "うわああああああっ！？\n"
-msgstr ""
+msgstr "UWAAAAAAAAAAAAH!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +294,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0076:23 
 msgid "あ―っ！？\n"
-msgstr ""
+msgstr "Ah—!?\n"
 
 #  text 
 #  warnings: 1 
@@ -317,14 +317,15 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0076:27 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0076:27 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +337,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0076:28 
 msgid "弌弌ああっ！？　長野原さんが倒れて！\n"
-msgstr ""
+msgstr "——Aah!? Naganohara-san fell!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +691,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:58 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
@@ -702,7 +703,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:59 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
@@ -912,7 +913,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:76 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -972,7 +973,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:81 
 msgid "ええ――っ！？\n"
-msgstr ""
+msgstr "Ehh——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,7 +1087,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:91 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -1122,7 +1123,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:94 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -1134,7 +1135,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:95 
 msgid "生徒たち"
-msgstr ""
+msgstr "All Classmates"
 
 #  text 
 #  warnings: 0 
@@ -1152,7 +1153,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0076:96 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 

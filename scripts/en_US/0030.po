@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:19+0000\n"
-"PO-Revision-Date: 2019-08-31 23:04+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-05 23:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0030/en_US/>\n"
 "Language: en_US\n"
@@ -12,19 +12,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0030:0 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0030:0 
 msgid "お、どうしたんだ関口。\nこんな朝から部室にいるなんて。\n"
 msgstr ""
+"Oi, Sekiguchi. What are \n"
+"you doing so early in the morning?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0030:1 
 msgid "ここ、静かで読書にいいんです。\n"
-msgstr ""
+msgstr "It's nice and quiet here, so I like to read here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:2 
 msgid "部長こそどうしたんですか？\n"
-msgstr ""
+msgstr "What about you, Club President?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:3 
 msgid "ちょっと朝練でもしてみようかと思ってな！\n"
-msgstr ""
+msgstr "I thought that I could do some morning training!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:4 
 msgid "……囲碁サッカ―のですか？\n"
-msgstr ""
+msgstr "……You mean for Igo-soccer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +87,8 @@ msgstr ""
 #: sc/0030:5 
 msgid "当たり前だろ！　囲碁サッカ―部なんだ。\nそれ以外のわけがない！\n"
 msgstr ""
+"Well, of course! We are the Igo-soccer club, after all.\n"
+"What other reason do I need?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:7 
 msgid "どうした関口。\n"
-msgstr ""
+msgstr "What is it, Sekiguchi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +125,8 @@ msgstr ""
 #: sc/0030:8 
 msgid "え？\nいえ、あそこに犬が。\n"
 msgstr ""
+"Eh?\n"
+"Nothing, but there is a dog over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +138,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:9 
 msgid "（話、聞いてなかった！？）\n"
-msgstr ""
+msgstr "(She wasn't listening!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +150,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:10 
 msgid "……可愛い。\n"
-msgstr ""
+msgstr "……It's so cute.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +163,8 @@ msgstr ""
 #: sc/0030:11 
 msgid "関口、あんま近づくなよ。\n野良だったら危ないからな。\n"
 msgstr ""
+"Sekiguchi, don't get too close.\n"
+"If it's a stray, it could be dangerous.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +177,8 @@ msgstr ""
 #: sc/0030:12 
 msgid "大丈夫ですよ。首輪はしていませんけど、\nアンテナみたいな物がついてますし。\n"
 msgstr ""
+"It's alright. It doesn't have a collar, \n"
+"but has an antenna-like thing on it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +190,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:13 
 msgid "アンテナ！？\n"
-msgstr ""
+msgstr "Antenna?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +203,8 @@ msgstr ""
 #: sc/0030:14 
 msgid "……おお、すげぇ。\nアンテナだ。誰がどう見てもアンテナだな。\n"
 msgstr ""
+"……Oh, sick. \n"
+"That's an antenna. No doubt about it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +217,8 @@ msgstr ""
 #: sc/0030:15 
 msgid "あ、部長。\nあんまり触ったら弌弌\n"
 msgstr ""
+"Ah, club president.\n"
+"If you pet too much——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:16 
 msgid "あ！！\n"
-msgstr ""
+msgstr "AHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,31 +242,33 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:17 
 msgid "弌弌折れるって言おうとしたのに。\n"
-msgstr ""
+msgstr "——I tried to say it was going to break.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:18 
 msgid "お、おい、どういうことだ！\n今回のアンテナは試作強化タイプのはずだろ！\n"
 msgstr ""
+"N-No, how could it break!? This prototype\n"
+"antenna is supposed to be extra sturdy!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:19 
 msgid "おう、それぞれのパ―ツは\n格段に強度アップしているぞ！\n"
-msgstr ""
+msgstr "Every part is supposed to be super strong!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:20 
 msgid "なら、どうして？\n"
-msgstr ""
+msgstr "Then why did it break?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:21 
 msgid "それが、なぜかビスが余ったんだよな！\n"
-msgstr ""
+msgstr "We forgot a piece!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +280,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:22 
 msgid "急に練習とか、どうしたんですか。\n"
-msgstr ""
+msgstr "Why start practicing all of a sudden?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +293,8 @@ msgstr ""
 #: sc/0030:23 
 msgid "いや―、桜井くんが入部しただろ？\nおかげでやる気が出てさ。\n"
 msgstr ""
+"Well, thanks to Sakurai-kun joining the\n"
+"club, I felt kind of motivated.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +307,8 @@ msgstr ""
 #: sc/0030:24 
 msgid "まだどんな競技かよくわからんが、\nとりあえず部活といえば朝練だからな！\n"
 msgstr ""
+"I still don't know much about this sport,\n"
+"but we could at least do some morning training!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +320,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:25 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +333,8 @@ msgstr ""
 #: sc/0030:26 
 msgid "よ―し、とりあえずリフティングから。\nよっ……はっ！！\n"
 msgstr ""
+"Alright, for now for the ball juggling. \n"
+"Ooof…… Hah!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +347,8 @@ msgstr ""
 #: sc/0030:27 
 msgid "そしてここで……碁石だったっけ。\nおっと……ははっ、意外と難しいな。\n"
 msgstr ""
+"And then it was the Go stones, right?\n"
+"Oops.....ah, this it actually harder than I thought.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +361,8 @@ msgstr ""
 #: sc/0030:28 
 msgid "でも楽しくなってきたぞ。\nよ―し、今度は碁石３つで……。\n"
 msgstr ""
+"But it's starting to get fun. \n"
+"Ok, this time ill try going with three stones.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +374,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:29 
 msgid "部長。\n"
-msgstr ""
+msgstr "Club President.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +386,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:30 
 msgid "ん？　どうした関口。\n"
-msgstr ""
+msgstr "Hm? What is it, Sekiguchi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:31 
 msgid "碁石とサッカ―に\n分けるわけにはいかないんですか？\n"
-msgstr ""
+msgstr "Why can't we just split this into Igo and Soccer separetely?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +410,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:32 
 msgid "何言ってんだ関口！\n"
-msgstr ""
+msgstr "What are you saying, Sekiguchi!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +435,8 @@ msgstr ""
 #: sc/0030:34 
 msgid "オレだけが考えた競技ならいい。\nだけど、実在したんだぞ！？\n"
 msgstr ""
+"It would have been okay if this was just a sport I made up. \n"
+"But this game actually existed, alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +449,8 @@ msgstr ""
 #: sc/0030:35 
 msgid "それなら、\n勝手に分割するわけにはいかないだろ！\n"
 msgstr ""
+"So, we can't just split this\n"
+"sport up however we please!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +462,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:36 
 msgid "……す、すみません。\n"
-msgstr ""
+msgstr "I- I'm sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +475,8 @@ msgstr ""
 #: sc/0030:37 
 msgid "しかも中学ＬＵＯの桜井くんまで\n入部してくれたんだぞ？\n"
 msgstr ""
+"Even Sakurai, an MVP in middle \n"
+"school joined us, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +489,8 @@ msgstr ""
 #: sc/0030:38 
 msgid "そうですね。\nすみません、変なことを言ってしまって。\n"
 msgstr ""
+"Yeah you're right. \n"
+"I'm sorry, I shouldn't have said that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +503,8 @@ msgstr ""
 #: sc/0030:39 
 msgid "いや、わかってくれればいい。\nオレもちょっとキツく言い過ぎたよ。\n"
 msgstr ""
+"No, it's fine if you understand. \n"
+"I shouldn't have been so harsh either.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +516,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:40 
 msgid "ただちょっと悩んでてな―。\n"
-msgstr ""
+msgstr "But I was thinking about something for a while...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +528,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:41 
 msgid "悩み、ですか？\n"
-msgstr ""
+msgstr "About what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +541,8 @@ msgstr ""
 #: sc/0030:42 
 msgid "ああ、お遊びで作った部が\n何か凄いことになってきて正直めん……。\n"
 msgstr ""
+"That a club I only made for fun turned into \n"
+"something this crazy is frankly kind of bother-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:43 
 msgid "いや、楽しいことになってきたなと思ってな！\n"
-msgstr ""
+msgstr "No, I mean I think it's really intriguing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +566,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:44 
 msgid "……はぁ。\n"
-msgstr ""
+msgstr "……*Sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +579,8 @@ msgstr ""
 #: sc/0030:45 
 msgid "……なるほど。\n関口の言うとおりだな。\n"
 msgstr ""
+".....Oh, I see. \n"
+"I agree, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +593,8 @@ msgstr ""
 #: sc/0030:46 
 msgid "初心者のオレは無理をせず\nそれぞれ個別に練習した方がいいもんな！\n"
 msgstr ""
+"A beginner like myself shouldn't go all out so early. \n"
+"It might be better to simply train separately, you know!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +606,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:47 
 msgid "い、いえ、そういう意味じゃなくて……。\n"
-msgstr ""
+msgstr "N-, no that wasn't really what i meant by that......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +619,8 @@ msgstr ""
 #: sc/0030:48 
 msgid "さすが関口だ！\n頼りになるな、ありがとう！！\n"
 msgstr ""
+"Sekiguchi!\n"
+"You really are dependable, thank you!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:50 
 msgid "いえ、どういたしまして。\n"
-msgstr ""
+msgstr "Well, er... you're welcome.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +657,8 @@ msgstr ""
 #: sc/0030:51 
 msgid "それじゃ早速練習だ！\nまずはリフティングから！\n"
 msgstr ""
+"Then let's start with the practice right away!\n"
+"I'll start with some ball juggling.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +671,8 @@ msgstr ""
 #: sc/0030:52 
 msgid "よっ……おっと！\nくっ、意外と……難しいなコレ。\n"
 msgstr ""
+"Oh.....oops!\n"
+"Urgh, this is....surprisingly hard.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +685,8 @@ msgstr ""
 #: sc/0030:53 
 msgid "くそっ、ダメだ！\n連続３０回が精一杯か……。\n"
 msgstr ""
+"Damn it, this is hopeless. \n"
+"30 times in a row might just be my limit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +699,8 @@ msgstr ""
 #: sc/0030:54 
 msgid "この状態で碁石を使うなんて、\n囲碁サッカ―ってのは凄いスポ―ツだな。\n"
 msgstr ""
+"And I'm supposed to add Go stones?\n"
+"Igo-soccer really is an impressive sport.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +712,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:55 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +725,8 @@ msgstr ""
 #: sc/0030:56 
 msgid "……ところで関口。サッカ―部分はいいとして、\n碁石部分はどう練習すればいいと思う？\n"
 msgstr ""
+"But hold on, Sekiguchi. Leaving the soccer part aside, \n"
+"how am I supposed to train for the Igo part?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +738,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:57 
 msgid "……あ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +751,8 @@ msgstr ""
 #: sc/0030:58 
 msgid "関口〜。\nそれじゃ囲碁サッカ―じゃなくなるだろ―？\n"
 msgstr ""
+"Sekiguchi~.\n"
+"It wouldn't be Igo-soccer anymore, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:59 
 msgid "あ、はい……。\n"
-msgstr ""
+msgstr "Oh, is it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +777,8 @@ msgstr ""
 #: sc/0030:60 
 msgid "まったく、しっかりしてくれよ？\n囲碁サッカ―部員としてさぁ。\n"
 msgstr ""
+"Geez. Can you pull yourself together? \n"
+"And as a member of the Igo-soccer club...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +790,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:61 
 msgid "すみません。\n"
-msgstr ""
+msgstr "Sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +803,8 @@ msgstr ""
 #: sc/0030:62 
 msgid "まあいいけど。\nさて、そろそろル―ルブックでも読むかな。\n"
 msgstr ""
+"It's fine. \n"
+"Maybe we could look at the rulebook?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +816,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:63 
 msgid "ル―ルブックなんてあったんですか？\n"
-msgstr ""
+msgstr "There's a rulebook for this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:64 
 msgid "ああ、桜井くんが置いてってくれたんだ。\n"
-msgstr ""
+msgstr "Yeah, Sakurai was nice enough to leave it here.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -781,6 +841,8 @@ msgstr ""
 #: sc/0030:65 
 msgid "わかる！　囲碁サッカ―か。\nなになに……囲碁サッカ―の発祥は……。\n"
 msgstr ""
+"Called \"Igo Soccer 101\"... \n"
+"Hm....the origin of Igo Soccer....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:66 
 msgid "……えっ！？\n"
-msgstr ""
+msgstr "……Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +866,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:67 
 msgid "どうしました？\n"
-msgstr ""
+msgstr "What is it?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -817,6 +879,8 @@ msgstr ""
 #: sc/0030:68 
 msgid "プレ―によっては囲碁とサッカ―で\n　練習を分けることも可能です\n"
 msgstr ""
+"\"Depending on your technique,\n"
+"it is possible to practice Go and Soccer apart.\"\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +892,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:69 
 msgid "……分けられるんですね。\n"
-msgstr ""
+msgstr "......So apparently you can split them up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,19 +904,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:70 
 msgid "みたいだな……。\n"
-msgstr ""
+msgstr "Seems like it....\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0030:71 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0030:71 
 msgid "…………すまん。\n"
-msgstr ""
+msgstr "…………Sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,4 +928,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:72 
 msgid "……いえ。\n"
-msgstr ""
+msgstr ".....It was nothing.\n"

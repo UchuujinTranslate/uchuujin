@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-30 22:02+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-27 22:23+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0003/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0003:0 
 msgid "ふぅ、ここまで来たら安心かな……。\n"
-msgstr ""
+msgstr "Phew, I think I should be fine now…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0003:1 
 msgid "まったく。はかせのせいで\n今日はひどい１日になっちゃった。\n"
 msgstr ""
+"Man, thanks to Hakase,\n"
+"today ended up as a terrible day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0003:2 
 msgid "上手く誤魔化せたから私がロボットだと\n気付かれていないけど……。\n"
 msgstr ""
+"I managed to cover up me being a robot,\n"
+"but I hope I wasn't too suspicious…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0003:3 
 msgid "でも、こんなネジは\n早く取ってもらわないと私の心臓に悪いよ。\n"
 msgstr ""
+"But, this key! If it's not removed,\n"
+"I wouldn't be able to bear it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0003:4 
 msgid "いつネジが回り始めるかわからないし、\n回り始めたら何が起こるかもわからない……。\n"
 msgstr ""
+"I can't control whenever it turns, and\n"
+"when it does, who knows what'll happen…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +93,8 @@ msgstr ""
 #: sc/0003:5 
 msgid "そんな生活、考えただけで……うぅ、\nお腹痛くなってきた。\n"
 msgstr ""
+"Thinking about that kind of life… Ugh,\n"
+"it makes me feel sick to the stomach.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +107,8 @@ msgstr "Sasahara"
 #: sc/0003:6 
 msgid "そこの娘。落ち込んでいるようだが、\n何かあったのか？\n"
 msgstr ""
+"Young lady, you seem to be feeling down. \n"
+"Is there something on your mind?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +133,8 @@ msgstr ""
 #: sc/0003:8 
 msgid "気分が悪いのであれば良い病院を\n紹介してやろう。\n"
 msgstr ""
+"If you are feeling unwell, \n"
+"I could point you to a good hospital.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +147,8 @@ msgstr ""
 #: sc/0003:9 
 msgid "あっ、ありがとうございます。\nでも大丈夫です。家はすぐそこですから。\n"
 msgstr ""
+"Ah, thank you, but I'm fine, thanks. \n"
+"My home is just right around the corner.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,19 +160,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:10 
 msgid "そうか。ならば良いのだ。\n"
-msgstr ""
+msgstr "Oh?  Very well.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0003:11 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0003:11 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:12 
 msgid "む？　校長？\n"
-msgstr ""
+msgstr "Oh? Principal?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +208,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:14 
 msgid "えっ、えっ？　なんですか？\n"
-msgstr ""
+msgstr "Eh? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +221,8 @@ msgstr ""
 #: sc/0003:15 
 msgid "……ふむ。そうであったか。\nお主の顔が暗いのは校長が原因だな？\n"
 msgstr ""
+"……Hmm. I see how it is.\n"
+"The principal gave you a gloomy face.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:16 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +247,8 @@ msgstr ""
 #: sc/0003:17 
 msgid "みなまで言わずとも良い。\n笹原家長男として、校長を退治してくれよう！\n"
 msgstr ""
+"You don't have to say anything, I understand.\n"
+"As Sasahara's Eldest, I'll subdue him.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -246,31 +266,37 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0003:19 
 msgid "アンテナ折られました！\n"
-msgstr ""
+msgstr "The antenna broke!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0003:20 
 msgid "おい、ちょっと待て！　もしかしてこの男、\n俺たちの存在に気付いている！？\n"
 msgstr ""
+"Hey, wait a minute! Maybe this guy\n"
+"is aware of our presence!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0003:21 
 msgid "それに今の言葉、タ―ゲットも俺たちに\n気付いているってことじゃないのか！？\n"
 msgstr ""
+"With that, wouldn't you say that the\n"
+"target is also aware of our presence!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0003:22 
 msgid "なんてこった！　俺たちは\n地球人たちに踊らされていたのか！？\n"
 msgstr ""
+"Shoot! Were we\n"
+"being manipulated by earthlings?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0003:23 
 msgid "……いや、ただの偶然が重なっただけだろ？\n"
-msgstr ""
+msgstr "…No. It's just a coincidence, isn't it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:24 
 msgid "あっ！？\n"
-msgstr ""
+msgstr "Ah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +320,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:25 
 msgid "むっ？\n"
-msgstr ""
+msgstr "Hmph?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +333,8 @@ msgstr ""
 #: sc/0003:26 
 msgid "（またネジが回り始めた！？\n　今度は一体何が弌弌）\n"
 msgstr ""
+"(The key has started turning again!?\n"
+"What is it this time——?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,6 +359,8 @@ msgstr ""
 #: sc/0003:28 
 msgid "（腕が飛んでいった！？\n　意外と普通だ！！）\n"
 msgstr ""
+"(My arm flew away!?\n"
+"I expected something crazier!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +373,8 @@ msgstr ""
 #: sc/0003:29 
 msgid "（あっ、違う！\n　今のはコ―クスクリュ―仕様だ！！）\n"
 msgstr ""
+"(Ah! No, wait!\n"
+"This time it's a corkscrew!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:31 
 msgid "あっ、しまった……。\n"
-msgstr ""
+msgstr "Ah, crap…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +411,8 @@ msgstr ""
 #: sc/0003:32 
 msgid "（家まであと少しなのに\n　最後の最後でまた見られちゃった……）\n"
 msgstr ""
+"(I was so close to home, but I was\n"
+"seen again at the very last minute……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +424,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:33 
 msgid "い、今のは……。\n"
-msgstr ""
+msgstr "W-What was that…….?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +437,8 @@ msgstr ""
 #: sc/0003:34 
 msgid "い、今のは、マジックです！\n腕を飛ばすマジック！\n"
 msgstr ""
+"T-that was a magic trick!\n"
+"A floating arm magic trick!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +450,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:35 
 msgid "なんと、娘。お主は奇術師であったか！\n"
-msgstr ""
+msgstr "What a girl! So, you're a magician?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +463,8 @@ msgstr ""
 #: sc/0003:36 
 msgid "はい！　今のは１日に２回しか使えない\n手首飛ばしのマジックです！\n"
 msgstr ""
+"Yes! And that was a trick I can only pull off twice a day.\n"
+"It's the wrist flying magic trick!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +477,8 @@ msgstr ""
 #: sc/0003:37 
 msgid "素晴らしい出来だ。まるで本当に\nその腕を飛ばしたかのように錯覚したぞ。\n"
 msgstr ""
+"Wonderfully done. That illusion made\n"
+"it seem as if that arm really did fly!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +491,8 @@ msgstr ""
 #: sc/0003:38 
 msgid "ありがとうございます！\nではサ―ビスでもう一回行きます！\n"
 msgstr ""
+"Thank you very much!\n"
+"As an encore, I'll show it once more!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:39 
 msgid "うむ！　見事だ！\n"
-msgstr ""
+msgstr "Ohh! Splendid work!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +517,8 @@ msgstr ""
 #: sc/0003:40 
 msgid "この笹原を个らせるとは恐れ入った。\n将来は良い奇術師になれるであろう。\n"
 msgstr ""
+"How embarrassing of me to be caught off\n"
+"guard. You'll become a great magician.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +531,8 @@ msgstr ""
 #: sc/0003:41 
 msgid "ありがとうございます！\nそれでは私はこれで！！\n"
 msgstr ""
+"Thank you very much!\n"
+"I'll be going then!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +545,8 @@ msgstr ""
 #: sc/0003:42 
 msgid "よし！　何とか誤魔化せた！\nこのまま早く家に弌弌\n"
 msgstr ""
+"Alright! I dodged that one!\n"
+"At this pace, I gotta hurry home to——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +558,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:43 
 msgid "ああああ！？　両手が無い！！\n"
-msgstr ""
+msgstr "AAAAAH!? Both my hands are gone!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:44 
 msgid "え、えっと……。\n"
-msgstr ""
+msgstr "Uh, um………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +582,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:45 
 msgid "何と言う素晴らしい回転だ！\n"
-msgstr ""
+msgstr "What a beautiful axial rotation!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +594,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:46 
 msgid "……はい？\n"
-msgstr ""
+msgstr "……Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +607,8 @@ msgstr ""
 #: sc/0003:47 
 msgid "稀に見る美しいコ―クスクリュ―だ。\nなかなかやりおるな。\n"
 msgstr ""
+"Such an elegant corkscrew punch is a\n"
+"rare sight. Considerably executed, too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +620,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:48 
 msgid "は、はあ……。\n"
-msgstr ""
+msgstr "Y-yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +633,8 @@ msgstr ""
 #: sc/0003:49 
 msgid "（何だかよくわからないけど\n　手が飛んだことを変に思ってない？）\n"
 msgstr ""
+"(I don't really get it but, doesn't he\n"
+"think it's weird that my hands flew?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +647,8 @@ msgstr ""
 #: sc/0003:50 
 msgid "天晴れ天晴れ。娘、良い物を見せてくれた、\n礼を言おう。\n"
 msgstr ""
+"Bravo!  Bravo! You have showed me\n"
+"wondrous things. Thank you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +661,8 @@ msgstr ""
 #: sc/0003:51 
 msgid "あ、いえ。\nそれじゃ、私はこれで……。\n"
 msgstr ""
+"Ah, it's nothing.\n"
+"Then, I'll be off…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +674,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:52 
 msgid "（飛んでいった手を回収しないと）\n"
-msgstr ""
+msgstr "(I have to retrieve my rocketed hand.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +687,8 @@ msgstr ""
 #: sc/0003:53 
 msgid "……しかし、手が飛ぶとは、\n面妖な娘であった。\n"
 msgstr ""
+"……However, a flying hand is\n"
+"strange, to say the least.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +700,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:54 
 msgid "えっ？　今、何かありました？\n"
-msgstr ""
+msgstr "Eh? What was that just now?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +725,8 @@ msgstr ""
 #: sc/0003:56 
 msgid "そういえば何か音がした気がしますけど。\n何かあったんでしょうか？\n"
 msgstr ""
+"If I think about it, I did hear something.\n"
+"Did something happen?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +750,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:58 
 msgid "プッ。ワハハハハハハ！！\n"
-msgstr ""
+msgstr "Pff! WAHAHAHAHAHA!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +762,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:59 
 msgid "まあ良い、詮索はせずにおこう。それより娘。\nその手のままでは、不便ではないか？\n"
-msgstr ""
+msgstr "Whatsoever, I won't pry. Rather, is it toilsome with hands like that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +775,8 @@ msgstr ""
 #: sc/0003:60 
 msgid "えっ？　何ですか？\n私はちゃんと手がありますよ？\n"
 msgstr ""
+"Huh? What do you mean?\n"
+"I have a nice pair of hands right here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +788,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:61 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +800,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:62 
 msgid "あっ、もしかしてこっちの手ですか？\n"
-msgstr ""
+msgstr "Ah. Do you perhaps mean my other hand?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +812,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:63 
 msgid "これは男の人には見えないように\nなってるんですよ？\n"
-msgstr ""
+msgstr "This hand is made so it can't be visible by men.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +824,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:64 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +837,8 @@ msgstr ""
 #: sc/0003:65 
 msgid "ワハハハハハ！\nそうか、そうであったか。\n"
 msgstr ""
+"HAHAHAHAHA!\n"
+"I see! So that's the case.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -787,6 +851,8 @@ msgstr ""
 #: sc/0003:66 
 msgid "いらぬ心配をしてしまったようだ。\nそれでは、私は失礼しよう。\n"
 msgstr ""
+"Seems like there was needlessly worry.\n"
+"Well then, excuse me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +864,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:67 
 msgid "はい。さようなら。\n"
-msgstr ""
+msgstr "Yup. See you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,4 +876,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:68 
 msgid "フフッ、ぬかしおるよ、あの娘。\n"
-msgstr ""
+msgstr "Haha, what a strange girl that was!\n"

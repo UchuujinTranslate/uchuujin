@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-30 22:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-05-01 19:00+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0052/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Yuuko"
 #: sc/0052:0 
 msgid "あっ、麻衣ちゃん。\nスラマッパギ！\n"
 msgstr ""
+"Oh, Mai-chan.\n"
+"Selamat Pagi!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:1 
 msgid "スラマッマラム。\n"
-msgstr ""
+msgstr "Selamat malam.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0052:2 
 msgid "えへへ。そうやって返してくれるのは\n麻衣ちゃんだけだよ―。\n"
 msgstr ""
+"Hehehe. You're the only one \n"
+"who responds like that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0052:3 
 msgid "ありがとね。今日はそのお礼をこめて\n麻衣ちゃんにプレゼントがありま―す！\n"
 msgstr ""
+"Thanks! To show my gratitude,\n"
+"today, I got a present for you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +78,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:4 
 msgid "プレゼント？\n"
-msgstr ""
+msgstr "A present?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0052:5 
 msgid "そう！　そのプレゼントとは……\nじゃじゃ―ん！　弥佗菩薩―！\n"
 msgstr ""
+"Yeah! And that present is…\n"
+"Ta-da! A Maitreya!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:6 
 msgid "ありがと弌弌\n"
-msgstr ""
+msgstr "Thank you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:7 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0052:8 
 msgid "いや―、昨日店でたまたま見つけてさ―。\n麻衣ちゃん喜ぶかな―と思って買っちゃった。\n"
 msgstr ""
+"Well, I happened to see it in the store yesterday.\n"
+"I was wondering if you'd like it, so I bought it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0052:10 
 msgid "……あれ？　麻衣ちゃん？\n嬉しくないの？　弥佗菩薩だよ？\n"
 msgstr ""
+"……eh? Mai-chan?\n"
+"Do you not like it? It's a Maitreya, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0052:11 
 msgid "嬉しいことは嬉しい。\nでもその弥佗菩薩、銅製だから。\n"
 msgstr ""
+"I like the things I like.\n"
+"But that Maitreya, it's bronze.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +182,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:12 
 msgid "えっ？　違いがあるの！？\n"
-msgstr ""
+msgstr "Huh?  There's a difference!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +194,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:13 
 msgid "あっ。\n"
-msgstr ""
+msgstr "Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +212,7 @@ msgstr "Huh?\n"
 #  warnings: 0 
 #: sc/0052:15 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -216,67 +230,86 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:16 
 msgid "……あげる。\n"
-msgstr ""
+msgstr "……take it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:17 
 msgid "うおお！　マジかよ！\nもらっていいのか！？\n"
 msgstr ""
+"Whoa! Are you serious!?\n"
+"I really can have it!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:18 
 msgid "いや、お前にじゃなくてこのオッサンに\nあげたんだろ。\n"
 msgstr ""
+"Well, if not you, \n"
+"I guess I'll give it to this old man.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:19 
 msgid "あっ。\nそ、そうだよな……それじゃ断らせるよ。\n"
 msgstr ""
+"Ah.\n"
+"Is– is that so… well then, I'l have to refuse it\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:20 
 msgid "……なあ、そんなに欲しかったのか？\nと言うかさ、そんな趣味があったのか？\n"
 msgstr ""
+"……Hey, did you really want it that much?\n"
+"Or rather, was that your hobby?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:21 
+#, fuzzy
 msgid "ちょっとな。\n地球のことを勉強してたら見つけてさ……。\n"
 msgstr ""
+"Wait a second.\n"
+"I've found another thing to study about Earth.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:22 
 msgid "じゃあ銅製と木製の違いがわかるのか？\n"
 msgstr ""
+"Well, do you know the difference \n"
+"between bronze and wood Maitreyas?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:23 
 msgid "いや、そこまで通じゃない。\n"
-msgstr ""
+msgstr "Nope, that's out of my wheelhouse.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:24 
 msgid "だから今度、\n勉強のために地球に行こうと思うんだ。\n"
 msgstr ""
+"Well then, this time I think I'll go \n"
+"down to Earth to find out myself.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:25 
 msgid "えっ？　地球に？\nでも、勝手に降りるわけにはいかないだろ。\n"
 msgstr ""
+"Eh? To Earth? But you know,\n"
+"we can't afford to go just willy-nilly.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:26 
 msgid "抜け出すんだよ。\nな―に最悪、姫にバレなきゃなんとかなるさ。\n"
 msgstr ""
+"I'll just slip out. Anyway, even if the \n"
+"Princess hears about it, we'll manage somehow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,19 +327,19 @@ msgstr ""
 #  warnings: 1 
 #: sc/0052:28 
 msgid "いや―楽しみだな―。\n"
-msgstr ""
+msgstr "Well,  have fun.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:29 
 msgid "お、おまえ……う、うしろ……。\n"
-msgstr ""
+msgstr "L– look behind you.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:30 
 msgid "……あっ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,25 +351,27 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:31 
 msgid "お土産を忘れるなよ。\n"
-msgstr ""
+msgstr "Don't forget to bring back souvenirs!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:32 
 msgid "行ってきま――――す！！\n"
-msgstr ""
+msgstr "I'm off———!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:33 
 msgid "あいつ、無茶な計画するから……\nでも俺たちはあいつのことずっと忘れな弌弌！\n"
 msgstr ""
+"That guy, his plan is crazy……\n"
+"But we had better not forget about him——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0052:34 
 msgid "……えっ！？\n"
-msgstr ""
+msgstr "……Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +384,8 @@ msgstr ""
 #: sc/0052:35 
 msgid "違う。似ているようで全然違う。\n"
 msgstr ""
+"They're different. They look the same, \n"
+"but they're completely different.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +397,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:36 
 msgid "へ、へぇ―、奥が深いんだね。\n"
-msgstr ""
+msgstr "Heh, that's pretty deep.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +422,8 @@ msgstr ""
 #: sc/0052:38 
 msgid "この菩薩はお気に召さなかったか―。\n今度から買う時は木製にするよ。\n"
 msgstr ""
+"I used to not like this kind of Bodhisattva—\n"
+"From now on, I'll only buy wooden ones.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +471,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:42 
 msgid "ワ―オ！！！\n"
-msgstr ""
+msgstr "WOW！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +483,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:43 
 msgid "〜〜〜〜〜〜〜〜〜〜〜っ！！\n"
-msgstr ""
+msgstr "〜〜〜〜〜〜〜〜〜〜〜〜!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:50 
 msgid "木製なら……。\n"
-msgstr ""
+msgstr "If it were wood……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +579,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:51 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +591,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:52 
 msgid "木製なら、そんなに痛くなかった。\n"
-msgstr ""
+msgstr "If it were wood, it would not have hurt so much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +627,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:55 
 msgid "……いいね、木製。\n"
-msgstr ""
+msgstr "It's good then, wood is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +639,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:56 
 msgid "うん。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +699,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:61 
 msgid "……ゆっこ。\n"
-msgstr ""
+msgstr "………Yukko.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:62 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -719,8 +758,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0052:66 
+#, fuzzy
 msgid "木製がいいんじゃないの？\n"
-msgstr ""
+msgstr "There's a problem with wood?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -731,8 +771,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0052:67 
+#, fuzzy
 msgid "それはそれ。これはこれ。\n"
-msgstr ""
+msgstr "That is that. This is this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +857,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:74 
 msgid "……そうなんだ。\n"
-msgstr ""
+msgstr "…Is that right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +869,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:75 
 msgid "そう。私は木製の方が好みなだけ。\n"
-msgstr ""
+msgstr "Yes. I prefer wooden ones, but…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +881,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:76 
 msgid "そ、そっか……。\n"
-msgstr ""
+msgstr "Oh, I see…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +917,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:79 
 msgid "……ま、まあ、\n麻衣ちゃんの気持ちもわかるけどね。\n"
-msgstr ""
+msgstr "……Ah, well, I get how you feel.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +959,7 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0052:83 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
@@ -936,16 +977,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0052:84 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0052:85 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0052:85 
 msgid "……飾ろう。\n"
-msgstr ""
+msgstr "……I'll decorate it.\n"

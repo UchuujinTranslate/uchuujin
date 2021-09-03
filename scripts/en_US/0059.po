@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:35+0000\n"
-"PO-Revision-Date: 2019-08-31 23:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-09-08 00:23+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0059/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,7 +61,7 @@ msgstr "Koujirou"
 #  warnings: 0 
 #: sc/0059:3 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,7 +103,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:7 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -193,19 +193,19 @@ msgstr ""
 #  warnings: 1 
 #: sc/0059:17 
 msgid "なるほど！　ははははははは！\n"
-msgstr ""
+msgstr "I see! HAHAHAHAHAHAHAHA!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0059:18 
 msgid "あっはっはっはっは！！\n"
-msgstr ""
+msgstr "AH HA HA HA HA HA HA!!\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0059:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -343,7 +343,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:30 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,19 +463,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:40 
 msgid "！！！\n"
-msgstr "!!!\n"
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0059:41 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0059:41 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,7 +601,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:52 
 msgid "コジロウ"
-msgstr ""
+msgstr "Kojirou"
 
 #  text 
 #  warnings: 0 
@@ -775,7 +775,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:66 
 msgid "なっ！？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,7 +871,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:74 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,7 +919,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:78 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,7 +967,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:82 
 msgid "あの……。\n"
-msgstr ""
+msgstr "Ehm……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1003,7 +1003,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:85 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1027,7 +1027,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:87 
 msgid "あっ！！\n"
-msgstr ""
+msgstr "AH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1039,4 +1039,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0059:88 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"

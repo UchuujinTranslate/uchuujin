@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-09 22:52+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0005/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,19 +24,19 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0005:0 
 msgid "ただいま―……。\n"
-msgstr "I'm home-…….\n"
+msgstr "I'm home—…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0005:1 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
 #: sc/0005:1 
 msgid "あっ、なの、おかえり―。\n"
-msgstr "Oh, Nano, welcome.\n"
+msgstr "Oh, Nano, welcome home—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,8 +49,8 @@ msgstr ""
 #: sc/0005:2 
 msgid "はかせ！　起きてたんですね！\n早くこのネジを取ってください！\n"
 msgstr ""
-"Hakase! I’ve been winding up!\n"
-"Please take the key off soon!\n"
+"Hakase! Hey, you're awake!\n"
+"Could you please take the key off now!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,11 +61,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0005:3 
-#, fuzzy
 msgid "いやだよ？\nだってパワ―アップしたばかりだもん。\n"
 msgstr ""
-"Nope?\n"
-"It’s because you just powered up.\n"
+"No, I don't wanna.\n"
+"I just upgraded that key this morning.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -77,7 +76,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0005:4 
 msgid "そのせいで私は今日１日散だったんです！\n"
-msgstr "That’s why I was so scattered today!\n"
+msgstr "It's because of that I had a rough day!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -90,6 +89,8 @@ msgstr ""
 #: sc/0005:5 
 msgid "いい加減、取ってくださいよ。\nネジがあっても誰も救われませんから。\n"
 msgstr ""
+"Enough, please take it off.\n"
+"This key won't help me or anyone else.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -102,6 +103,8 @@ msgstr ""
 #: sc/0005:6 
 msgid "はかせはネジがあった方がいい！\n可愛いし、新機能いっぱい試せるし！\n"
 msgstr ""
+"But I think you should have it!\n"
+"It's cute and it has a lot of neat features!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -114,6 +117,8 @@ msgstr ""
 #: sc/0005:7 
 msgid "あっ、ちょ、やめてくださいはかせ！\n一体何をする弌弌\n"
 msgstr ""
+"Ah, w-wait stop it Hakase!\n"
+"What the heck are you are doing——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -125,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:8 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -138,6 +143,8 @@ msgstr ""
 #: sc/0005:9 
 msgid "あははははは！\n空飛ぶネジ！　カッコイイ！\n"
 msgstr ""
+"Ahahahaha!\n"
+"The key's flying! So cool!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -161,49 +168,55 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0005:11 
 msgid "キャン！？\n"
-msgstr ""
+msgstr "Kyaa!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:12 
 msgid "アンテナ破損！\nネ、ネジが突然飛来しました！\n"
 msgstr ""
+"The antenna is damaged! S-Suddenly,\n"
+"a flock of keys flew towards the dog!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:13 
 msgid "何を言ってる！\nそんな言い訳、聞きたくない！\n"
 msgstr ""
+"What are you saying! I don't want to\n"
+"hear such a made up excuse from you!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:14 
 msgid "でも！　本当にネジが飛んできたんです！\n"
-msgstr ""
+msgstr "But! It really was a key that hit it!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:15 
 msgid "嫌だ！　そんな言い訳聞きたくない！\n"
 msgstr ""
+"No!\n"
+"I've had it with you with your excuses.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:16 
 msgid "でも……。\n"
-msgstr ""
+msgstr "But…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0005:17 
 msgid "嫌だ嫌だ嫌だ嫌だ嫌だ！\n"
-msgstr ""
+msgstr "NO, NO, NO, NO, NO. I REFUSE!\n"
 
 #  text 
 #  warnings: 2 
 #: sc/0005:18 
 msgid "駄こねてる場合か――っ！\n"
-msgstr ""
+msgstr "Is this the time to have a tantrum——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,6 +229,8 @@ msgstr ""
 #: sc/0005:19 
 msgid "（はかせがコレをするために、\n　私は今日１日大変な目に遭ったんだ……）\n"
 msgstr ""
+"(Hakase, I've had a bad day just because \n"
+"you always do that……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,6 +243,8 @@ msgstr ""
 #: sc/0005:20 
 msgid "あはははは！　なの、どう？\nかっこいいでしょ？\n"
 msgstr ""
+"Ahahahaha! Nano, what'cha think?\n"
+"Don't you think it's cool?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,6 +257,8 @@ msgstr ""
 #: sc/0005:21 
 msgid "はぁ……かっこよくないです。\n一体何をしているんですか。\n"
 msgstr ""
+"*Sigh*…… No it's not.\n"
+"What the heck are you up to?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -251,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:22 
 msgid "ネジを飛ばしたの！\n"
-msgstr ""
+msgstr "I made the key fly!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,6 +283,8 @@ msgstr ""
 #: sc/0005:23 
 msgid "見ればわかります。\nまったく弌弌\n"
 msgstr ""
+"Yes, I can just tell by looking. \n"
+"Good grief——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -275,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:24 
 msgid "（ん？　ネジを飛ばした？）\n"
-msgstr ""
+msgstr "(Hm? She made the key fly?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -287,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:25 
 msgid "（あっ！　背中にネジがついてない！）\n"
-msgstr ""
+msgstr "(The key on my back, it's not there!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,6 +321,8 @@ msgstr ""
 #: sc/0005:26 
 msgid "（そうか……はかせは最初から\n　私のネジを取るつもりで改造を……）\n"
 msgstr ""
+"(I see…… From the start, Hakase had the intention \n"
+"of taking it when she upgraded it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -311,7 +334,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:27 
 msgid "はかせ―！\n"
-msgstr ""
+msgstr "Hakase—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -323,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:28 
 msgid "わっ、どうしたのなの！？\n"
-msgstr ""
+msgstr "Wah, what is it Nano!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,6 +359,8 @@ msgstr ""
 #: sc/0005:29 
 msgid "ありがとうございます！\n大好きですはかせ！\n"
 msgstr ""
+"Thank you so much!\n"
+"I love you Hakase!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -347,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:30 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,6 +385,8 @@ msgstr ""
 #: sc/0005:31 
 msgid "はかせもなのが大好き！\nだからプレゼント用意してるよ！\n"
 msgstr ""
+"I love you too Nano!\n"
+"That's why I got a present for you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,6 +399,8 @@ msgstr ""
 #: sc/0005:32 
 msgid "そんな、プレゼントなんて\nネジを取ってくれただけで十分弌弌\n"
 msgstr ""
+"C'mon, that's not necessary. I'm\n"
+"happy with you just removing my key——\n"
 
 #  speaker 
 #  warnings: 1 
@@ -383,7 +412,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0005:33 
 msgid "新しいネジだよっ\n"
-msgstr ""
+msgstr "It's a new key for you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -407,7 +436,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:35 
 msgid "はかせのバカ――！\n"
-msgstr ""
+msgstr "Hakase, I hate you——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,6 +461,8 @@ msgstr ""
 #: sc/0005:37 
 msgid "今ネジが取れて喜んでいた所なのに！\nどうしてまたネジをつけるんですか！\n"
 msgstr ""
+"I was happy with you removing it!\n"
+"Why did you have to put one back on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,6 +475,8 @@ msgstr ""
 #: sc/0005:38 
 msgid "だってなのには\nネジがあった方がいいもん！\n"
 msgstr ""
+"'Cuz,\n"
+"I like you having one on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,6 +489,8 @@ msgstr ""
 #: sc/0005:39 
 msgid "無くていいんです！\n未来永劫いりません！\n"
 msgstr ""
+"But, I don't need to have one!\n"
+"And I'd rather forever be without one!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -467,7 +502,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:40 
 msgid "う〜〜〜〜〜〜……。\n"
-msgstr ""
+msgstr "Hmph〜〜〜〜…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -479,7 +514,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:41 
 msgid "いるもんいるもんいるもんいるもん！\n"
-msgstr ""
+msgstr "No, I need, need, need, need, need it!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -491,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:42 
 msgid "わっ！？　な、何を弌弌\n"
-msgstr ""
+msgstr "Wah!? What are you——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -503,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:43 
 msgid "わわっ！？\n"
-msgstr ""
+msgstr "Wahh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -515,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:44 
 msgid "わあっ！？\n"
-msgstr ""
+msgstr "Ahhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -527,7 +562,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:45 
 msgid "ひいいいい！？\n"
-msgstr ""
+msgstr "Hihhhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -539,7 +574,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:46 
 msgid "あはははははは！\n"
-msgstr ""
+msgstr "Ahahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,6 +587,8 @@ msgstr ""
 #: sc/0005:47 
 msgid "も―！　さっきつけたばかりなのに\nまたネジを飛ばして弌弌\n"
 msgstr ""
+"Jeez! You just put it back on,\n"
+"and now you're making it fly again to——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -575,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:49 
 msgid "また取れた―！！\n"
-msgstr ""
+msgstr "It came off again—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,6 +625,8 @@ msgstr ""
 #: sc/0005:50 
 msgid "あはははははは！\nネジどっか行っちゃった！　あははは！\n"
 msgstr ""
+"Ahahahaha!\n"
+"The key is flying off somewhere! Ahaha!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -599,7 +638,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0005:51 
 msgid "〜\n"
-msgstr ""
+msgstr "～♪\n"
 
 #  speaker 
 #  warnings: 0 
@@ -611,7 +650,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:52 
 msgid "はははは……はぁ。えっと。\n"
-msgstr ""
+msgstr "Hahaha…… Haaa. Okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -623,7 +662,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:53 
 msgid "んしょっと。\n"
-msgstr ""
+msgstr "…And here you go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -635,7 +674,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:54 
 msgid "エンドレス！？\n"
-msgstr ""
+msgstr "Is this endless?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,6 +687,8 @@ msgstr ""
 #: sc/0005:55 
 msgid "は、はかせ……\n１つ聞いてもいいですか？\n"
 msgstr ""
+"H-Hakase……\n"
+"Can I ask you one thing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -659,7 +700,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:56 
 msgid "な―に？\n"
-msgstr ""
+msgstr "What is it—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,6 +713,8 @@ msgstr ""
 #: sc/0005:57 
 msgid "はかせは私の為にネジが取れるような\n改造をしたんですよね？\n"
 msgstr ""
+"Hakase, so you remodeled the key \n"
+"for it to be taken off, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,6 +727,8 @@ msgstr ""
 #: sc/0005:58 
 msgid "うん！\nなのもきっと喜んでくれると思ったの！\n"
 msgstr ""
+"Yup!\n"
+"Cuz', I thought you'd be happy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,6 +741,8 @@ msgstr ""
 #: sc/0005:59 
 msgid "はい、喜びましたよ？\nでも、それならどうしてまたネジを？\n"
 msgstr ""
+"Yes, I was happy when it was removed.\n"
+"But, why did you put it back on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,6 +755,8 @@ msgstr ""
 #: sc/0005:60 
 msgid "ただのネジじゃないよ。\nこれもパワ―アップ済みだから！\n"
 msgstr ""
+"But this isn't just the same one.\n"
+"This is a powered up version!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -719,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:61 
 msgid "あぁ、そうですか……。\n"
-msgstr ""
+msgstr "Ahh, I see………\n"
 
 #  speaker 
 #  warnings: 0 
@@ -731,7 +780,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:62 
 msgid "例えばね―……。\n"
-msgstr ""
+msgstr "Hmmm, for example—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,6 +793,8 @@ msgstr ""
 #: sc/0005:63 
 msgid "こうやって飛ばすでしょ？\nそして弌弌\n"
 msgstr ""
+"Okay, you make it fly like this. \n"
+"And then——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,6 +819,8 @@ msgstr ""
 #: sc/0005:65 
 msgid "元の場所に戻るようにもなったよ！\n"
 msgstr ""
+"And it return it to the same\n"
+"place it came from, like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -791,7 +844,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:67 
 msgid "どう！？　すごいでしょ！？\n"
-msgstr ""
+msgstr "See!? Isn't this amazing!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -803,7 +856,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:68 
 msgid "は、はは、ははははは……。\n"
-msgstr ""
+msgstr "Ha, haha, hahahahaha…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,6 +869,8 @@ msgstr ""
 #: sc/0005:69 
 msgid "私はもう、\nネジの呪縛から逃げられない……。\n"
 msgstr ""
+"Now, I will never be able to\n"
+"escape from this key's curse…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,6 +883,8 @@ msgstr ""
 #: sc/0005:70 
 msgid "新しいネジって何ですか。\n何で新しいのがポンポン出てくるんですか。\n"
 msgstr ""
+"What do you mean by a new key?\n"
+"Where do you get these new keys from?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -839,7 +896,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:71 
 msgid "なののためにいっぱい作ってるんだよ！\n"
-msgstr ""
+msgstr "I made lots just for you Nano!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,6 +909,8 @@ msgstr ""
 #: sc/0005:72 
 msgid "他にもあるんですか……\nちなみにそれはどこに？\n"
 msgstr ""
+"So, you have more of them……\n"
+"And by the way, where would those be?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,6 +923,8 @@ msgstr ""
 #: sc/0005:73 
 msgid "あっちにあるよ。\nもしかして興味出てきた？\n"
 msgstr ""
+"They're over there.\n"
+"Are you interested maybe?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -875,7 +936,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:74 
 msgid "いえ、処分するんです。\n"
-msgstr ""
+msgstr "No, I'm going to dispose them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -899,7 +960,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:76 
 msgid "あっちにあるんですね。\n"
-msgstr ""
+msgstr "I see. So they are over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,6 +973,8 @@ msgstr ""
 #: sc/0005:77 
 msgid "あ、あっちじゃなくて、\nそっちだったかも？\n"
 msgstr ""
+"A-Actually, they're not over there,\n"
+"I think they're that way……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -923,7 +986,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:78 
 msgid "あっちですね。\n"
-msgstr ""
+msgstr "No, it's over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -935,7 +998,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:79 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -947,7 +1010,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:80 
 msgid "あっ、ホントにいっぱいある……。\n"
-msgstr ""
+msgstr "Ah, there really are a lot of them…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -959,7 +1022,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:81 
 msgid "あっ、逃げて！\n"
-msgstr ""
+msgstr "Ah, run away!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -971,7 +1034,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:82 
 msgid "わっ！？\n"
-msgstr ""
+msgstr "Wah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -995,7 +1058,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:84 
 msgid "全部、飛んでいった……。\n"
-msgstr ""
+msgstr "All of them, they all flew away…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1007,7 +1070,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:85 
 msgid "あははは！　残念でした―！\n"
-msgstr ""
+msgstr "Ahahaha! What a bummer—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1019,7 +1082,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:86 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1031,7 +1094,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:87 
 msgid "（そんなにネジが大切なんだ……）\n"
-msgstr ""
+msgstr "(Are those keys really that important……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1043,4 +1106,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0005:88 
 msgid "（はかせって……ネジフェチ？）\n"
-msgstr ""
+msgstr "(Does Hakase…… have a key fetish?)\n"

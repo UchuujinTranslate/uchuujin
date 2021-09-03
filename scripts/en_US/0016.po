@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:05+0000\n"
-"PO-Revision-Date: 2019-08-31 23:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-19 17:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0016/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Mio"
 #: sc/0016:0 
 msgid "はぁ……はぁ……た、確かこの辺だよね。\nゆっことぶつかったのは……。\n"
 msgstr ""
+"Huff… huff… Th-this was the place.\n"
+"This is where I bumped into Yukko…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0016:1 
 msgid "なんとしても……\nなんとしても原稿見つけないと！\n"
 msgstr ""
+"Whatever it takes…… \n"
+"I have to find those pages!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,19 +52,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:2 
 msgid "…………ん？\n"
-msgstr ""
+msgstr "………Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0016:3 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0016:3 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:4 
 msgid "うわっ！？　鹿だ！！\n"
-msgstr ""
+msgstr "Wah!? It's a deer!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:6 
 msgid "びっくりした……。\n"
-msgstr ""
+msgstr "That surprised me…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +113,8 @@ msgstr ""
 #: sc/0016:7 
 msgid "つか、あの鹿って朝のやつだよね？\nくっそ―、あいつのせいで私の原稿が……。\n"
 msgstr ""
+"Or hey, is this the same deer from this morning?\n"
+"Damn it, it was all because of that thing that my pages got…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,13 +150,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:10 
 msgid "鹿―――！！　待て――――！！\n"
-msgstr ""
+msgstr "Deer———!! Wait up————!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0016:11 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -163,60 +169,66 @@ msgstr ""
 #: sc/0016:12 
 msgid "あの子、どうしたんだ！\nいきなり走り出したぞ！？\n"
 msgstr ""
+"What was up with that kid!\n"
+"She just started running all a sudden!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:13 
 msgid "と、とにかく追うんだ！\n逃げられたら姫に怒られるぞ！\n"
 msgstr ""
+"D- Doesn't matter. Follow after her!\n"
+"We can't loose track of her. Otherwise the Princess won't be happy.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:14 
 msgid "おう！\n"
-msgstr ""
+msgstr "Roger!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:15 
 msgid "……？　どうした、もっと急がせろよ。\n見失っちまうぞ？\n"
 msgstr ""
+"……? What's the matter, can't you make him run any faster. \n"
+"We'll loose track of her you know?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:16 
 msgid "ご老体なんだ、無理言うなよ。\n"
-msgstr ""
+msgstr "It's an elder, so don't overdo it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:17 
 msgid "……そうか、そうだよな。\n"
-msgstr ""
+msgstr "……Ah true, I didn't think of that.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:18 
 msgid "あっ、バテた。\n"
-msgstr ""
+msgstr "Ah, he got exhausted.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0016:19 
 msgid "あっ、転んだ。\n"
-msgstr ""
+msgstr "Ah, he tripped.\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0016:20 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0016:20 
 msgid "あっ、折れた！\n"
-msgstr ""
+msgstr "Ah, and the antenna broke!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +241,8 @@ msgstr ""
 #: sc/0016:21 
 msgid "はぁ、はぁ……！\nあっ、いた！　鹿――！！\n"
 msgstr ""
+"Huff, Huff........!\n"
+"Ah, there it is! Found you!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +266,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:23 
 msgid "取り返す……何が何でも……私の原稿……！\n"
-msgstr ""
+msgstr "I'll get my pages back… Whatever it takes…!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +302,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:26 
 msgid "（な、なに！？　なんなのこいつ！？）\n"
-msgstr ""
+msgstr "(W-What?! What's up with this deer!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +314,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:27 
 msgid "（こんなところで……こんなところで\n　私の人生は終わっちゃうの？）\n"
-msgstr ""
+msgstr "(Will my life……Will my life really end at a place like this?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +326,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:28 
 msgid "（こんな……鹿１匹のために……っ！）\n"
-msgstr ""
+msgstr "(All because of this one deer.....!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +338,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:29 
 msgid "（いや……まだ……まだよ！）\n"
-msgstr ""
+msgstr "(No.......I can't give up now!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +351,8 @@ msgstr ""
 #: sc/0016:30 
 msgid "命を、燃やせ―――！\n"
 msgstr ""
+"The fire in my heart,\n"
+"must become an inferno——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +376,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:32 
 msgid "へや―っ！！\n"
-msgstr ""
+msgstr "Heyyah—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:33 
 msgid "！！？\n"
-msgstr ""
+msgstr "!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +400,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:34 
 msgid "ぃよし！\n"
-msgstr ""
+msgstr "Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +412,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:35 
 msgid "勝った……！！\n"
-msgstr ""
+msgstr "I won....!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +424,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:36 
 msgid "あ――――！？　原稿―――！！\n"
-msgstr ""
+msgstr "Ah————!? My pages———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +437,8 @@ msgstr ""
 #: sc/0016:37 
 msgid "つ、強そう……\n何か……何かいい手はないの……？\n"
 msgstr ""
+"It looks strong……\n"
+"Isn't there something I can do……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +451,8 @@ msgstr ""
 #: sc/0016:38 
 msgid "カバンの中は……\nダメだ。ろくなものが無いよ……。\n"
 msgstr ""
+"Something in my bag……\n"
+"No, there's nothing good in there…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +465,8 @@ msgstr ""
 #: sc/0016:39 
 msgid "くぅ、そりゃそうだ、対鹿用アイテムなんて\n日頃から持ってるわけが……。\n"
 msgstr ""
+"Tsk, too be expected. It's not like I would carry around something that "
+"works for deers for my daily life.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +478,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:40 
 msgid "あっ！　ポケットに鹿せんべい！？\n"
-msgstr ""
+msgstr "Ah! There's a deer rice cracker in my pocket!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +491,8 @@ msgstr ""
 #: sc/0016:41 
 msgid "（なんで！？\n　でも神さまありがと―！）\n"
 msgstr ""
+"(Why!?\n"
+"But thank you god—!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +505,8 @@ msgstr ""
 #: sc/0016:42 
 msgid "よ―しよしよし。こっちおいで〜。\n良いものあげるよ〜。\n"
 msgstr ""
+"There, there. Come over here deer~\n"
+"I'll give you something nice~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +530,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:44 
 msgid "（よし、食べた！　今の内に原稿を……）\n"
-msgstr ""
+msgstr "(Yes, it's eating it!  Now I can reach for the pages....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:45 
 msgid "やった―！！　ゲット――！！\n"
-msgstr ""
+msgstr "Yay, I got them!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +567,8 @@ msgstr ""
 #: sc/0016:47 
 msgid "あ、なに？　もっと食べたい？\nわかったわかった。あと１枚……。\n"
 msgstr ""
+"Ah, what is it? You want to eat more. \n"
+"Sure thing. One more it is....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +580,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:48 
 msgid "…………あ、もうないや。\n"
-msgstr ""
+msgstr "........ah, I have no more left.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:49 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:50 
 msgid "ぐは―！？\n"
-msgstr ""
+msgstr "Guhahhh—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +617,8 @@ msgstr ""
 #: sc/0016:51 
 msgid "（ダメ……こいつの目……\n　ただ者じゃないっ！）\n"
 msgstr ""
+"(No....the look in those eyes.....\n"
+"this isn't some ordinary deer!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +631,8 @@ msgstr ""
 #: sc/0016:52 
 msgid "（一歩も動けない……先に動いたら……\n　確実に殺られる……っ！）\n"
 msgstr ""
+"(I can't take one step.....if I just step forward....I'll die for sure......)"
+"\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +645,8 @@ msgstr ""
 #: sc/0016:53 
 msgid "ああいたいた。\nったく、世話が焼けるな。\n"
 msgstr ""
+"Hey, there you are. \n"
+"You sure are troublesome.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +658,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:54 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +671,8 @@ msgstr ""
 #: sc/0016:55 
 msgid "ん？　なんだ君は。\nひょっとして君がこの鹿の飼い主か？\n"
 msgstr ""
+"Hm? Who are you? \n"
+"Could it be that you are the owner of this deer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +684,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:56 
 msgid "い、いいえ……。\n"
-msgstr ""
+msgstr "N-No.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +697,8 @@ msgstr ""
 #: sc/0016:57 
 msgid "そうか。いや―、近隣住民から\n鹿が暴れ回ってるって苦情が殺到してね―。\n"
 msgstr ""
+"Oh I see. The thing is, I've gotten a ton complaints by the people in this "
+"neighborhood that a deer is wrecking havoc in this area-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +710,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:58 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,19 +722,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:59 
 msgid "おっ！？　こら、暴れるな！\n"
-msgstr ""
+msgstr "Oh!? Hey, don't struggle!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0016:60 
 msgid "警察"
-msgstr ""
+msgstr "The Police"
 
 #  text 
 #  warnings: 0 
 #: sc/0016:60 
 msgid "それじゃ、この鹿は連れて行くから。\n"
-msgstr ""
+msgstr "Well then, I'll be taking this deer away.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +746,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:61 
 msgid "た、助かった……。\n"
-msgstr ""
+msgstr "P-Phew, that really helped…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +758,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:62 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +770,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0016:63 
 msgid "あ、原稿取ってないじゃん！！\n"
-msgstr ""
+msgstr "Ah, I forgot about the pages!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,3 +783,5 @@ msgstr ""
 #: sc/0016:64 
 msgid "すみません！\nその鹿、私のですっ！！\n"
 msgstr ""
+"Excuse me!\n"
+"Actually that deer is mine!!\n"

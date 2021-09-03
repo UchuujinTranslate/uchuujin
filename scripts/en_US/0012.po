@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:11+0000\n"
-"PO-Revision-Date: 2019-08-30 22:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-04 01:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0012/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,9 @@ msgstr "Mio"
 #: sc/0012:0 
 msgid "ふわ〜……眠い。\n原稿描いて徹夜なんて久しぶりだよ。\n"
 msgstr ""
+"Fwaah～… I'm so tired. \n"
+"It's been a while since I pulled an all-nighter like this to draw my sketch "
+"drafts.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +40,8 @@ msgstr ""
 #: sc/0012:1 
 msgid "でも、無事に完成してよかった。\nホント今回はギリギリだったよ……。\n"
 msgstr ""
+"But I'm glad that I managed to finish\n"
+"them. This time was really a close one….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +54,8 @@ msgstr ""
 #: sc/0012:2 
 msgid "あとは帰りに出すだけ！\n忘れずに郵便局、寄らないと。\n"
 msgstr ""
+"All that's left now is to head to the post \n"
+"office after school to send them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +68,8 @@ msgstr ""
 #: sc/0012:3 
 msgid "……それにしても、ねむ〜い……\n帰ったらソッコ―でダウンかな。\n"
 msgstr ""
+"……But still, I'm tired～……\n"
+"I'm sure I'll crash the moment I come home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +82,8 @@ msgstr ""
 #: sc/0012:4 
 msgid "うっ……そういや昨日の夜から\n何も食べてない気が……。\n"
 msgstr ""
+"Uh… Come to think of it, I haven't eaten\n"
+"anything since last night…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +96,8 @@ msgstr ""
 #: sc/0012:5 
 msgid "かなりグ―ペコだよ……\nなんか朝ご飯代わりになる物ないかな……。\n"
 msgstr ""
+"I'm starving……\n"
+"Is there anything I could eat for breakfast…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +110,8 @@ msgstr ""
 #: sc/0012:6 
 msgid "……おっ！　ラッキ―、ポケットに\nチョコはっけ―ん。\n"
 msgstr ""
+"……Oh, lucky me! I have chocolate\n"
+"in my pocket.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +123,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0012:7 
 msgid "うおおおおおお！？\n"
-msgstr ""
+msgstr "Uwooohhhhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +135,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:8 
 msgid "…………ん？\n"
-msgstr ""
+msgstr "………Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -162,13 +177,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:12 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0012:12 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +201,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:14 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -205,6 +220,8 @@ msgstr ""
 #: sc/0012:15 
 msgid "（校長先生！？\n　なんでこんなところに！）\n"
 msgstr ""
+"(The Principal!?\n"
+"What is he doing here!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +233,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:16 
 msgid "！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -234,31 +251,39 @@ msgstr ""
 #  warnings: 1 
 #: sc/0012:18 
 msgid "ぎゃ―！！　アンテナが折れた！！\n"
-msgstr ""
+msgstr "Gyaaa—!! The antenna broke!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0012:19 
 msgid "うわああっ！　アンテナどころか\n骨まで折れたような音がしたぞ！！\n"
 msgstr ""
+"Uwahh! Was that the \n"
+"sound of a bone fracture!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0012:20 
 msgid "容赦ねぇ……\nって、何に巻き込まれたんだよ！？\n"
 msgstr ""
+"Absolutely no mercy……\n"
+"What did the principal get into!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0012:21 
 msgid "わからん。\nだが、怪我で済むオッサンはまだマシだ。\n"
 msgstr ""
+"No idea. But he's lucky he\n"
+"can get away with only bruises.\n"
 
 #  text 
 #  warnings: 2 
 #: sc/0012:22 
 msgid "なぜなら俺たちは\n怪我で済まない確率、１００だからな！\n"
 msgstr ""
+"Because we have 0 chance\n"
+"of making it out alive for this!\n"
 
 #  text 
 #  warnings: 1 
@@ -277,6 +302,8 @@ msgstr ""
 #: sc/0012:24 
 msgid "わ〜〜〜〜〜〜！？\nどいてどいてどいて〜〜〜〜〜〜！！\n"
 msgstr ""
+"WAHHHHHHH!?\n"
+"Move aside, please～～～!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,19 +315,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:25 
 msgid "な、なっ弌弌！？\n"
-msgstr ""
+msgstr "W-What——!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0012:26 
 msgid "ゆっこ＆みお"
-msgstr "Yuuko & Mio"
+msgstr "Yukko & Mio"
 
 #  text 
 #  warnings: 0 
 #: sc/0012:26 
 msgid "ぎゃああああああ！？\n"
-msgstr ""
+msgstr "Wahhhhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +339,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:27 
 msgid "痛たたたた……。\n"
-msgstr ""
+msgstr "Ow, ouch…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +352,8 @@ msgstr ""
 #: sc/0012:28 
 msgid "いった〜……\nあ、みおちゃん、おはよ―。\n"
 msgstr ""
+"Huff, that hurt……\n"
+"Ah Mio, good morning—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +366,8 @@ msgstr ""
 #: sc/0012:29 
 msgid "痛烈だよ！\n朝の挨拶にしては過激すぎるよ！\n"
 msgstr ""
+"This is not the time for a morning greeting!\n"
+"That was way too extreme!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +380,8 @@ msgstr ""
 #: sc/0012:30 
 msgid "えっ、今の？\nやだな―、今のは事故だよ、事故。\n"
 msgstr ""
+"Eh, oh you mean that?\n"
+"Mio, stop it, that was just an accident, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +393,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:31 
 msgid "事故ぉ〜〜？\n"
-msgstr ""
+msgstr "An accident～～?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +406,8 @@ msgstr ""
 #: sc/0012:32 
 msgid "歩いてたら後ろからおばあさんと鹿が\n迫ってきたんだもん。私だってビックリだよ。\n"
 msgstr ""
+"I was just walking, when suddenly a deer and an old\n"
+"woman started chasing after me. It was a big surprise.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +419,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:33 
 msgid "はぁ……。\n"
-msgstr "Ha...\n"
+msgstr "*Sigh*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +432,8 @@ msgstr ""
 #: sc/0012:34 
 msgid "ホ、ホントだからね？\n狙って体当たりしたわけじゃないから！\n"
 msgstr ""
+"B-But it's true! \n"
+"I didn't mean to bump into you like that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +446,8 @@ msgstr ""
 #: sc/0012:35 
 msgid "はいはい。わかったから、拾うの手伝って。\nさっきのでカバンの中身出ちゃったよ。\n"
 msgstr ""
+"Okay, okay. I get it, so can you help me pick these up?\n"
+"Everything from my bag flew out because of you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +460,8 @@ msgstr ""
 #: sc/0012:36 
 msgid "あ、うん。でも、相手が鹿だと\n怒るに怒れないよね―。\n"
 msgstr ""
+"Ah, sure. But you can't really get\n"
+"mad at the deer for something like this—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +474,8 @@ msgstr ""
 #: sc/0012:37 
 msgid "鹿が原因だけに\nこりゃもう、シカたね―！　ってね！\n"
 msgstr ""
+"Because oh dear, that dear deer just couldn't help it…\n"
+"Am I right!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +488,8 @@ msgstr ""
 #: sc/0012:38 
 msgid "シカたなくね―よ！\n大激怒だよ！\n"
 msgstr ""
+"What do you mean it can't be helped!?\n"
+"I've had it with you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +514,8 @@ msgstr ""
 #: sc/0012:40 
 msgid "こっちは疲れと空腹と眠気で\n満身創亰な状態なの。\n"
 msgstr ""
+"I'm so tired and so hungry that I can barely \n"
+"hold it together over here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +528,8 @@ msgstr ""
 #: sc/0012:41 
 msgid "なのにトドメを刺すかのように\nぶつかられたら怒って当たり前だよ！\n"
 msgstr ""
+"And still, you charge into me like that, like you had the \n"
+"intention of killing me! Of course it makes me angry!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +542,8 @@ msgstr ""
 #: sc/0012:42 
 msgid "そ、そう？　相手は動物で、鹿だから。\n野生の本能に従ってるのかな〜とか……。\n"
 msgstr ""
+"R-Really? Well, I just thought that, since it's a deer,\n"
+"it's just following its natural instincts… or whatever～…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +556,8 @@ msgstr ""
 #: sc/0012:43 
 msgid "だから、追いかけられたりするくらいは、\nシカたね―！　って思えるかな？\n"
 msgstr ""
+"So you know, getting chased by such a lovable and ENDEERING\n"
+"animal can't really be helped you know, if you know what I mean?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +569,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:44 
 msgid "思えないよ！\n"
-msgstr ""
+msgstr "No, I don't!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +581,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:45 
 msgid "ま、まあ、私はそう思うってだけで。\n"
-msgstr ""
+msgstr "W-Well that's what I thought at least.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +594,8 @@ msgstr ""
 #: sc/0012:46 
 msgid "ゆっこはシカたね―って\n駄于落言いたいだけじゃん！\n"
 msgstr ""
+"Yukko, you just want to\n"
+"drop deer puns, don't you!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,6 +620,8 @@ msgstr ""
 #: sc/0012:48 
 msgid "え……\nまさか……本当に……？\n"
 msgstr ""
+"Huh……\n"
+"No kidding…… Was it really……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +633,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:49 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +658,8 @@ msgstr ""
 #: sc/0012:51 
 msgid "もう、なにそれ。\n相変わらずくっだらない。\n"
 msgstr ""
+"Jeez Yukko. \n"
+"You and your awful puns.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +672,8 @@ msgstr ""
 #: sc/0012:52 
 msgid "えへへへ―。\n……あれ？　何か踏んだ。\n"
 msgstr ""
+"Ehehehe—.\n"
+"……Huh? I stepped on something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +686,8 @@ msgstr ""
 #: sc/0012:53 
 msgid "うわ―、もう、こんなとこに\nチョコ落としたの誰かな―。\n"
 msgstr ""
+"Uwah,  jeez, who was it that dropped\n"
+"a piece of chocolate over here—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:55 
 msgid "私だよ！\n"
-msgstr ""
+msgstr "I did!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +735,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:57 
 msgid "あんたにぶつかられて落としたんだよ！\n"
-msgstr ""
+msgstr "I dropped it when we bumped into each other!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +747,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:58 
 msgid "えっ、そ、そうだったの？\n"
-msgstr ""
+msgstr "Huh, oh, oh really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +760,8 @@ msgstr ""
 #: sc/0012:59 
 msgid "昨日の夜から何も食べて無くて\n徹夜明けでへろへろな私の……。\n"
 msgstr ""
+"I haven't eaten anything since last night, and I'm here\n"
+"completely exhausted after staying up all night….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +773,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:60 
 msgid "私の命のチョコだよ！\n"
-msgstr ""
+msgstr "My life depends on that chocolate!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +785,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:61 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +798,8 @@ msgstr ""
 #: sc/0012:62 
 msgid "どうすんのさ！\nもうこれ食べられないよ！\n"
 msgstr ""
+"And what should I do now!\n"
+"Now it's all ruined and uneatable!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +824,8 @@ msgstr ""
 #: sc/0012:64 
 msgid "どうすんのさ！！\n私にここで餓死しろって言うの！？\n"
 msgstr ""
+"Tell me Yukko!! Are you telling me to\n"
+"starve to death here!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +837,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:65 
 msgid "……はい。パンあげる。\n"
-msgstr ""
+msgstr "……Here you go. Take my sandwich.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +873,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:68 
 msgid "ありがとう。\n"
-msgstr ""
+msgstr "Thank you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +885,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:69 
 msgid "……はぁ。\n"
-msgstr ""
+msgstr "……*Sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +897,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:70 
 msgid "あ、あれ……？\n"
-msgstr ""
+msgstr "W-Wait, what……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +910,8 @@ msgstr ""
 #: sc/0012:71 
 msgid "（なに、この反応……ってか無反応……\n　ハズした？　もしかして私、ハズした！？）\n"
 msgstr ""
+"(What's with that reaction… or, that nonexistent reaction…\n"
+"Did my punny jokes not land? Could that be it!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,6 +924,8 @@ msgstr ""
 #: sc/0012:72 
 msgid "（でもそんなことって……状況にぴったりの\n　完亢なネタだったのに……！）\n"
 msgstr ""
+"(But that can't be…… that pun\n"
+"perfectly matched the situation……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +937,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:73 
 msgid "……見てないで、拾うの手伝ってよ。\n"
-msgstr ""
+msgstr "……Don't just stand there, help me pick these up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +949,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:74 
 msgid "え、あ、う、うん……。\n"
-msgstr ""
+msgstr "Eh, ah, y-yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -889,6 +962,8 @@ msgstr ""
 #: sc/0012:75 
 msgid "（どうしよう……このまま引き下がったんじゃ\n　私のプライドが許さない……）\n"
 msgstr ""
+"(What should I do… I can't back down now\n"
+"or else my pride will be completely…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,6 +976,8 @@ msgstr ""
 #: sc/0012:76 
 msgid "（けど……伝家の宝刀は……\n　ムカデがムカッデくるは……っ！！）\n"
 msgstr ""
+"(Though… this is my last resort……\n"
+"And, it'll be a tourist trap……!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +989,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:77 
 msgid "ね、ねえ、みおちゃん……。\n"
-msgstr ""
+msgstr "H-Hey, Mio-chan…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +1001,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:78 
 msgid "ん？　な―に？\n"
-msgstr ""
+msgstr "Hm? What's up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,6 +1014,8 @@ msgstr ""
 #: sc/0012:79 
 msgid "イカはいかが？\n"
 msgstr ""
+"Did you see that hot dog movie?\n"
+"It was an Oscar wiener.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1040,8 @@ msgstr ""
 #: sc/0012:81 
 msgid "こ、この鶏肉、取りに来る？\n"
 msgstr ""
+"Why do watermelons have fancy weddings?\n"
+"Because they cantaloupe.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -985,6 +1066,8 @@ msgstr ""
 #: sc/0012:83 
 msgid "ヨウカンは、よう噛んで食べてね！\n"
 msgstr ""
+"What's the best time to visit the dentist?\n"
+"Tooth hurty!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1009,6 +1092,8 @@ msgstr ""
 #: sc/0012:85 
 msgid "もんじゃ焼きは、食べもんじゃ―！！\n"
 msgstr ""
+"What do you call a BBQ pun?\n"
+"A meataphor!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1020,7 +1105,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:86 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,16 +1117,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0012:87 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0012:88 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0012:88 
 msgid "――――っ！！\n"
-msgstr ""
+msgstr "————!!\n"

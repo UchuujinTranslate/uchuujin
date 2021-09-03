@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:08+0000\n"
-"PO-Revision-Date: 2019-08-31 02:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-03 04:51+0000\n"
+"Last-Translator: Bald Man <raultortats@outlook.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0190/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +96,7 @@ msgstr "Sasahara"
 #  warnings: 0 
 #: sc/0190:6 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,13 +426,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:34 
 msgid "ゆっこ＆高崎先生"
-msgstr ""
+msgstr "Yukko & Takazaki-sensei"
 
 #  text 
 #  warnings: 0 
 #: sc/0190:34 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +600,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:48 
 msgid "！！！？？！！？！？？！？？！？\n"
-msgstr ""
+msgstr "！！！ ?  ? ！！ ? ！ ?  ? ！ ?  ? ！ ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,13 +618,15 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:50 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0190:50 
 msgid "うわああああああああああああああ\nああああああああああああ！！！！\n"
 msgstr ""
+"UWAAAAAAAAAAAAAAAAAAAAAA\n"
+"AAAAAAAAAAAAAAAAAAAA!!!!!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +710,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:57 
 msgid "…………うん。\n"
-msgstr ""
+msgstr "…………Yeah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +722,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:58 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,13 +734,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:59 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0190:60 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -750,10 +752,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0190:61 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0190:61 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

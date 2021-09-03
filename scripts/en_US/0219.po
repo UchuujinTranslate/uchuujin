@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-08-31 02:00+0000\n"
+"PO-Revision-Date: 2020-06-27 20:51+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0219/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:2 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -185,8 +185,9 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0219:18 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
@@ -210,7 +211,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0219:20 
 msgid "は？　トイレじゃないのか？\n"
-msgstr ""
+msgstr "Huh? She didn't go to the toilet?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +481,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:46 
 msgid "うおおおおおおおおおおおおっ！！！\n"
-msgstr ""
+msgstr "UWOAAAAAAAAAAAAAAAAAAH!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +553,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:52 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +709,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:65 
 msgid "あ―っ！？\n"
-msgstr ""
+msgstr "Ah—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +763,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:70 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -798,7 +799,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:73 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -954,7 +955,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0219:86 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

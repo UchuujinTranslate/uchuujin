@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:04+0000\n"
-"PO-Revision-Date: 2019-08-31 01:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-10 20:31+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0158/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:2 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +84,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0158:5 
 msgid "あっ。\n"
-msgstr ""
+msgstr "Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:19 
 msgid "ええと……。\n"
-msgstr ""
+msgstr "Um…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,13 +264,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:20 
 msgid "どうぞ。\n"
-msgstr ""
+msgstr "Go ahead.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0158:21 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -306,13 +306,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:24 
 msgid "麻衣＆関口"
-msgstr ""
+msgstr "Mai & Sekiguchi"
 
 #  text 
 #  warnings: 0 
 #: sc/0158:24 
 msgid "じゃあ私もお先に。\n"
-msgstr ""
+msgstr "Well, I'll also be leaving.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,18 +331,22 @@ msgstr ""
 #: sc/0158:26 
 msgid "うわぁ！？\nアンテナがオ―バ―ヒ―トしやがった！\n"
 msgstr ""
+"Uwahh!?\n"
+"The antenna seemed to have overheated!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0158:27 
 msgid "……ちくしょう、\n俺の頭もオ―バ―ヒ―トしてるぜ。\n"
 msgstr ""
+"……Damn it,\n"
+"my head is also overheating.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0158:28 
 msgid "えええっ！？　なんでだよ！？\n"
-msgstr ""
+msgstr "Ehhhhh!? What the heck!?\n"
 
 #  text 
 #  warnings: 1 
@@ -426,7 +430,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:36 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +478,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:40 
 msgid "は、はい。\n"
-msgstr ""
+msgstr "Y- Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +502,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:42 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +730,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:61 
 msgid "あの……。\n"
-msgstr ""
+msgstr "Ehm……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +742,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:62 
 msgid "ん？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:72 
 msgid "……ふぅ。\n"
-msgstr "... heh.\n"
+msgstr "……Phew.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +898,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:75 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,7 +1018,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:85 
 msgid "え？　でも……。\n"
-msgstr ""
+msgstr "Huh? But……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1050,7 +1054,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:88 
 msgid "うん。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1066,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:89 
 msgid "それでは……。\n"
-msgstr ""
+msgstr "Ok then......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1110,13 +1114,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0158:93 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0158:94 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 

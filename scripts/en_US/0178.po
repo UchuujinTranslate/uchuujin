@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:04+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 20:56+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0178/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Nakanojo-san"
 #  warnings: 0 
 #: sc/0178:1 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:3 
 msgid "……ふ―む……。\n"
-msgstr ""
+msgstr "……Hmm…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:19 
 msgid "お客様、ご注文はお決まりでしょうか？\n"
-msgstr ""
+msgstr "Pardon me, but are we ready to order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -222,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:20 
 msgid "大福。\n"
-msgstr ""
+msgstr "Daifuku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,6 +247,8 @@ msgstr ""
 #: sc/0178:22 
 msgid "も、申し訳ありません、\n当店では大福は置いていないのですが……。\n"
 msgstr ""
+"I, I must apologize, we do not\n"
+"have daifuku at this location…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +260,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:23 
 msgid "なんで大福が置いていないんだ！\n"
-msgstr ""
+msgstr "Why don't you have any daifuku here!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -306,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:27 
 msgid "（えええ―――！？）\n"
-msgstr ""
+msgstr "(Ehhh———!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +668,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:57 
 msgid "…………うまっ。\n"
-msgstr ""
+msgstr "………… Sweet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:61 
 msgid "…………うまい。\n"
-msgstr ""
+msgstr "…………Sweet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:62 
 msgid "……よし。\n"
-msgstr ""
+msgstr "……Alright.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +812,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:69 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0178:75 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 

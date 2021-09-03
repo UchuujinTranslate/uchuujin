@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-16 03:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0010/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 1 
@@ -24,7 +24,7 @@ msgstr "Yuuko"
 #  warnings: 1 
 #: sc/0010:0 
 msgid "フフっ、今日１日色あったなぁ。\n"
-msgstr ""
+msgstr "I've been through a lot today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0010:1 
 msgid "悪霊に苦労させられて辛い思いを\nたくさんしたけど……。\n"
 msgstr ""
+"Thanks to those demons I went\n"
+"through a lot of tough times…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:2 
 msgid "でも、今の私にはこのお守りがある！\n"
-msgstr ""
+msgstr "But now, I have this charm!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0010:3 
 msgid "丱呼、なんて軽やかなステップ！\nまるで今朝のような清しさ\n"
 msgstr ""
+"Aah, how light my steps are!\n"
+"It's just how I felt this morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0010:4 
 msgid "悪霊はもういない。あの犬の姿も無い。\nやっぱり今日は良い日だ―！\n"
 msgstr ""
+"The demon's are now gone. And there's no sight of that dog.\n"
+"Today might actually be a good day—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0010:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -119,8 +125,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0010:8 
+#, fuzzy
 msgid "……せ。\n"
-msgstr ""
+msgstr "…………Or, so I thought.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,44 +138,49 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0010:9 
+#, fuzzy
 msgid "返せ―！　私の感動を返せ―！\n"
-msgstr ""
+msgstr "Give it—! Give me my inspiration back—!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0010:10 
 msgid "ええ―！？\nなに、この理不尽な怒り方―っ！\n"
 msgstr ""
+"What—!?\n"
+"What's with that irrational anger—!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0010:11 
 msgid "よ、よくわからんが逃げろ！\nあの娘、鬼気迫った顔してるぞ！\n"
 msgstr ""
+"I don't understand but we have to escape!\n"
+"That girl has a bloodcurdling face!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0010:12 
 msgid "うわ！　捕まっちまった！\n"
-msgstr ""
+msgstr "UWAH! They caught me!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0010:13 
 msgid "ああっ！！\n"
-msgstr ""
+msgstr "AAH!!\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0010:14 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0010:14 
 msgid "俺たちが何したって言うんだ―！！\n"
-msgstr ""
+msgstr "Tell us, what did we do—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0010:15 
 msgid "あっ、ゆっこ！　お―い！\n"
-msgstr ""
+msgstr "Ah, Yukko! Hey—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +205,8 @@ msgstr ""
 #: sc/0010:16 
 msgid "みおちゃん！　麻衣ちゃん！\nいいところに！\n"
 msgstr ""
+"Mio-chan! Mai-chan!\n"
+"Good timing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +219,8 @@ msgstr ""
 #: sc/0010:17 
 msgid "ここにいたんだね。\nさがしてたんだよ―？\n"
 msgstr ""
+"So that's where you were.\n"
+"We were looking for you, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +232,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:18 
 msgid "えっ？　さがしてた？\n"
-msgstr ""
+msgstr "Ehh? You were looking for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +244,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:19 
 msgid "これからゆっこの家に行くとこだった。\n"
-msgstr ""
+msgstr "We're just about to go to your house.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +256,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:20 
 msgid "みおちゃん、麻衣ちゃん……。\n"
-msgstr ""
+msgstr "Mio-chan, Mai-chan…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +269,8 @@ msgstr ""
 #: sc/0010:21 
 msgid "（二人とも、私が落ち込んでたことに\n　気付いてくれてたんだ……）\n"
 msgstr ""
+"(They both noticed that I was \n"
+"down in the dumps……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +283,8 @@ msgstr ""
 #: sc/0010:22 
 msgid "（……ありがとう。\n　二人は私の最高の親友だよ）\n"
 msgstr ""
+"(……Thanks. You two are\n"
+"the very best friends I have.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +297,8 @@ msgstr ""
 #: sc/0010:23 
 msgid "（……よし。早速二人に\n　元気になった姿を見せてあげないと！）\n"
 msgstr ""
+"(……Alright.  Then I gotta show them\n"
+"how much they have lifted me up!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +310,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:24 
 msgid "えへへ。ねえ、ゴッホって弌弌\n"
-msgstr ""
+msgstr "Ehehe. Hey, what did the painter say——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +323,8 @@ msgstr ""
 #: sc/0010:25 
 msgid "麻衣ちゃんと今度の旅行のことを\nちょっと話してて、行く場所の候補があるの。\n"
 msgstr ""
+"I was talking with Mai-chan about our\n"
+"upcoming trip and we were thinking where we wanted to go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +336,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:26 
 msgid "……へっ？\n"
-msgstr ""
+msgstr "……Heh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +349,8 @@ msgstr ""
 #: sc/0010:27 
 msgid "放課後に話そうと思ったのに\nゆっこったら先に帰っちゃうんだもん。\n"
 msgstr ""
+"I was gonna talk about it after school,\n"
+"but geez Yukko, you left without us.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +375,8 @@ msgstr ""
 #: sc/0010:29 
 msgid "……えっ？\nじゃあ、二人が私を捜してたのって……。\n"
 msgstr ""
+"……Eh?\n"
+"Then, you two were looking for me because…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:30 
 msgid "旅行の話。\n"
-msgstr ""
+msgstr "To talk about the trip.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -383,8 +411,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0010:32 
+#, fuzzy
 msgid "（恥ずかしい！　恥ずかしすぎる！\n　最高の親友とか思い損だよ！）\n"
 msgstr ""
+"(Oh that's embarrassing! \n"
+"I thought they were the best friends ever for looking after me!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +428,8 @@ msgstr ""
 #: sc/0010:33 
 msgid "……に行ってみたいな―って\n思うんだけど、ゆっこはどう思う？\n"
 msgstr ""
+"……is where I'm thinking of trying to go\n"
+"to. What do you think, Yukko?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +441,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:34 
 msgid "えっ？　あっ……。\n"
-msgstr ""
+msgstr "Eh? Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +453,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:35 
 msgid "（しまった、全然聞いてなかった……）\n"
-msgstr ""
+msgstr "(Shoot! I didn’t listen at all……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +466,8 @@ msgstr ""
 #: sc/0010:36 
 msgid "（あ、そうだ、復活の意味を込めて\n　上手くボケて返すんだ！）\n"
 msgstr ""
+"(Ah, I know! I'll make a comeback and\n"
+" swing with a good joke!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +479,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:37 
 msgid "私、佐渡にも行ってみたいな―。\n"
-msgstr ""
+msgstr "I think I'd like to see a whale—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +491,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:38 
 msgid "佐渡？\n"
-msgstr ""
+msgstr "A whale? —Cause they're endangered?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +504,8 @@ msgstr ""
 #: sc/0010:39 
 msgid "そう。でも詳しくは知らないから、\n佐渡に行っても、さ―どうするって感じ？\n"
 msgstr ""
+"Yeah. I'd like to see one since\n"
+"I don't know about them very… WHALE.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +517,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:40 
 msgid "あはは、ダメじゃん。\n"
-msgstr ""
+msgstr "Ahaha, hopeless, huh…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +529,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:41 
 msgid "（えっ！？　どっち！？）\n"
-msgstr ""
+msgstr "(Eh!? Which was it?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +542,8 @@ msgstr ""
 #: sc/0010:42 
 msgid "（佐渡がダメなのか、\n　ギャグがダメなのか、どっち！？）\n"
 msgstr ""
+"(Wait, are the whales hopeless?\n"
+"Or was my joke hopeless? Which!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +555,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:43 
 msgid "（く、挫けるもんか！　もう一回！）\n"
-msgstr ""
+msgstr "(As if I'd lose heart! Ok, once again!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:44 
 msgid "あ、そうだ。伊豆も行ってみたいな―。\n"
-msgstr ""
+msgstr "Ah, right. I'd like to go to Paris.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +579,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:45 
 msgid "伊豆か―。行ってみたいね―。\n"
-msgstr ""
+msgstr "Paris, huh? That sounds great—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +591,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:46 
 msgid "じゃあさじゃあさ、伊豆にはいず行く？\n"
-msgstr ""
+msgstr "What's not to LOUVRE about Paris?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,6 +604,8 @@ msgstr ""
 #: sc/0010:47 
 msgid "また今度ね。今回はやめとこう？\n"
 msgstr ""
+"Maybe sometime.\n"
+"How about somewhere else?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +617,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:48 
 msgid "（へこ―――！！）\n"
-msgstr ""
+msgstr "(Oof, that's a dent———!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +630,8 @@ msgstr ""
 #: sc/0010:49 
 msgid "（何も変わらない！\n　全然ギャグが受けてない！！）\n"
 msgstr ""
+"(Nothing has changed!\n"
+"My jokes aren't being received at all!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +643,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:50 
 msgid "（お守り、偽物つかまされた―！）\n"
-msgstr ""
+msgstr "(I got my hands on a fake charm—!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +655,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:51 
 msgid "ゆっこはどの辺に行きたい？\n"
-msgstr ""
+msgstr "Where would you like to go Yukko?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +668,8 @@ msgstr ""
 #: sc/0010:52 
 msgid "あ、そ、そうだな―。\n太平洋の方に行ってみたいな―。\n"
 msgstr ""
+"Ah, um, well—. I'd like to\n"
+"try to go to the Pacific Ocean—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +681,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:53 
 msgid "太平洋？　また広い範囲だね。\n"
-msgstr ""
+msgstr "The Pacific Ocean? That's pretty broad.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +694,8 @@ msgstr ""
 #: sc/0010:54 
 msgid "へへへへ―。でも、きっと太平洋の方は\nたいへんようねぇ。\n"
 msgstr ""
+"Hehehehe—. But, I'm not exactly sure\n"
+"where… to be…… PACIFIC.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +707,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:55 
 msgid "何が？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +731,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:57 
 msgid "……うん。何が？\n"
-msgstr ""
+msgstr "……Uhmm. Where?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +743,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:58 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +767,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:60 
 msgid "察してよ！\n"
-msgstr ""
+msgstr "Give it a guess!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,19 +779,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:61 
 msgid "あっ！　ゆっこ！　どこ行くの！？\n"
-msgstr ""
+msgstr "Ah! Yukko! Where are you going!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0010:62 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0010:62 
 msgid "ところで、\nさっきのゴッホって何？\n"
 msgstr ""
+"By the way, what was that\n"
+"you said about the painter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +806,8 @@ msgstr ""
 #: sc/0010:63 
 msgid "えっ！？\nいい、いや、何でもない！\n"
 msgstr ""
+"Eh!?\n"
+"Well, uh, it was nothing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +820,8 @@ msgstr ""
 #: sc/0010:64 
 msgid "何よ、気になるじゃん。\n教えてよ。\n"
 msgstr ""
+"Hey, we're curious.\n"
+"Let us hear it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +833,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:65 
 msgid "あ、ああ、えっと……。\n"
-msgstr ""
+msgstr "Ah, uh, um……….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,12 +846,14 @@ msgstr ""
 #: sc/0010:66 
 msgid "ゴッホの咳はゴッホゴホッ！　ってね！\n"
 msgstr ""
+"What did the painter say after the vehicle\n"
+"was stolen? \"Where’d the Van Gogh?\"\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0010:67 
 msgid "みお＆麻衣"
-msgstr ""
+msgstr "Mio＆Mai"
 
 #  text 
 #  warnings: 0 
@@ -822,10 +877,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0010:69 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0010:69 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

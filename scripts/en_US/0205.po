@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-30 22:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-25 23:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0205/en_US/>\n"
 "Language: en_US\n"
@@ -12,13 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0205:0 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -30,13 +30,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:1 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0205:1 
 msgid "グアアッッッッ！！！！\n"
-msgstr ""
+msgstr "GYAAAH！！！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:2 
 msgid "うあああああああああああっ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:4 
 msgid "フ―……フ―……。\n"
-msgstr ""
+msgstr "Phew—…… Phew—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +97,8 @@ msgstr ""
 #: sc/0205:6 
 msgid "フィ――――ヨ――――！\nフィ――――ヨ――――ッッ！！\n"
 msgstr ""
+"Fe——————————!\n"
+"Fe—————————————!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -114,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:8 
 msgid "ナレ―タ―お姉さん"
-msgstr ""
+msgstr "Narrator Lady"
 
 #  text 
 #  warnings: 0 
@@ -144,7 +146,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0205:10 
 msgid "あいたたた……。\n"
-msgstr ""
+msgstr "Ow, ow, ow…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +170,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:12 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:17 
 msgid "ッ！？\n"
-msgstr ""
+msgstr "Hh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +254,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:19 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +278,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:21 
 msgid "……？？？\n"
-msgstr ""
+msgstr "……???\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +374,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:29 
 msgid "わあっ！？\n"
-msgstr ""
+msgstr "Ahhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +422,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:33 
 msgid "弌弌待てええええええええ！！\n"
-msgstr ""
+msgstr "——Waaaaaaaiiiiiiiiiitttt!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +434,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:34 
 msgid "弌弌ッ！？\n"
-msgstr ""
+msgstr "—— !?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:44 
 msgid "待あああああああてえええええええええええ！！\n"
-msgstr ""
+msgstr "WAAAAAAAAAAAIIIIIIIIIIIIIIIIIIIIIIIT！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +566,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:45 
 msgid "ヒッ！？\n"
-msgstr ""
+msgstr "GASP!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +578,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:46 
 msgid "（天国のお父さん弌弌）\n"
-msgstr ""
+msgstr "(Our Father which art in heaven——)\n"
 
 #  speaker 
 #  warnings: 2 

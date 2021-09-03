@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 10:41+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0089/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Takasaki-sensei"
 #: sc/0089:0 
 msgid "みんな席につけ―。\n授業を始めるぞ―。\n"
 msgstr ""
+"Everyone to your seat—\n"
+"Class is starting—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr "Yuuko"
 #: sc/0089:1 
 msgid "（はぁ、高崎先生の授業か―。\n　めんどくさいなぁ）\n"
 msgstr ""
+"(Sigh, it's Takasaki-sensei's class—\n"
+"What a pain.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0089:2 
 msgid "まずは昨日出した宿題の答え合わせだな。\nみんなやってきたか―？\n"
 msgstr ""
+"First let's check the answers for yesterday's homework.\n"
+"You all did it right—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +66,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:3 
 msgid "（あ―、宿題ね。宿題……）\n"
-msgstr ""
+msgstr "(Ah— the homework, huh. Homework……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +78,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:4 
 msgid "（忘れてた―――！！）\n"
-msgstr ""
+msgstr "(I forgot to do it——!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0089:5 
 msgid "（ヤバイ！　また宿題忘れてた！\n　い、今からでもやらなきゃ！）\n"
 msgstr ""
+"(This is bad! I forgot it again!\n"
+"B-But it's still not too late!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0089:6 
 msgid "（確か昨日の宿題は……\n　あ、このプリントだ！）\n"
 msgstr ""
+"(If I recall correctly, yesterday's homework was…\n"
+"Ah, yes this handout!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:7 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +131,8 @@ msgstr ""
 #: sc/0089:8 
 msgid "（わからない……\n　１問たりともわからない……）\n"
 msgstr ""
+"(I don't get it……\n"
+"Not even a single one……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0089:9 
 msgid "（短時間でこの難問を解くのは無理だ！\n　ここはいつも通り）\n"
 msgstr ""
+"(Trying to solve these hard questions at this time would be impossible! I "
+"have to go with the usual)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:10 
 msgid "麻衣ちゃん、麻衣ちゃん。\n"
-msgstr ""
+msgstr "Mai-chan, Mai-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0089:12 
 msgid "宿題見せて。お願いっ。\n"
 msgstr ""
+"Could you show me your homework? \n"
+"Please!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +209,8 @@ msgstr ""
 #: sc/0089:14 
 msgid "相生、今日は宿題やってきたか？\n早くプリントを出せ。\n"
 msgstr ""
+"Aioi, did you do your homework?\n"
+"You should hand in the handout.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +223,8 @@ msgstr ""
 #: sc/0089:15 
 msgid "え、えっと……え？\nプリントならここに……。\n"
 msgstr ""
+"Eh, uhm……huh?\n"
+"Well I have it right here……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +237,8 @@ msgstr ""
 #: sc/0089:16 
 msgid "あれ？　ない？\nさっきまでここに弌弌\n"
 msgstr ""
+"Wait? It's gone?\n"
+"But it was here just——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,54 +263,69 @@ msgstr ""
 #: sc/0089:18 
 msgid "弌弌あっ！　私のプリント！\n返して！\n"
 msgstr ""
+"——AH! My handout!\n"
+"Give it back!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:19 
 msgid "おいおい、盗みは良くないぞ。\nちゃんと返してやらないと。\n"
 msgstr ""
+"Hey, why'd you steal it?\n"
+"You have to give it back.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:20 
 msgid "何言ってるんだ。\n俺はあの子を助けたんだぜ？\n"
 msgstr ""
+"What are you saying. \n"
+"Can't you see I helped that girl out?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:21 
 msgid "あ、そうなのか？　どう見ても\n困ってるようにしか見えないんだが。\n"
 msgstr ""
+"Ah, really? No matter how you look at it, \n"
+"she looks to be in trouble.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:22 
+#, fuzzy
 msgid "……そっか。お前は頭良かったから\nわからないのか。\n"
 msgstr ""
+"……I see. So you were intelligent \n"
+"so you wouldn't get it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:23 
 msgid "んん？？\n"
-msgstr ""
+msgstr "Hmm?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:24 
 msgid "いや、なんでもない。ところで、\n地球人はどんな勉強をしてるんだろうな。\n"
 msgstr ""
+"No, nevermind. By the way, I wonder what \n"
+"kind of homework earthlings do.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:25 
 msgid "奪ったプリントを見てみるか。\nえ―っと……。\n"
 msgstr ""
+"Let's check the printout we stole.\n"
+"Ok…\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0089:26 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -300,43 +337,45 @@ msgstr ""
 #  warnings: 1 
 #: sc/0089:27 
 msgid "……知恵熱出てきた……。\n"
-msgstr ""
+msgstr "……I'm getting teething fever……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:28 
 msgid "俺も……。\n"
-msgstr ""
+msgstr "Me too……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:29 
 msgid "うわっ！？　な、なんだ！？\n"
-msgstr ""
+msgstr "Uwah!? W-What is this!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:30 
 msgid "あっ！　アンテナに高熱が加わってる！\n一体どんな攻撃をされたんだ！？\n"
 msgstr ""
+"Ah! The antenna is increasing in temperature!\n"
+"What kind of attack is this!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:31 
 msgid "……いや、きっとそれは攻撃じゃない。\n"
-msgstr ""
+msgstr "……No, I don't think it's an attack.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:32 
 msgid "えっ？　じゃあ、一体弌弌\n"
-msgstr ""
+msgstr "Huh? Then, what on earth——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0089:33 
 msgid "熱暴走だ。\n"
-msgstr ""
+msgstr "It's a thermal runaway.\n"
 
 #  text 
 #  warnings: 1 
@@ -366,7 +405,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:36 
 msgid "ん？　紙に何書いてるの？\n"
-msgstr ""
+msgstr "Hm? There's something written on the paper?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +417,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:37 
 msgid "返事。\n"
-msgstr ""
+msgstr "A reply.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +429,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:38 
 msgid "（返事？）\n"
-msgstr ""
+msgstr "(A reply?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +453,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:40 
 msgid "（あっ！？　紙を投げた！）\n"
-msgstr ""
+msgstr "(Ah!? She threw the paper!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,7 +465,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0089:41 
 msgid "ん？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -438,13 +477,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:42 
 msgid "（中之条くんに返事？）\n"
-msgstr ""
+msgstr "(A reply to Nakanojou?)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0089:43 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -462,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:44 
 msgid "（あ、中之条くんも別の人に渡した）\n"
-msgstr ""
+msgstr "(Ah, Nakanojou gave it to someone else.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +514,8 @@ msgstr ""
 #: sc/0089:45 
 msgid "（なになに？\n　一体あの紙には何が書かれてるの？）\n"
 msgstr ""
+"(What is it?\n"
+"What could be written on that paper?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +528,8 @@ msgstr ""
 #: sc/0089:46 
 msgid "（あっ、まただ。みんな紙の中身を見たら\n　すぐに別の人に渡してる）\n"
 msgstr ""
+"(Ah, again. All look at the paper and pass \n"
+"it along to the next person.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +542,8 @@ msgstr ""
 #: sc/0089:47 
 msgid "（一体麻衣ちゃんはどんなことを書いたの？\n　見たい、あの紙の中身が見たい……）\n"
 msgstr ""
+"(What could Mai-chan have written on that paper?\n"
+"I want to see. I want to see what's on it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +555,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0089:48 
 msgid "ん？　手紙？\n"
-msgstr ""
+msgstr "Hm? A letter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:49 
 msgid "（あっ、みおちゃんに手紙が渡ってきた）\n"
-msgstr ""
+msgstr "(Ah, the letter got handed to Mio-chan.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +579,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:50 
 msgid "ねえみおちゃん、私にもその手紙見せて？\n"
-msgstr ""
+msgstr "Hey Mio-chan, can I see that letter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +592,8 @@ msgstr ""
 #: sc/0089:51 
 msgid "いいよ、というか、ゆっこ宛てだし。\nはい。\n"
 msgstr ""
+"Sure, but actually, this letter is for you.\n"
+"Here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +606,8 @@ msgstr ""
 #: sc/0089:52 
 msgid "あ、ありがとう。\nえっと、なになに〜？\n"
 msgstr ""
+"T-Thank you.\n"
+"Ehm, let's see〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +631,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:54 
 msgid "回りくどいよ！\n"
-msgstr ""
+msgstr "What was that roundabout!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +643,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:55 
 msgid "うおっ！？　ど、どうした相生！\n"
-msgstr ""
+msgstr "Hey!? W-What's the matter Aioi!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +656,8 @@ msgstr ""
 #: sc/0089:56 
 msgid "回りくどいよ麻衣ちゃん！\n私すぐ隣にいるじゃん！　喋れば１秒じゃん！\n"
 msgstr ""
+"What was that all about, Mai-chan!\n"
+"I'm sitting right next to you! It just takes one second to say it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +669,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:57 
 msgid "いや、と言うか……。\n"
-msgstr ""
+msgstr "Or rather……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -629,8 +680,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0089:58 
+#, fuzzy
 msgid "さっきこの手紙見た人全員、\nなんで以心伝心してるのさ！\n"
 msgstr ""
+"Why is everyone in this classroom who saw \n"
+"the letter telepathy connected!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -643,6 +697,8 @@ msgstr ""
 #: sc/0089:59 
 msgid "２文字！　断るの２文字しか書かれてなくて\nどうして私まで辿り着いたの！？\n"
 msgstr ""
+"Only two words! Just the two words \"I refuse\" is written, \n"
+"and why does it still reach me!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +722,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:61 
 msgid "いや、それよりもさ……。\n"
-msgstr ""
+msgstr "Or no, the real question is……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +735,8 @@ msgstr ""
 #: sc/0089:62 
 msgid "麻衣ちゃ―ん、\nなんで宿題見せてくれないの―！？\n"
 msgstr ""
+"Mai-chan, \n"
+"why can't I see your homework—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +749,8 @@ msgstr ""
 #: sc/0089:63 
 msgid "もう麻衣ちゃんじゃなくていいから\n誰か私に宿題見せてよ！！\n"
 msgstr ""
+"Ok, it doesn't have it be Mai-chan so can anyone here show me their "
+"homework!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +762,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:64 
 msgid "宿題やってこなかったのか。\n"
-msgstr ""
+msgstr "So you didn't do your homework.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:66 
 msgid "廊下に立ってなさい。\n"
-msgstr ""
+msgstr "Go and stand in the hallway.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +810,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:68 
 msgid "ねえ麻衣ちゃん。あの紙に何を書いたの？\n"
-msgstr ""
+msgstr "Hey, Mai-chan. What's written on that paper?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +822,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:69 
 msgid "ゆっこへの返事。\n"
-msgstr ""
+msgstr "A reply to you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +834,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:70 
 msgid "私への返事？\n"
-msgstr ""
+msgstr "A reply to me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -787,6 +847,8 @@ msgstr ""
 #: sc/0089:71 
 msgid "（でも麻衣ちゃん、他の人に回したし……\n　う―ん、どういうことだろう？）\n"
 msgstr ""
+"(But Mai-chan, you passed it along to others……\n"
+"Uhm, what could that mean?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +860,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:72 
 msgid "ゆっこ、手紙だよ。\n"
-msgstr ""
+msgstr "Yukko, it's a letter for you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +872,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:73 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +884,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:74 
 msgid "（あっ、これはさっき麻衣ちゃんが\n　何かを書いてた紙だ）\n"
-msgstr ""
+msgstr "(Ah, this was the paper Mai-chan wrote on earlier)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +896,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:75 
 msgid "（何が書かれてるんだろう……）\n"
-msgstr ""
+msgstr "(I wonder what's written on it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +932,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:78 
 msgid "（回りくどっ！）\n"
-msgstr ""
+msgstr "(Such a roundabout!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -883,6 +945,8 @@ msgstr ""
 #: sc/0089:79 
 msgid "（すぐ隣にいるのにどうしてこんなに\n　回りくどい事を弌弌）\n"
 msgstr ""
+"(I'm sitting right next to her, so why would she give her reply in such a "
+"roundabout——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +958,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:80 
 msgid "（弌弌回りくどい！？　そうか！）\n"
-msgstr ""
+msgstr "(——Roundabout!? I get it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -907,6 +971,8 @@ msgstr ""
 #: sc/0089:81 
 msgid "（回りくどい、つまり遠回し！\n　私、遠回しに断られたんだ！）\n"
 msgstr ""
+"(A roundabout. So she rejected me \n"
+"in a roundabout way!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +1020,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:85 
 msgid "…………えっ？\n"
-msgstr ""
+msgstr "…………Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,6 +1033,8 @@ msgstr ""
 #: sc/0089:86 
 msgid "って、そんなのいいから、\n宿題を見せてよ。\n"
 msgstr ""
+"But, leaving that aside, \n"
+"can't I see your homework?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -978,7 +1046,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:87 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -991,6 +1059,8 @@ msgstr ""
 #: sc/0089:88 
 msgid "おっ、ありがとう麻衣ちゃん。\nじゃあ早速……。\n"
 msgstr ""
+"Oh, thank you Mai-chan.\n"
+"Well let me just……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1002,7 +1072,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:89 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1015,6 +1085,8 @@ msgstr ""
 #: sc/0089:90 
 msgid "って、いやいや。\nこのプリント別のやつ弌弌\n"
 msgstr ""
+"Hey, c'mon. \n"
+"This is not the right handout.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1027,6 +1099,8 @@ msgstr ""
 #: sc/0089:91 
 msgid "（ハッ！？　危ない、麻衣ちゃんのペ―スに\n　巻き込まれるところだった！）\n"
 msgstr ""
+"(Hah!? That was dangerous. I was about to get sucked into Mai-chan's 'My "
+"pace'!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1039,6 +1113,8 @@ msgstr ""
 #: sc/0089:92 
 msgid "（このパタ―ンは必死になればなるだけ\n　私が痛い目を見るね。ここは大人しく……）\n"
 msgstr ""
+"(In these instances, the more I get serious about it the more it backfires. "
+"I just have to calm down and……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1050,7 +1126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:93 
 msgid "みおちゃん、ちょっといい？\n"
-msgstr ""
+msgstr "Mio-chan, could you give me a minute?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1138,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:94 
 msgid "ん？　なに？\n"
-msgstr ""
+msgstr "Hm? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1075,6 +1151,8 @@ msgstr ""
 #: sc/0089:95 
 msgid "いやぁ、ちょっとお願いがあって、\n宿題を見せてほしいな―なんて。\n"
 msgstr ""
+"Well, I just have a tiny favor. \n"
+"I was wondering if you could maybe show me your homework?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,7 +1164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:96 
 msgid "え―、また宿題やってないの？\n"
-msgstr ""
+msgstr "Ehhh, you haven't done your homework again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1099,6 +1177,8 @@ msgstr ""
 #: sc/0089:97 
 msgid "何！？\n相生、また宿題をやってこなかったのか！\n"
 msgstr ""
+"What!? \n"
+"Aioi, so you haven't done your homework!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1110,7 +1190,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:98 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1122,19 +1202,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:99 
 msgid "あ、ご、ごめん……。\n"
-msgstr ""
+msgstr "Ah, s-sorry……\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0089:100 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0089:100 
 msgid "お前と言うやつはいつもいつも！\n廊下に立ってろ！\n"
 msgstr ""
+"Why do you keep doing this!\n"
+"Go and stand in the hallway!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1146,7 +1228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:101 
 msgid "あう―……。\n"
-msgstr ""
+msgstr "Auhhh…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1158,7 +1240,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:102 
 msgid "……ゆっこ。\n"
-msgstr ""
+msgstr "………Yukko.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1170,25 +1252,25 @@ msgstr ""
 #  warnings: 0 
 #: sc/0089:103 
 msgid "なに麻衣ちゃん……。\n"
-msgstr ""
+msgstr "What is it Mai-chan………?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0089:104 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0089:104 
 msgid "ゆっこのプリント、おとといの宿題のやつ。\n"
-msgstr ""
+msgstr "Your handout. That was yesterday's homework.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0089:105 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

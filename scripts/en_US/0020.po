@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-08-30 22:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0020/en_US/>\n"
+"PO-Revision-Date: 2021-09-01 17:37+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0020/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr ""
 #: sc/0020:0 
 msgid "あぁ……お腹すいた……\nけっきょくお昼、食べ損ねちゃったもんなぁ。\n"
 msgstr ""
+"Aaah…… I'm hungry……\n"
+"And in the end, I missed lunch too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0020:1 
 msgid "購買、なんか売れ残ってるといいけど……。\n"
 msgstr ""
+"Though, I hope there's some leftover\n"
+"food on sale I could purchase…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:2 
 msgid "……あれ？　あそこにいるのは笹原と……？\n"
-msgstr ""
+msgstr "…Wait? Who's over there with Sasahara…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr "Sasahara"
 #  warnings: 0 
 #: sc/0020:3 
 msgid "む、これはいつぞやの。\n"
-msgstr ""
+msgstr "Hrm, oh, it's you from the other day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0020:4 
 msgid "え！？　あ……笹原先輩っ！？\n"
-msgstr ""
+msgstr "Eh!? Ah…… Sasahara-senpai!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr "Yuuko"
 #: sc/0020:5 
 msgid "おお〜！　なんたる偶然！\nこれは面白いことになってきましたな〜。\n"
 msgstr ""
+"Ooh～! My, what luck! This was quite\n"
+"an interesting turn of events, huh～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0020:6 
 msgid "ちょっとゆっこ！\n余計なこと言わないでよ！\n"
 msgstr ""
+"Wait, Yukko!\n"
+"Don't say too much!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:7 
 msgid "わかってますって。みお、頑張りな〜。\n"
-msgstr ""
+msgstr "I know, I know. Mio, good luck～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0020:8 
 msgid "あれは……１年生？\nなんか普通に話してるみたい……。\n"
 msgstr ""
+"Is that… a first-year student? It seems\n"
+"that they're talking pretty casually….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0020:9 
 msgid "……何よ、デレデレしちゃって。\nムカつくわね……。\n"
 msgstr ""
+"What! It isn't lovey-dovey or anything.\n"
+"But it's so irritating…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +157,8 @@ msgstr ""
 #: sc/0020:10 
 msgid "あ、あの、笹原先輩、まだでしたら\n朝ご飯ご一緒しませんか？\n"
 msgstr ""
+"Um, Sasahara-senpai, if you haven't had\n"
+"breakfast, would you have it with me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +170,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:11 
 msgid "……？\n"
-msgstr ""
+msgstr "……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0020:12 
 msgid "朝って何！？\nもうとっくにお昼だよみおちゃん！\n"
 msgstr ""
+"What do you mean breakfast!?\n"
+"It's already past noon, Mio!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +197,8 @@ msgstr ""
 #: sc/0020:13 
 msgid "えっ！？　あ―っ！\nす、すいません……私……つい……。\n"
 msgstr ""
+"Eh!? Ah ! I, I,\n"
+"I'm sorry…… I…… just…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:14 
 msgid "ぷっははははは。その意気や良し！\n"
-msgstr ""
+msgstr "Bwahaha. That kind of spirit is great!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +223,9 @@ msgstr ""
 #: sc/0020:15 
 msgid "人は誰しも、己の限界を超え成長するものだ。\nこれからも精進せよ。\n"
 msgstr ""
+"It's the same for everyone, reaching beyond your limits is what leads to "
+"growth.\n"
+"Continue diligently with that noble pursuit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +238,8 @@ msgstr ""
 #: sc/0020:16 
 msgid "（バカ笹原！\n　なんでそこで説教なのよ！）\n"
 msgstr ""
+"(You idiot Sasahara!\n"
+"What the heck's with the lecture?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +251,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:17 
 msgid "って、なんでそこで説教！？\n"
-msgstr ""
+msgstr "Wait, what's with the lecture!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -246,7 +269,7 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0020:19 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -258,85 +281,95 @@ msgstr ""
 #  warnings: 1 
 #: sc/0020:20 
 msgid "……なにいっ？\n"
-msgstr ""
+msgstr "……Whaaat？\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:21 
 msgid "なんだ、どうかしたか？\n"
-msgstr ""
+msgstr "What? Is something wrong?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:22 
 msgid "……よくわからん。\n"
-msgstr ""
+msgstr "……I'm not sure.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:23 
 msgid "ただ結果は見ての通りさ。\n急に制御不能になった。\n"
 msgstr ""
+"What happened is as it looks.\n"
+"Suddenly it went out of control.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:24 
 msgid "ど、どういうことだ！？\n"
-msgstr ""
+msgstr "What, what does that mean!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:25 
 msgid "いや……\nだから、よくわかんね―んだって。\n"
 msgstr ""
+"Well……\n"
+"Like I said, I don't really get it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:26 
 msgid "わかんね―じゃね―だろ！\n制御不能になった原因はなんだ？\n"
 msgstr ""
+"What's with that response! The cause\n"
+"of it getting out of control is what?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:27 
 msgid "俺に言われたってわかんね―よ！\n"
-msgstr ""
+msgstr "Even if you ask me that, I just don't get it—!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:28 
 msgid "つまり……今、オレたちには理解できない\n何かが起こったということか？\n"
 msgstr ""
+"So you're saying that…… something happened \n"
+"beyond anything we can understand?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:29 
 msgid "ああ……。\n"
-msgstr "Ah...\n"
+msgstr "Yeah…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:30 
 msgid "そうか……俺たちは今、\n地球人の神秘に触れたのか……。\n"
 msgstr ""
+"I see…… Just now, have we touched\n"
+"upon the true mystery of the Earthlings……?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:31 
 msgid "……そうだな。そうかもしれん。\n"
-msgstr ""
+msgstr "……I guess so. It's possible.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:32 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0020:33 
 msgid "（お前らサボらずにちゃんと見てろよ！）\n"
-msgstr ""
+msgstr "(You two, stop slacking off and watch it properly!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +381,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:34 
 msgid "……なによ、この違い！！\n"
-msgstr ""
+msgstr "……What's with this difference!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +394,8 @@ msgstr ""
 #: sc/0020:35 
 msgid "悔しいけど私よりもあの子の方が\n女の子らしい。\n"
 msgstr ""
+"It's frustrating, but that girl is\n"
+"probably more girly than me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +408,8 @@ msgstr ""
 #: sc/0020:36 
 msgid "多分、あの隣の子も私なんかより\n女の子らしいんだ……。\n"
 msgstr ""
+"And probably, the girl beside her is\n"
+"also more girly than me too…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +422,8 @@ msgstr ""
 #: sc/0020:37 
 msgid "うう、笹原が鼻の下を伸ばすのも\nわかる気がする……。\n"
 msgstr ""
+"Ugh, I could understand why he would be\n"
+"eyeing them up and down…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +436,8 @@ msgstr ""
 #: sc/0020:38 
 msgid "……何よ。私と話してる時は\n鼻の下なんて伸ばさないくせに。\n"
 msgstr ""
+"……Damn. And yet, why does he not\n"
+"do it when he is talking with me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +450,8 @@ msgstr ""
 #: sc/0020:39 
 msgid "……はっ！？　な、何言ってるの私！\n笹原に鼻の下なんか伸ばされても困るだけよ！\n"
 msgstr ""
+"…Huh!? Wh-what am I saying! Even if he\n"
+"were to do that, it'd just be annoying!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +463,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:40 
 msgid "ううう……！！\n"
-msgstr ""
+msgstr "Urghh……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +475,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:41 
 msgid "あ―もう、なんだかイライラしてきたっ！\n"
-msgstr ""
+msgstr "Ah man, I'm kind of getting pissed off!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +488,8 @@ msgstr ""
 #: sc/0020:42 
 msgid "あ、あれ？　不発？\nちいぃぃっ！　こんな時にっ！\n"
 msgstr ""
+"Ah, huh? It didn't fire?\n"
+"Damn! At a time like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:43 
 msgid "仕方ないわね……こら―っ！　笹原ぁ！！\n"
-msgstr ""
+msgstr "There's no helping it… Hey—! Sasahara!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +513,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:44 
 msgid "む？　立花みさと？\n"
-msgstr ""
+msgstr "Hmph? Tachibana Misato?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +526,8 @@ msgstr ""
 #: sc/0020:45 
 msgid "あんた、なに１年の子に\nちょっかい出してんのよ！\n"
 msgstr ""
+"Hey, what are you doing\n"
+"making passes at sophomores!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -493,6 +540,8 @@ msgstr ""
 #: sc/0020:46 
 msgid "しかも学校の廊下で堂と！\n少しは風紀ってもん考えなさいよね！\n"
 msgstr ""
+"And, in the hallway right in the open!?\n"
+"Do you have no sense of PDA!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +554,8 @@ msgstr ""
 #: sc/0020:47 
 msgid "それは誤解だ立花みさとよ。私はただ\nこの者たちと偶然会って話をしていただけだ。\n"
 msgstr ""
+"You are misunderstanding things, Misato Tachibana. \n"
+"I just met them by chance and had a chat with them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +568,8 @@ msgstr ""
 #: sc/0020:48 
 msgid "別に異性との交遊に\n及ぼうとしていたわけではないぞ。\n"
 msgstr ""
+"It was not in the intent of any\n"
+"companionship with the opposite sex.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +581,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:49 
 msgid "い、異性と……。\n"
-msgstr ""
+msgstr "With, with the opposite sex…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +594,8 @@ msgstr ""
 #: sc/0020:50 
 msgid "よ、よく言うわね！\n鼻の下伸ばして口説いてたくせに！！\n"
 msgstr ""
+"You, you say that a lot for someone\n"
+"who ogles and woos girls, though!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +607,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:51 
 msgid "口説く……。\n"
-msgstr ""
+msgstr "Woo…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +619,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:52 
 msgid "いやいや、そういうわけではない。\n"
-msgstr ""
+msgstr "No, no, no, that's not the reason.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +632,8 @@ msgstr ""
 #: sc/0020:53 
 msgid "第一、私がこの者を口説いていたとして、\nなぜ、立花みさとが怒らねばならんのだ。\n"
 msgstr ""
+"Firstly, if I was wooing this \n"
+"individual, why would you be so cross?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +658,8 @@ msgstr ""
 #: sc/0020:55 
 msgid "な、なによその顔！\nか、勘違いしないでよね！！\n"
 msgstr ""
+"What! What's with that face!\n"
+"Don't, don't get the wrong idea, okay!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +672,8 @@ msgstr ""
 #: sc/0020:56 
 msgid "私はただ、この子にいかがわしいこと\nしたいと思っただけなんだから！！\n"
 msgstr ""
+"It's just cause I think you're going to\n"
+"do something obscene to her!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:58 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +722,8 @@ msgstr ""
 #: sc/0020:60 
 msgid "……って、ダメじゃない！\n私は上級生なんだから、余裕をもたないと！\n"
 msgstr ""
+"…W-what am I thinking!? Since I'm\n"
+"a junior, I have to keep my composure!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +736,8 @@ msgstr ""
 #: sc/0020:61 
 msgid "とりあえず深呼吸して……す―、は―。\nよし！\n"
 msgstr ""
+"For now let's just take some deep breaths.\n"
+"……Hwooo—, Hahhhh—Alright!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +750,8 @@ msgstr ""
 #: sc/0020:62 
 msgid "あら〜、笹原、何してんの？\nその子たち、誰？\n"
 msgstr ""
+"Hey～, Sasahara, what'cha doing?\n"
+"And the kids, who're they?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +764,8 @@ msgstr ""
 #: sc/0020:63 
 msgid "む、立花みさとか。誰と言われても……\nここで偶然会っただけだが。\n"
 msgstr ""
+"Tachibana Misato. Even if you were to ask me…… \n"
+"we just met here by coincidence.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +778,8 @@ msgstr ""
 #: sc/0020:64 
 msgid "またまた〜照れちゃって。\n偶然にしちゃ仲良すぎでしょ〜。\n"
 msgstr ""
+"Hey hey〜 no need to be shy about it.\n"
+"Aren't you guys getting along for just meeting just now〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +791,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:65 
 msgid "そ、そんな、私は別にっ！\n"
-msgstr ""
+msgstr "N-No I wasn't particularly-!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +803,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:66 
 msgid "うんうん、わかってるって。\n"
-msgstr ""
+msgstr "Yeah, I get it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -743,8 +814,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0020:67 
+#, fuzzy
 msgid "ほう、ひと目でわかってもらえたか。\nさすがは立花みさと。\n"
 msgstr ""
+"Ah, glad you understood how it is at first sight. \n"
+"As expected of you, Misato Tachibana.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +831,8 @@ msgstr ""
 #: sc/0020:68 
 msgid "笹原〜、なかなか良い子じゃない。\nあんたなんかにはもったいないわ〜。\n"
 msgstr ""
+"Sasahara〜 she is quite a cutie.\n"
+"Almost too good for you〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +845,8 @@ msgstr ""
 #: sc/0020:69 
 msgid "……はて、わかったと言うが、\nどうにも食い違いがあるようなのだが？\n"
 msgstr ""
+"……Oh, I might have thought you understood but, \n"
+" it seems like you are misunderstanding something?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +859,8 @@ msgstr ""
 #: sc/0020:70 
 msgid "隠さなくても大丈夫だって。\n誰にも言わないから〜。\n"
 msgstr ""
+"It's ok, you don't need to hide it. \n"
+"I won't tell anybody about it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +873,8 @@ msgstr ""
 #: sc/0020:71 
 msgid "あなたと笹原、お似合いだよ。\nこれからも仲良くね。\n"
 msgstr ""
+"Sasahara, you and her look to be well-matched. \n"
+"I wish you guys good luck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +898,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:73 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +911,8 @@ msgstr ""
 #: sc/0020:74 
 msgid "……お、おおっ…おおおっ…\nおおおおおおっ！！！\n"
 msgstr ""
+"……Oh, ooh… oooh…\n"
+"OOOOOOOOH!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:75 
 msgid "へやっ！！\n"
-msgstr ""
+msgstr "Hyahh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +936,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:76 
 msgid "げふあっ！\n"
-msgstr ""
+msgstr "Bluaguah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +948,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:77 
 msgid "って、なんで私が\nイライラしなきゃいけないのよ。\n"
-msgstr ""
+msgstr "Wait, why do I care about this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,6 +961,8 @@ msgstr ""
 #: sc/0020:78 
 msgid "笹原が誰と何を話そうが、\n私には関係ないじゃない。\n"
 msgstr ""
+"What that girl and Sasahara are talking about is \n"
+"none of my business.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -889,6 +975,8 @@ msgstr ""
 #: sc/0020:79 
 msgid "そうよ。私はお腹が減ってるから買い物に行く。\nそのためにこの廊下を通るだけなんだから。\n"
 msgstr ""
+"Yes that's right. I'm only passing this hallway \n"
+"because I'm hungry and have to buy something to eat.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +988,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:80 
 msgid "よし、じゃあ、行くわよ……。\n"
-msgstr ""
+msgstr "Well, alright. ……. I'll go…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -913,6 +1001,8 @@ msgstr ""
 #: sc/0020:81 
 msgid "ん？　立花みさとではないか。\n何か用弌弌\n"
 msgstr ""
+"Hm? If it isn't Misato Tachibana. \n"
+"What's the matt-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +1026,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:83 
 msgid "……用ではなかったのか。\n"
-msgstr ""
+msgstr "……So it was nothing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,6 +1039,8 @@ msgstr ""
 #: sc/0020:84 
 msgid "あれ、あの人、確か剣道部の……\n笹原先輩、お知り合いですか？\n"
 msgstr ""
+"Hey, that person, isn't she in the Kendo club?\n"
+"Are you acquainted with her?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1053,8 @@ msgstr ""
 #: sc/0020:85 
 msgid "うむ、クラスメイトだ。\nあやつにはいつも世話に弌弌\n"
 msgstr ""
+"Indeed, she's my classmate.\n"
+"She always takes good care of——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -996,7 +1090,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:88 
 msgid "今の人、さっきここ、通ったよね？\n"
-msgstr ""
+msgstr "Didn't she pass by earlier?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1008,7 +1102,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:89 
 msgid "う、うん……戻ってくるの、早かったね。\n"
-msgstr ""
+msgstr "Uh, yeah…… She sure was fast at returning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:91 
 msgid "そ、それで笹原先輩、\n今日、部活は何時頃まで弌弌\n"
-msgstr ""
+msgstr "B-But anyway, Sasahara, when does your club end?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1045,6 +1139,8 @@ msgstr ""
 #: sc/0020:92 
 msgid "なに！？　なに！？\n今なんか通った――――っ！？\n"
 msgstr ""
+"What!? What!?\n"
+"Something passed by again————!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,7 +1152,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:93 
 msgid "もう、ゆっこってば！！\n"
-msgstr ""
+msgstr "Hey c'mon Yukko!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1069,6 +1165,8 @@ msgstr ""
 #: sc/0020:94 
 msgid "ご、ごめん、でも今、\n確かになんか変なのが……。\n"
 msgstr ""
+"S-sorry, but just now,\n"
+"I'm sure something weird just ….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1081,12 +1179,14 @@ msgstr ""
 #: sc/0020:95 
 msgid "は？　なにか変なもの？\n別に変なものなんて、どこにも弌弌っ！？\n"
 msgstr ""
+"Huh? Something weird?\n"
+"I can't see anything weird——hn!??\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0020:96 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -1110,10 +1210,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0020:98 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0020:98 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

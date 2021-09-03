@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-06 20:00+0000\n"
-"PO-Revision-Date: 2019-08-06 20:00+0000\n"
-"Last-Translator: Puuli Puuli <qcthulhu0@gmail.com>\n"
+"PO-Revision-Date: 2019-09-22 02:00+0000\n"
+"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0212/en_US/>\n"
 "Language: en_US\n"
@@ -23,11 +23,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0212:0 
-#, fuzzy
 msgid "さて、今度はアンテナセレクションについて\n説明をさせてもらうぞ。\n"
-msgstr ""
-"Now, I will explain the antennae\n"
-"selection.\n"
+msgstr "Now, onto antennae selection.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -38,7 +35,6 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0212:1 
-#, fuzzy
 msgid "他に聞きたいことはあるか？\n"
 msgstr "What else do you want to hear?\n"
 
@@ -53,6 +49,8 @@ msgstr ""
 #: sc/0212:2 
 msgid "この左上にあるのが、\nル―レットの速度の情報だ。\n"
 msgstr ""
+"Roulette speed is displayed\n"
+"in the top left of the screen.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -65,6 +63,8 @@ msgstr ""
 #: sc/0212:3 
 msgid "ル―レットが回転する速度は、実はアンテナが\n機能するほど速くなっていってしまう。\n"
 msgstr ""
+"In fact, the roulette spins \n"
+"fast enough to activate the antenna.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -77,6 +77,8 @@ msgstr ""
 #: sc/0212:4 
 msgid "つまり、人気のある地球人の番組や、\nそれまでの視聴率が高いほど速くなるわけだ。\n"
 msgstr ""
+"The wheel spins faster depending on the\n"
+"popularity of the earthling and rating.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -89,6 +91,8 @@ msgstr ""
 #: sc/0212:5 
 msgid "アンテナの仕様が原因だが、まあ、これも\n番組を盛り上げる演出の１つと理解してくれ。\n"
 msgstr ""
+"This is due to antenna specifications,\n"
+"but it makes the program more exciting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -101,6 +105,8 @@ msgstr ""
 #: sc/0212:6 
 msgid "評定の結果が悪かったり、\nアンテナが破損するとスピ―ドは遅くなる。\n"
 msgstr ""
+"If the rating result is bad or the \n"
+"antenna is broken, it will slow.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -112,7 +118,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0212:7 
 msgid "しかし、我の命がかかっていることを\nくれぐれも忘れないでくれ。\n"
-msgstr ""
+msgstr "Don't forget that my life is at stake.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -125,6 +131,8 @@ msgstr ""
 #: sc/0212:8 
 msgid "ＫＨＵＤが始まると、リモ―ト状態に置かれた\nアンテナ装着者の意識は一気に低下する。\n"
 msgstr ""
+"When LIVE, the antenna wearer\n"
+"quickly loses consciousness.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -137,6 +145,8 @@ msgstr ""
 #: sc/0212:9 
 msgid "そのため、彼らは無防備な状態になり、\n事故に巻き込まれやすくなってしまう。\n"
 msgstr ""
+"They become vulnerable and are more\n"
+"likely to be involved in an accident.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -149,6 +159,8 @@ msgstr ""
 #: sc/0212:10 
 msgid "コンピュ―タによると、ＫＨＵＤごとに\nいずれか１体が事故に遭う可能性がある。\n"
 msgstr ""
+"According to the computer, each person\n"
+"can have an accident for each LIVE.\n"
 
 #  speaker 
 #  warnings: 0 

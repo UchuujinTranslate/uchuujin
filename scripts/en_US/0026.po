@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:30+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0026/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakamura-sensei"
 #: sc/0026:0 
 msgid "美顔マッサ―ジにタイ式マッサ―ジ、\nオイルエステ……これだけあれば十分だろう。\n"
 msgstr ""
+"Facial massage, Thai-style massage,\n"
+"oil treatment… This should be enough.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0026:1 
 msgid "東雲なの捕獲作戦が朝から進まなかったが\nようやく光明が見えそうだ。\n"
 msgstr ""
+"This morning's plan to capture Nano didn't work out \n"
+"but at last there looks to be hope.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0026:2 
 msgid "マッサ―ジの練習台を頼むだけなら、\n東雲も嫌とは言わんだろうしな。\n"
 msgstr ""
+"If I just ask Shinonome to be my massage \n"
+"test subject, she probably wouldn't say no.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0026:3 
 msgid "っと、そろそろ東雲を呼んだ時間だな。\n準備を始めないと。\n"
 msgstr ""
+"Oh, about time to call for Shinonome.\n"
+"I gotta get ready.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:4 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:5 
 msgid "準備って何すればいいんだろう？\n"
-msgstr ""
+msgstr "What should I do to prepare?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:6 
 msgid "……自分で試してみるか。\n"
-msgstr ""
+msgstr "……Maybe I should test it myself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0026:7 
 msgid "保湿クリ―ムを塗って……\n顔の筋肉に垂直にマッサ―ジ……。\n"
 msgstr ""
+"Apply moisturizing cream…… \n"
+"Massage perpendicular to facial muscles…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +131,8 @@ msgstr ""
 #: sc/0026:8 
 msgid "顔の筋肉をほぐすように……\n強くするのはＭＦ……。\n"
 msgstr ""
+"To loosen the muscles of the face……\n"
+"And it should not done by force, …….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +157,8 @@ msgstr ""
 #: sc/0026:10 
 msgid "顔の筋肉に垂直にマッサ―ジ……\n……こうか？\n"
 msgstr ""
+"Massage perpendicular to facial muscles…\n"
+"……Like this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,14 +169,17 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0026:11 
+#, fuzzy
 msgid "お―……いいかも。\nこれを続けたら小顔に弌弌\n"
 msgstr ""
+"Oh! ……This could work.\n"
+"If I keep this up, a pretty face will——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0026:12 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -180,7 +197,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:13 
 msgid "……ひぃっ！！\n"
-msgstr ""
+msgstr "……AH！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +221,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:15 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +233,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:16 
 msgid "忘れろ！！\n"
-msgstr ""
+msgstr "Forget that!!\n"
 
 #  speaker 
 #  warnings: 6 
@@ -228,37 +245,45 @@ msgstr ""
 #  warnings: 6 
 #: sc/0026:17 
 msgid "＆！？\n"
-msgstr ""
+msgstr "＆!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:18 
 msgid "こ、攻撃でオッサンが気絶！？\n"
-msgstr ""
+msgstr "H-He fainted in the attack!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:19 
 msgid "へへ、どうやら俺たちは\n見てはいけない所を見ちまったようだな。\n"
 msgstr ""
+"Heheh, I think we've seen\n"
+"a lot of things that we shouldn't see.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:20 
 msgid "忘れろと言われても無理だな。\n今のシ―ンは墓場まで持っていくぜ。\n"
 msgstr ""
+"There’s no way you could forget that.\n"
+"I’ll remember this scene to the grave.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:21 
 msgid "俺もだ。あんなに恥ずかしがっちゃって……\n可愛いとこあるよな！\n"
 msgstr ""
+"Me too. With her being so embarrassed about it……\n"
+"So she has a cute side to her too!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:22 
 msgid "持ってくも何も、もう墓場に\n片足突っ込んでるだろうが――っ！\n"
 msgstr ""
+"Either way you we already\n"
+"have put one foot into the grave!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,6 +296,8 @@ msgstr ""
 #: sc/0026:23 
 msgid "……サッパリわからん。\nエステなんて興味ないからな。\n"
 msgstr ""
+"…… I haven’t the slightest idea why one\n"
+"would have interest in beauty stuff.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +310,8 @@ msgstr "Nano"
 #: sc/0026:24 
 msgid "失礼しま―す。\n先生、資料持ってきましたよ―。\n"
 msgstr ""
+"Excuse me～.\n"
+"Teacher, I brought  with me the materials.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +323,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:25 
 msgid "（来た！）\n"
-msgstr ""
+msgstr "(She's here!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +336,8 @@ msgstr ""
 #: sc/0026:26 
 msgid "すまんな東雲。資料はそこに置いてくれ。\n"
 msgstr ""
+"Sorry for the trouble Shinonome. \n"
+"You can leave the materials  over there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,6 +350,8 @@ msgstr ""
 #: sc/0026:27 
 msgid "はい。よいしょっと。\nそれじゃあ、私はこれで弌弌\n"
 msgstr ""
+"Okay. Phew! There we go.\n"
+"Well then, I'll be——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +363,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:28 
 msgid "あ、待て東雲。\n"
-msgstr ""
+msgstr "Ah, wait Shinonome.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +375,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:29 
 msgid "はい？　なんでしょうか？\n"
-msgstr ""
+msgstr "Yes? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -355,6 +388,8 @@ msgstr ""
 #: sc/0026:30 
 msgid "私事で悪いのだが、\n実は最近、マッサ―ジにハマっていてな。\n"
 msgstr ""
+"I'm sorry this is private but actually\n"
+"I've been really into massages lately.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +402,8 @@ msgstr ""
 #: sc/0026:31 
 msgid "マッサ―ジですか。\nすごいですね―。\n"
 msgstr ""
+"Massages?\n"
+"That sounds wonderful～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +416,8 @@ msgstr ""
 #: sc/0026:32 
 msgid "まだ始めたばかりだがな。\nそこで悪いのだが練習台になってくれないか？\n"
 msgstr ""
+"I'm nothing but a beginner though.\n"
+"So, would you be my practice subject?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +430,8 @@ msgstr ""
 #: sc/0026:33 
 msgid "あ、そうですね。\n私でよければ弌弌\n"
 msgstr ""
+"Oh, I see.\n"
+"If it's alright I'll——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +444,8 @@ msgstr ""
 #: sc/0026:34 
 msgid "（あっ！？　ダメだ！\n　ネジを近くで見られちゃう！）\n"
 msgstr ""
+"(Ah!? No!\n"
+"She'll see the key closeup!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -413,8 +456,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0026:35 
+#, fuzzy
 msgid "（それに、さわられた所にへんな機能があったら\n　ロボだって確実にバレちゃうよ……）\n"
 msgstr ""
+"(Also if the place she touches has some weird robot-function\n"
+"she will find out that I'm a robot.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +473,8 @@ msgstr ""
 #: sc/0026:36 
 msgid "弌弌す、すみません。\n実は私、これから用事があって……。\n"
 msgstr ""
+"——I, I'm sorry.\n"
+"Actually, from here on I have errands…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +487,8 @@ msgstr ""
 #: sc/0026:37 
 msgid "時間は取らせない。\n５分くらいだから、頼む。\n"
 msgstr ""
+"It won't take long.\n"
+"Please, it will only be around five minutes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +501,8 @@ msgstr ""
 #: sc/0026:38 
 msgid "え、えっと……私、くすぐったいのが苦手で……\n肩とか背中とかマッサ―ジはちょっと……。\n"
 msgstr ""
+"Eh, um…… I'm really ticklish so…… If you\n"
+"massage my back or shoulders, I'll…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +515,8 @@ msgstr ""
 #: sc/0026:39 
 msgid "じゃ、じゃあ体にはしない。\n顔だけで済ませよう。それでどうだ？\n"
 msgstr ""
+"Okay, well I won't do on the body. Let’s\n"
+"just start with the face. How does that sound?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +529,8 @@ msgstr ""
 #: sc/0026:40 
 msgid "あ―……\n顔もちょっと……。\n"
 msgstr ""
+"Ah—……\n"
+"Um, I don't think the face would be good either…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +543,8 @@ msgstr ""
 #: sc/0026:41 
 msgid "（……なぜ東雲は嫌がっているんだ？\n　もしかして私の考えがバレている？）\n"
 msgstr ""
+"(……Why is Shinonome against it?\n"
+"Could it be that she knows what I'm up to?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +557,8 @@ msgstr ""
 #: sc/0026:42 
 msgid "東雲……腕だけでもいいので\n協力してくれないか？\n"
 msgstr ""
+"Shinonome… Then what about the arm.\n"
+"Would that be ok?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:43 
 msgid "う、う、腕は特に……！\n"
-msgstr ""
+msgstr "M-my arms are especially……！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +582,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:44 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +594,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:45 
 msgid "東雲なの！\n"
-msgstr ""
+msgstr "Nano Shinonome!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +606,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:46 
 msgid "は、はい！！\n"
-msgstr ""
+msgstr "Y-yes!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:47 
 msgid "いいから触らせろ！\n"
-msgstr ""
+msgstr "Just let me touch you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +630,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:48 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +654,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:50 
 msgid "さ、触らせろ……？\n"
-msgstr ""
+msgstr "T-touch me……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +667,8 @@ msgstr ""
 #: sc/0026:51 
 msgid "マ、マッサ―ジは\n触らないとできないだろう？\n"
 msgstr ""
+"Y-you can't do a massage\n"
+"without touching, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +680,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:52 
 msgid "そ、そうですけど……。\n"
-msgstr ""
+msgstr "I-I guess so, but…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +693,8 @@ msgstr ""
 #: sc/0026:53 
 msgid "だから触らせろと言ったまでだ。\n何もおかしいことは言っていないぞ？\n"
 msgstr ""
+"That's why I said to let me touch you.\n"
+"There's nothing weird about that, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +706,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:54 
 msgid "は、はぁ……。\n"
-msgstr ""
+msgstr "Y-Yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +719,8 @@ msgstr ""
 #: sc/0026:55 
 msgid "そ、そういうことだから、東雲。\nマッサ―ジを始めるぞ。\n"
 msgstr ""
+"S-so, that's why Shinonome. \n"
+"Let's start the massage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +732,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:56 
 msgid "うぅ……目が怖い……。\n"
-msgstr ""
+msgstr "Uwah…… Your eyes are scary…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +744,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:57 
 msgid "こ、怖くなんかない。これが普通だ。\n"
-msgstr ""
+msgstr "D-don’t be scared. This is normal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +756,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:58 
 msgid "目が血走って……。\n"
-msgstr ""
+msgstr "Your eyes are bloodshot…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +769,8 @@ msgstr ""
 #: sc/0026:59 
 msgid "さあ東雲、\n"
 msgstr ""
+"Okay, Shinonome,\n"
+"come over here now…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +783,8 @@ msgstr ""
 #: sc/0026:60 
 msgid "ひっ！　ご、ごめんなさい！\n私、用事があるので帰ります！\n"
 msgstr ""
+"I, I'm so sorry! I have errands\n"
+"to run. So, I'll be heading home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +796,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:61 
 msgid "あっ！？　待て東雲！！\n"
-msgstr ""
+msgstr "Ahh!? Shinonome, wait!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +820,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:63 
 msgid "……ふう。\n"
-msgstr ""
+msgstr "……*sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +833,8 @@ msgstr ""
 #: sc/0026:64 
 msgid "頼むから……\n今のことは言いふらさないでくれよ……。\n"
 msgstr ""
+"I'm begging you……\n"
+"Please don't tell others of this…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +847,8 @@ msgstr ""
 #: sc/0026:65 
 msgid "それだけ私も必死だということだ。\n肌のケアは今からでも遅いくらいだからな。\n"
 msgstr ""
+"That's why I'm telling you I'm being serious about it. \n"
+"Because it's never too late to do skin care.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +860,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:66 
 msgid "あ……そう言うことですか。\n"
-msgstr ""
+msgstr "Ah… So that's what you mean.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,6 +873,8 @@ msgstr ""
 #: sc/0026:67 
 msgid "そうだ。だから決して\n変な意味ではない。\n"
 msgstr ""
+"Exactly. So, I didn't mean it\n"
+"in a weird way at all.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +887,8 @@ msgstr ""
 #: sc/0026:68 
 msgid "そ、そうですよね。\n……で、でも、先生は肌キレイですよ。\n"
 msgstr ""
+"I, I guess so, huh.\n"
+"……B-but teacher, your skin is pretty.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +900,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:69 
 msgid "む？　そうか？　普通だと思うが。\n"
-msgstr ""
+msgstr "Hmph? Really? I think it's pretty normal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +913,8 @@ msgstr ""
 #: sc/0026:70 
 msgid "そんなことないですよ。\nケアなんて必要ないくらいキレイです。\n"
 msgstr ""
+"It's not like that at all. A spa would\n"
+"be unnecessary with that kind of beauty.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +927,8 @@ msgstr ""
 #: sc/0026:71 
 msgid "ケアも大事ですけど、先にファッションの\n勉強をしてみたらどうですか？\n"
 msgstr ""
+"Salon-like skin is important but, \n"
+"have you considered studying fashion?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +940,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:72 
 msgid "ファッション？\n"
-msgstr ""
+msgstr "Fashion?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,6 +953,8 @@ msgstr ""
 #: sc/0026:73 
 msgid "はい。白衣も良いですけど、オシャレしたら\n先生、絶対可愛いと思います。\n"
 msgstr ""
+"Yea! A lab coat is nice but, if you dressed up more fashionably \n"
+"I'm sure you would look really cute!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +978,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:75 
 msgid "くっ……。\n"
-msgstr ""
+msgstr "hghh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +990,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:76 
 msgid "えっ？　中村先生？？\n"
-msgstr ""
+msgstr "Oh? Nakamura-sensei??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +1002,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:77 
 msgid "今日の所は……引き揚げだ！\n"
-msgstr ""
+msgstr "For the time being I…… I'll withdraw!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -931,6 +1015,8 @@ msgstr ""
 #: sc/0026:78 
 msgid "……いや、すまん。こんなことを頼める人は\n他にいなくてな……少し焦ってしまった。\n"
 msgstr ""
+"No I'm sorry. There's nobody else I can\n"
+"ask for this… I was a little impatient.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +1028,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:79 
 msgid "は、はぁ……\n"
-msgstr ""
+msgstr "Ah i see……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -955,6 +1041,8 @@ msgstr ""
 #: sc/0026:80 
 msgid "少しだけでいい。\n練習台になってくれないか？\n"
 msgstr ""
+"Just for a little bit.\n"
+"Could you be my test subject?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -966,7 +1054,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:81 
 msgid "……わかりました。少しだけなら……。\n"
-msgstr ""
+msgstr "……I understand. If it's only for a little bit then…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -979,6 +1067,8 @@ msgstr ""
 #: sc/0026:82 
 msgid "そうか。すまんな東雲。\nでは早速……腕を出してくれ。\n"
 msgstr ""
+"Oh I see. Sorry, Shinonome.\n"
+"Now then, could you… put your arms out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,7 +1080,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:83 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1003,6 +1093,8 @@ msgstr ""
 #: sc/0026:84 
 msgid "よし。まずは……\nゆっくり亊むところからだな。\n"
 msgstr ""
+"Alright. To begin with……\n"
+"Let's start off with a slow massage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,7 +1106,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:85 
 msgid "はい。お願いします……。\n"
-msgstr ""
+msgstr "Yes, please…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1026,7 +1118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:86 
 msgid "……はぁ。どうだった東雲？\n"
-msgstr ""
+msgstr "……Ah. How was that Shinonome?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1039,6 +1131,8 @@ msgstr ""
 #: sc/0026:87 
 msgid "すごく気持ちよかったです……\nまた今度してほしいなぁ……。\n"
 msgstr ""
+"It felt really good……\n"
+"I'd like to have another soon…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1051,6 +1145,8 @@ msgstr ""
 #: sc/0026:88 
 msgid "ああ。またいつでもしてやる。\nだから……。\n"
 msgstr ""
+"Sure. Whenever you want another one.\n"
+"So, just let me know…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1063,6 +1159,8 @@ msgstr ""
 #: sc/0026:89 
 msgid "はい。\nまた来ます……。\n"
 msgstr ""
+"Yup.\n"
+"I'll come again…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,7 +1184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:91 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1098,16 +1196,18 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:92 
 msgid "あっ！？\n"
-msgstr ""
+msgstr "Ah!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0026:93 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0026:93 
 msgid "マッサ―ジしただけで、\n何も調べられなかった！！\n"
 msgstr ""
+"I was too caught up massaging\n"
+"I forgot to check her body!!\n"

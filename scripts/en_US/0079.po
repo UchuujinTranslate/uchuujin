@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:10+0000\n"
-"PO-Revision-Date: 2019-08-30 22:02+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-08 21:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0079/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -150,7 +150,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:11 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:23 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +408,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:34 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:36 
 msgid "ええ―――っ！？\n"
-msgstr ""
+msgstr "EH———!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +468,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:39 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +576,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:48 
 msgid "ええっ！？\n"
-msgstr ""
+msgstr "EH!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +624,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:52 
 msgid "え、ええ〜っ！？\n"
-msgstr ""
+msgstr "Wait, what～!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +732,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:61 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:66 
 msgid "！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +834,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:70 
 msgid "警察"
-msgstr ""
+msgstr "The Police"
 
 #  text 
 #  warnings: 0 
@@ -846,7 +846,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0079:71 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 

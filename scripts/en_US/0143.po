@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 12:52+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0143/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:0 
 msgid "……ふう。\n"
-msgstr ""
+msgstr "……*sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Yoshino"
 #  warnings: 0 
 #: sc/0143:1 
 msgid "よっ、みさと、頑張ってたね〜。\n"
-msgstr ""
+msgstr "Hey Misato, you did great out there～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0143:2 
 msgid "え？　あ、先輩！　お久しぶりです。\n今日はどうしたんですか？\n"
 msgstr ""
+"Eh? Ah, senpai! Long time no see. \n"
+"Why are you here today?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:3 
 msgid "いや〜、近くまで来たんで、\nちょっと顔出そうかと。\n"
-msgstr ""
+msgstr "Well~ I happend to pass by so I thought I could take a little look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0143:4 
 msgid "こ、こんにちは……。\n"
-msgstr ""
+msgstr "H-hello…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0143:5 
 msgid "私、剣道部の練習って初めてみたよ〜。\n"
-msgstr ""
+msgstr "It's my first time with Kendo training～\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +98,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:6 
 msgid "あれ？　この子たちは……。\n"
-msgstr ""
+msgstr "Wait, what? These kids are……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +111,8 @@ msgstr ""
 #: sc/0143:7 
 msgid "あ〜ごめんね。これ、うちの妹とその友達。\nちょうどそこで会っちゃってね。\n"
 msgstr ""
+"Ah～ sorry. This is my sister and her\n"
+"friend. I ran into them on my way here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +124,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:8 
 msgid "えっ！？　そうだったんですか！？\n"
-msgstr ""
+msgstr "Oh really!? So that's how it was!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,8 +135,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:9 
+#, fuzzy
 msgid "うん。でね、剣道部に行くって言ったら、\nどうしても見学したいってきかなくてさ〜。\n"
 msgstr ""
+"Yeah. And when I said that I was going to check in on the Kendo club, they "
+"insisted in following and observing it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -143,8 +150,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:10 
+#, fuzzy
 msgid "言ってないよ！\nお姉が無理矢理連れてきたんじゃん！\n"
 msgstr ""
+"No we didn't say that!\n"
+"Sis, you were the one who brought us here against our will!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +166,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:11 
 msgid "でも、しっかり剣道部の練習、\n見学してたんですけどね〜。\n"
-msgstr ""
+msgstr "But we it was pretty fun checking the training out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +179,8 @@ msgstr ""
 #: sc/0143:12 
 msgid "それにしてもみさと、ちょっと見ないうちに\nまた腕を上げたみたいね〜。\n"
 msgstr ""
+"At any rate, Misato you have improved your skills quite significantly since "
+"last time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +193,8 @@ msgstr ""
 #: sc/0143:13 
 msgid "そ、そんな……まだまだです。\n先輩に比べたら全然……。\n"
 msgstr ""
+"N-No way…… I still have a\n"
+"long way to go compared to you senpai……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +207,8 @@ msgstr ""
 #: sc/0143:14 
 msgid "いやいやご謙遜〜。\n前見た時とはキレが違うよ、キレが。\n"
 msgstr ""
+"Naw, you're always so modest. \n"
+"Compared to last time your movement has become sharper.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +221,8 @@ msgstr ""
 #: sc/0143:15 
 msgid "これはアレだね。\nみさと、彼氏ができたね？\n"
 msgstr ""
+"Ah I know what it could be.\n"
+"You've made a boyfriend haven't you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:16 
 msgid "なっ！？　な、な、な弌弌\n"
-msgstr ""
+msgstr "Wha!? W- W- Wh---\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +246,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:17 
 msgid "へ―、剣道って、\nそうやって強くなるんだ―。\n"
-msgstr ""
+msgstr "Ah interesting,  so that's how people motivate each other in Kendo-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:18 
 msgid "んなわけないって。\n"
-msgstr ""
+msgstr "Well not really.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +271,8 @@ msgstr ""
 #: sc/0143:19 
 msgid "でも、みおちゃん。\n想いは人を強くするとか言いますよ〜？\n"
 msgstr ""
+"But Mio-chan. \n"
+"It's said that desire makes one strong.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:21 
 msgid "あ―、うん、頑張ってね―。\n"
-msgstr ""
+msgstr "Ah—, yeah. Good luck—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +332,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:24 
 msgid "始めっ！\n"
-msgstr ""
+msgstr "Begin!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +344,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:25 
 msgid "おりゃあああああ！！\n"
-msgstr ""
+msgstr "Oryahhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +356,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:26 
 msgid "ぎゃあああああああ！！\n"
-msgstr ""
+msgstr "Gyaaaaaaaaaaaaaah！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -347,8 +367,9 @@ msgstr "Buddy"
 #  text 
 #  warnings: 0 
 #: sc/0143:27 
+#, fuzzy
 msgid "キャン！\n"
-msgstr ""
+msgstr "[sound of buddy getting hurt. ]\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +387,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0143:29 
 msgid "……強かったな。\n"
-msgstr ""
+msgstr "……That was rough.\n"
 
 #  text 
 #  warnings: 1 
@@ -403,6 +424,8 @@ msgstr ""
 #: sc/0143:34 
 msgid "ね、ね、みさとの彼ってどんなの？\nやっぱ、剣道部の子？\n"
 msgstr ""
+"Hey, Misato how is your boyfriend like?\n"
+"I know, it's some kid here in the club right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +438,8 @@ msgstr ""
 #: sc/0143:35 
 msgid "ち、ちちち違います！\nそんなんじゃないですってば！\n"
 msgstr ""
+"N- No, you've got it all wrong.\n"
+"There's no way that would be the case!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +452,8 @@ msgstr ""
 #: sc/0143:36 
 msgid "もう、お姉ってば〜、\n先輩困ってるじゃない。\n"
 msgstr ""
+"Why do you always gotta be like this sis. Now senpai is feeling troubled "
+"because of you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -438,7 +465,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:37 
 msgid "演劇部ですよ！\n"
-msgstr ""
+msgstr "It's the drama club actually!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +477,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:38 
 msgid "そっち！？\n"
-msgstr ""
+msgstr "That was the problem!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +489,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:39 
 msgid "へ―、そうなんだ―。\nみおちゃんと一緒だね〜。\n"
-msgstr ""
+msgstr "Hehh~ it's the same for Mio-chan too~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:40 
 msgid "ちょっ！？　ゆっこ！！\n"
-msgstr ""
+msgstr "Hey!? Yukko!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -485,8 +512,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:41 
+#, fuzzy
 msgid "あ―、でも、先輩って体育会系だし、\nメガネかけた男はきっとダメだよね―。\n"
 msgstr ""
+"Ah but you senpai is so athletic and you probably aren't interested in guys "
+"with glasses right-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +528,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:42 
 msgid "メガネ、いいじゃない！！\n"
-msgstr ""
+msgstr "Hey, glasses are great!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -521,8 +551,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:44 
+#, fuzzy
 msgid "え―、だって今時メガネなんて……ねぇ？\nイケてないってゆ―か、なんてゆ―か……。\n"
 msgstr ""
+"Hm, but aren't glasses nowadays kind of…you know?\n"
+"A bit unstylish or how should I put it…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:45 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -593,8 +626,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:50 
+#, fuzzy
 msgid "ぶへっ！？\n"
-msgstr ""
+msgstr "Bleugh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +641,8 @@ msgstr ""
 #: sc/0143:51 
 msgid "ちょ、ちょっと、なんで！？\n二人してヒドイよ―っ！\n"
 msgstr ""
+"W- Wait why!?\n"
+"Not both of you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +654,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:52 
 msgid "メガネ、いいじゃない！\n"
-msgstr ""
+msgstr "What's wrong with glasses!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +666,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:53 
 msgid "メガネ、いいじゃん！\n"
-msgstr ""
+msgstr "Yeah what about them!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +678,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:54 
 msgid "へやっ！！\n"
-msgstr ""
+msgstr "Hyahh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +690,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:55 
 msgid "がっ！？\n"
-msgstr ""
+msgstr "Gwargh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +702,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:56 
 msgid "面っ！！\n"
-msgstr ""
+msgstr "Head strike!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:57 
 msgid "あなたとは、話が合いそうね。\n"
-msgstr ""
+msgstr "I feel like we two could get along well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:58 
 msgid "はい、私もそう思います。\n"
-msgstr ""
+msgstr "Yes, I think the same.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +738,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:59 
 msgid "う……うう……。\n"
-msgstr ""
+msgstr "Uh…… Uhhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +750,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:60 
 msgid "メガネ、いいじゃん！！\n"
-msgstr ""
+msgstr "Hey, glasses are great!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +774,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:62 
 msgid "え、な、なんでみおちゃんが怒るの？\n"
-msgstr ""
+msgstr "W- Why are you getting angry, Mio?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -751,6 +787,8 @@ msgstr ""
 #: sc/0143:63 
 msgid "……あ、そっか。ごめんごめん。\nみおちゃんは笹原先輩が好きなんだもんね。\n"
 msgstr ""
+"……Oh, yeah right. Sorry. You had\n"
+"a crush on Sasahara–senpai, right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +800,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:64 
 msgid "バ、バ、バ、バ、バカやろう！！\n"
-msgstr ""
+msgstr "Y- Y- Y- Y- You idiot!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +812,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:65 
 msgid "〜〜〜〜〜〜〜〜〜〜〜！？\n"
-msgstr ""
+msgstr "〜〜〜〜〜〜〜〜〜〜〜!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -787,6 +825,8 @@ msgstr ""
 #: sc/0143:66 
 msgid "みおの好きな人って笹原って言うんだ？\nえ〜どんな人だろ〜\n"
 msgstr ""
+"Ah Mio, your crush's name is Sasahara?\n"
+"I wonder what kind of person he is～\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +838,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:67 
 msgid "……演劇部の。\n"
-msgstr ""
+msgstr "....He's in the drama club.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +850,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:68 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -823,6 +863,8 @@ msgstr ""
 #: sc/0143:69 
 msgid "演劇部の部長です、笹原っての。\n同じクラスなんで、知ってます。\n"
 msgstr ""
+"He's the head of the drama club. And yeah named Sasahara.\n"
+"We go in the same class so I know who he is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +877,8 @@ msgstr ""
 #: sc/0143:70 
 msgid "へ〜そうなんだ〜。\nねえねえ、どんな人なの？\n"
 msgstr ""
+"Hmm~ is that so~\n"
+"Hey, hey how's he like?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +891,8 @@ msgstr ""
 #: sc/0143:71 
 msgid "ど、どんなって……メガネかけてて……\n人の迷惑考えないヤツで……。\n"
 msgstr ""
+"H- How he's like....well he wears glasses....\n"
+"And he always causes trouble for others....\n"
 
 #  speaker 
 #  warnings: 1 
@@ -858,7 +904,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0143:72 
 msgid "でも……時は、優しいヤツ……です。\n"
-msgstr ""
+msgstr "But....at times, he can be..... really kind and sweet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +916,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:73 
 msgid "はっ！？\n"
-msgstr ""
+msgstr "Hah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -883,6 +929,8 @@ msgstr ""
 #: sc/0143:74 
 msgid "（やっぱり……\n　この人も笹原先輩のことを！？）\n"
 msgstr ""
+"(Could it be....\n"
+"that this person also has a crush on Sasahara!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +942,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:75 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -907,6 +955,8 @@ msgstr ""
 #: sc/0143:76 
 msgid "立花先輩……でしたっけ。\n私に剣道、教えてくれませんか？\n"
 msgstr ""
+"Tachibana-senpai..... was it right.\n"
+"Can you perhaps learn me some Kendo?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +969,8 @@ msgstr ""
 #: sc/0143:77 
 msgid "……いいよ。\nじゃあ、ちょっと試合してみようか。\n"
 msgstr ""
+".....sure.\n"
+"Well then, let's have a little duel match shall we.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -931,6 +983,8 @@ msgstr ""
 #: sc/0143:78 
 msgid "はい。\n望むところです。\n"
 msgstr ""
+"Yes.\n"
+"Just what I desired.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +996,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:79 
 msgid "え〜！？　ちょっ、ちょっと！？\n"
-msgstr ""
+msgstr "Ehh~!? W- Wait hold on!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -955,6 +1009,8 @@ msgstr ""
 #: sc/0143:80 
 msgid "この勝負に勝った方と、\nその人の仲を取り持ってあげるからね〜。\n"
 msgstr ""
+"For only the person who wins this duel will I support their relationship "
+"with that guy~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -966,7 +1022,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:81 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -979,6 +1035,7 @@ msgstr ""
 #: sc/0143:82 
 msgid "（負けたら、笹原先輩は\n　この人と……ハッピ―ウェディング！？）\n"
 msgstr ""
+"(So if I loose this, Sasahara-senpai will end up marrying this person!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -991,6 +1048,7 @@ msgstr ""
 #: sc/0143:83 
 msgid "（で、でも、勝ったら私は笹原と……\n　イチャイチャラブラブ生活が……）\n"
 msgstr ""
+"(B- But if I win this me and him can be in a lovey-dovey relationship....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1001,8 +1059,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0143:84 
+#, fuzzy
 msgid "ぶほっ！？\n"
-msgstr ""
+msgstr "Bwhoughh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,19 +1073,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:85 
 msgid "みおちゃん！？　先輩！？\n"
-msgstr ""
+msgstr "Mio-chan!? Senpai!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0143:86 
 msgid "みお＆みさと"
-msgstr ""
+msgstr "Mio & Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0143:86 
 msgid "きゅうぅ…………。\n"
-msgstr ""
+msgstr "Kyuuh…………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1038,7 +1097,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:87 
 msgid "ん―……。\n"
-msgstr ""
+msgstr "Hmm…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1050,7 +1109,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:88 
 msgid "この勝負、引き分け！\n"
-msgstr ""
+msgstr "This duel was a draw!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1121,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:89 
 msgid "まあまあ、メガネでも演劇部でも\nなんでもいいよ〜。\n"
-msgstr ""
+msgstr "So, so no need to get so heated~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1075,6 +1134,8 @@ msgstr ""
 #: sc/0143:90 
 msgid "実は剣道部のみんなにと思って、\nケ―キ作ってきたんだ〜。\n"
 msgstr ""
+"I actually came here with a baked cake that I thought everyone in the Kendo "
+"club could eat.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,7 +1147,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:91 
 msgid "ケ―キ！？\n"
-msgstr ""
+msgstr "A cake!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1098,7 +1159,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:92 
 msgid "でも、事情が変わったからね。\n"
-msgstr ""
+msgstr "But the circumstances seem to have changed so..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1111,6 +1172,8 @@ msgstr ""
 #: sc/0143:93 
 msgid "みさとに彼ができちゃった\n記念ケ―キってことにしちゃおうね〜。\n"
 msgstr ""
+"I'll say the cake is to celebrate Misato's anniversary for getting a "
+"boyfriend~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1122,7 +1185,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:94 
 msgid "だ、だ、だ、\n誰ができちゃった婚ですかっ！！\n"
-msgstr ""
+msgstr "N- N- No one in here is having a shotgun marriage!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1134,7 +1197,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:95 
 msgid "そこまで言ってないって！！\n"
-msgstr ""
+msgstr "Who said anything about marriage!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1147,6 +1210,8 @@ msgstr ""
 #: sc/0143:96 
 msgid "あははは。\nんじゃ、ウェディングケ―キ登場〜！\n"
 msgstr ""
+"Ahahaha. \n"
+"Well then, here comes the wedding cake!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1158,7 +1223,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:97 
 msgid "（こ、これは……\n　どう見てもマズそう……！）\n"
-msgstr ""
+msgstr "(T-This cake looks udderly disgusting...!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1171,6 +1236,8 @@ msgstr ""
 #: sc/0143:98 
 msgid "（でも、あこがれの先輩のケ―キだし、\n　私からは言いづらい……）\n"
 msgstr ""
+"(But this is my long admired senpai's cake. It's difficult for me to be "
+"blunt about it...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1183,6 +1250,8 @@ msgstr ""
 #: sc/0143:99 
 msgid "（ちょっと、誰かはっきり言ってやってよ！\n　こんなもん食えるかって！）\n"
 msgstr ""
+"(Wait, why isn't anyone saying it clearly! Can someone just that this looks "
+"uneatable!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1194,7 +1263,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:100 
 msgid "ささ、遠慮しないで食べて食べて！\n"
-msgstr ""
+msgstr "There, there no need to hold back. Let's dig in!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1207,6 +1276,7 @@ msgstr ""
 #: sc/0143:101 
 msgid "（誰も何も言わない……もしかしてこれ、\n　美味しいの？）\n"
 msgstr ""
+"(No one is saying anything.....could it be that this actually tastes good?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1219,6 +1289,8 @@ msgstr ""
 #: sc/0143:102 
 msgid "（よし、覚悟を決めたわ。\n　私、先輩のケ―キでなら……死ねる！）\n"
 msgstr ""
+"(Ok, I've made up my mind. If this is senpai's cake then I wouldn't mind "
+"dying for it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1231,6 +1303,8 @@ msgstr ""
 #: sc/0143:103 
 msgid "（たとえどんな味だろうと、先輩には\n　美味しいって言ってみせるわ！！）\n"
 msgstr ""
+"(No matter what it may taste, I'm going to say to her that it tastes "
+"delicious!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1243,6 +1317,7 @@ msgstr ""
 #: sc/0143:104 
 msgid "（ちょ……二人ともなんで\n　食べる気まんまんなの！？）\n"
 msgstr ""
+"(Wait......Why does it seem like both of them are eager to eat that!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1254,7 +1329,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:105 
 msgid "（これじゃ私だけ食べないって\n　言いづらいじゃない！）\n"
-msgstr ""
+msgstr "(Now its so hard for me to say I don't want to it eat it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1266,7 +1341,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:106 
 msgid "それでは……。\n"
-msgstr ""
+msgstr "Ok then......\n"
 
 #  speaker 
 #  warnings: 1 
@@ -1278,7 +1353,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0143:107 
 msgid "えんりょなく\n"
-msgstr ""
+msgstr "Without reservation\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1290,7 +1365,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:108 
 msgid "い、いただきます……。\n"
-msgstr ""
+msgstr "Thank you for the meal.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1302,7 +1377,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:109 
 msgid "……苦っ！！\n"
-msgstr ""
+msgstr ".......so bitter!!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -1315,6 +1390,8 @@ msgstr ""
 #: sc/0143:110 
 msgid "え、ウソ〜！　ケ―キはあまいものだよ〜。\n恋愛と同じで、ね\n"
 msgstr ""
+"What no way~! Cakes are supposed to be sweet~\n"
+"Like love itself, you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1326,7 +1403,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:111 
 msgid "苦いよ！　なんか失恋のほろ苦さだよ！\n"
-msgstr ""
+msgstr "No it's bitter! It's like heartbroken love if anything!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1338,19 +1415,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:112 
 msgid "……せ、先輩、美味しいです！\n"
-msgstr ""
+msgstr "......S- Senpai, it's delicious!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0143:113 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0143:113 
 msgid "ええっ、うそ！？\n"
-msgstr ""
+msgstr "Ehh, you're lying right!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1362,28 +1439,32 @@ msgstr ""
 #  warnings: 0 
 #: sc/0143:114 
 msgid "そんな！\n"
-msgstr ""
+msgstr "No way!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0143:115 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0143:115 
 msgid "美味しいから、まずくて苦くて吐きそうだ\nなんてこと全然ありませんからねっ！！\n"
 msgstr ""
+"It's delicious so it's not like it tasted awful and I want to puke because "
+"of it or anything!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0143:116 
 msgid "ゆっこ＆みお"
-msgstr "Yuuko & Mio"
+msgstr "Yukko & Mio"
 
 #  text 
 #  warnings: 0 
 #: sc/0143:116 
 msgid "……うん。\nやっぱり、マズイよね。\n"
 msgstr ""
+"......Yep.\n"
+"She agrees too.\n"

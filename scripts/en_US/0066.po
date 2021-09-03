@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:05+0000\n"
-"PO-Revision-Date: 2019-08-31 23:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-30 21:50+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0066/en_US/>\n"
 "Language: en_US\n"
@@ -12,13 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0066:0 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -61,6 +61,8 @@ msgstr ""
 #: sc/0066:3 
 msgid "しょうがない、\n負けちゃったしジュ―ス買ってきます。\n"
 msgstr ""
+"It's hopeless.\n"
+"I lost, so I'll go buy the juice.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:4 
 msgid "桜井くんゴチ！　オレコ―ラね！\n"
-msgstr ""
+msgstr "Thanks Sakurai-kun! I'll have a Coke!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +98,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:6 
 msgid "お―。\n"
-msgstr ""
+msgstr "Oh—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +110,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:7 
 msgid "さてと……先生はどこかな？\n"
-msgstr ""
+msgstr "Well…… I wonder, where's teacher?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +147,8 @@ msgstr ""
 #: sc/0066:10 
 msgid "弌弌あ、居た。\n先生―！　高崎先生―！！\n"
 msgstr ""
+"——Ah, he's here.\n"
+"Teacher—! Takasaki-sensei—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +160,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:11 
 msgid "うわっ！　お、おっとぉっ！？\n"
-msgstr ""
+msgstr "Uwah! Oh, waaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +173,8 @@ msgstr ""
 #: sc/0066:12 
 msgid "あいたたた……。\n何でこんなトコにボ―ルが転がってるんだよ。\n"
 msgstr ""
+"Ow, ow, ow…….\n"
+"Why was there a ball rolling there?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +186,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:13 
 msgid "あれ！？　高崎先生いなくなってる！！\n"
-msgstr ""
+msgstr "Huh!? Takasaki-sensei's leaving!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:15 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -234,13 +240,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0066:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0066:19 
 msgid "うわあああああああああ――っ！\n"
-msgstr ""
+msgstr "UWAAAAAAAAAAAAAH——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +258,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0066:20 
 msgid "お、おおっ！？　さ、桜井か……。\n"
-msgstr ""
+msgstr "Oh, ooh!? Sa-sakurai, huh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +402,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:32 
 msgid "……桜井。\n"
-msgstr ""
+msgstr "……Sakurai.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +450,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:36 
 msgid "高崎先生！\n"
-msgstr ""
+msgstr "Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +462,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:37 
 msgid "桜井！！\n"
-msgstr ""
+msgstr "Sakurai!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:38 
 msgid "さ、桜井くん……それと高崎先生。\n"
-msgstr ""
+msgstr " "
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +486,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:39 
 msgid "あっ、部長！　丁度いい所に！\n"
-msgstr ""
+msgstr "Ah, club president! Perfect timing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +498,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:40 
 msgid "ははっ、恥ずかしいところ見られたな。\n"
-msgstr ""
+msgstr "You was an embarrassing side of mine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:44 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -552,7 +558,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:45 
 msgid "一体何を……あぁっ！？\n"
-msgstr ""
+msgstr "What the heck are you…… Aagh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:46 
 msgid "弌弌ま、まさかっ！？\n"
-msgstr ""
+msgstr "——S-seriously!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +582,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:47 
 msgid "待ってください部長！　違うんです！\n"
-msgstr ""
+msgstr "Wait club president! You don't get it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +606,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:49 
 msgid "部長――――っ！\n"
-msgstr ""
+msgstr "Club president————!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:50 
 msgid "……！！\n"
-msgstr ""
+msgstr "……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +631,8 @@ msgstr ""
 #: sc/0066:51 
 msgid "お願いしますよ先生。\n少しだけでもいいんです。\n"
 msgstr ""
+"Please teacher.\n"
+"Just a little bit is fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +656,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:53 
 msgid "当たり前ですよ！\n"
-msgstr ""
+msgstr "Of course!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +680,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:55 
 msgid "本当ですか！？\n"
-msgstr ""
+msgstr "Really!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:59 
 msgid "（……もしかして）\n"
-msgstr ""
+msgstr "(……Could it be that)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:60 
 msgid "あっ、桜井そっちを向くんじゃないっ！\n"
-msgstr ""
+msgstr "Ah Sakurai, don't look that way!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +752,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:61 
 msgid "……やっぱり姉ちゃんが居たのか。\n"
-msgstr ""
+msgstr "……Seriously, my sister is here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +765,8 @@ msgstr ""
 #: sc/0066:62 
 msgid "いやっ、その！　違うぞ桜井！\n桜井先生はたまたまあそこに居ただけで……。\n"
 msgstr ""
+"Uh, no! That's not it, Sakurai!\n"
+"Ms. Sakurai just happened to be there….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +790,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:64 
 msgid "そうか！　ありがとう桜井！\n"
-msgstr ""
+msgstr "I see! Thanks Sakurai!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:70 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -876,7 +886,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:72 
 msgid "……あ、あの、桜井君？\n"
-msgstr ""
+msgstr "……Ah, um, Sakurai-kun?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,13 +958,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:78 
 msgid "で、桜井先生は……？\n"
-msgstr ""
+msgstr "Then, Sakurai-sensei's……?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0066:79 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -972,16 +982,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0066:80 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0066:81 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0066:81 
 msgid "わ、わかった……。\n"
-msgstr ""
+msgstr "I, I understand…….\n"

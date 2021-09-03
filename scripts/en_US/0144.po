@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:10+0000\n"
-"PO-Revision-Date: 2019-08-31 23:02+0000\n"
+"PO-Revision-Date: 2020-07-27 22:23+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0144/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0144:0 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0144:1 
 msgid "……やはり材料が足りないな。\n明日の授業、実験にするつもりだったんだが。\n"
 msgstr ""
+".... We are running out of materials.\n"
+"I wanted to make an experiment for tomorrow's class.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0144:2 
 msgid "仕方ない、教科書を進めるとするか。\nテスト範囲を超えなければ問題ないだろう。\n"
 msgstr ""
+"It can't be helped, guess we'll use the textbooks.\n"
+"It would be a problem if we don't see what the test will cover.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0144:3 
 msgid "テスト……そう言えば、あったな。\nそろそろ問題を考えないといけないな。\n"
 msgstr ""
+"Tests.... right, they are already just around the corner.\n"
+"I have to start thinking about the questions.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +78,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:4 
 msgid "面倒だ……。\n"
-msgstr ""
+msgstr "What a pain....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:5 
 msgid "あっ、すべった！\n"
-msgstr ""
+msgstr "Ah, it hurts!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,18 +103,20 @@ msgstr ""
 #: sc/0144:6 
 msgid "あ―……割ってしまったか。\nやれやれ、面倒だが片付けるとする弌弌\n"
 msgstr ""
+"Ah―..... I broke it.\n"
+"Jeez, I'll have to clean this mess――\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0144:7 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0144:7 
 msgid "……うぅ。\n"
-msgstr ""
+msgstr ".....Uh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,61 +128,73 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:8 
 msgid "弌弌なんで机の下に校長が！？\n"
-msgstr ""
+msgstr "――Why is the pincipal under the table!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:9 
 msgid "アンテナ破損！\n落ちてきた実験器具で一発だ！\n"
 msgstr ""
+"The antenna is broken!\n"
+"We can't continue like this!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:10 
 msgid "くそ、まだまだだったか！？\n俺の技で完全に気配を消していたはずなのに！\n"
 msgstr ""
+"Damm, this is it!?\n"
+"I thought I managed to completely erase our presence!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:11 
 msgid "……いや、見事だったよ。\n出来ればその技、俺にも教えて欲しいんだが。\n"
 msgstr ""
+"..... Don't blame yourself, you did great!\n"
+"Would you mind teaching me those techniques someday?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:12 
 msgid "フ、いいだろう。\nただし飯三回おごりが条件だぜ？\n"
 msgstr ""
+"Huh, no problem.\n"
+"But in exchange what about paying my meals?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:13 
 msgid "はは。\nそのくらいなら、すぐにでも。\n"
 msgstr ""
+"Haha.\n"
+"If that's what you want, it's a deal.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:14 
 msgid "決まりだな。\nそれじゃ……明日たのむぜ？\n"
 msgstr ""
+"Yup.\n"
+"Well then.... See you tomorrow?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0144:15 
 msgid "ああ……明日だな。\n"
-msgstr ""
+msgstr "Yeah.... Tomorrow.\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0144:16 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0144:16 
 msgid "（明日……か）\n"
-msgstr ""
+msgstr "(Tomorrow.....?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +206,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:17 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +218,7 @@ msgstr "Vice Principal"
 #  warnings: 0 
 #: sc/0144:18 
 msgid "……中村先生、少しよろしいですか？\n"
-msgstr ""
+msgstr "..... Nakamura-sensei, have some time?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:19 
 msgid "はい。何でしょうか。\n"
-msgstr ""
+msgstr "Yes. What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,6 +243,8 @@ msgstr ""
 #: sc/0144:20 
 msgid "（怪しいな……何コソコソしてるんだ？\n　関わりたくないなぁ）\n"
 msgstr ""
+"(He's weird... what's up with that face?\n"
+"I don't want to get involved with him...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,6 +257,8 @@ msgstr ""
 #: sc/0144:21 
 msgid "実は、作ってもらいたいものが\nあるのですが……。\n"
 msgstr ""
+"The truth is, I'll like you to\n"
+"make something for me...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -246,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:22 
 msgid "はあ。どんなものでしょうか？\n"
-msgstr ""
+msgstr "Hmmm. What are we talking about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:23 
 msgid "……絶対に演説を長引かせる機械です。\n"
-msgstr ""
+msgstr "...... A machine that definitely helps to prolong speeches.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +306,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:25 
 msgid "……演説を長引かせる機械？\n"
-msgstr ""
+msgstr "..... Prolong speeches?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:26 
 msgid "絶対に、です。ここが重要なんです。\n"
-msgstr ""
+msgstr "Yes, definitely. This is of great importance.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +331,8 @@ msgstr ""
 #: sc/0144:27 
 msgid "……よくわかりませんが、わかりました。\nそれは何に使うんでしょうか？\n"
 msgstr ""
+".... I don't really get it, but okey.\n"
+"What are you using it for?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +368,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:30 
 msgid "また校長先生ですか。\n"
-msgstr ""
+msgstr "Again something related with the principal?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +392,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:32 
 msgid "教頭先生も良く続きますね。\n"
-msgstr ""
+msgstr "You are really into this, aren't you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:33 
 msgid "い、いや、そうでは……。\n"
-msgstr ""
+msgstr "N, no, it's not like that.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +417,8 @@ msgstr ""
 #: sc/0144:34 
 msgid "（いつもうざい教頭だが……継続は力なり、だ。\n　そこは見習う部分だな）\n"
 msgstr ""
+"(He's always so noisy.... but has the determination to make stuff.\n"
+"I guess I can learn something from him.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +431,8 @@ msgstr ""
 #: sc/0144:35 
 msgid "校長先生の話がもっと長くなれば、生徒たちの\n貧血率は上昇し人気は低下……良い発想です。\n"
 msgstr ""
+"If principal's speeches become longer, the students\n"
+"will get rid of them, and his popularity will decrease... Nice plan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +445,8 @@ msgstr ""
 #: sc/0144:36 
 msgid "だから……\nいや……その……。\n"
 msgstr ""
+"As I told you...\n"
+"It's not... uhhh....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +459,8 @@ msgstr ""
 #: sc/0144:37 
 msgid "（一見、目的から離れているようだが、\n　目指す成果に直結している……なるほど）\n"
 msgstr ""
+"(At a first glance he seems a bit goofy,\n"
+"but he's really going for it... I see.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +473,8 @@ msgstr ""
 #: sc/0144:38 
 msgid "さすがは元校長。\n私には、とてもできないやり方ですね。\n"
 msgstr ""
+"As expected from the ex-principal.\n"
+"Even I wouldn't think of doing it this way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +499,8 @@ msgstr ""
 #: sc/0144:40 
 msgid "（私には出せない素晴らしいアイディアだな。\n　教頭のくせに……いや待て？）\n"
 msgstr ""
+"(A brilliant idea I couldn't have think of.\n"
+"Well played...... Wait?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +513,8 @@ msgstr ""
 #: sc/0144:41 
 msgid "（うまく教頭の力を借りることができれば、\n　私が東雲を手に入れる作戦も弌弌よし）\n"
 msgstr ""
+"(If I borrow some help from the vice,\n"
+"maybe I'll finally be able to capture Shinonome――perfect.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +527,8 @@ msgstr ""
 #: sc/0144:42 
 msgid "ところで教頭先生弌弌\nひとつ交換条件があるのですが……。\n"
 msgstr ""
+"Anyway, Vice principal――\n"
+"I just have one condition.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:43 
 msgid "ヒッ！？\n"
-msgstr ""
+msgstr "GASP!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:44 
 msgid "……教頭？\n"
-msgstr ""
+msgstr ".....Vice?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +564,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:45 
 msgid "い、いや、この話はなかったことに……。\n"
-msgstr ""
+msgstr "Wa, wait, let's pretend this talk never happened.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +576,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:46 
 msgid "え、演説を長引かせる機械とやらは？\n"
-msgstr ""
+msgstr "Eh, so the speech machine?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +588,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:47 
 msgid "……も、もういいんです！\n"
-msgstr ""
+msgstr ".......Just, just forget about it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:49 
 msgid "……なぜだ。\n"
-msgstr ""
+msgstr "..... Why.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +625,8 @@ msgstr ""
 #: sc/0144:50 
 msgid "（まあ、どうせろくでもないことだろう。\n　考えないでおこう）\n"
 msgstr ""
+"(Well, it must be for some nonsense purpose.\n"
+"Let's let him be)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +639,8 @@ msgstr ""
 #: sc/0144:51 
 msgid "それで、その機械をいつまでに\n作ればいいんですか？\n"
 msgstr ""
+"So, do you want it done\n"
+"for any specific day?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +653,8 @@ msgstr ""
 #: sc/0144:52 
 msgid "来週の全校集会までにあれば\n嬉しいのですが……。\n"
 msgstr ""
+"I'll be glad if it can be done before next \n"
+"week school assembly....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +666,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:53 
 msgid "（ってことは休日返上か。めんどくさ）\n"
-msgstr ""
+msgstr "(What means I'll have to work in my free day. What a pain.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +678,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:54 
 msgid "やってみますけど、教頭……。\n"
-msgstr ""
+msgstr "I'll try but, Vice.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +703,8 @@ msgstr ""
 #: sc/0144:56 
 msgid "休日を使って作るわけですから、\nもちろん代休は頂けますよね？\n"
 msgstr ""
+"That crosses with my free day,\n"
+"I'm getting an extra pay for this, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:58 
 msgid "あと材料費も請求しますね。\n"
-msgstr ""
+msgstr "And I also will need you to pay for the materials.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:59 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +752,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:60 
 msgid "……わかりました。\n"
-msgstr ""
+msgstr "……Understood.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:61 
 msgid "では週明けまでに用意しますね。\n"
-msgstr ""
+msgstr "Okey then, I'll have it ready for the next week assembly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +776,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:62 
 msgid "はい……お願いします……。\n"
-msgstr ""
+msgstr "Yeah.... I'm counting on you....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -751,6 +801,9 @@ msgstr ""
 #: sc/0144:64 
 msgid "適当な装置１つで休日と臨時収入……\n良いカモだな。\n"
 msgstr ""
+"Increasing my income just for one device and a few hours of my free day....."
+"\n"
+"I could get used to this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +815,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:65 
 msgid "（確実に話が長くなる機械、か……）\n"
-msgstr ""
+msgstr "(A device that makes speeches longer, huh...)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -775,6 +828,9 @@ msgstr ""
 #: sc/0144:66 
 msgid "（元話の長い校長だからな。話の途中で\n　適当に邪魔するだけの装置でも十分だろう）\n"
 msgstr ""
+"(Well, the principal already gives long speeches since long time ago.\n"
+"It would be fine enough with just a device that interrupts him once in a "
+"while.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +842,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:67 
 msgid "（だが、教頭の相手は面倒だな……）\n"
-msgstr ""
+msgstr "(But, I don't really like the Vice principal...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:68 
 msgid "それで中村先生、機械は作れそうですか？\n"
-msgstr ""
+msgstr "So Nakamura-sensei, can you make it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +866,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:69 
 msgid "無理ですね。\n"
-msgstr ""
+msgstr "Impossible.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:70 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +891,8 @@ msgstr ""
 #: sc/0144:71 
 msgid "使うたびに何度でも、\n確実に演説を長引かせる機械。\n"
 msgstr ""
+"A machine that helps you to prolong\n"
+"a speech the times you want.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +905,8 @@ msgstr ""
 #: sc/0144:72 
 msgid "そんな物が作れるのなら、私は\n教師ではなく科学者になっています。\n"
 msgstr ""
+"If I was able to make something like that,\n"
+"I wouldn't be a teacher but a scientist.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -859,6 +919,8 @@ msgstr ""
 #: sc/0144:73 
 msgid "は、はは……\nそ、それもそうですね……。\n"
 msgstr ""
+"Ah, haha....\n"
+"Guess, guess you are right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +932,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:74 
 msgid "すみません。何も力になれなくて。\n"
-msgstr ""
+msgstr "I'm sorry. I couldn't help this time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -883,6 +945,8 @@ msgstr ""
 #: sc/0144:75 
 msgid "いえ、無理を言ったのは私のようですし。\nこちらこそすいません。\n"
 msgstr ""
+"Don't worry about it, I'm the one who's aking for weird things.\n"
+"I'm sorry too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,6 +959,8 @@ msgstr ""
 #: sc/0144:76 
 msgid "仕事の邪魔をしてすいません。\nそれでは。\n"
 msgstr ""
+"Sorry for interrupting in the middle of work.\n"
+"Excuse me then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,16 +972,18 @@ msgstr ""
 #  warnings: 0 
 #: sc/0144:77 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0144:78 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0144:78 
 msgid "あれは諦めてないな。\n次の全校集会が楽しみだ。\n"
 msgstr ""
+"He still doesn't give up, huh?\n"
+"I'm looking forward to the next school assembly.\n"

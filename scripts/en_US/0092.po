@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:02+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-20 22:23+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0092/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0092:0 
 msgid "最近、ご当地ヒ―ロ―って\n流行ってるよね〜。\n"
-msgstr ""
+msgstr "Looks like lately, local heroes has become popular\n"
 
 #  speaker 
 #  warnings: 1 
@@ -37,6 +37,8 @@ msgstr "Mio"
 #: sc/0092:1 
 msgid "あ―、あるね―。\nうちの県だと、ＦＥＨＵＤだっけ。\n"
 msgstr ""
+"Ah, yeah true—\n"
+"In our prefecture it was G-FIVE, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0092:2 
 msgid "全国各地に増えすぎて、\nもう追いかけきれない。\n"
 msgstr ""
+"There's so many new popping up at all places \n"
+"that you can't keep track of them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:3 
 msgid "（麻衣ちゃん、追いかけてたんだ……）\n"
-msgstr ""
+msgstr "(So she was keeping track of them……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:4 
 msgid "まあそんなわけで、私も考えてみました〜。\n"
-msgstr ""
+msgstr "Yeah and for that reason, I thought of one myself\n"
 
 #  speaker 
 #  warnings: 2 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0092:5 
 msgid "イケメン戦隊ユウコモテルンジャ―！！\n"
-msgstr ""
+msgstr "The Hunk Squadron Yuuko-Rangers !!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:7 
 msgid "どうよ、カッコイイでしょ〜。\n"
-msgstr ""
+msgstr "See, don't they look cool〜!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +125,8 @@ msgstr ""
 #: sc/0092:8 
 msgid "いや〜、やっぱヒ―ロ―は\nカッコ良くなくちゃね〜。\n"
 msgstr ""
+"Yeah〜 When it comes to heroes, \n"
+"the important part is that they look cool〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,8 +137,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0092:9 
+#, fuzzy
 msgid "う〜ん、我ながら会心の出来だよ〜。\n……えっ？\n"
 msgstr ""
+"Hm〜 I'm quite satisfied with this to say so myself〜\n"
+"……Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +153,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:10 
 msgid "ゆ、ゆっこ、大丈夫！？\n"
-msgstr ""
+msgstr "Y-Yukko, are you alright!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +165,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:11 
 msgid "痛たた……あれ？\n"
-msgstr ""
+msgstr "O-Ouch……wait?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,31 +177,33 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0092:12 
 msgid "……ワ……ワン。\n"
-msgstr ""
+msgstr "……W……WOOF.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0092:13 
+#, fuzzy
 msgid "……巻き込まれたか。\n"
-msgstr ""
+msgstr "……It got mixed it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0092:14 
+#, fuzzy
 msgid "……ああ、巻き込まれたな。\n"
-msgstr ""
+msgstr "……Yeah, it sure got mixed in.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0092:15 
 msgid "……困ったな。\n"
-msgstr ""
+msgstr "……we're in trouble.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0092:16 
 msgid "……ああ、困ったな。\n"
-msgstr ""
+msgstr "……yeah, we sure are.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +216,8 @@ msgstr ""
 #: sc/0092:17 
 msgid "（語呂悪――――――っ！\n　つか、ご当地関係ね―――――！！）\n"
 msgstr ""
+"(Zero euphony——————!\n"
+"Or hey, this has nothing to do with local heroes————!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +229,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:18 
 msgid "（そして全然カッコ良くね――――！！）\n"
-msgstr ""
+msgstr "(And also, they aren't cool at all————!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +242,8 @@ msgstr ""
 #: sc/0092:19 
 msgid "いや……ゆっこ、\nさすがにそれはないと思うな……。\n"
 msgstr ""
+"Hey……Yukko\n"
+"you can't possibly be……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +256,8 @@ msgstr ""
 #: sc/0092:20 
 msgid "え―、なんでよ！\nだったらみおちゃん描いてみてよ！\n"
 msgstr ""
+"Hey— why is that!\n"
+"Then, you draw something!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +270,8 @@ msgstr ""
 #: sc/0092:21 
 msgid "え、わ、私はいいよ……\nつか、このノ―ト私のじゃん！？\n"
 msgstr ""
+"Eh, I-I'm fine……\n"
+"-or hey isn't that my notebook!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +284,8 @@ msgstr ""
 #: sc/0092:22 
 msgid "そっか、宿題写すのに貸したまま……\n人のノ―トに落書しないでよ！\n"
 msgstr ""
+"Oh yeah, I didn't get it back after lending it to you for copying the "
+"homework. Don't draw in someone else's!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +297,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:23 
 msgid "まあまあ、細かいことは気にしないで。\n"
-msgstr ""
+msgstr "Now, now. It was just a little.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +310,8 @@ msgstr ""
 #: sc/0092:24 
 msgid "ほらほら！　みお先生の考えるカッコ良い\nご当地ヒ―ロ―ってのを早く見せてよ！\n"
 msgstr ""
+"Here you go! Mio-sensei, please draw what you \n"
+"imagine would be a cool local hero!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +323,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:25 
 msgid "やだよ。私、別に興味ないし。\n"
-msgstr ""
+msgstr "No way. I'm not really interested.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +336,8 @@ msgstr ""
 #: sc/0092:26 
 msgid "も―なんでよ―！　……あ、そっか。\nカッコ良く描く自信がないんだ？\n"
 msgstr ""
+"C'mon why—! ……Ah, of course.\n"
+"So you don't have the confidence to draw something cool?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +349,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:27 
 msgid "へ？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -337,6 +362,8 @@ msgstr ""
 #: sc/0092:28 
 msgid "マンガ家志望のくせに、\n私に勝つ自信がないんだ―？　ぷぷぷぷ〜\n"
 msgstr ""
+"So you aspire to become a manga-artist, \n"
+"but you don't even have to confidence to beat me—? Pupupupu〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +376,8 @@ msgstr ""
 #: sc/0092:29 
 msgid "ちょ……冗談でしょ！\n誰がゆっこなんかに！！\n"
 msgstr ""
+"Hey……you must be joking!\n"
+"Who would ever lose to you!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +389,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:30 
 msgid "わかったよ。そこまで言うなら描くよ！\n"
-msgstr ""
+msgstr "Alright. If you say that much I'll draw!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +402,8 @@ msgstr ""
 #: sc/0092:31 
 msgid "ヒ―ロ―って言うのは……\nカッコ良いヒ―ロ―って言うのはね……。\n"
 msgstr ""
+"If you say heroes……\n"
+"that should be cool then……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +415,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:32 
 msgid "こういうことよ！！！\n"
-msgstr ""
+msgstr "Something like this!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +439,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:34 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +451,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:35 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +464,8 @@ msgstr ""
 #: sc/0092:36 
 msgid "（！？　しまった！！\n　またやっちゃった〜！！）\n"
 msgstr ""
+"(!? Oh crap!!\n"
+"I did it again〜!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +477,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:37 
 msgid "（私ったら、天下の往来で\n　なんて絵を描いているの！？）\n"
-msgstr ""
+msgstr "(What on earth am I drawing here on the street!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +489,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:38 
 msgid "な、な―んてね、ははは……。\n"
-msgstr ""
+msgstr "L-Like this, am I right. Hahaha……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +502,8 @@ msgstr ""
 #: sc/0092:39 
 msgid "（ま、まあ、この二人で良かったよ……\n　原稿を手伝ってもらったりしてるしね）\n"
 msgstr ""
+"(W-Well luckily it's only the two of them……\n"
+"and they've helped me out with some sketches too.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +515,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:40 
 msgid "ほらほら、そこのキミ。\n"
-msgstr ""
+msgstr "Hey there, could you come here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +527,7 @@ msgstr "Kiyoshi"
 #  warnings: 0 
 #: sc/0092:41 
 msgid "ん？　な―にお姉ちゃん？\n"
-msgstr ""
+msgstr "Yes? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +539,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:42 
 msgid "……ヒ―ロ―って、こんなの。\n"
-msgstr ""
+msgstr "……This is what a hero is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +563,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:44 
 msgid "やめて！！！！\n"
-msgstr ""
+msgstr "STOP IT!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +575,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:45 
 msgid "もう……しょうがないな……。\n"
-msgstr ""
+msgstr "Alright……if you insist……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +588,8 @@ msgstr ""
 #: sc/0092:46 
 msgid "（なんで私が自分のノ―トに……\n　まあ、やるからには真面目に描くけど……）\n"
 msgstr ""
+"(Why do I have to draw in my own notebook……\n"
+"But I'll draw it seriously……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +601,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:47 
 msgid "できた？　できた？\n"
-msgstr ""
+msgstr "Are you done? Are you done?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +614,8 @@ msgstr ""
 #: sc/0092:48 
 msgid "ちょっと待ってよ……\nん―、こんなもんかな？\n"
 msgstr ""
+"Just wait a bit……\n"
+"Hmm, maybe something like this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +628,8 @@ msgstr ""
 #: sc/0092:49 
 msgid "うわ、みんなメガネ！\nだっさ―。\n"
 msgstr ""
+"Uwah, everyone is wearing glasses!\n"
+"So tacky—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +641,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:50 
 msgid "ぐは―！！\n"
-msgstr ""
+msgstr "Ghahh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +654,8 @@ msgstr ""
 #: sc/0092:51 
 msgid "（そっか……ゆっこにはメガネの魅力が\n　わからないんだっけ……）\n"
 msgstr ""
+"(Oh right……Yukko doesn't understand \n"
+"the appeal of glasses was it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +668,8 @@ msgstr ""
 #: sc/0092:52 
 msgid "ヒ―ロ―が近眼なんて、全然しまらないよ―。\n子供にも悪い影響あるんじゃない？\n"
 msgstr ""
+"But would it work for a hero to be nearsighted—?\n"
+"Wouldn't it give a bad impression on kids too?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +681,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:53 
 msgid "（ぐっ……耐えろ……耐えるのよ……）\n"
-msgstr ""
+msgstr "(Ghh……bare it……have to bare it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +693,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:54 
 msgid "……メガネ戦隊フレ―ムレンジャ―。\n"
-msgstr ""
+msgstr "……The Eyeglass-Squadron Frame-Rangers.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +705,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:55 
 msgid "あ、いいねその名前！\n"
-msgstr ""
+msgstr "Ah, I like that name!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +718,8 @@ msgstr ""
 #: sc/0092:56 
 msgid "（全然ださいよ―！\n　麻衣ちゃん、自分だってメガネなのに！）\n"
 msgstr ""
+"(No, that's totally lame—!\n"
+"Mai-chan, you're even wearing glasses yourself!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +731,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:57 
 msgid "（それに、なんでレンズじゃなくて\n　フレ―ムに行くわけ！？）\n"
-msgstr ""
+msgstr "(And why did she go with \"Frame-\" and not \"Lens-\"!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +744,8 @@ msgstr ""
 #: sc/0092:58 
 msgid "……ん？　そういえばこれって、\n誰かに似てなくね？\n"
 msgstr ""
+"……Hm? Now that I think about it, \n"
+"doesn't this remind you of someone?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +770,8 @@ msgstr ""
 #: sc/0092:60 
 msgid "あ、わかった。\nこれみんな、笹原先輩に似てるんだ―。\n"
 msgstr ""
+"Ah, I got it. \n"
+"They are all looking like Sasahara-senpai—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +796,8 @@ msgstr ""
 #: sc/0092:62 
 msgid "んじゃ名前変えなきゃね。\nこりゃコジロウ戦隊ササハランだ！\n"
 msgstr ""
+"Then we gotta change the name.\n"
+"This is the Kojirou Squadron Sasaha-Rangers!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +809,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:63 
 msgid "バ、バ、バ、バカヤロ―！！！\n"
-msgstr ""
+msgstr "Y, Y, Y, You stupid—!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +822,8 @@ msgstr ""
 #: sc/0092:64 
 msgid "そ、そんなこと急に言われても……\nなに描けばいいのよ……。\n"
 msgstr ""
+"E-Even if you say something like that……\n"
+"What should I even draw……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +835,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:65 
 msgid "じゃ、私が。\n"
-msgstr ""
+msgstr "Then, I'll go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +847,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:66 
 msgid "え、ちょ、ちょっと、私のノ―ト……。\n"
-msgstr ""
+msgstr "Eh, w-wait my notebook……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +860,8 @@ msgstr ""
 #: sc/0092:67 
 msgid "お、麻衣ちゃんが考える戦隊か〜。\nおもしろそ〜。\n"
 msgstr ""
+"Oh, a Squadron thought up by Mai-chan〜\n"
+"This will be good〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +873,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:68 
 msgid "……できた。\n"
-msgstr ""
+msgstr "……I'm done.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +897,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:70 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +909,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:71 
 msgid "仏像戦隊ボサツダ―３。\n"
-msgstr ""
+msgstr "Buddha Squadron Bosatsu-Rangers 3.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,31 +933,31 @@ msgstr ""
 #  warnings: 0 
 #: sc/0092:73 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0092:74 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0092:74 
 msgid "どう？\n"
-msgstr ""
+msgstr "How is it?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0092:75 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0092:75 
 msgid "どう？　って言われても……。\n"
-msgstr ""
+msgstr "I-I'm not sure what to say……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -911,5 +968,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0092:76 
+#, fuzzy
 msgid "私の……ノ―ト……\nそこ、次のテスト範囲……。\n"
 msgstr ""
+"My……notebook……\n"
+"That part was for the next exam……\n"

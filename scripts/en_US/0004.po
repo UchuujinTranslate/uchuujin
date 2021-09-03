@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0004/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nano"
 #: sc/0004:0 
 msgid "はぁ……せっかく帰ったのに\nはかせがお昼寝中だなんて……。\n"
 msgstr ""
+"*Sigh*…… I came all the way home, but\n"
+"Hakase was taking an afternoon nap…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0004:1 
 msgid "起きるまで待った方が良かったかな？\n外に出たらまた何があるか……。\n"
 msgstr ""
+"Should I have waited until she woke up?\n"
+"If I go out again, what if something else happens….?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0004:2 
 msgid "でもお夕飯の買い物しないと\nいけなかったし……。\n"
 msgstr ""
+"But I have to go shopping\n"
+"for today's dinner…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0004:3 
 msgid "出てきちゃったんだし仕方ないか。\n早く買い物済ませて帰ろう。\n"
 msgstr ""
+"Well, I'm already here. I'll finish\n"
+"shopping quickly, and then head home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr "Yoshino"
 #  warnings: 0 
 #: sc/0004:4 
 msgid "な―の―ちゃん！\n"
-msgstr ""
+msgstr "Nano-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:5 
 msgid "わっ！？\n"
-msgstr ""
+msgstr "Wah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0004:6 
 msgid "……あっ、あなたは！\n私のネジを取ってくれた人！！\n"
 msgstr ""
+"………Y-you! You're the\n"
+"person who removed my key!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +119,8 @@ msgstr ""
 #: sc/0004:7 
 msgid "何してたの？　買い物？\nなのちゃんって買い物するんだ―。\n"
 msgstr ""
+"What'cha doing? Shopping?\n"
+"So Nano, you do the shopping, huh—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +133,8 @@ msgstr ""
 #: sc/0004:8 
 msgid "し、しますよ。\n料理だって私が作ってますし。\n"
 msgstr ""
+"S-Sure I do. And I'm also\n"
+"the one who does the cooking.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +147,8 @@ msgstr ""
 #: sc/0004:9 
 msgid "すごい！　なのちゃん料理するんだ！\n食べたい食べた―い。\n"
 msgstr ""
+"That's amazing! So you can cook too!\n"
+"I wanna taste—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +161,8 @@ msgstr ""
 #: sc/0004:10 
 msgid "ま、またその内に……\nそれよりもお願いがあるんです！\n"
 msgstr ""
+"Another time perhaps……\n"
+"Leaving that aside, I have a favor to ask you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +174,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:11 
 msgid "お願い？　何かあった弌弌\n"
-msgstr ""
+msgstr "A favor? Oh, I think I——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +186,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0004:12 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +199,8 @@ msgstr ""
 #: sc/0004:13 
 msgid "わ―、この犬、アンテナついてる。\n"
 msgstr ""
+"Oh look!\n"
+"This dog has an antenna stuck to it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +213,8 @@ msgstr ""
 #: sc/0004:14 
 msgid "真面目に聞いてください！\n犬にそんなものついて……。\n"
 msgstr ""
+"Can you listen seriously please!\n"
+"There's no way a dog would have an…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,19 +250,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:17 
 msgid "あっ。アンテナ取れちゃった。\n"
-msgstr ""
+msgstr "Ah. The antenna was taken off.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0004:18 
 msgid "どひ――！？\n"
-msgstr ""
+msgstr "Oh my God——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0004:19 
 msgid "勘弁してくれえ――――っ！\n"
-msgstr ""
+msgstr "Please give us a break————!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +274,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:20 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +287,8 @@ msgstr ""
 #: sc/0004:21 
 msgid "（あっ！？　ヤバイ！！\n　またネジが回り始めちゃった！！）\n"
 msgstr ""
+"(Ah!? No good!! \n"
+"The key has started turning again!!)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -277,6 +301,8 @@ msgstr ""
 #: sc/0004:22 
 msgid "あはははは！\nすごい、ネジが回ってる〜\n"
 msgstr ""
+"Ahahahaha!\n"
+"Amazing, the key is turning〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +315,8 @@ msgstr ""
 #: sc/0004:23 
 msgid "ネジから離れて下さい！\n何が起こるかわかりませんから！\n"
 msgstr ""
+"Please don't get close to the key!\n"
+"I have no idea what it might do!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +352,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:26 
 msgid "……ん？　ネジがどうかした？\n"
-msgstr ""
+msgstr "……Hmph? What's the matter with the key?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +364,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:27 
 msgid "（ネジが取れた――――！！）\n"
-msgstr ""
+msgstr "(The key came off――――!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +377,8 @@ msgstr ""
 #: sc/0004:28 
 msgid "ありがとうございます！\nこれで心配の種がなくなりました！\n"
 msgstr ""
+"Thank you so much! Now,\n"
+"I don't have to worry about it anymore!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +391,8 @@ msgstr ""
 #: sc/0004:29 
 msgid "よくわからないけど、どういたしまして。\n"
 msgstr ""
+"I don't really get it but,\n"
+"you're welcome.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +405,8 @@ msgstr ""
 #: sc/0004:30 
 msgid "これで私は普通の女の子らしく暮らせます！\n"
 msgstr ""
+"Now I can live like just\n"
+"a normal school girl!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +418,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:31 
 msgid "そっかぁ。おめでとうなのちゃん。\n"
-msgstr ""
+msgstr "Ah I see. Congratulations, Nano-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +431,8 @@ msgstr ""
 #: sc/0004:32 
 msgid "あ、コレ返すね。\nよいしょ。\n"
 msgstr ""
+"Ah, also you can have this back.\n"
+"Here ya go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:34 
 msgid "何故―――――！？\n"
-msgstr ""
+msgstr "WHAT————!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +468,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:35 
 msgid "え？　何が？\n"
-msgstr ""
+msgstr "Eh? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +481,8 @@ msgstr ""
 #: sc/0004:36 
 msgid "どうしてまたネジをはめたんですか！？\n今、取れてたじゃないですか！\n"
 msgstr ""
+"Why would you put the key back!?\n"
+"You just took it off just now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +494,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:37 
 msgid "だってそのネジ、なのちゃんのでしょ？\n"
-msgstr ""
+msgstr "Well, because this key is yours right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +506,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:38 
 msgid "私のですけど、私はいらないんです！\n"
-msgstr ""
+msgstr "It is mine but, I don't want it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +518,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:39 
 msgid "でも、可愛いよ？\n"
-msgstr ""
+msgstr "But, it's cute, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +531,8 @@ msgstr ""
 #: sc/0004:40 
 msgid "可愛くありません！\nお願いですからまた取ってください！\n"
 msgstr ""
+"It's not cute!\n"
+"So, could you please take it off again!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -503,9 +543,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0004:41 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -518,6 +557,8 @@ msgstr ""
 #: sc/0004:42 
 msgid "はぁ……これでいいんです。\nこれで普通の女の子になれます。\n"
 msgstr ""
+"Aah…… I'm okay with this. \n"
+"Now I can be a normal school girl.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:43 
 msgid "よいしょっと。\n"
-msgstr ""
+msgstr "Huff, there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,7 +582,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:44 
 msgid "だから何故！？\n"
-msgstr ""
+msgstr "I mean, why!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -553,7 +594,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0004:45 
 msgid "だってこっちのが可愛いし\n"
-msgstr ""
+msgstr "Because this makes you look cuter.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,7 +606,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:46 
 msgid "可愛くないんです！\n"
-msgstr ""
+msgstr "But it isn't cute!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -578,6 +619,8 @@ msgstr ""
 #: sc/0004:47 
 msgid "あ、そろそろ帰らなきゃ。\nまたね、なのちゃん。\n"
 msgstr ""
+"Ah, sorry but I have to go now. \n"
+"See you later, Nano-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,7 +632,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:48 
 msgid "あああああああ……。\n"
-msgstr ""
+msgstr "Ahhhhhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:49 
 msgid "……………。\n"
-msgstr ""
+msgstr "…………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,7 +656,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:50 
 msgid "ぬか喜び……！\n"
-msgstr ""
+msgstr "A short lived joy……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -626,6 +669,8 @@ msgstr ""
 #: sc/0004:51 
 msgid "あ、あの、どうしてまたつけたんですか？\n"
 msgstr ""
+"E-Excuse me but,\n"
+"why did you put it back on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -638,6 +683,8 @@ msgstr ""
 #: sc/0004:52 
 msgid "えっ？　ダメなの？\n可愛いのに〜。\n"
 msgstr ""
+"Huh? Was that not good?\n"
+"But it looks cute on you〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -650,6 +697,8 @@ msgstr ""
 #: sc/0004:53 
 msgid "ダメです。私はいつもこのネジに\n悩まされてお腹を痛くしているんです。\n"
 msgstr ""
+"It's not good. This key is the reason\n"
+"my stomach always aches with anxiety.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -662,6 +711,8 @@ msgstr ""
 #: sc/0004:54 
 msgid "だから可愛いと言われても\n何も嬉しくありません。\n"
 msgstr ""
+"That's why it doesn't make me happy\n"
+"when people find it cute.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:55 
 msgid "じゃあ、カッコイイ。\n"
-msgstr ""
+msgstr "Alright, it's really cool.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -686,6 +737,8 @@ msgstr ""
 #: sc/0004:56 
 msgid "それならまだ可愛いの方がいいです。\n"
 msgstr ""
+"In that case, I think cute\n"
+"would be more fitting.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -698,6 +751,8 @@ msgstr ""
 #: sc/0004:57 
 msgid "じゃあ可愛い。なのちゃん可愛い―\n"
 msgstr ""
+"Then, it's cute.\n"
+"Nano-chan, you're so cute—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -710,6 +765,8 @@ msgstr ""
 #: sc/0004:58 
 msgid "え、えへへ……\n恥ずかしいですよぉ……。\n"
 msgstr ""
+"Eh, hehehe……\n"
+"You're making me embarrassed…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -722,6 +779,8 @@ msgstr ""
 #: sc/0004:59 
 msgid "可愛い可愛い可愛い可愛い可愛い\n可愛い可愛い―――！！\n"
 msgstr ""
+"Cute cute cute cute cute\n"
+"cute cute―――!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:60 
 msgid "そ、そんなぁ、褒めすぎですよぉ。\n"
-msgstr ""
+msgstr "I feel flattered, but that's too much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -746,6 +805,8 @@ msgstr ""
 #: sc/0004:61 
 msgid "……あ、私そろそろ帰らないと。\nじゃあね、なのちゃん。\n"
 msgstr ""
+"……Ah, I think I have to go now. \n"
+"See you later Nano-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -758,6 +819,8 @@ msgstr ""
 #: sc/0004:62 
 msgid "はいっ！\nさようなら！\n"
 msgstr ""
+"Yes!\n"
+"Goodbye!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -782,6 +845,8 @@ msgstr ""
 #: sc/0004:64 
 msgid "！？\n誤魔化された！？\n"
 msgstr ""
+"!?\n"
+"Did I get tricked!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,7 +858,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:65 
 msgid "あの、どうしてまた\nくっつけたんでしょうか？\n"
-msgstr ""
+msgstr "Um, may I ask why you put it back on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,7 +870,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:66 
 msgid "だってこのネジ、\nなのちゃんのだから。\n"
-msgstr ""
+msgstr "Well it's because this key is yours.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -818,6 +883,8 @@ msgstr ""
 #: sc/0004:67 
 msgid "じゃあもう一度取ってください。\n今度は手に持って帰りますから。\n"
 msgstr ""
+"Then could you please take it off again?\n"
+"I'll carry it in my hands going home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -830,6 +897,8 @@ msgstr ""
 #: sc/0004:68 
 msgid "ネジ持ったまま買い物するのは\n変じゃないかなぁ。\n"
 msgstr ""
+"But going shopping with a giant key\n"
+"in your hand looks pretty weird.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -842,6 +911,8 @@ msgstr ""
 #: sc/0004:69 
 msgid "でもそれは背中にネジをつけてても\n同じですし。\n"
 msgstr ""
+"But that'd be the same if\n"
+"it were on my back.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -854,6 +925,8 @@ msgstr ""
 #: sc/0004:70 
 msgid "背中なら可愛いよ。\nでも持ってるのは変。\n"
 msgstr ""
+"No, on your back it looks cute. But,\n"
+"if you're holding it, it looks weird.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,7 +938,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:71 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -889,7 +962,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:73 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,4 +974,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0004:74 
 msgid "よいしょっ。\n"
-msgstr ""
+msgstr "Here you go.\n"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 00:02+0000\n"
+"PO-Revision-Date: 2020-06-27 21:06+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0198/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Kiyoshi"
 #  warnings: 0 
 #: sc/0198:0 
 msgid "ただいま〜……。\n"
-msgstr ""
+msgstr "I'm home～…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:3 
 msgid "おお、おかえり。\n"
-msgstr ""
+msgstr "Aah, welcome home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +73,8 @@ msgstr ""
 #: sc/0198:4 
 msgid "うん、おじいちゃん。\nただいま―。\n"
 msgstr ""
+"Yeah, grandpa.\n"
+"I'm home—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +98,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:6 
 msgid "あれ！？　おじいちゃん！？\n"
-msgstr ""
+msgstr "What!? Grandpa!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -113,9 +115,8 @@ msgstr ""
 #  speaker 
 #  warnings: 0 
 #: sc/0198:8 
-#, fuzzy
 msgid "コバディ"
-msgstr "Co-Buddy"
+msgstr "Lil' Buddy"
 
 #  text 
 #  warnings: 0 
@@ -181,7 +182,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:13 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,7 +242,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:18 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:23 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 
@@ -313,4 +314,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0198:24 
 msgid "きよしだよ！！\n"
-msgstr ""
+msgstr "It's Kiyoshi\n"

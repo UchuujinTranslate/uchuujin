@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-21 23:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0091/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0091:0 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:1 
 msgid "（二度と……二度とやるまいと心に誓ってた）\n"
-msgstr ""
+msgstr "(I swore to myself……to never do this ever again.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:2 
 msgid "（これをやったら……女子高生として……）\n"
-msgstr ""
+msgstr "(If I do this then……as a female highschooler……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +61,8 @@ msgstr ""
 #: sc/0091:3 
 msgid "（ううん、人間として大事な何かが\n　壊れていく……そう思ってた……）\n"
 msgstr ""
+"(No, as a human being, that I'm losing the grip of something \n"
+"important……or so I thought……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:4 
 msgid "（なのに……なのに……）\n"
-msgstr ""
+msgstr "(But still……but still……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:5 
 msgid "やっちゃったよ―！！\n"
-msgstr ""
+msgstr "I did it anyways—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +98,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:6 
 msgid "（諭吉さんに！　諭吉さんにつられて\n　またやっちゃったよ！）\n"
-msgstr ""
+msgstr "(By Yukichi! Lured in by Yukichi-san on the 10,000 yen bill!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +111,8 @@ msgstr ""
 #: sc/0091:7 
 msgid "（しかも何！？　今度は大福三兄弟だし！\n　てか、末っ子どう見ても人間じゃないし！）\n"
 msgstr ""
+"(And what now!? This time it's Daifuku triplets!\n"
+"Also, the youngest child clearly isn't even human!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,12 +125,14 @@ msgstr ""
 #: sc/0091:8 
 msgid "（なんなのよ……なんなのよこの末っ子！\n　こいつにもバイト代１万円出るの！？）\n"
 msgstr ""
+"(But really……what's up with these guys!\n"
+"Do they also get payed 10,000 yen!?)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:9 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -145,6 +151,8 @@ msgstr ""
 #: sc/0091:10 
 msgid "（あり得ない。あり得ないよ……\n　こんなんで大福、売れるわけないよ！）\n"
 msgstr ""
+"(No way. That's impossible……\n"
+"How would this even bring in more customers!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +188,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:13 
 msgid "（あの突き出た角、良い感じでゆらゆら揺れて\n　やがる……だが、つられるオレじゃない！）\n"
-msgstr ""
+msgstr "(\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +200,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:14 
 msgid "！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +224,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:16 
 msgid "う、うわ――！\n"
-msgstr ""
+msgstr "U-Uwahh——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +248,7 @@ msgstr "Nakanojo-san"
 #  warnings: 0 
 #: sc/0091:18 
 msgid "……君、大福のイメ―ジを、壊さんでくれ。\n"
-msgstr ""
+msgstr "……You, please don't destroy people's impression of Daifuku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,19 +260,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:19 
 msgid "私！？\n"
-msgstr ""
+msgstr "Me!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0091:20 
 msgid "ああっ！\n"
-msgstr ""
+msgstr "Ahh-!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0091:21 
 msgid "し、鹿が猫のアンテナを破壊したぞ！\n"
-msgstr ""
+msgstr "T-The deer just destroyed the cat's antenna!\n"
 
 #  text 
 #  warnings: 3 
@@ -276,7 +284,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0091:23 
 msgid "…………えっ？\n"
-msgstr ""
+msgstr "…………Eh?\n"
 
 #  text 
 #  warnings: 1 
@@ -294,25 +302,25 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:26 
 msgid "通行人女性"
-msgstr ""
+msgstr "Female Pedestrian"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:26 
 msgid "な、なにあれ……。\n"
-msgstr ""
+msgstr "W-What is this……\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:27 
 msgid "通行人男性"
-msgstr ""
+msgstr "Male Pedestrian"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:27 
 msgid "ひっ、こっち向いた！？\n"
-msgstr ""
+msgstr "Hyihh, it looked this way!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +333,8 @@ msgstr ""
 #: sc/0091:28 
 msgid "（キモがられてるよ！\n　大福売るどころじゃないよ！）\n"
 msgstr ""
+"(People are grossed out!\n"
+"This isn't the time to be selling Daifuku!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +347,8 @@ msgstr ""
 #: sc/0091:29 
 msgid "（まあ鹿は動物だからいいとしてさ、\n　あと一人は何してるかと思ったら）\n"
 msgstr ""
+"(Leaving the deer aside, \n"
+"what about the other person then.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +360,7 @@ msgstr "Kiyoshi"
 #  warnings: 0 
 #: sc/0091:30 
 msgid "あ、ほいっ。\n"
-msgstr ""
+msgstr "Ah, HOI.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +373,8 @@ msgstr ""
 #: sc/0091:31 
 msgid "（なんだよその踊り！\n　意味わかんないよ！）\n"
 msgstr ""
+"(What is that dance!\n"
+"I don't get it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +386,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:32 
 msgid "（じゃあ最後の私は何ができるかって言えば\n　何もできないから……）\n"
-msgstr ""
+msgstr "(Then lastly,  since I really can't do anything……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:33 
 msgid "（直立不動だよ！）\n"
-msgstr ""
+msgstr "(I'm just standing in attention!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +411,8 @@ msgstr ""
 #: sc/0091:34 
 msgid "（明らかに鹿なやつと変な踊り踊るやつと\n　直立不動の三人が店先にいるって……）\n"
 msgstr ""
+"(We're three people in front of the stand: One that is clearly a deer, one "
+"doing weird dancing and one standing still……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +424,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:35 
 msgid "（これなんてネガティブキャンペ―ンだよ！）\n"
-msgstr ""
+msgstr "(What is this negative campaigning!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +436,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:36 
 msgid "さっぱり売れんな……どういうことだ……。\n"
-msgstr ""
+msgstr "They aren't selling……what is this about…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +448,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:37 
 msgid "（当たり前だよ！）\n"
-msgstr ""
+msgstr "(Isn't that obvious!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +461,8 @@ msgstr ""
 #: sc/0091:38 
 msgid "今日の大福はみんな、\n大福らしくしているというのに……。\n"
 msgstr ""
+"Even though today's daifuku \n"
+"all have very daifuku-ness to them……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:39 
 msgid "（大福らしさってなによ！？）\n"
-msgstr ""
+msgstr "(What does daifuku-ness even mean!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +487,8 @@ msgstr ""
 #: sc/0091:40 
 msgid "（はぁ〜……ま、いっか。売れようが\n　売れまいが、バイト代には関係ないし）\n"
 msgstr ""
+"(Sigh〜……whatever. If these daifukus sells or not, \n"
+"as long as I'm getting payed for this shift work it doesn't matter to me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +501,8 @@ msgstr ""
 #: sc/0091:41 
 msgid "むぅ……これでは赤字だな……\nバイト代も出せんぞ……。\n"
 msgstr ""
+"Mm……then now we're being in the red……\n"
+"I can't give it out pays in that case……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +514,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:42 
 msgid "（え――――――――！？）\n"
-msgstr ""
+msgstr "(EHHH————————!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +527,8 @@ msgstr ""
 #: sc/0091:43 
 msgid "（これは……何とかしないと！\n　恥を忍んで大福被った意味がない！！）\n"
 msgstr ""
+"(Then……I have to do something about this!\n"
+"Otherwise, what was the point of me wearing this!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +541,8 @@ msgstr ""
 #: sc/0091:44 
 msgid "（けど、喋ると怒られるし、\n　一体どうすれば……）\n"
 msgstr ""
+"(Though, if I speak he will only get mad, \n"
+"what should I do……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:45 
 msgid "（売れない原因は……\n　間違いなくこのお面だよね）\n"
-msgstr ""
+msgstr "(The reason it's not selling is clearly because of this mask.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +566,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:46 
 msgid "よいしょっと。\n"
-msgstr ""
+msgstr "Huff, there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +578,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:47 
 msgid "あっ！　こら！　何を脱いでるんだ！\n"
-msgstr ""
+msgstr "Ah! Hey! Why are you taking it off!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +590,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:48 
 msgid "じょらぁっ！！\n"
-msgstr ""
+msgstr "Gyorahhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +614,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:50 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +638,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:52 
 msgid "さてと。\n"
-msgstr ""
+msgstr "And there we go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +662,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:54 
 msgid "それ、脱いで。\n"
-msgstr ""
+msgstr "You can take that off.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +674,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:55 
 msgid "あっ、は、はい！！\n"
-msgstr ""
+msgstr "Ah, y-yes!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +686,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:56 
 msgid "よし！　普通に接客するよ！\n"
-msgstr ""
+msgstr "Alright! Let's serve customers normally!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,18 +699,20 @@ msgstr ""
 #: sc/0091:57 
 msgid "は、はい！\nわかりました！！\n"
 msgstr ""
+"Y-Yes!\n"
+"I understand!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:58 
 msgid "ナレ―タ―お姉さん"
-msgstr ""
+msgstr "Narrator Lady"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:58 
 msgid "その後、それなりに売れたそうです。\n"
-msgstr ""
+msgstr "After that, it appeared they sold fairly well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:59 
 msgid "あの……。\n"
-msgstr ""
+msgstr "Ehm……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +736,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:60 
 msgid "……？\n"
-msgstr ""
+msgstr "……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +749,8 @@ msgstr ""
 #: sc/0091:61 
 msgid "……真面目にやりましょうよ。\nバイト代、ヤバイですよ。\n"
 msgstr ""
+"……Let's do this properly. \n"
+"Our shift-work earning is on the line.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +763,8 @@ msgstr ""
 #: sc/0091:62 
 msgid "え、あ、うん……そうだね。\n他にできることなんてないもんね。\n"
 msgstr ""
+"Eh, ah, yeah……you're right. \n"
+"I guess there's nothing else we could do, right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +777,8 @@ msgstr ""
 #: sc/0091:63 
 msgid "（こんな踊り……屈辱だけど、\n　バイト代のためには……っ！）\n"
 msgstr ""
+"(Doing that dance……is humiliating but, \n"
+"if it's for my payment then……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:70 
 msgid "お、おおお……！！\n"
-msgstr ""
+msgstr "Oh, Ohhhh……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,31 +898,31 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:73 
 msgid "うおおおおお！！\n"
-msgstr ""
+msgstr "Uwohhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:74 
 msgid "みお＆きよし＆鹿"
-msgstr ""
+msgstr "Mio & Kiyoshi & Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:74 
 msgid "あ、ほいっ！　あ、ほいっ！\n"
-msgstr ""
+msgstr "Ah, HOI! Ah HOI!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:75 
 msgid "バディ＆コバディ"
-msgstr "Buddy & Co."
+msgstr "Buddy & Lil' Buddy"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:75 
 msgid "！！　！！\n"
-msgstr ""
+msgstr "！！　！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +934,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:76 
 msgid "（ウケてる……大福も売れてる……）\n"
-msgstr ""
+msgstr "(People are enjoying……and daifukus are selling……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +946,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:77 
 msgid "（けど……なんか嬉しくない……）\n"
-msgstr ""
+msgstr "(But……this doesn't make me very happy……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +958,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:78 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +970,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:79 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +982,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:80 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,7 +994,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:81 
 msgid "（何もできないよ！）\n"
-msgstr ""
+msgstr "(I can't do anything!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -973,18 +1007,22 @@ msgstr ""
 #: sc/0091:82 
 msgid "（できて直立不動だよ！\n　それ以外何もできないよ！）\n"
 msgstr ""
+"(All I can do is stand still!\n"
+"What else other than that!)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0091:83 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 
 #: sc/0091:83 
 msgid "ここまでやって売れんとは……\nどうしてこんなことに……。\n"
 msgstr ""
+"I'm doing all this to increase the sales……\n"
+"but why does it end up like this……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -996,4 +1034,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0091:84 
 msgid "（こんなことやってるからだよ！）\n"
-msgstr ""
+msgstr "(It's because you are doing stuff like this in the first place!)\n"

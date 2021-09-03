@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-31 02:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-04 01:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0072/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 1 
@@ -132,7 +132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:9 
 msgid "センセ―。\n"
-msgstr "Teacher.\n"
+msgstr "Sakurai—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:17 
 msgid "はいっ！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:18 
 msgid "え、えっと……コレ、何でしょうか？\n"
-msgstr ""
+msgstr "Eh, um…… What should I do with this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:22 
 msgid "あっ、あの？　えっと、え？\n"
-msgstr ""
+msgstr "Ah, um? Urm, eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:30 
 msgid "えっと、その……？\n"
-msgstr ""
+msgstr "Um, ah……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:34 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +528,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:43 
 msgid "えっ？\n"
-msgstr ""
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:44 
 msgid "あれ？\n"
-msgstr ""
+msgstr "That?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +588,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:48 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:52 
 msgid "ホント？　サンキュ―、センセ―！\n"
-msgstr ""
+msgstr "Really? Thank you, teacher!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -697,6 +697,8 @@ msgstr ""
 #: sc/0072:57 
 msgid "（ところで……\n　結局、私はどうすればいいんでしょうか？）\n"
 msgstr ""
+"(On that note……\n"
+"After all, what should I do?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +711,8 @@ msgstr ""
 #: sc/0072:58 
 msgid "あれ？\nおっかしいな―、何だろコレ。\n"
 msgstr ""
+"What?\n"
+"That's weird—, what could this be?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +820,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:67 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +832,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:68 
 msgid "えっ？　ええ――――っ！？\n"
-msgstr ""
+msgstr "Eh? EHH————!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,13 +844,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0072:69 
 msgid "……あの、田中君、大丈夫ですか？\n"
-msgstr ""
+msgstr "……Um, Tanaka-kun, are you alright?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0072:70 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 

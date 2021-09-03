@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0103/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakanojo"
 #: sc/0103:0 
 msgid "授業も終わったし、帰ろう。\n店の手伝いしないといけないし……。\n"
 msgstr ""
+"Class just ended, I'll go home.\n"
+"I have to help out with the store too so……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0103:1 
 msgid "あっ、中之条くん。今帰るところですか？\n"
-msgstr ""
+msgstr "Ah, Nakanojou-kun. Are you going home?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0103:2 
 msgid "あ、桜井先生。はい。\n先生は何をしてるんですか？\n"
 msgstr ""
+"Ah, Sakurai-sensei. Yes.\n"
+"What are you doing, teacher.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0103:3 
 msgid "私は風紀の取り締りです。\nこれでも生活指導担当ですから。\n"
 msgstr ""
+"I'm in the doing managements for the school manners. \n"
+"I'm still in charge of the civic guidance after all.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0103:4 
 msgid "大変ですね―。\n頑張ってください。\n"
 msgstr ""
+"That sounds like a lot of work. \n"
+"I wish you good luck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:6 
 msgid "それでは、失礼します。\n"
-msgstr ""
+msgstr "Well excuse me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:7 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:8 
 msgid "あれ、どこから入ってきたの？\n"
-msgstr ""
+msgstr "Huh, where did it get in?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +140,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:9 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:11 
 msgid "（あっ、犬だ……）\n"
-msgstr ""
+msgstr "(Ah, it's a dog……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +177,8 @@ msgstr ""
 #: sc/0103:12 
 msgid "あ、スイマセン、中之条くん。\nこの子、外に連れてってもらえますか？\n"
 msgstr ""
+"Ah, but excuse me Nakanojo-kun. \n"
+"Could I ask you to bring this one out from school?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +191,8 @@ msgstr ""
 #: sc/0103:13 
 msgid "はい。いいですよ。\nよ―し、一緒に外に行くぞ―。\n"
 msgstr ""
+"Yes. I can do that.\n"
+"Alright, let's head out together little one—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:14 
 msgid "痛っ！\n"
-msgstr ""
+msgstr "Ouch!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +217,8 @@ msgstr ""
 #: sc/0103:15 
 msgid "？？\nどうかしたんですか？\n"
 msgstr ""
+"??\n"
+"What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,43 +230,49 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:16 
 msgid "あ……それが、\n胸に何かが刺さったような気が……。\n"
-msgstr ""
+msgstr "Ah, well the thing is that I felt like a sudden sting in my chest……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:17 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:18 
 msgid "今、何がどうなって破損したんだ！？\n"
-msgstr ""
+msgstr "How in the heck did the antenna break just now!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:19 
 msgid "どうやら犬を抱えた時にアンテナが\nこの男の胸に刺さったみたいだ。\n"
 msgstr ""
+"It seems like when that boy held the dog in his arms, \n"
+"the antenna stabbed him right in the chest.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:20 
 msgid "そ、そうか、頭に刺さってるんだから\nそういうアクシデントも十分ありえる！\n"
 msgstr ""
+"I- I see, the antenna is stuck to the head \n"
+"so an accident like this is very much possible!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:21 
 msgid "次からはアンテナの長さを\n調整してもらおう。\n"
 msgstr ""
+"Let's request to make the length \n"
+"of them short for next time.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0103:22 
 msgid "ああ。生きて帰れたらな。\n"
-msgstr ""
+msgstr "Yeah. You mean if we can make it alive after this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +285,8 @@ msgstr ""
 #: sc/0103:23 
 msgid "（……ん！？\n　風紀の取締りをしている！？）\n"
 msgstr ""
+"(……Hm!?\n"
+"She is managing the school's public morals..!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +298,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:24 
 msgid "（なのにこのモヒカンをスル―！？）\n"
-msgstr ""
+msgstr "(But still, she didn't comment about my Mohawk!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +311,8 @@ msgstr ""
 #: sc/0103:25 
 msgid "（どういうことだ……？　僕の髪が\n　横から生えないからお情けでスル―か？）\n"
 msgstr ""
+"(How could that be……? Is it that she feels pity for the fact \n"
+"it doesn't grow out on the sides? Is that the reason?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +325,7 @@ msgstr ""
 #: sc/0103:26 
 msgid "（僕としては嬉しい。だが、\n　モヒカンにしているのは僕のわがままだ）\n"
 msgstr ""
+"(I'm happy for it. But it's just me being self-indulgent about my Mohawk.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +337,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:27 
 msgid "（取り締まるところは\n　しっかり取り締まってもらわなくては！）\n"
-msgstr ""
+msgstr "(If she's going to manage it, she better be managing it properly!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +349,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:28 
 msgid "あ、あの、桜井先生！\n"
-msgstr ""
+msgstr "Ah, um, Sakurai-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +361,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:29 
 msgid "はい？　なんですか？\n"
-msgstr ""
+msgstr "Yes? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +373,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:30 
 msgid "あの……ぼ、僕の髪型ですけど……。\n"
-msgstr ""
+msgstr "Uhm……i- it's about my hairstyle\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +385,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:31 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +397,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:32 
 msgid "……いいんですか？\n"
-msgstr ""
+msgstr "……is this fine?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +434,8 @@ msgstr ""
 #: sc/0103:35 
 msgid "……あっ、ハイ。酢豚のパイナップルみたいで\nいいと思いますよ。\n"
 msgstr ""
+"……Ah, yes. It looks kind of like the pineapple in Sweet and Sour Pork.\n"
+"I think it's good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +459,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:37 
 msgid "それは嫌われ者という意味でしょうか！？\n"
-msgstr ""
+msgstr "Does that mean I'm a disliked person!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +471,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:38 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +484,9 @@ msgstr ""
 #: sc/0103:39 
 msgid "酢豚のパイナップルが嫌いな人は多いです。\nつまり僕も同じように嫌われてると……。\n"
 msgstr ""
+"There are a lot of people that dislike the dish of Sweet and Sour Pork with "
+"Pineapple.\n"
+"So does that mean I'm also someone that's hated……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +499,8 @@ msgstr ""
 #: sc/0103:40 
 msgid "そ、そういう意味じゃなくて、\n本当に似合ってると思って弌弌\n"
 msgstr ""
+"N- No, I didn't mean it in that way, \n"
+"I think it just really suits you—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +512,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:41 
 msgid "嫌われ者には\nピッタリの髪型ということでしょうか！？\n"
-msgstr ""
+msgstr "You mean that this hairstyle suits someone that's being disliked!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +537,8 @@ msgstr "Weboshi"
 #: sc/0103:43 
 msgid "桜井先生はわかってない！\nこの髪型がパンクで良いんだ！\n"
 msgstr ""
+"Sakurai-sensei, you don't understand!\n"
+"This hairstyle is punk! It's what makes it good!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:44 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +574,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:46 
 msgid "パンク最高――！\n"
-msgstr ""
+msgstr "Punk for the win——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:48 
 msgid "モヒカン最高―――！！\n"
-msgstr ""
+msgstr "Mohawk for the win———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +635,8 @@ msgstr ""
 #: sc/0103:51 
 msgid "（す、酢豚のパイナップル！？\n　それはバカにしているのか……？）\n"
 msgstr ""
+"(S- Sweet and Sour Pork with Pineapple!?\n"
+"Is she making fun of me or……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +673,8 @@ msgstr ""
 #: sc/0103:54 
 msgid "（……いや、きっと深い意味があるんだ。\n　表面上の言葉に佶されるんじゃない）\n"
 msgstr ""
+"(……No, there's probably a deep meaning behind it.\n"
+"I can't just take this at face value.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +687,8 @@ msgstr ""
 #: sc/0103:55 
 msgid "（その言葉の真意こそ\n　桜井先生が本当に言いたい言葉だ）\n"
 msgstr ""
+"(The true meaning behind those words is \n"
+"what Sakurai-sensei really want to convey to me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +701,8 @@ msgstr ""
 #: sc/0103:56 
 msgid "中之条くん？\nどうかしましたか？\n"
 msgstr ""
+"Nakanojou-kun?\n"
+"What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:57 
 msgid "……いえ。ありがとうございます。\n"
-msgstr ""
+msgstr "……No. Thank you very much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +750,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:60 
 msgid "（酢豚のパイナップル……）\n"
-msgstr ""
+msgstr "(Sweet and Sour Pork with Pineapple……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:63 
 msgid "（す、酢豚のパイナップル……？）\n"
-msgstr ""
+msgstr "(S- Sweet and Sour Pork with Pineapple……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,31 +810,31 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:65 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0103:66 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0103:66 
 msgid "（さ、さっぱりだ……）\n"
-msgstr ""
+msgstr "(I- I have no clue……)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0103:67 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0103:67 
 msgid "…………？？\n"
-msgstr ""
+msgstr "…………??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +846,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0103:68 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +859,8 @@ msgstr ""
 #: sc/0103:69 
 msgid "酢豚のパイナップル……\nそ、それはつまり……。\n"
 msgstr ""
+"Sweet and Sour Pork with Pineapple……\n"
+"D- Does that mean that…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +873,8 @@ msgstr ""
 #: sc/0103:70 
 msgid "嫌いな奴は圧倒的に多いが\n私は好きだと言う告白か！！\n"
 msgstr ""
+"There might be a lot of people that dislike you but I like you.\n"
+"Is this a form of confession!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,16 +886,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0103:71 
 msgid "桜井先生はモヒカンが好み……。\n"
-msgstr ""
+msgstr "Sakurai-sensei has an interest in Mohawks\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0103:72 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0103:72 
 msgid "はぁ、はぁ……俺もモヒカンに……！？\n"
-msgstr ""
+msgstr "Hah, hah……should I get a Mohawk……!?\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:04+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-27 22:22+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0024/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -38,7 +38,7 @@ msgstr ""
 msgid "あいつを捕獲して\nあの体を調べつくしたい……。\n"
 msgstr ""
 "I need to capture her,\n"
-"I need to study that body…….\n"
+"and study that body of hers…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,8 +51,8 @@ msgstr ""
 #: sc/0024:2 
 msgid "……と、何度思ったことか。\nはぁ……。\n"
 msgstr ""
-"How many times have I tried...?\n"
-"Well....\n"
+"How many times have I tried…?\n"
+"Well…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,8 +79,8 @@ msgstr ""
 #: sc/0024:4 
 msgid "だが、それも今日までだ。\n東雲との長い戦いも今日で幕を引くぞ。\n"
 msgstr ""
-"But that's only until today.\n"
-"Shinonome’s long battle will end today.\n"
+"But, not today. My long lasting battle \n"
+"with Shinonome will today reach its end.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -93,8 +93,8 @@ msgstr ""
 #: sc/0024:5 
 msgid "なんせ風の噂で東雲が雷に弱いと\n聞いたからな。これなら捕獲は簡単だ。\n"
 msgstr ""
-"Shinonome is vulnerable to lightning,\n"
-"I’ve heard. This will be easy.\n"
+"I heard through the vine that Shinonome\n"
+"is scared of thunder. This should be easy.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -107,7 +107,7 @@ msgstr ""
 #: sc/0024:6 
 msgid "まずは東雲を呼び出し、\n部屋に入ってきたところで雷の動画を見せる。\n"
 msgstr ""
-"First, call Shinonome, then\n"
+"First, I'll call Shinonome, and then\n"
 "play thunder when she enters the room.\n"
 
 #  speaker 
@@ -121,8 +121,8 @@ msgstr ""
 #: sc/0024:7 
 msgid "そして動けなくなった東雲を捕獲……\nふふ、完亢だ。\n"
 msgstr ""
-"And capture the immobilized Shinonome……\n"
-"Fufu, it ’s all over.\n"
+"Then I'll capture the immobilized Shinonome……\n"
+"Mwhaha, it ’s perfect.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -148,7 +148,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:9 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -160,7 +160,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:10 
 msgid "……うむ。これでいいか。\n"
-msgstr "……Well. Is that okay?\n"
+msgstr "……Hm. This should be fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -173,8 +173,8 @@ msgstr ""
 #: sc/0024:11 
 msgid "後はリピ―ト再生にして、\n音量ももっともっと大きく……。\n"
 msgstr ""
-"After replaying that,\n"
-"The volume is far greater.\n"
+"Now I just put this on loop,\n"
+"and bump up the volume…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:14 
 msgid "…………！\n"
-msgstr "………… !\n"
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -222,13 +222,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:15 
 msgid "（私……雷苦手だった……！）\n"
-msgstr "(I’m not good with thunder……!)\n"
+msgstr "(I'm…… not good with thunder……!)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0024:16 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -258,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:18 
 msgid "……あれ？　音が止まった？\n"
-msgstr "……that? Did the sound stop?\n"
+msgstr "……What? Did the sound stop?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:20 
 msgid "校長！？　いつの間に！？\n"
-msgstr "Principal!? Unnoticed!?\n"
+msgstr "Principal!? When did he!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,8 +295,8 @@ msgstr ""
 #: sc/0024:21 
 msgid "（気が付いたら、すぐ近くにいた。\n　そしてドアが開く音はしなかった弌弌）\n"
 msgstr ""
-"(I noticed in the immediate vicinity.\n"
-"And the door didn't make a sound!)\n"
+"(He was in the immediate vicinity.\n"
+"And the door didn't make a sound——!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -309,8 +309,8 @@ msgstr ""
 #: sc/0024:22 
 msgid "（弌弌ということはつまり……\n　校長はずっと部屋にいて、見ていた！？）\n"
 msgstr ""
-"(That means that…\n"
-"Koucho’s been watching from the room!?)\n"
+"(——That means that…\n"
+"He was in the room, and was watching!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -322,7 +322,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:23 
 msgid "うわああああ！！\n"
-msgstr "Uwaaa!!\n"
+msgstr "UWAAAAH!!\n"
 
 #  speaker 
 #  warnings: 6 
@@ -334,7 +334,7 @@ msgstr ""
 #  warnings: 6 
 #: sc/0024:24 
 msgid "！！？\n"
-msgstr ""
+msgstr "!!?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -346,49 +346,59 @@ msgstr "＆"
 #  warnings: 2 
 #: sc/0024:25 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "EHH―—!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0024:26 
 msgid "ちょ、どうして攻撃されたんだ？\n俺は人助けをしたはずなんだけど！？\n"
 msgstr ""
+"Wait, what happened?\n"
+"All I tried to do was help out!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0024:27 
 msgid "ああ、確かに人助けをした！\nお前は間違っていないさ。\n"
 msgstr ""
+"No, you did help!\n"
+"You're not wrong about that.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0024:28 
 msgid "だよな？　だよな？\n一体彼女は何が気に食わなかったんだ？\n"
 msgstr ""
+"Yeah, right?\n"
+"What was her problem?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0024:29 
 msgid "……わからん。\n大人の女は謎が多すぎるぜ。\n"
 msgstr ""
+"……I have no idea.\n"
+"Women have too many mysteries.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0024:30 
 msgid "お前ら、そんなこと後で考えればいいだろ！\n"
-msgstr ""
+msgstr "Idiots, you can think about that later!\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0024:31 
 msgid "＆"
-msgstr ""
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0024:31 
 msgid "ああああ！！\nそうだった―――！！\n"
 msgstr ""
+"AHHH!!\n"
+"Yeah right———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -400,7 +410,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:32 
 msgid "わっ！？\n"
-msgstr ""
+msgstr "Wah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -413,6 +423,8 @@ msgstr ""
 #: sc/0024:33 
 msgid "（う〜〜！　怖くて体が動かない……\n　誰か、動画を止めてくれ……！）\n"
 msgstr ""
+"(Ooh~~! I'm scared and I can't move…\n"
+"Someone, stop the video……! )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -424,7 +436,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:34 
 msgid "ひっ！？\n"
-msgstr ""
+msgstr "Oh no!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -437,6 +449,8 @@ msgstr "Nakanojo"
 #: sc/0024:35 
 msgid "失礼しま―す。あの、ここから\n雷の音が聞こえるんですけど何を……。\n"
 msgstr ""
+"Excuse me. Um, I can hear thunder from\n"
+"here. What's that about……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -460,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:37 
 msgid "……中村先生？　何してるんですか？\n"
-msgstr ""
+msgstr "……Nakamura-sensei? What are you doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +486,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:38 
 msgid "うううっ！？\n"
-msgstr ""
+msgstr "Ooooh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -484,7 +498,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:39 
 msgid "……あっ。なるほど。\n"
-msgstr ""
+msgstr "……Ah. I see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -496,7 +510,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:40 
 msgid "先生、この動画止めますね。\n"
-msgstr ""
+msgstr "Teacher, I'll stop the video.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -508,7 +522,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:41 
 msgid "（う……と、止まった……？）\n"
-msgstr ""
+msgstr "(Uh……, it stopped……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -520,7 +534,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:42 
 msgid "大丈夫ですか？\n"
-msgstr ""
+msgstr "Are you okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -532,7 +546,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:43 
 msgid "え？　あ……中之条……。\n"
-msgstr ""
+msgstr "Huh? Ah…Nakanojou…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -544,7 +558,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:44 
 msgid "先生、雷が怖いんですか？\n"
-msgstr ""
+msgstr "Teacher, are you scared of thunder?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -569,6 +583,8 @@ msgstr ""
 #: sc/0024:46 
 msgid "（怖い。怖いが……それをわざわざ\n　こいつには言いたくはない……）\n"
 msgstr ""
+"(It ’s scary. It definitely is, but do I\n"
+"have to go out of my way to say it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -580,7 +596,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:47 
 msgid "……怖くない。\n"
-msgstr ""
+msgstr "……No, not at all.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -592,7 +608,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:48 
 msgid "え？　でも……。\n"
-msgstr ""
+msgstr "Huh? But……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -605,6 +621,8 @@ msgstr ""
 #: sc/0024:49 
 msgid "こ、怖ければわざわざ\n動画を見るわけがないだろう？\n"
 msgstr ""
+"If I was scared of thunder, would I go\n"
+"out of my way to watch a video of it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -616,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:50 
 msgid "それもそうですけど……。\n"
-msgstr ""
+msgstr "Yeah, I guess that's true but....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -629,6 +647,8 @@ msgstr ""
 #: sc/0024:51 
 msgid "いいか？　勘違いするなよ。私は研究の一環で\nこの動画を見ていただけだ。\n"
 msgstr ""
+"Don't misunderstand, OK? I was watching\n"
+"this video as part of my research.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,6 +661,8 @@ msgstr ""
 #: sc/0024:52 
 msgid "えっ？　研究ですか？\nどんな研究をしているんです？\n"
 msgstr ""
+"Oh?  Research?\n"
+"What kind of research are you doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -653,6 +675,8 @@ msgstr ""
 #: sc/0024:53 
 msgid "（うわ……なんか食いついた。\n　めんどくさいなこいつ……）\n"
 msgstr ""
+"(Uwahh..... They're not letting this go.\n"
+"What an annoying student....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -665,6 +689,8 @@ msgstr ""
 #: sc/0024:54 
 msgid "何か僕に手伝えることはありますか？\n何でもしますよ。\n"
 msgstr ""
+"Is there anything I can help with?\n"
+"I'm glad to help!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -676,7 +702,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:55 
 msgid "……じゃあ、実験台になってくれ。\n"
-msgstr ""
+msgstr "……Well, you could be a test subject.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -688,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:56 
 msgid "はい！　何の実験ですか？\n"
-msgstr ""
+msgstr "Yes! What's the experiment?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -700,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:57 
 msgid "こいつだ！\n"
-msgstr ""
+msgstr "This right here!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -712,7 +738,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:58 
 msgid "んぎゃああああああぁ！！\n"
-msgstr ""
+msgstr "Ngyahhhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -760,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:62 
 msgid "逃げろ！\n"
-msgstr ""
+msgstr "Run away!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -773,6 +799,8 @@ msgstr ""
 #: sc/0024:63 
 msgid "い、いや、別に怖いとか\nそういうことではなくて……。\n"
 msgstr ""
+"N-no, it's not like it's scary\n"
+"or anything like that……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -785,6 +813,8 @@ msgstr ""
 #: sc/0024:64 
 msgid "でも怖いならどうして雷の動画なんか\n見てたんですか？\n"
 msgstr ""
+"But if you're scared, why were you\n"
+"watching a thunder video?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -796,7 +826,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:65 
 msgid "だから怖いわけでは……。\n"
-msgstr ""
+msgstr "I'm telling you, it's not like I'm…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -809,6 +839,8 @@ msgstr ""
 #: sc/0024:66 
 msgid "もしかして苦手な雷を克服するために\n慣れようとしてたんですか？\n"
 msgstr ""
+"Could it be that it was a form of\n"
+"training to overcome your fear of it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -821,6 +853,8 @@ msgstr ""
 #: sc/0024:67 
 msgid "違う。私は苦手でもないし\n怖くもないから……。\n"
 msgstr ""
+"No. It's not one of my fears and\n"
+"I'm not weak to it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -857,6 +891,8 @@ msgstr ""
 #: sc/0024:70 
 msgid "……でも、雷って怖いですよね。\n僕もちょっと苦手かな。\n"
 msgstr ""
+"……But, I think it can be kind of scary. \n"
+"It's a bit hard to deal with thunder even for me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -868,7 +904,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:71 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -892,7 +928,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:73 
 msgid "……ま、まあ、少しだけな。\n"
-msgstr ""
+msgstr "……W-well only a bit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -904,7 +940,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:74 
 msgid "ははは。そうですよね。\n"
-msgstr ""
+msgstr "Hahaha, yeah right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -917,6 +953,8 @@ msgstr ""
 #: sc/0024:75 
 msgid "でも、雷が苦手なんて、\n可愛いところがあるんですね。\n"
 msgstr ""
+"But, with you being weak to thunder, \n"
+"didn't know you have a cute side to you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -941,6 +979,8 @@ msgstr ""
 #: sc/0024:77 
 msgid "えっ！？　中村先生！？\nどこに行くんですか！？\n"
 msgstr ""
+"Eh!? Nakamura Sensei!?\n"
+"Where are you going!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -952,7 +992,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:78 
 msgid "くっ！\n"
-msgstr ""
+msgstr "TSK!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -965,6 +1005,8 @@ msgstr ""
 #: sc/0024:79 
 msgid "こ、怖くなんかない。\nな、何ならまた鳴らしてみようか？\n"
 msgstr ""
+"I-I'm not scared. H-how about putting\n"
+"it on again and see what I mean.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -976,7 +1018,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:80 
 msgid "え？　いえ、別に鳴らさなくても……。\n"
-msgstr ""
+msgstr "Well, I'd be okay without having to…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -989,6 +1031,8 @@ msgstr ""
 #: sc/0024:81 
 msgid "え、遠慮するな。\nまさか雷が怖いなんてことはないだろう？\n"
 msgstr ""
+"No, no need to hold back. You're\n"
+"not really scared of thunder, are you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1000,7 +1044,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:82 
 msgid "は、はぁ。でも先生が怖いんじゃ弌弌\n"
-msgstr ""
+msgstr "But it's not that you'rE scared of it——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1012,7 +1056,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:83 
 msgid "怖くない！\n"
-msgstr ""
+msgstr "I'm not scared!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1024,7 +1068,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:84 
 msgid "は、はい！\n"
-msgstr ""
+msgstr "Y-Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1037,6 +1081,8 @@ msgstr ""
 #: sc/0024:85 
 msgid "怖くないからな。\nだからもう一度鳴らしてもなんてことない。\n"
 msgstr ""
+"I'm not scared. So, I'll play it\n"
+" once again for you and you'll see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1048,7 +1094,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:86 
 msgid "はぁ……。\n"
-msgstr "Ha...\n"
+msgstr "*Sigh*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1060,7 +1106,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:87 
 msgid "いくぞ……。\n"
-msgstr ""
+msgstr "Here we go…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1096,28 +1142,28 @@ msgstr ""
 #  warnings: 0 
 #: sc/0024:90 
 msgid "ひっ！？\n"
-msgstr ""
+msgstr "Hihh-!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0024:91 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0024:91 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0024:92 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0024:92 
 msgid "あっ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"

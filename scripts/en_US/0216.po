@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 00:01+0000\n"
+"PO-Revision-Date: 2020-06-27 21:08+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0216/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Kiyoshi"
 #: sc/0216:0 
 msgid "ちょっ！？　どうしたんだよ！？\nバディ！　コバディ！　どこ行くんだ！？\n"
 msgstr ""
+"Wait! What's the matter with you!?\n"
+"Buddy! Lil' Buddy! Where are you going!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,7 +75,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0216:4 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -187,7 +189,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0216:17 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -295,10 +297,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0216:31 
 msgid "コバディ"
-msgstr ""
+msgstr "Lil' Buddy"
 
 #  text 
 #  warnings: 0 
 #: sc/0216:31 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-01 21:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0039/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakanojo"
 #: sc/0039:0 
 msgid "いつになったら、この髪が元に戻るんだ。\n"
 msgstr ""
+"How long will it be till \n"
+"my hair turns back to normal…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0039:1 
 msgid "今はまだ誰にもバレていないけど……\nこのまま治らなければ、いつかきっと……。\n"
 msgstr ""
+"Nobody's found out yet… but if it stays\n"
+"this way, it's only a matter of time……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,9 @@ msgstr ""
 #: sc/0039:2 
 msgid "こんな時こそ科学の出番だが……\n勉強不足な僕には手も足も出ない症状だ……。\n"
 msgstr ""
+"It's at times like these that science shines……\n"
+"but since I'm not well read about it this is just a condition I can't do "
+"anything about……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +68,8 @@ msgstr ""
 #: sc/0039:3 
 msgid "……ん？　なんだここ？\n東雲研究所？\n"
 msgstr ""
+"……Hmm? What's this?\n"
+"Shinonome Laboratory?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,19 +81,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:4 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0039:5 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
 #: sc/0039:5 
 msgid "あっ！　モヒカンだ！\n"
-msgstr ""
+msgstr "Ah! The Mohawk Guy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +105,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:6 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +118,8 @@ msgstr ""
 #: sc/0039:7 
 msgid "あははは、モヒカンだ！\n初めて見た！\n"
 msgstr ""
+"Ahahaha, it's a Mohawk!\n"
+"This is the first time I've seen one!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +132,8 @@ msgstr ""
 #: sc/0039:8 
 msgid "（なんだこの子……\n　もしかしてこの研究所の子？）\n"
 msgstr ""
+"(What's with this kid……\n"
+"Could she be from the lab?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +157,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:10 
 msgid "わっ！　犬だ！\n"
-msgstr ""
+msgstr "Wah! It's a dog!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +169,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:11 
 msgid "助けて！　噛まれちゃう！\n"
-msgstr ""
+msgstr "Help! It's gonna bite me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,54 +182,64 @@ msgstr ""
 #: sc/0039:12 
 msgid "えっ？　ああ、大丈夫だよ。\n犬はこうやって頭を撫でれば弌弌\n"
 msgstr ""
+"Eh? Hey, it'll be alright. With dogs,\n"
+"if you pet their heads like this——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:13 
 msgid "うわあっ！　アンテナがピンチだ！\n"
-msgstr ""
+msgstr "UWAHH! The antenna's in trouble!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:14 
 msgid "耐えてくれ……耐えてくれ―っ！！\nええい、もっと頑丈に作っておけよっ！\n"
 msgstr ""
+"Please withstand it………please!!\n"
+"Gah, why wasn't it made any sturdier!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:15 
 msgid "し、仕方ないだろ、予算が足りなかったんだ！\n文句があるなら姫にでも言ってくれ！\n"
 msgstr ""
+"B-But there was no choice, it wasn't in the budget!\n"
+"If you have any complaints tell 'em to the Princess!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:16 
 msgid "くそ―っ！\n姫のばか――――っ！！\n"
 msgstr ""
+"Damn it!\n"
+"That stupid Princess————!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:17 
 msgid "ええっ！？\nまだ、壊れていなかったはずだぞ！\n"
 msgstr ""
+"Ehh?\n"
+"Hey, I don't think it was broken yet!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0039:18 
 msgid "……あ、姫のとこに回線つながってた。\n"
-msgstr ""
+msgstr "……Ah, it linked to the princess.\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0039:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0039:19 
 msgid "姫のばか――――っ！！\n"
-msgstr ""
+msgstr "That stupid Princess————!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +251,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:20 
 msgid "ねえお嬢ちゃん、ここ、研究所だよね？\n"
-msgstr ""
+msgstr "Hey, little girl, is this your laboratory?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +263,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:21 
 msgid "うん。はかせの研究所だよ。\n"
-msgstr ""
+msgstr "Yes. It's me (the professor's) laboratory.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +275,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:22 
 msgid "その博士は今どこにいるの？\n"
-msgstr ""
+msgstr "So where is that professor?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +287,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:23 
 msgid "はかせがはかせだよ。\n"
-msgstr ""
+msgstr "But I'm the Professor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +299,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:24 
 msgid "えっ？　お嬢ちゃんが博士！？\n"
-msgstr ""
+msgstr "Huh? You're the professor!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +324,8 @@ msgstr ""
 #: sc/0039:26 
 msgid "（この歳で博士……？\n　信じられない……）\n"
 msgstr ""
+"(At this age, a professor………?\n"
+"I don't believe it………)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +338,8 @@ msgstr ""
 #: sc/0039:27 
 msgid "（いや、だが、天才に年齢は関係ない。\n　小さくても天才なんだ、この子は）\n"
 msgstr ""
+"(No, genius doesn't depend on age.\n"
+"Even though she's young, this kid must be really intelligent)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +352,8 @@ msgstr ""
 #: sc/0039:28 
 msgid "じゃあ博士、お願いなんですけど……\nこの髪の毛、見てくれますか？\n"
 msgstr ""
+"Then, Professor, could I ask you a favor………\n"
+"Would you look at my hair for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +365,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:29 
 msgid "モヒカン！\n"
-msgstr ""
+msgstr "It's a Mohawk!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +377,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:30 
 msgid "そう。だけどモヒカンの部分だけ\n幽霊になってるんです。\n"
-msgstr ""
+msgstr "Yes. But only the Mohawk part is translucent like a ghost.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +401,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:32 
 msgid "さわってもいい！？\n"
-msgstr ""
+msgstr "Can I touch it!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +414,8 @@ msgstr ""
 #: sc/0039:33 
 msgid "えっ？　あ、い、いいですけど、\nでも、今は髪の毛が幽霊になってて弌弌\n"
 msgstr ""
+"Eh? Ah, yeah, you can but \n"
+"the hair has become ghost-like so——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +427,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:34 
 msgid "あはははは！\n"
-msgstr ""
+msgstr "Ahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +439,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:35 
 msgid "触れてる―――！？\n"
-msgstr ""
+msgstr "She's touching it———!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +452,8 @@ msgstr ""
 #: sc/0039:36 
 msgid "（ど、どういうことだ？\n　僕は触れなかったのに……）\n"
 msgstr ""
+"(B-But how did she do it?\n"
+"When I tried I couldn't………)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +465,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:37 
 msgid "ちょ、ちょっとスイマセン。\n"
-msgstr ""
+msgstr "H- Hey excuse me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +478,8 @@ msgstr ""
 #: sc/0039:38 
 msgid "……触れた。あっ……\nでもまた触れなくなった。\n"
 msgstr ""
+"………I touched it. Ah…\n"
+"But now it's back to being untouchable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +492,8 @@ msgstr ""
 #: sc/0039:39 
 msgid "（どういうことだ……？\n　何か条件があるのか……？）\n"
 msgstr ""
+"(What does this mean……?\n"
+"What's different about the times I can touch it……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +506,8 @@ msgstr ""
 #: sc/0039:40 
 msgid "ハッ！？　そ、そうか！　科学の力で\n幽霊になった髪に触ったんですね！？\n"
 msgstr ""
+"Huh!? I see! It was with the power of science \n"
+"that you could touch my ghostly hair, right!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +519,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:41 
 msgid "なにそれ？\n"
-msgstr ""
+msgstr "What's that about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +531,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:42 
 msgid "違った―――！？\n"
-msgstr ""
+msgstr "I was wrong——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +544,8 @@ msgstr ""
 #: sc/0039:43 
 msgid "（うう……触れたり触れなかったりなんて\n　ハッキリしない幽霊だ……）\n"
 msgstr ""
+"(Uwhh……Sometimes I can touch it, and sometimes not. This ghost is not being "
+"very clear about it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +558,8 @@ msgstr ""
 #: sc/0039:44 
 msgid "くっ……だけど博士、博士ならきっと\n科学の力でこの髪の毛を治せますよね？\n"
 msgstr ""
+"Ghh……But, Professor, you can fix this \n"
+"with the power of science, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +571,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:45 
 msgid "できるよ。\n"
-msgstr ""
+msgstr "Yeah I can.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +595,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:47 
 msgid "ちょっと待ってて！\n"
-msgstr ""
+msgstr "Just wait a sec!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +607,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:48 
 msgid "は、はいっ！！\n"
-msgstr ""
+msgstr "Y- Yes!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +620,8 @@ msgstr ""
 #: sc/0039:49 
 msgid "（博士はすでに治し方がわかっているのか！？\n　やっぱりこの子は天才だ！！）\n"
 msgstr ""
+"(So Professor already knows how to fix it!?\n"
+"This kid must really be a genius!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +633,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:50 
 msgid "はい！　この薬を頭につけて。\n"
-msgstr ""
+msgstr "Here! Put this medicine on your head.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +645,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:51 
 msgid "うん！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +658,8 @@ msgstr ""
 #: sc/0039:52 
 msgid "（これで治るんだ……\n　科学が勝利する瞬間だ……！！）\n"
 msgstr ""
+"(So this'll fix it……\n"
+"It's the moment of science's victory……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +683,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:54 
 msgid "あはははははははは！！\n"
-msgstr ""
+msgstr "Ahahahahaha!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +708,8 @@ msgstr ""
 #: sc/0039:56 
 msgid "あははははは！\nモヒカン３つ！　あははは！\n"
 msgstr ""
+"Ahahahahaha!\n"
+"Triple Mohawk! Ahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +734,8 @@ msgstr ""
 #: sc/0039:58 
 msgid "ププ――！　カットパインが３つになった！\nプププププ！　美味しそう！！\n"
 msgstr ""
+"Pwaha——! There are thee pineapple slices now!\n"
+"Pwahahaha! Delicious!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +759,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:60 
 msgid "は……。\n"
-msgstr ""
+msgstr "Sigh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +771,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:61 
 msgid "……んん？\n"
-msgstr ""
+msgstr "……Hmn?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +784,8 @@ msgstr ""
 #: sc/0039:62 
 msgid "生えた――――！！！\n横からも髪が生えた――！！！\n"
 msgstr ""
+"It grew————!!!\n"
+"It finally grew from hair from the sides!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +810,8 @@ msgstr ""
 #: sc/0039:64 
 msgid "あははは！\n生えた生えた！　ニョキニョキ生えた！\n"
 msgstr ""
+"Ahahaha!\n"
+"It grew, it grew! It shot up like sprouts!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +824,8 @@ msgstr ""
 #: sc/0039:65 
 msgid "うおおおおおお！\n僕の毛根は死んでなかったんだ――！！\n"
 msgstr ""
+"Uwoahhhhhh!\n"
+"My hair roots weren't dead after all——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +849,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:67 
 msgid "うおおおおおおおお！！\n"
-msgstr ""
+msgstr "UWOHHHHHHHHHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +861,7 @@ msgstr "Sakamoto-san"
 #  warnings: 0 
 #: sc/0039:68 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +873,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:69 
 msgid "……これ、止めた方がいいのか？\n"
-msgstr ""
+msgstr "……So, should we stop this, or?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +886,8 @@ msgstr ""
 #: sc/0039:70 
 msgid "（か、髪が、生えた……\n　もう生えないと思われた場所に……）\n"
 msgstr ""
+"(M-My hair grew……\n"
+"it grew from where I thought it never would……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +900,8 @@ msgstr ""
 #: sc/0039:71 
 msgid "（僕の死んだ毛根にさえも効くなんて\n　博士の発明した育毛剤はなんてすごいんだ）\n"
 msgstr ""
+"(If it can even work on my dead hair roots, \n"
+"the hair formula that this professor invented is really something else)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +913,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:72 
 msgid "（だが……だが、しかし……！！）\n"
-msgstr ""
+msgstr "(But……but wait this is……!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +926,8 @@ msgstr ""
 #: sc/0039:73 
 msgid "（新しい２つも触れない……！！\n　傷口が拡がっただけだ……）\n"
 msgstr ""
+"(I can't touch the two new ones either……!!\n"
+"This's only made the situation worse…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,6 +940,8 @@ msgstr ""
 #: sc/0039:74 
 msgid "あははは！　変な髪型！\nカットパインが３つも刺さってる！\n"
 msgstr ""
+"Ahahah! What a weird hair style!\n"
+"It's like three canned pineapple slices are stuck in your head!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +953,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:75 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +965,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:76 
 msgid "あはははははは！\n"
-msgstr ""
+msgstr "Ahahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +977,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:77 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -925,6 +990,8 @@ msgstr ""
 #: sc/0039:78 
 msgid "（なんてことだ……調査対象に目もくれず、\n　モヒカンで遊ぶだなんて……！！）\n"
 msgstr ""
+"(What is this……she's not investigating anything,\n"
+"just laughing about the Mohawk……!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,6 +1004,8 @@ msgstr ""
 #: sc/0039:79 
 msgid "（だが、仕方ない。この子は確かに天才だけど\n　まだまだ精神的に未熟。責められない）\n"
 msgstr ""
+"(But, it can't be helped. She might be a genius \n"
+"she still has the mentality of a kid. I can't fault her for that. )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,18 +1018,22 @@ msgstr ""
 #: sc/0039:80 
 msgid "（責めるべくは自分の身に起こったことを\n　自分で対処できない僕だ！）\n"
 msgstr ""
+"(I should blame myself— I can't deal with \n"
+"problems that happen to my own body!)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0039:81 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0039:81 
 msgid "（こうなったら、自分一人で何とかしなくては！\n　さようなら、はかせ！）\n"
 msgstr ""
+"(If it's come to this, I have to fix it myself!\n"
+"Goodbye, Professor!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -972,7 +1045,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:82 
 msgid "あははははは！　はあ、はぁ……。\n"
-msgstr ""
+msgstr "Ahahahaha! Haa, haa…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,7 +1057,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0039:83 
 msgid "はぁ……面白かった！\n"
-msgstr ""
+msgstr "Haa……that was fun!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -997,3 +1070,5 @@ msgstr ""
 #: sc/0039:84 
 msgid "でもどっか行っちゃった。\nせっかく治してあげようと思ったのに。\n"
 msgstr ""
+"But, he went somewhere.  Bummer\n"
+"since I thought I would fix it for him.\n"

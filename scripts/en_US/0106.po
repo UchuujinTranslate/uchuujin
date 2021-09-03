@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-03 04:53+0000\n"
+"Last-Translator: Bald Man <raultortats@outlook.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0106/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:8 
 msgid "……む？\n"
-msgstr ""
+msgstr "……Mmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +132,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0106:9 
 msgid "あれ？\n"
-msgstr ""
+msgstr "That?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0106:12 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  text 
 #  warnings: 1 
@@ -198,7 +198,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0106:17 
 msgid "……おや？\n"
-msgstr ""
+msgstr "……Oh?\n"
 
 #  text 
 #  warnings: 1 
@@ -210,7 +210,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0106:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -312,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:27 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +546,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:47 
 msgid "ゆっこ＆みお"
-msgstr "Yuuko & Mio"
+msgstr "Yukko & Mio"
 
 #  text 
 #  warnings: 0 
@@ -924,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:78 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +942,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:80 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -954,7 +954,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:81 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

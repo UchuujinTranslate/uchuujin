@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-02 20:08+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-25 23:22+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0179/en_US/>\n"
 "Language: en_US\n"
@@ -12,13 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0179:0 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -144,7 +144,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:10 
 msgid "ッ！！！！？\n"
-msgstr ""
+msgstr "！！！！？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -269,14 +269,15 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0179:23 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0179:23 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +290,8 @@ msgstr ""
 #: sc/0179:24 
 msgid "……なんだあれ？\n娘の知り合いと……鹿？\n"
 msgstr ""
+"……What's that?\n"
+"My daughter's acquaintance and… a dear?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +304,8 @@ msgstr ""
 #: sc/0179:25 
 msgid "しかし、妙な気配だな。\nあれ、本当に娘の知り合いか？\n"
 msgstr ""
+"However, that's odd. Hold on, is\n"
+"that really my daughter's acquaintance?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +317,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:26 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +341,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:28 
 msgid "カアアアアアアアアア！\n"
-msgstr ""
+msgstr "CAAAAAAAAAAAAAAAAR!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +377,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:31 
 msgid "……よし。\n"
-msgstr ""
+msgstr "……Alright.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +389,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:32 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +413,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:34 
 msgid "……フフ。\n"
-msgstr ""
+msgstr "……haha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +509,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:42 
 msgid "ッ！？\n"
-msgstr ""
+msgstr "Hh!?\n"
 
 #  speaker 
 #  warnings: 4 
@@ -660,7 +665,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:55 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +683,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:57 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
@@ -714,13 +719,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0179:60 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0179:60 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 

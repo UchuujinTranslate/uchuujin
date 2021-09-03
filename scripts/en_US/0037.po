@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-15 05:00+0000\n"
-"PO-Revision-Date: 2019-09-01 00:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-01 21:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0037/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0037:0 
 msgid "結局、学校に来てしまった……。\n"
-msgstr ""
+msgstr "Welp, I came to school either way……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0037:1 
 msgid "（髪型は元のモヒカンに戻せたから良いが、\n　相変わらず幽霊になったままだ）\n"
 msgstr ""
+"(My hair turned back to my usual mohawk, \n"
+"at least, but it's still ghost-like.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0037:2 
 msgid "（こんなことになってるなんて、\n　誰にも気付かれるわけにはいかない）\n"
 msgstr ""
+"(There's no way I can let anyone \n"
+"find out that it's become like this.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0037:3 
 msgid "（なあに、今日は運良く半日だ。\n　午前の授業を耐えれば、すぐに終わり）\n"
 msgstr ""
+"(Luckily, today is a half day. If I can just \n"
+"get though the morning classes, it'll all be fine.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +79,8 @@ msgstr ""
 #: sc/0037:4 
 msgid "（それまでの間、誰にもモヒカンのことを\n　気付かれなければ良いだけさ！）\n"
 msgstr ""
+"(I just need to make sure that nobody notices \n"
+"what's up with my mohawk, and it'll all be fine!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0037:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:6 
 msgid "ん？　あれ、犬が入り込んで弌弌\n"
-msgstr ""
+msgstr "Hm? Hey, how'd this dog get in here——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0037:9 
 msgid "（こ、この犬……モヒカンを見ている！？\n　もしかしたら動物にはわかるのかも……）\n"
 msgstr ""
+"(T-This dog……it's looking at my mohawk!?\n"
+"Could it be that even animals notice it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,36 +155,44 @@ msgstr ""
 #: sc/0037:10 
 msgid "（！？　まずい、このまま見つめられていたら、\n　他のみんなにも気付かれてしまう……！！）\n"
 msgstr ""
+"(!? This is bad, if it keeps staring at me\n"
+"everyone else will notice something's up……!!)\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0037:11 
 msgid "うおっ！？　いきなりなんだ！？\nこっちに向かってきたぞ！\n"
 msgstr ""
+"Woah!? What is it all a sudden!?\n"
+"It's coming this way!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0037:12 
 msgid "に、逃げろ！\nこのままでは犬が捕まってしまう！\n"
 msgstr ""
+"R-Run away!\n"
+"The dog is going to get caught!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0037:13 
 msgid "ああっ、ダメだ！\n逃げても追いかけてくるぞ！\n"
 msgstr ""
+"Argh, there's no point. \n"
+"Even if I run it's still coming after it!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0037:14 
 msgid "あああっ、捕まった！\n"
-msgstr ""
+msgstr "Ahhh, it got caught!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0037:15 
 msgid "アンテナも壊れた――っ！\n"
-msgstr ""
+msgstr "And the antenna broke too——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +204,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0037:16 
 msgid "あ、あの、中之条くん……。\n"
-msgstr ""
+msgstr "Ah, um, Nakanojou-kun…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -199,6 +217,8 @@ msgstr ""
 #: sc/0037:17 
 msgid "……あっ、桜井先生。\nおはようございます。\n"
 msgstr ""
+"……Oh, Ms. Sakurai.\n"
+"Good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:18 
 msgid "あっ、はい、おはようございます。\n"
-msgstr ""
+msgstr "Oh, yes. Good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -222,7 +242,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:19 
 msgid "どうかしましたか？\n"
-msgstr ""
+msgstr "What's going on?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,6 +255,8 @@ msgstr ""
 #: sc/0037:20 
 msgid "え、えっと……\nその髪型のことなんですけど……。\n"
 msgstr ""
+"Ah, well……\n"
+"Just, about your hair style……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +280,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:22 
 msgid "前に、髪についての事情は\n聞かせてもらいましたけど……。\n"
-msgstr ""
+msgstr "I did hear about the situation with your hair, but……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +292,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:23 
 msgid "で、でも、やっぱり今のままでは\n風紀的にアレなので……。\n"
-msgstr ""
+msgstr "B-But, you know, I still think it still goes against public morals…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +305,8 @@ msgstr ""
 #: sc/0037:24 
 msgid "その……髪の毛は立たせないように\nしてもらえると……その……。\n"
 msgstr ""
+"Uhm……if you couldn't comb it down…\n"
+"or something……you know……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,6 +319,8 @@ msgstr ""
 #: sc/0037:25 
 msgid "（くっ……桜井先生の意見はもっともだ……\n　理由はどうあれ、僕は風紀を乱している）\n"
 msgstr ""
+"(Ghh……I get where she's coming from……\n"
+"no matter the reason, I am breaking public morals)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +333,8 @@ msgstr ""
 #: sc/0037:26 
 msgid "（しかし！　しかし今は！\n　下ろしたくても触ることすらできない！）\n"
 msgstr ""
+"(However! Not now!\n"
+"Even if I wanted to put it down, I can't even touch it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,6 +347,8 @@ msgstr ""
 #: sc/0037:27 
 msgid "あ、そうです。\nどうせなら、かわいい髪型にしてみませんか？\n"
 msgstr ""
+"Ah, is that right. \n"
+"If you are going to change it, how about having it be something cute?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +360,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:28 
 msgid "チュ―リップとかですか！？\n"
-msgstr ""
+msgstr "Like a tulip!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +384,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:30 
 msgid "チュ―リップだけは勘弁してください！\n"
-msgstr ""
+msgstr "I'm begging you, anything but a tulip, please!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +397,8 @@ msgstr ""
 #: sc/0037:31 
 msgid "え、あ、スイマセン！\nそれなら、チュ―リップはなしでいいですよ！\n"
 msgstr ""
+"Eh, oh, sorry!\n"
+"Okay, it's fine if it's not a tulip!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +411,8 @@ msgstr ""
 #: sc/0037:32 
 msgid "他の花も嫌です！\n助けてください！\n"
 msgstr ""
+"And no other flower either!\n"
+"Give me a break!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +425,8 @@ msgstr ""
 #: sc/0037:33 
 msgid "ハ、ハイ！\n花全般、なしでいいです！\n"
 msgstr ""
+"Y- Yes!\n"
+"No need to have any type of flower!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +438,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:34 
 msgid "じゃあ、この髪型でもいいですか！？\n"
-msgstr ""
+msgstr "Then, what about this kind of hair style?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +451,8 @@ msgstr ""
 #: sc/0037:35 
 msgid "（そう、冷静に考えてみると、\n　別のどんな髪型でも今はダメなんだ……）\n"
 msgstr ""
+"(Yes, if I think about it, any other hair style \n"
+"would work except what I have now……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +465,8 @@ msgstr ""
 #: sc/0037:36 
 msgid "（なんとかして……なんとかして、\n　この状況を回避しなければ！）\n"
 msgstr ""
+"(I need to do something… I need to\n"
+"avoid this situation somehow……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +479,8 @@ msgstr ""
 #: sc/0037:37 
 msgid "えっ？\nこの髪型でもって……そ、それは……。\n"
 msgstr ""
+"Eh?\n"
+"This hair style……uh, uhm, isn't it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:38 
 msgid "いいですか！？\n"
-msgstr ""
+msgstr "Can I not!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:39 
 msgid "ひ！？\n"
-msgstr ""
+msgstr "*Gasp*!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +516,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:40 
 msgid "きょ、許可します！\n"
-msgstr ""
+msgstr "I- I will accept it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +529,8 @@ msgstr ""
 #: sc/0037:41 
 msgid "よかった！\n……あれ？\n"
 msgstr ""
+"Ah, thanks!\n"
+"……hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:42 
 msgid "あれ！？\n"
-msgstr ""
+msgstr "Huh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:43 
 msgid "か、かわいい髪型……ですか？\n"
-msgstr ""
+msgstr "A c- cute hair style... you say?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +566,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:44 
 msgid "はいっ。\n"
-msgstr "Okay.\n"
+msgstr "Yeah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +578,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:45 
 msgid "た、例えばどんな……。\n"
-msgstr ""
+msgstr "L- like, what kind……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +591,8 @@ msgstr ""
 #: sc/0037:46 
 msgid "そうですね……あ、あの、長さを知りたいので\nとりあえず、一度崩してもらえますか？\n"
 msgstr ""
+"Yeah hm……well, um, I want to see how long it is, \n"
+"so could you pull it down for a sec?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:47 
 msgid "（くっ、まずい、今の僕の髪が\n　さわれないことを知られては……！）\n"
-msgstr ""
+msgstr "(Gh, this is not good, if she finds out that I can't touch my hair…!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:48 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +628,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:49 
 msgid "……あ、あの、中之条くん？\n"
-msgstr ""
+msgstr "……Ah, um, Nakanojou-kun?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +640,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:50 
 msgid "……じ、実は、僕、５円ハゲが……！\n"
-msgstr ""
+msgstr "……A- Actually I have 5-yen baldness……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +652,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:51 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +664,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:52 
 msgid "６円でもいいんです！\n"
-msgstr ""
+msgstr "And I'd rather have it 6 yen!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,7 +676,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:53 
 msgid "……あがった！！\n"
-msgstr ""
+msgstr "……It went up!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +688,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:54 
 msgid "だから、下ろしたくないんです。\n"
-msgstr ""
+msgstr "So that's why I don't want to put it down.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +712,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:56 
 msgid "……６円なら、しかたありませんね。\n"
-msgstr ""
+msgstr "……if it's 6 yen, then it can't be helped.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:57 
 msgid "ありがとうございます、先生っ！\n"
-msgstr ""
+msgstr "Thank you so much, teacher!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,13 +742,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:59 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0037:59 
 msgid "……どうして？\n"
-msgstr ""
+msgstr "……but why though?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +760,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:60 
 msgid "かわいい髪型……？\n"
-msgstr ""
+msgstr "A cute hair style……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -727,6 +773,8 @@ msgstr ""
 #: sc/0037:61 
 msgid "はいっ！　かわいい髪型なら、\nきっと風紀を乱すことはないと思います。\n"
 msgstr ""
+"Yes! If it's cute, there's no way it \n"
+"will go against public morals.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:62 
 msgid "……でも、桜井先生。\n"
-msgstr ""
+msgstr "But, Sakurai-sensei……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +798,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:63 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +811,8 @@ msgstr ""
 #: sc/0037:64 
 msgid "男子がかわいい髪型にしても、\nあまり、かわいくないと思いますが……。\n"
 msgstr ""
+"But even if a guy gets a \"cute\" haircut, \n"
+"I don't think it'd be that cute……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,13 +830,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:66 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0037:66 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,16 +848,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0037:67 
 msgid "あ―……。\n"
-msgstr "Uh......\n"
+msgstr "Uh—…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0037:68 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0037:68 
 msgid "……ごめんなさい。\n"
-msgstr ""
+msgstr "……Sorry.\n"

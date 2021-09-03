@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:22+0000\n"
-"PO-Revision-Date: 2019-08-31 23:05+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-19 17:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0015/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Mio"
 #: sc/0015:0 
 msgid "汚れや折れは大丈夫っぽいけど……\nやっぱり、何度数えても二枚足りない。\n"
 msgstr ""
+"The pages aren't dirty or damaged but…\n"
+"there are still two pages missing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0015:1 
 msgid "ゆっことぶつかった場所を探して……\nそれでダメなら、描き直すしかないか……。\n"
 msgstr ""
+"I'll go look at the place where I bumped into Yukko…\n"
+"and if it's not there then I guess my only option is to redraw them…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0015:2 
 msgid "確か足りないペ―ジは、こうなって、こうで……\n一番良いシ―ンだったんだよね……。\n"
 msgstr ""
+"The missing pages looked something like this and like that……\n"
+"It really was one of the best scenes, too…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0015:3 
 msgid "あっ……しまった。ついノっちゃって\nコ―スタ―に落書きしちゃった……。\n"
 msgstr ""
+"Ah…… crap. I ended up drawing\n"
+"the sketch right on the coaster……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:4 
 msgid "ま、まあ、いいか。どうせ捨てるやつだし。\n"
-msgstr ""
+msgstr "Oh well. It's gonna be tossed anyway.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +93,8 @@ msgstr ""
 #: sc/0015:5 
 msgid "あ、でもこっちの構図のが良いかな？\nもっとこう、カラミを濃厚にして……。\n"
 msgstr ""
+"Ah, hm or is this shot composition better?\n"
+"More like this, with a more passionate entanglement……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +106,7 @@ msgstr "Tamamura"
 #  warnings: 0 
 #: sc/0015:6 
 msgid "失礼しま―す。\n"
-msgstr ""
+msgstr "Excuse me—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:7 
 msgid "おわ―――――！？\n"
-msgstr ""
+msgstr "Woah————!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:9 
 msgid "ななな、なんですか！？\n"
-msgstr ""
+msgstr "W- W- What is it!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0015:10 
 msgid "あ、あの、スイマセン、\nこちら、お下げしてよろしいですか？\n"
 msgstr ""
+"Ah, erhm, excuse me,\n"
+"may I take these away?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0015:11 
 msgid "え、あ、はい。\nお願いします。\n"
 msgstr ""
+"Eh, ah yes.\n"
+"Please.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,18 +183,20 @@ msgstr ""
 #: sc/0015:12 
 msgid "で、では失礼します。\nごゆっくり……。\n"
 msgstr ""
+"Sorry for bothering. \n"
+"Please take your time…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0015:13 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0015:13 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +208,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:14 
 msgid "きゃ！？\n"
-msgstr ""
+msgstr "Kyahhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +220,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:15 
 msgid "っ！！？\n"
-msgstr ""
+msgstr "Ugh!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,54 +233,63 @@ msgstr ""
 #: sc/0015:16 
 msgid "！？\nお、お客様―――！！\n"
 msgstr ""
+"!?\n"
+"C-Customer————!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:17 
 msgid "うわぁ……あれは痛いな。\n"
-msgstr ""
+msgstr "Uwahhh…… That must've hurt.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:18 
 msgid "あ、ああ……\nなにせ頭からだったもんな。\n"
 msgstr ""
+"Ah, yeah……\n"
+"Anyhow, it fell head-on.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:19 
 msgid "髪があれば、多少は違ったろうに。\n"
 msgstr ""
+"If only he had hair on top, it would probably have made a slight difference."
+"\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:20 
 msgid "２ぐらいは防御力、上がっただろうな。\n"
 msgstr ""
+"His defense stat would probably have gone up by like two points or so.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:21 
 msgid "だよな。\nなにせ、アンテナしかないもんな。\n"
 msgstr ""
+"Definitely. \n"
+"Because now doesn't even have an antenna.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0015:22 
 msgid "……ん、アンテナ？\n"
-msgstr ""
+msgstr ".......hm, antenna?\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0015:23 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0015:23 
 msgid "はっはっはっはっ！\n"
-msgstr ""
+msgstr "Hahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +302,8 @@ msgstr ""
 #: sc/0015:24 
 msgid "（ふぅ、危なかった。もし見られてたら\n　二度とこの店に来れないよ）\n"
 msgstr ""
+"(Phew, that was close. If she saw it then there's \n"
+"no way I can come back to this cafe again.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +316,8 @@ msgstr ""
 #: sc/0015:25 
 msgid "（って、ゆっくりしてられないよ！\n　原稿を探しに行かないと！）\n"
 msgstr ""
+"(Ah, I can't rest here!\n"
+"I have to go out and find my pages!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +330,8 @@ msgstr ""
 #: sc/0015:26 
 msgid "（あ、でももし見つからなかったら、\n　さっき描いた構図で弌弌）\n"
 msgstr ""
+"(Ah, but if I don't find the pages then I think \n"
+"I'll just go with the way I drew it on that——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +355,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:28 
 msgid "って、ないじゃん！！\n"
-msgstr ""
+msgstr "Wait, where did it go!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +367,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:29 
 msgid "（そうだよ！　さっきカップと一緒に……\n　店員さんに持ってかれたんだ！）\n"
-msgstr ""
+msgstr "(That's right! The employee took away that together with my cup!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +379,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:30 
 msgid "さ、さっきの店員さんは……？\n"
-msgstr ""
+msgstr "A- And where did that employee go....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +391,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:31 
 msgid "（いた！）\n"
-msgstr ""
+msgstr "(There she is!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +404,8 @@ msgstr ""
 #: sc/0015:32 
 msgid "（あ、でも、コ―スタ―返せなんて言ったら\n　かえって見られる可能性がアップ！？）\n"
 msgstr ""
+"(Ah, but if I ask to get the coaster back then it \n"
+"only increases the risk of her looking at it!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +418,8 @@ msgstr ""
 #: sc/0015:33 
 msgid "（黙っていれば気づかずに捨ててもらえる？\n　……いや、それも確実じゃない）\n"
 msgstr ""
+"(If I'm just silent I'm sure she'll just toss it.\n"
+"…or no, you can't be sure about that.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +432,8 @@ msgstr ""
 #: sc/0015:34 
 msgid "（ああ、悩んでる時間も惜しいのに……\n　どうする？　どうする？　どうする！？）\n"
 msgstr ""
+"(Ahh, I really don't have time for this though...\n"
+"What should I do? What should I do!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +445,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:35 
 msgid "す、すいません店員さん！！\n"
-msgstr ""
+msgstr "E-Excuse me miss!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +457,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:36 
 msgid "はい、なんでしょうか？\n"
-msgstr ""
+msgstr "Yes, how can I help?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +469,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:37 
 msgid "そのコ―スタ―……千円で買った！！\n"
-msgstr ""
+msgstr "That coaster.....I'll buy it for a thousand yen!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +493,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:39 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +506,8 @@ msgstr ""
 #: sc/0015:40 
 msgid "えっと……コ―スタ―って\nこれのこと……ですか？\n"
 msgstr ""
+"Ehh… by coaster…\n"
+"you mean this thing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +519,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:41 
 msgid "ＭＮ！！\n"
-msgstr ""
+msgstr "NO!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +531,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:42 
 msgid "（ＭＮ！？）\n"
-msgstr ""
+msgstr "(NO!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +544,8 @@ msgstr ""
 #: sc/0015:43 
 msgid "え、えっと……\n未使用の物が欲しいんですか？\n"
 msgstr ""
+"Ah hmm……\n"
+"Would you like an unused one?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +558,8 @@ msgstr ""
 #: sc/0015:44 
 msgid "いいえ！　それがいいんです！\nはい、千円！\n"
 msgstr ""
+"No! That's the right one!\n"
+"Yes, here are your thousand yen!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +571,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:45 
 msgid "は、はい……。\n"
-msgstr ""
+msgstr "Y-Yes…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +583,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:46 
 msgid "それじゃ、ありがとうございました！\n"
-msgstr ""
+msgstr "Well then, thank you so much!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +595,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:47 
 msgid "ありがとうございました……。\n"
-msgstr ""
+msgstr "You're welcome.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,6 +608,8 @@ msgstr ""
 #: sc/0015:48 
 msgid "はぁ……良かった。\nコ―スタ―回収できて……。\n"
 msgstr ""
+"Phew…… What a relief.\n"
+"I was able to get it back……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +622,8 @@ msgstr ""
 #: sc/0015:49 
 msgid "原稿が見つからなかったら、\n最悪、このコ―スタ―に描いた構図で……。\n"
 msgstr ""
+"If in the worst case I don't find the pages I'll just \n"
+"go with how I drew it on this coaster....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +659,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:52 
 msgid "別のやつだ……。\n"
-msgstr ""
+msgstr "This wasn't the right one......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +671,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:53 
 msgid "（お、落ち着け私！）\n"
-msgstr ""
+msgstr "(No, I should calm down.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +684,8 @@ msgstr ""
 #: sc/0015:54 
 msgid "（要はあの店員さんが、コ―スタ―をめくらずに\n　捨ててくれればいいだけの話！）\n"
 msgstr ""
+"(She just have to throw it without looking \n"
+"on the underside and it will be all fine!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:55 
 msgid "（でも……もし、\n　コ―スタ―をめくる素振りを見せたら……）\n"
-msgstr ""
+msgstr "(But……if she does end up turning it)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +709,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:56 
 msgid "（その時は……その時は……っ！）\n"
-msgstr ""
+msgstr "(Then I'll be……then I'll be……ah!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +733,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:58 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +745,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:59 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +757,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:60 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +769,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:61 
 msgid "あ、あの……何か？\n"
-msgstr ""
+msgstr "E- Ehrm…… what is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +781,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:62 
 msgid "いえ、別に。\n"
-msgstr ""
+msgstr "I-It's nothing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +793,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:63 
 msgid "？？？\n"
-msgstr ""
+msgstr "???\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +805,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:64 
 msgid "（なんか怖い……）\n"
-msgstr ""
+msgstr "(That's a little creepy……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +818,8 @@ msgstr ""
 #: sc/0015:65 
 msgid "（おっ、そうだ！　そのままコ―スタ―を\n　ゴミ箱に入れて……）\n"
 msgstr ""
+"(Oh, yes! Throw the coaster in \n"
+"the trash bin just like that……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +831,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:66 
 msgid "ＸＤＲ！！\n"
-msgstr ""
+msgstr "YES!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +843,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:67 
 msgid "（ＸＤＲ？？？）\n"
-msgstr ""
+msgstr "(YES???)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +856,8 @@ msgstr ""
 #: sc/0015:68 
 msgid "良かった。\nこれで安心して探しにいけるよ。\n"
 msgstr ""
+"Great. Now I can go without \n"
+"having to worry about it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +881,7 @@ msgstr "Yoshino"
 #  warnings: 0 
 #: sc/0015:70 
 msgid "あれ？　今の……みお？\n"
-msgstr ""
+msgstr "Huh? Was that…… Mio?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +894,8 @@ msgstr ""
 #: sc/0015:71 
 msgid "んっ？　何か踏んだ。\n……コ―スタ―？\n"
 msgstr ""
+"Hm? Oh I stepped on something.\n"
+"……A coaster?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +907,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:72 
 msgid "あ、この絵って……。\n"
-msgstr ""
+msgstr "Ah, this drawing…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +920,8 @@ msgstr ""
 #: sc/0015:73 
 msgid "あ、長野原さん、いらっしゃいませ。\n……どうかしたんですか？\n"
 msgstr ""
+"Ah, nice to see you Miss. Naganohara.\n"
+"……Has something happened?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,6 +934,8 @@ msgstr ""
 #: sc/0015:74 
 msgid "いや―、妹の落とし物を拾っちゃって。\nほら、みてみて、これ上手でしょ―！\n"
 msgstr ""
+"Well, it's just that my little sister dropped something. \n"
+"Hey, look at this, isn't she good at drawing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +959,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:76 
 msgid "……なんだろ、寒気が。\n"
-msgstr ""
+msgstr "……What was that, I just got the shivers.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -913,6 +972,8 @@ msgstr ""
 #: sc/0015:77 
 msgid "（だ、大丈夫だよね。\n　あんなの、あとは捨てるだけなんだし）\n"
 msgstr ""
+"(I-It'll probably be fine. They are just going to \n"
+"throw it away so.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +985,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:78 
 msgid "（それよりも、原稿の方なんとかしなきゃ）\n"
-msgstr ""
+msgstr "(More importantly, I have to get back looking for the pages.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +997,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:79 
 msgid "ありがとうございました―。\n"
-msgstr ""
+msgstr "Thank you for visiting\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,6 +1010,8 @@ msgstr ""
 #: sc/0015:80 
 msgid "（えっと、この注文は１２番のお客様に……\n　あっ、いたいた）\n"
 msgstr ""
+"(Um, this order is for customer number 12……\n"
+"Ah, there they are.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1024,8 @@ msgstr ""
 #: sc/0015:81 
 msgid "お待たせ致しました。\nカフェミストのト―ルになります。\n"
 msgstr ""
+"Thank you for waiting. \n"
+"This is a Caffè Misto Tall.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,7 +1049,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0015:83 
 msgid "それじゃ早速弌弌\n"
-msgstr ""
+msgstr "In that case, let me——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -997,15 +1062,17 @@ msgstr ""
 #: sc/0015:84 
 msgid "……ん？　何だろう、\nコ―スタ―に絵が描かれて弌弌\n"
 msgstr ""
+"…Hm? What the heck,\n"
+"there's a sketch drawn on the coaster——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0015:85 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0015:85 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"

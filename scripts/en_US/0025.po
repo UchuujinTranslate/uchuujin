@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2019-08-30 22:02+0000\n"
+"PO-Revision-Date: 2020-07-27 22:22+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0025/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,9 +24,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0025:0 
 msgid "う―……さっきは失敗したな。\n"
-msgstr ""
-"Ugh...\n"
-"I failed earlier...\n"
+msgstr "Ugh… That just went up in smoke.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -39,8 +37,8 @@ msgstr ""
 #: sc/0025:1 
 msgid "東雲を捕らえるはずが、\nモヒカンに嫌なところを見られてしまった。\n"
 msgstr ""
-"Instead of trapping Shinonome, I\n"
-"trapped that stupid mohawk kid instead.\n"
+"I hoped to trap Shinonome, but that Mohawk\n"
+"kid was gonna see me at a bad time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -53,8 +51,8 @@ msgstr ""
 #: sc/0025:2 
 msgid "……もう過ぎたことだ。\nコ―ヒ―でも飲んで忘れるか。\n"
 msgstr ""
-"...oh well. No use dwelling on the past.\n"
-"I wonder if I should try with the coffee again.\n"
+"…No use dwelling on the past. Maybe\n"
+"I could drink and forget with coffee.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -66,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0025:3 
 msgid "……ふぅ。\n"
-msgstr "... heh.\n"
+msgstr "……Phew.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,8 +77,8 @@ msgstr ""
 #: sc/0025:4 
 msgid "よし。\n諦めずに東雲なのを捕まえる方法を考えよう。\n"
 msgstr ""
-"Alright.\n"
-"Time to think of a way to trap Shinonome.\n"
+"Alright. Let's think of a way to\n"
+"trap Shinonome and not give up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -93,8 +91,8 @@ msgstr ""
 #: sc/0025:5 
 msgid "この前は睡眠薬を使用したが、\n……効き目は無かったようだ。\n"
 msgstr ""
-"When I tried the sleeping pills on her...\n"
-"...it seemed to have no effect.\n"
+"When I tried the sleeping pills on her…\n"
+"…it seemed to have no effect.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -107,8 +105,8 @@ msgstr ""
 #: sc/0025:6 
 msgid "まだごっそり余ってるんだが……\n仕入れすぎたな。\n"
 msgstr ""
-"I still have a mountain of that stuff...\n"
-"I paid way too much.\n"
+"I still have a mountain of that stuff…\n"
+"I bought way too much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -122,7 +120,7 @@ msgstr ""
 msgid "まあ睡眠薬は効果なし、と。\n次に何か効きそうな薬は……。\n"
 msgstr ""
 "Well, sleeping pills are a bust.\n"
-"The next drug I should try is...\n"
+"The next drug I should try is…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -134,25 +132,25 @@ msgstr ""
 #  warnings: 0 
 #: sc/0025:8 
 msgid "そうだ、確か亳れ薬がこの辺りに……。\n"
-msgstr "Right... They should be around here...\n"
+msgstr "Right… They should be around here…\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0025:9 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0025:9 
 msgid "ん？　何だ……。\n"
-msgstr "Hm? What...\n"
+msgstr "Hmm? What the…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0025:10 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -169,6 +167,5 @@ msgstr "\n"
 #  text 
 #  warnings: 11 
 #: sc/0025:272 
-#, fuzzy
 msgid "｝　￣．ｓ￣　：中村先生こ、校長！？\n"
 msgstr "P-principal?\n"

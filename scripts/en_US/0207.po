@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-08-31 22:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0207/en_US/>\n"
+"PO-Revision-Date: 2021-08-01 17:55+0000\n"
+"Last-Translator: Weblate Admin <colebob9@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,8 +25,8 @@ msgstr "Otsuki #2"
 #: sc/0207:0 
 msgid "只今より、映画鑑賞会の予定を急佚変更し\n船内レクリエ―ション大会を開催する！\n"
 msgstr ""
-"In lieu of the film viewing changing,\n"
-"a cabin recreation rally will be held！\n"
+"In lieu of the canceled film festival,\n"
+"we'll have an cabin recreation event!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -38,7 +38,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:1 
 msgid "姫様を楽しませた者には金一封を与える。\nそれでは姫様、お言葉を。\n"
-msgstr "Those who entertain the Princess\n"
+msgstr ""
+"Those who succeed in entertaining the Princess will be rewarded.\n"
+"Well, let us hear from the Princess herself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -50,7 +52,7 @@ msgstr "Princess Starla"
 #  warnings: 0 
 #: sc/0207:2 
 msgid "あ―……。\n"
-msgstr "Uh......\n"
+msgstr "Uh—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:5 
 msgid "そ、それではさっそく……最初は９４番！\n"
-msgstr "R-right away! The first one up is… #94！\n"
+msgstr "R-right away! The first one is… No. 94！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -98,13 +100,13 @@ msgstr "#94"
 #  warnings: 0 
 #: sc/0207:6 
 msgid "はい！　９４番いきます！\n"
-msgstr "Sir！　#94, reporting！\n"
+msgstr "Sir！#94, reporting！\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:7 
 msgid "アイツは確かダジャレだっけ？\n"
-msgstr "...hey, isn't he pretty funny?\n"
+msgstr "He was the guy who tells puns right?\n"
 
 #  text 
 #  warnings: 1 
@@ -124,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:9 
 msgid "それでは始めます！\n"
-msgstr "...I will begin!\n"
+msgstr "……Then, I will begin!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -138,7 +140,7 @@ msgstr ""
 msgid "ぼっちゃんが、池に落ちた！\nぼっ弌弌\n"
 msgstr ""
 "W-what was the electrician\n"
-"arrested for? Batter-\n"
+"arrested for? Batter—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -150,7 +152,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:11 
 msgid "弌弌ちゃ――――――――ん！\n"
-msgstr "AAAAAaaugh!\n"
+msgstr "-yyyyyyyyyyyy!! AAAAAaaugh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,13 +188,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:14 
 msgid "次。３８番。\n"
-msgstr "Next. #38.\n"
+msgstr "Next. No. 38\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:15 
 msgid "お、おい！　確か３８番は……。\n"
-msgstr "W-wait... isn't #38...\n"
+msgstr "W-wait... isn't No. 38...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,15 +207,15 @@ msgstr "#38"
 #: sc/0207:16 
 msgid "ああ、オレだ。\nオレは……オレは通称、下ネタの３８番！\n"
 msgstr ""
-"Oh, it seems that I'm up. You see,\n"
-"I'm the one simply known as... #38!\n"
+"Oh, it seems that I'm up. You see, my\n"
+"street name is…dirty joke comedian #38!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:17 
 msgid "下……や、やめろっ！\n消される！　絶対に消されちまう！\n"
 msgstr ""
-"Crap... S-shut up! You'll die!\n"
+"Dirty... S-shut! You'll die!\n"
 "You'll be absolutely erased!\n"
 
 #  speaker 
@@ -253,7 +255,7 @@ msgstr ""
 #: sc/0207:20 
 msgid "……よし。\nそれじゃまず、俺の育てている芋の話を弌弌\n"
 msgstr ""
-"...right. Well then, why don't I first\n"
+"...Aight. Well then, why don't I first\n"
 "talk about my potato farm--\n"
 
 #  speaker 
@@ -285,14 +287,14 @@ msgstr "OOOOooooough!\n"
 #: sc/0207:23 
 msgid "ヤバイ……生半可な芸では……\nオレたち全員、姫に弌弌\n"
 msgstr ""
-"Crap... I can't do this dumb act...\n"
-"Is it really our fate to--\n"
+"Crap…… I can't do this dumb act……\n"
+"Is it really our fate to——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:24 
 msgid "弌弌消される――――っ！\n"
-msgstr "--be erased!?\n"
+msgstr "——be erased!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -316,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:26 
 msgid "は、はいっ！\n次の者、はやくやれっ！\n"
-msgstr "...o-of course! Someone, quickly!\n"
+msgstr "Of, of course! Someone, quickly!\n"
 
 #  text 
 #  warnings: 1 
@@ -330,14 +332,14 @@ msgstr "Hey, isn't there anyone with an act!?\n"
 msgid "そ、そんなこと言われても……\nオレも下ネタだったし……。\n"
 msgstr ""
 "E-even at death's door, I still\n"
-"can't think of an act...\n"
+"can't think of an act…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:29 
 msgid "オ、オレは踊りだ。だけど……\nとてもじゃないがここを乗り切る自信は……。\n"
 msgstr ""
-"I-I was going to dance... But... I need\n"
+"I, I was going to dance…but…I need\n"
 "time to steel my nerves...\n"
 
 #  text 
@@ -345,22 +347,22 @@ msgstr ""
 #: sc/0207:30 
 msgid "ならどうすんだよ！？\nこのままじゃオレたち、全滅だぞ！？\n"
 msgstr ""
-"Are you serious!? We're all about\n"
-"to die!!\n"
+"Are you serious!? \n"
+"We're all about to die!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:31 
 msgid "……そうだ！　アレはどうだ？\nギャラクシ―テレビと提携して進めていた弌弌\n"
 msgstr ""
-"...that's it! What was it again? I\n"
-"think it was called, like, Galaxy TV--\n"
+"…That's it! What was it again? I\n"
+"think it was called, like, Galaxy TV——\n"
 
 #  text 
 #  warnings: 4 
 #: sc/0207:32 
 msgid "笑撃地球まる見えテレビか！\n"
-msgstr "The Laugh Attack Great Earth TV show！\n"
+msgstr "The Laugh Attack ☆ Great Earth TV show！\n"
 
 #  text 
 #  warnings: 1 
@@ -375,7 +377,7 @@ msgstr ""
 #: sc/0207:34 
 msgid "……しかし、あれはまだ\n放映準備の段階じゃなかったか？\n"
 msgstr ""
-"...not to bum you out or anything,\n"
+"…Not to bum you out or anything,\n"
 "but doesn't it air next Saturday?\n"
 
 #  text 
@@ -383,8 +385,8 @@ msgstr ""
 #: sc/0207:35 
 msgid "スタジオ船に交渉して放映を前倒しさせろ！\nオレたちの命がかかってるんだ！\n"
 msgstr ""
-"Get in contact with the studio & bring\n"
-"it forward! Our lives are at stake!\n"
+"Get in contact with the studio and make\n"
+"it air! Our lives are at stake!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -422,7 +424,7 @@ msgstr "???"
 #  warnings: 0 
 #: sc/0207:38 
 msgid "……お―い……見えてるか……。\n"
-msgstr "...hey! See anything?\n"
+msgstr "……Hey! See……anything?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -435,8 +437,8 @@ msgstr ""
 #: sc/0207:39 
 msgid "……え？　まだ？\nんじゃ、ちょっと調整を……。\n"
 msgstr ""
-"...what? Nothing? Well...\n"
-"...let me tune it some more...\n"
+"…What? Nothing? Well…\n"
+"…let me tune it some more…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -449,8 +451,8 @@ msgstr "#97"
 #: sc/0207:40 
 msgid "これでどうだ？　あ、ちなみにオレ９７番。\nそんで目の前に映ってんのが弌弌\n"
 msgstr ""
-"How's this? Oh, I'm #97, the cameraman,\n"
-"and the guy in front of me is--\n"
+"How's this? Oh, by the way I'm #97, the\n"
+"cameraman, and the person you see is——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,8 +465,8 @@ msgstr "#9"
 #: sc/0207:41 
 msgid "は〜い！　９番で―す。ただいま地球で―す。\nそれでは、９番……いきま〜す！\n"
 msgstr ""
-"Yes! #9, reporting.\n"
-"Broadcasting right from Earth!\n"
+"Yes～! #9, reporting. Broadcasting\n"
+"right from Earth! Here we go～!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -477,8 +479,8 @@ msgstr ""
 #: sc/0207:42 
 msgid "俺たちのエ―ス、通称セクハラの９番！\n金一封でるよ〜、こりゃ。\n"
 msgstr ""
-"Our ace reporter #9, the pervert!\n"
-"This is gold seal material.\n"
+"Our ace reporter, the perverted #9! This\n"
+"is gold seal material～. Take a look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -491,8 +493,8 @@ msgstr ""
 #: sc/0207:43 
 msgid "……えっ？　ち、地球チ―ム、聞こえてるか！\n待てっ、待つんだっ！\n"
 msgstr ""
-"...what? Earth team, can you hear me?\n"
-"W-wait!\n"
+"…What? Team Earth, can you hear me?\n"
+"W-wait! Hold on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,8 +507,8 @@ msgstr ""
 #: sc/0207:44 
 msgid "え―……まずは、\n俺が育てている、芋の話から弌弌\n"
 msgstr ""
-"Well, let's see... I guess I can talk\n"
-"about the potato farm--\n"
+"Well, let's see…  Let's start\n"
+"with my youth, on the potato farm, I——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -531,7 +533,7 @@ msgstr ""
 #: sc/0207:46 
 msgid "地球チ―ム！　ネタ披露はもういい！\nだからやめろ！　やめるんだ！\n"
 msgstr ""
-"Earth Team! I-it's already a good\n"
+"Team Earth! I-it's already a good\n"
 "program! Stop the commentary! Stop it!\n"
 
 #  speaker 
@@ -545,8 +547,8 @@ msgstr ""
 #: sc/0207:47 
 msgid "それより、地球人にアンテナを付けるんだ！\nそれがオレの弌弌それがオレの弌弌！\n"
 msgstr ""
-"And start filming the Earthlings!\n"
-"That's... That's my--\n"
+"But rather, keep the antenna affixed\n"
+"on the Earthlings! That's…that's my—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:48 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:49 
 msgid "弌弌遺言だ――――――――――――っ！！\n"
-msgstr "--my will!!\n"
+msgstr "——my last request!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,19 +608,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:52 
 msgid "あの……ええっと……。\n"
-msgstr "... um... uh...\n"
+msgstr "……Um……uh…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0207:53 
 msgid "みお＆高崎先生"
-msgstr ""
+msgstr "Mio ＆ Takasaki-sensei"
 
 #  text 
 #  warnings: 0 
 #: sc/0207:53 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -630,16 +632,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:54 
 msgid "……廊下に立ってます。\n"
-msgstr "...I'll go stand in the hallway.\n"
+msgstr "……I'll go stand in the hallway.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0207:55 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0207:55 
 msgid "……また変な夢、見ちゃったよ。\n"
-msgstr "Hm. Another bizarre dream.\n"
+msgstr "……Another bizarre dream.\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-31 02:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-09 22:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0129/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Itako"
 #: sc/0129:0 
 msgid "……む？\nあそこにいるのは弌弌\n"
 msgstr ""
+"……Hmph?\n"
+"What's that over there? It's——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +123,8 @@ msgstr ""
 #: sc/0129:8 
 msgid "う〜む。\n何か良い手は……。\n"
 msgstr ""
+"Hmm～.\n"
+"My somewhat good hand is…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +172,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:12 
 msgid "ごめんくださ―い。\n"
-msgstr ""
+msgstr "May I come in?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +244,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0129:18 
 msgid "桜井先生、どうしました？\n"
-msgstr ""
+msgstr "Sakurai-sensei, what happened?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +436,7 @@ msgstr "Sakamoto-san"
 #  warnings: 0 
 #: sc/0129:34 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:36 
 msgid "（えええ―――！？）\n"
-msgstr ""
+msgstr "(Ehhh———!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +472,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:37 
 msgid "えっ！？　そ、そうなんですか！？\n"
-msgstr ""
+msgstr "Eh!? Is, is that really true!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +514,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0129:41 
 msgid "あ―っ！？\n"
-msgstr ""
+msgstr "Ah—!?\n"
 
 #  text 
 #  warnings: 1 
@@ -527,14 +531,15 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0129:44 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0129:44 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,6 +552,8 @@ msgstr ""
 #: sc/0129:45 
 msgid "（……あれ？\n　中之条くんのおばあさん……じゃないの？）\n"
 msgstr ""
+"(……Wait, what?\n"
+"You aren't…… Nakanojou-kun's grandma?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +589,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:48 
 msgid "（よし！　間に合った！）\n"
-msgstr ""
+msgstr "(Alright! Made it in time!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +673,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:55 
 msgid "う、うう……。\n"
-msgstr ""
+msgstr "Ugh, uhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +715,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:59 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -990,7 +997,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:82 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1026,7 +1033,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:85 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1038,7 +1045,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:86 
 msgid "……はい。\n"
-msgstr "...yes.\n"
+msgstr "……Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1069,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:88 
 msgid "ああっ！？\n"
-msgstr ""
+msgstr "Ahh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1080,7 +1087,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:90 
 msgid "桜井先生＆高崎先生"
-msgstr ""
+msgstr "Sakurai-sensei & Takasaki-sensei"
 
 #  text 
 #  warnings: 0 
@@ -1116,7 +1123,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:93 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -1140,7 +1147,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:95 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -1164,7 +1171,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0129:97 
 msgid "警察"
-msgstr ""
+msgstr "The Police"
 
 #  text 
 #  warnings: 0 

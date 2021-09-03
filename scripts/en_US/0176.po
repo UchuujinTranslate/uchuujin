@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-30 22:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 20:54+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0176/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:0 
 msgid "ふむ……。\n"
-msgstr ""
+msgstr "Hmph…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +180,7 @@ msgstr "Gentleman & Fe-chan"
 #  warnings: 0 
 #: sc/0176:13 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:20 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -401,8 +401,9 @@ msgstr ".........\n"
 #  speaker 
 #  warnings: 3 
 #: sc/0176:34 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
@@ -690,7 +691,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:58 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -900,13 +901,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:75 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0176:76 
 msgid "ウェボシ―＆フェっちゃん"
-msgstr ""
+msgstr "Weboshi & Fe-chan"
 
 #  text 
 #  warnings: 0 
@@ -1050,13 +1051,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:88 
 msgid "フェっちゃん"
-msgstr ""
+msgstr "Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0176:88 
 msgid "あっ、そっか、中村先生がいたね！\n"
-msgstr ""
+msgstr "Ah, I see. Nakamura-sensei was here!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,7 +1069,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:89 
 msgid "（中村……誰じゃろう？）\n"
-msgstr ""
+msgstr "(Nakamura…… Who's that?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1080,7 +1081,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:90 
 msgid "（というか……ここはどこじゃろう？）\n"
-msgstr ""
+msgstr "(Or rather…… Where am I?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1092,16 +1093,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0176:91 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0176:92 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 
 #: sc/0176:92 
 msgid "……良い天気じゃの。\n"
-msgstr ""
+msgstr "……What wonderful weather.\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-31 23:02+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 21:07+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0080/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr "Buddy & Co."
 #  warnings: 0 
 #: sc/0080:2 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:3 
 msgid "バディ、コバディ、ただいま。\n"
-msgstr ""
+msgstr "Buddy, Lil' Buddy, welcome home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -90,13 +90,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:6 
 msgid "バディ＆コバディ"
-msgstr ""
+msgstr "Buddy & Lil' Buddy"
 
 #  text 
 #  warnings: 0 
 #: sc/0080:6 
 msgid "！\n"
-msgstr ""
+msgstr "!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -138,7 +138,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0080:12 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:13 
 msgid "バ、バディ！？　コバディ！？\n"
-msgstr ""
+msgstr "B-buddy!? Lil' Buddy!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:14 
 msgid "……………。\n"
-msgstr ""
+msgstr "…………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:23 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 
@@ -420,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:35 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +564,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:47 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0080:53 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 

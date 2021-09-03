@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 00:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0119/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0119:0 
 msgid "少し遅くなっちゃったかな。\n"
-msgstr ""
+msgstr "Maybe I got here a little late.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:1 
 msgid "別に待たせてるわけじゃないけど……。\n"
-msgstr ""
+msgstr "Not that I have them waiting for me……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:2 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +61,8 @@ msgstr ""
 #: sc/0119:3 
 msgid "でも、あんまり遅れると、\n部長に遅いって言われるのかな……？\n"
 msgstr ""
+"But if I'm really late I wonder if Club President will call me out for it……?"
+"\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +86,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:5 
 msgid "ちょっとだけ急ごう。\n"
-msgstr ""
+msgstr "Let me hurry a little.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,19 +98,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:6 
 msgid "こんにちは、少し遅く……！？\n"
-msgstr ""
+msgstr "Hello, sorry for being late……!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0119:7 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0119:7 
 msgid "関口！　捕まえてくれ！！\n"
-msgstr ""
+msgstr "Sekiguchi! Catch it!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +134,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:9 
 msgid "そいつだ！　早く！！\n"
-msgstr ""
+msgstr "That thing there! Hurry!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +146,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0119:10 
 msgid "ワンッ！\n"
-msgstr ""
+msgstr "Woff!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:11 
 msgid "え、えっと……えいっ。\n"
-msgstr ""
+msgstr "Eh, um…… Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +170,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:12 
 msgid "ナイス関口！！　よく捕まえたよ！\n"
-msgstr ""
+msgstr "Nice Sekiguchi! Nice catch!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -246,7 +248,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0119:21 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -264,7 +266,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0119:23 
 msgid "ああ……。\n"
-msgstr "Ah...\n"
+msgstr "Yeah…….\n"
 
 #  text 
 #  warnings: 1 
@@ -282,7 +284,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:25 
 msgid "（何、これ……）\n"
-msgstr ""
+msgstr "(What is this……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:26 
 msgid "（座禅？）\n"
-msgstr ""
+msgstr "(Zazen meditation?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +309,8 @@ msgstr ""
 #: sc/0119:27 
 msgid "（インドの人がやってるポ―ズだけど……。\n　何で部長がそれをしてるの？）\n"
 msgstr ""
+"(It's the pose you see Indian people do but……\n"
+"why is Club President doing it?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +322,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:28 
 msgid "（なぜか碁盤の上だし）\n"
-msgstr ""
+msgstr "(And it's on top of the Igo-board too)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +334,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:29 
 msgid "（私が部屋に入ってきたのにも\n　気づいてないみたいだし……）\n"
-msgstr ""
+msgstr "(And he's not taking notice of me even when I entered the room……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:30 
 msgid "（どうしよう……）\n"
-msgstr ""
+msgstr "(What should I do……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -355,6 +359,8 @@ msgstr ""
 #: sc/0119:31 
 msgid "あの、部長。\n何やってるんですか？\n"
 msgstr ""
+"Uhm, club president.\n"
+"What are you doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +384,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:33 
 msgid "部長？\n"
-msgstr ""
+msgstr "Club President?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +396,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:34 
 msgid "ツッコミが弱い！！\n"
-msgstr ""
+msgstr "Your reaction is too weak!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,6 +421,8 @@ msgstr ""
 #: sc/0119:36 
 msgid "も―、関口―。\n何でそんな弱腰ツッコミなんだよ〜。\n"
 msgstr ""
+"C'mon Sekiguchi—.\n"
+"What's with that weak attitude comment〜.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,7 +434,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:37 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +447,8 @@ msgstr ""
 #: sc/0119:38 
 msgid "いや、オレがボケてただろ？\nあそこは爆笑かツッコミのどっちかだろ？\n"
 msgstr ""
+"No but, I was playing dumb you see?\n"
+"At a time like that you either burst in laughs or call me out in it right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -450,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:39 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +473,8 @@ msgstr ""
 #: sc/0119:40 
 msgid "え？　じゃなくて。\nほら、もう一回入るとこから！\n"
 msgstr ""
+"No it's not \"Eh?\".\n"
+"Here, redo it from when you stepped in!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +486,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:41 
 msgid "は、はい。\n"
-msgstr ""
+msgstr "Y- Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +499,8 @@ msgstr ""
 #: sc/0119:42 
 msgid "こんにちは、遅くなりました。\n……ってなんでやねん。\n"
 msgstr ""
+"Hello, sorry for being late.\n"
+"……what the heck is this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,6 +513,8 @@ msgstr ""
 #: sc/0119:43 
 msgid "まだ弱いな―。\nもっと腹の底から！　なんでやねん！\n"
 msgstr ""
+"It still feels weak—.\n"
+"More from the bottom of your belly! What the heck!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:44 
 msgid "な、なんでやねん。\n"
-msgstr ""
+msgstr "W- What the heck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:45 
 msgid "もっと強く！　なんでやねん！\n"
-msgstr ""
+msgstr "More louder! What the heck!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -534,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:46 
 msgid "なんでやねん！！\n"
-msgstr ""
+msgstr "What the heck!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +562,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:47 
 msgid "そう、それだ！　合格！！\n"
-msgstr ""
+msgstr "Yes, that's it! You passed the test!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +574,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:48 
 msgid "あの―、部長？\n"
-msgstr ""
+msgstr "Uhm—, club president?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +586,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:49 
 msgid "何だ―？\n"
-msgstr ""
+msgstr "What is it—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:50 
 msgid "ひょっとして、そのためだけに？\n"
-msgstr ""
+msgstr "Could it be, just for that reason that you did all this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +611,8 @@ msgstr ""
 #: sc/0119:51 
 msgid "当たり前だろ？\nそれ以外の理由であんなことしないって。\n"
 msgstr ""
+"Of course.\n"
+"For what other reason would I have done that anyway.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +624,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:52 
 msgid "なんでやねん。\n"
-msgstr ""
+msgstr "What the heck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +637,8 @@ msgstr ""
 #: sc/0119:53 
 msgid "あれ？　よく見たら……。\nやっぱり、寝てる。\n"
 msgstr ""
+"Wait? If I look closely……\n"
+"He's asleep.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +651,8 @@ msgstr ""
 #: sc/0119:54 
 msgid "起こしてあげないと。\n風邪、ひいちゃうし。\n"
 msgstr ""
+"I have to wake him up.\n"
+"He might catch a cold.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -643,6 +665,8 @@ msgstr ""
 #: sc/0119:55 
 msgid "部長、こんな所で寝ちゃダメですよ。\n部長……部長……。\n"
 msgstr ""
+"Club president, you can't sleep at a place like this.\n"
+"Club president……club president……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +679,8 @@ msgstr ""
 #: sc/0119:56 
 msgid "ん……ふわぁぁぁ……。\nあ―、関口か。\n"
 msgstr ""
+"Hmn…fwahhh……\n"
+"Ah it's you, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +693,8 @@ msgstr ""
 #: sc/0119:57 
 msgid "おはようございます。\nそんな格好で寝て、どうしたんですか？\n"
 msgstr ""
+"Good morning.\n"
+"What are you doing falling asleep in a way like that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +707,8 @@ msgstr ""
 #: sc/0119:58 
 msgid "ああ、寝ちゃってたか。\nいや―、流石によく効くなぁ、これ。\n"
 msgstr ""
+"Ahh, I fell asleep huh.\n"
+"Man—, this thing sure works out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -690,7 +720,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:59 
 msgid "……何なんですか、今の。\n"
-msgstr ""
+msgstr "……what even was that thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +733,8 @@ msgstr ""
 #: sc/0119:60 
 msgid "ああ、囲碁ヨ―ガだ。\nリラックスと安眠効果があるんだぜ？\n"
 msgstr ""
+"Ah, it's called Igo-Yoga.\n"
+"It's proven effective for relaxation and good sleep.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +746,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:61 
 msgid "囲碁サッカ―だけじゃなくて、\nそんなのもあるんですか……。\n"
-msgstr ""
+msgstr "So apart from Igo-soccer there's even something like that too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +758,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:62 
 msgid "いや、オレが作った。\n"
-msgstr ""
+msgstr "No, I just made it up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +782,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:64 
 msgid "（そっとしておこう……）\n"
-msgstr ""
+msgstr "(Let me leave him be……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +794,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:65 
 msgid "……今日はどれ読もうかな？\n"
-msgstr ""
+msgstr "……I wonder what I should read today?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +830,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:68 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +842,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:69 
 msgid "次の巻、どこだっけ？\n"
-msgstr ""
+msgstr "Where did I put the next volume?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:70 
 msgid "あ、あった。\n"
-msgstr ""
+msgstr "Ah, I found it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -846,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:72 
 msgid "……終わりだ。\n"
-msgstr ""
+msgstr "……it's over.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +890,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:73 
 msgid "帰ろ。\n"
-msgstr ""
+msgstr "Time to head home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +902,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:74 
 msgid "それじゃ部長。お疲れ様でした。\n"
-msgstr ""
+msgstr "Well then Club President.  See you tomorrow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,16 +914,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0119:75 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0119:76 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0119:76 
 msgid "ツッコめよ！！\n"
-msgstr ""
+msgstr "Call me out on it!!\n"

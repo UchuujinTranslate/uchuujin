@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 00:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-10-06 16:25+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0169/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:0 
 msgid "……。\n"
-msgstr ""
+msgstr "…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:1 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:2 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +174,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:15 
 msgid "あ、あれは桜井先生！\n"
-msgstr ""
+msgstr "Th-that's Sakurai-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +198,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:17 
 msgid "桜井先生っ！\n"
-msgstr ""
+msgstr "Sakurai-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,7 +210,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0169:18 
 msgid "あっ、ハイ、なんですか安中さん。\n"
-msgstr ""
+msgstr "Ah, yes? What is it, Annaka-san?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:24 
 msgid "えっと、えっと……ど、どうしましょうっ。\n"
-msgstr ""
+msgstr "Um, um…… What should I do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:40 
 msgid "（ええ―――――っ！？）\n"
-msgstr ""
+msgstr "(EHH——————!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +678,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:57 
 msgid "う―ん……。\n"
-msgstr ""
+msgstr "Hmmm—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +708,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:60 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -894,28 +894,28 @@ msgstr ""
 #  warnings: 0 
 #: sc/0169:75 
 msgid "あの……安中、さん？\n"
-msgstr ""
+msgstr "Um…… Annaka-san?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0169:76 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
 #: sc/0169:76 
 msgid "こっちです！　早く！！\n"
-msgstr ""
+msgstr "This way! Quick!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0169:77 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0169:77 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

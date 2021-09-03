@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-03-17 17:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0013/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Yuuko"
 #: sc/0013:0 
 msgid "ひゃ―、間に合った〜。\nギリギリセ―フだね。\n"
 msgstr ""
+"Phew—, we made it on time～.\n"
+"That was a close one, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0013:1 
 msgid "誰のせいよ、まったく……。\n"
-msgstr ""
+msgstr "And who's fault is that? Honestly…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0013:2 
 msgid "事故だよ事故。\n犬に噛まれたと思って諦めよ？\n"
 msgstr ""
+"It was an accident, okay. Can you stop\n"
+"thinking about being bit by that dog?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:3 
 msgid "はいはい……。\n"
-msgstr ""
+msgstr "Yeah, yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0013:4 
 msgid "（まあ怪我したわけでも\n　授業に遅れたわけでもないからいいか）\n"
 msgstr ""
+"(Though, it wasn't like I got hurt. And we did get\n"
+"here before class started, so it's not a big deal.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0013:5 
 msgid "（さて、そんじゃ授業の準備っと。\n　最初は国語だっけ……）\n"
 msgstr ""
+"(Well, gotta prepare for class.\n"
+"First one is Japanese, I think……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +104,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:6 
 msgid "……あれ？\n"
-msgstr ""
+msgstr "……Wait, what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:8 
 msgid "（無い！？　カバンの中に原稿が無い！！）\n"
-msgstr ""
+msgstr "(Gone!? My draft pages are gone!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0013:9 
 msgid "（うちに忘れた？　ううん、そんなはず無い。\n　何度も確認してから、うちを出たし……）\n"
 msgstr ""
+"(Did I forgot them at home? Hmm, there's no way.\n"
+"I countlessly checked them before I left……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0013:10 
 msgid "（あっ、そっか！\n　さっき、ゆっことぶつかった時に……っ！）\n"
 msgstr ""
+"(Ah, of course! It was when\n"
+"Yukko bumped into me earlier……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0013:11 
 msgid "（な、なんてこった……！\n　アレを、誰かに見られたら……！）\n"
 msgstr ""
+"(Oh, oh my goodness……!\n"
+"If someone were to see that now……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0013:12 
 msgid "（笹原先輩と中之条くんの掛け算を\n　誰かに見られたら……！！）\n"
 msgstr ""
+"(If someone were to see the\n"
+"Sasahara-senpai and Nakanojou duo……!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +197,8 @@ msgstr ""
 #: sc/0013:13 
 msgid "（私は……！\n　私は、死ぬしか……ないっ！！）\n"
 msgstr ""
+"(Then…… \n"
+"I'd……  have no choice but…… to die!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:14 
 msgid "…………ん？\n"
-msgstr ""
+msgstr "………Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +222,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0013:15 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:16 
 msgid "あれ、何かくわえて弌弌\n"
-msgstr ""
+msgstr "Oh, there's something in its mouth——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,19 +246,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:17 
 msgid "！？　私の原稿！！\n"
-msgstr ""
+msgstr "!? My draft pages!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0013:18 
 msgid "お、おい……この漫画……。\n"
-msgstr ""
+msgstr "H-Hey…… this manga…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0013:19 
 msgid "うわぁ……\nん？\n"
 msgstr ""
+"Ahhhh……\n"
+"Hmn?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,13 +302,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0013:23 
 msgid "＆"
-msgstr ""
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0013:23 
 msgid "えええ――！？\n"
-msgstr ""
+msgstr "EHH―—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +321,8 @@ msgstr ""
 #: sc/0013:24 
 msgid "（ぶつかったのは少し前。だったらブツは\n　まだ現場に残っている可能性が高い！）\n"
 msgstr ""
+"(The incident was just a little while ago. There's a high chance that they "
+"still could be there!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +335,8 @@ msgstr ""
 #: sc/0013:25 
 msgid "（今からなら間に合う！\n　授業を抜けてでも取りに行かないと！）\n"
 msgstr ""
+"(I can still make it!\n"
+"I have to get them back, even if I end up having to miss out on class.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +349,8 @@ msgstr ""
 #: sc/0013:26 
 msgid "あっ、みおちゃん、ちょっと待って。\nあのね弌弌\n"
 msgstr ""
+"Ah, Mio, wait up. \n"
+"What are you——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +363,8 @@ msgstr ""
 #: sc/0013:27 
 msgid "止めないでゆっこ！！\n仕方がないの！　仕方なかったのよ！！\n"
 msgstr ""
+"Don't stop me, Yukko!! \n"
+"It can't be helped! It really can't!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +376,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:28 
 msgid "えっ？　でも……。\n"
-msgstr ""
+msgstr "Eh? But…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +389,8 @@ msgstr ""
 #: sc/0013:29 
 msgid "お願い行かせて！！\n私のためを思うなら、黙って行かせて！！\n"
 msgstr ""
+"Please let me leave!!\n"
+"If you really care about me, then just let me go!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +403,8 @@ msgstr ""
 #: sc/0013:30 
 msgid "いや、だけど……\nこれ、みおちゃんのじゃ……。\n"
 msgstr ""
+"No but……\n"
+"This, this isn't this yours…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +428,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:32 
 msgid "あっ、そ、それは！！\n"
-msgstr ""
+msgstr "Ah, w-what's that!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +441,8 @@ msgstr ""
 #: sc/0013:33 
 msgid "さっきカバンの中身拾ってる時に\n見つけたんだけどさ、みおちゃんのだよね？\n"
 msgstr ""
+"I found it when I picked up the things\n"
+"from your bag. Mio, it's yours right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +455,8 @@ msgstr ""
 #: sc/0013:34 
 msgid "そ、そうなんだ。\nありがとうゆっこ！\n"
 msgstr ""
+"Is, is that so.\n"
+"Thank you, Yukko!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +468,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:35 
 msgid "あ、ちょいストップ。\n"
-msgstr ""
+msgstr "Ah, but just one thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +480,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:36 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +493,8 @@ msgstr ""
 #: sc/0013:37 
 msgid "いや、ほら、拾ったのは私なんだからさ、\nお礼として見せて欲しいな―、なんて。\n"
 msgstr ""
+"Well you see, since I found them for you couldn't you let me see it. As a "
+"thank you, you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +519,8 @@ msgstr ""
 #: sc/0013:39 
 msgid "これ、新しいマンガでしょ？\n今度はどんなの描いたの？\n"
 msgstr ""
+"This is a new manga you've drawn right?\n"
+"What did you draw this time?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +545,8 @@ msgstr ""
 #: sc/0013:41 
 msgid "（言えない！　先輩とクラスメイトが\n　モデルのマンガなんて言えない！）\n"
 msgstr ""
+"(There's no way I can tell her! That the characters in it are based off of "
+"our senpai and our classmate!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +558,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:42 
 msgid "……あ、大丈夫だって。どういうのかは、\n私は知ってるわけだし。\n"
-msgstr ""
+msgstr "…Ah, don't worry. I already know what kind of manga you draw so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +571,8 @@ msgstr ""
 #: sc/0013:43 
 msgid "（それでも今回の内容は……！\n　見せられるわけが無いっ！！）\n"
 msgstr ""
+"(But still, the content of this one is just…!\n"
+"There's no way I could show it!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +584,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:44 
 msgid "すぐ返すから、ちょっとだけ見るね？\n"
-msgstr ""
+msgstr "I'll give it right back. Just a little peek, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +608,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:46 
 msgid "セイヤッ！！\n"
-msgstr ""
+msgstr "Seiyahh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:49 
 msgid "これでいい……これで……。\n"
-msgstr ""
+msgstr "This… this is enough…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +657,8 @@ msgstr ""
 #: sc/0013:50 
 msgid "（ごめん、ごめんね……\n　せめて……安らかに……）\n"
 msgstr ""
+"(Please, forgive me…\n"
+"may you rest in piece…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +671,8 @@ msgstr ""
 #: sc/0013:51 
 msgid "ま、待って、ゆっこ！\nそれは……っ！！\n"
 msgstr ""
+"W-Wait, Yukko!\n"
+"Hey……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -637,6 +685,8 @@ msgstr ""
 #: sc/0013:52 
 msgid "どれどれ〜？　お、マンガの新作なんだ。\nちょっと読ませてね〜。\n"
 msgstr ""
+"Well now. Oh, it's a new manga series.\n"
+"I'm gonna take a quick look, okay～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +746,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0013:57 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +758,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:58 
 msgid "…………ひっ！！\n"
-msgstr ""
+msgstr "…………Hhhihh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +770,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:59 
 msgid "あ……ああ……。\n"
-msgstr ""
+msgstr "Ah…… Ahhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,13 +788,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:61 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0013:61 
 msgid "（……相生さん。なんで僕を見て、\n　あんなに複雑な顔をしていたんだろう？）\n"
-msgstr ""
+msgstr "(……Aioi-san. Why did she look at me with such mixed feeling now?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +807,8 @@ msgstr ""
 #: sc/0013:62 
 msgid "ダ、ダメだよ、\n落とし物の中身勝手に見ちゃ！\n"
 msgstr ""
+"N-No, \n"
+"you shouldn't be snooping in someone else's lost property like that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +821,8 @@ msgstr ""
 #: sc/0013:63 
 msgid "……？　うん。\nでもコレ、みおちゃんのでしょ？\n"
 msgstr ""
+"……? True. \n"
+"But this is your's right, Mio?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +835,8 @@ msgstr ""
 #: sc/0013:64 
 msgid "そ、そうだけど……\n私のじゃないかもしれないし！\n"
 msgstr ""
+"Y-Yeah……\n"
+"But, it might not be!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +848,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:65 
 msgid "じゃあ、確認の為にも尚更見なきゃ。\n"
-msgstr ""
+msgstr "Then, that gives me even more reason to check the content of it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +861,8 @@ msgstr ""
 #: sc/0013:66 
 msgid "で、でも人の物を勝手に見たらダメだって。\n"
 msgstr ""
+"B-But you can't look at other\n"
+"people's stuff just how you please.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +875,8 @@ msgstr ""
 #: sc/0013:67 
 msgid "じゃあ、みおちゃんが確認して？\nみおちゃんのだったら見せて。\n"
 msgstr ""
+"Then, can you check it Mio?\n"
+"Then, show it to me if it turns out to be yours.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +901,8 @@ msgstr ""
 #: sc/0013:69 
 msgid "はい。\n中身確認してみて。\n"
 msgstr ""
+"Here.\n"
+"Have a look at it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +927,8 @@ msgstr ""
 #: sc/0013:71 
 msgid "（うっ……この原稿は、紛れも無く私の……\n　しかしそれを言えばコレを見られる……）\n"
 msgstr ""
+"(Uh… This is without a doubt mine…\n"
+"but if I say that then I have to show her…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +940,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:72 
 msgid "ねえねえ、どう？　みおちゃんのだった？\n"
-msgstr ""
+msgstr "Hey, did you check? Was it yours Mio?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +952,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:73 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +964,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:74 
 msgid "…………違う！\n"
-msgstr ""
+msgstr "…………It wasn't!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,19 +976,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:75 
 msgid "（はっ！？　私は一体何を！？）\n"
-msgstr ""
+msgstr "(Huh!? What did I just say!?)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0013:76 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0013:76 
 msgid "そっか―。じゃ、後は先生に任せますか。\n"
-msgstr ""
+msgstr "Ah I see. In that case, I'll let the teacher take care out it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +1000,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:77 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +1012,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:78 
 msgid "落とし物のお知らせです。\n"
-msgstr ""
+msgstr "This is a notification regarding a lost property.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,18 +1025,22 @@ msgstr ""
 #: sc/0013:79 
 msgid "１年Ｐ組の中之条くんと２年Ｏ組の笹原くんに\nよく似た絵のマンガ原稿が届いています。\n"
 msgstr ""
+"We've received a manga sketch with character's resembling Nakanojou from "
+"class 1Q and Sasahara from class 2P.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0013:80 
 msgid "校内放送"
-msgstr ""
+msgstr "School Announcement"
 
 #  text 
 #  warnings: 0 
 #: sc/0013:80 
 msgid "心当たりのある人は、\n職員室まで取りに来てください。\n"
 msgstr ""
+"If this happens to be yours please\n"
+"come and pick it up in the staff office.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,4 +1052,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0013:81 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

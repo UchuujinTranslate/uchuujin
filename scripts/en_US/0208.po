@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2018-09-19 01:01+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
+"PO-Revision-Date: 2021-03-23 03:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0208/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,12 +25,16 @@ msgstr "#42"
 #: sc/0208:1 
 msgid "地球の生命体にアンテナか。\nそれが遺言って言われてもな……。\n"
 msgstr ""
+"Antenna streaming life on Earth?\n"
+"Even if he said as his final will…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:2 
 msgid "４２番、聞いた？\nこれ、視聴者参加型の番組なんだってさ。\n"
 msgstr ""
+"#42, did ya hear? This program is filmed\n"
+"in front of a live studio audience.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0208:4 
 msgid "……なんで？\n"
-msgstr ""
+msgstr "……Why?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -59,8 +63,12 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0208:5 
+#, fuzzy
 msgid "いいか……姫は乱暴で容赦のないお方だが、\nあれで雰囲気に流されやすいところもある。\n"
 msgstr ""
+"Okay... the princess is a turbulent and unforgiving. However, there are also "
+"places \n"
+"where she is easy to get carried away by the atmosphere.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +194,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0208:18 
 msgid "了解っ！\n"
-msgstr ""
+msgstr "Roger that!\n"
 
 #  speaker 
 #  warnings: 1 

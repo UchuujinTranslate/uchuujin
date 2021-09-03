@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:04+0000\n"
+"PO-Revision-Date: 2020-07-09 22:51+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0008/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0008:0 
 msgid "はぁ……今日はさんざんだ。\n"
-msgstr "Well……today is terrible.\n"
+msgstr "*Sigh*…… Today sure was a rough one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,8 +37,8 @@ msgstr ""
 #: sc/0008:1 
 msgid "滑ることがこんなに怖いのは久しぶりだ……\n怖くて普段の力が出せないよ……。\n"
 msgstr ""
-"I’m not usually scared of sledding……\n"
-"I'm scared and I can't get the usual speed….\n"
+"Been a while since I've been this scared of messing something up……\n"
+"I'm so scared that I can't get my usual strength….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,6 +51,8 @@ msgstr ""
 #: sc/0008:2 
 msgid "はぁ。帰る前に何か飲んで気分転換しよっ。\n何にしようかな〜？\n"
 msgstr ""
+"*Sigh*. Before I go home I should get a\n"
+"drink for a change of mood. Hm, what to pick～?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -62,7 +64,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0008:3 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -74,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:4 
 msgid "ぎゃあああああ！！！\n"
-msgstr "Gyaaaaa!!!\n"
+msgstr "Gyaaaaah!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:5 
 msgid "な、何故にここにお前が……！！\n"
-msgstr "Why are you here……!!\n"
+msgstr "W-Why are you here……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -99,6 +101,8 @@ msgstr ""
 #: sc/0008:6 
 msgid "ま、まさか、また私のボケを滑らせるために\nここまでやってきた！？\n"
 msgstr ""
+"Could it be that you've come to\n"
+"make me mess up my jokes again!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -111,6 +115,8 @@ msgstr ""
 #: sc/0008:7 
 msgid "くそっ……\n私をいじめて何が楽しいのさ……。\n"
 msgstr ""
+"Damn it…….\n"
+"What's so fun bullying me…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,6 +141,8 @@ msgstr ""
 #: sc/0008:9 
 msgid "……いや、お前は悪くないか。\nお前はずっと忠告をしてくれたんだよね。\n"
 msgstr ""
+"……No, you're not doing anything wrong.\n"
+"You're here to warn me, aren't you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -147,6 +155,8 @@ msgstr ""
 #: sc/0008:10 
 msgid "なのに私は忠告を無視してボケた。\n悪いのは私でお前に非はないよね。\n"
 msgstr ""
+"Despite all your warnings, I keep ignoring\n"
+"them. I'm the one at fault. Not you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -171,6 +181,8 @@ msgstr ""
 #: sc/0008:12 
 msgid "はは、でも今はもうボケる気力もないし、\n心配しなくても大丈夫だよ。\n"
 msgstr ""
+"Haha, but I don't feel up to joking\n"
+"around now. So you don't need to worry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -182,7 +194,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:13 
 msgid "お前も何か飲む？　私が乂ってあげるよ。\n"
-msgstr ""
+msgstr "Do you want a drink too? I can pay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -195,6 +207,8 @@ msgstr ""
 #: sc/0008:14 
 msgid "犬はコ―ラ大丈夫かな。\n飲んでみる〜？\n"
 msgstr ""
+"Can dogs drink Cola?\n"
+"Well, wanna give it a try～?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -206,7 +220,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:15 
 msgid "あっ弌弌\n"
-msgstr ""
+msgstr "Ah——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -218,7 +232,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:16 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -231,36 +245,44 @@ msgstr ""
 #: sc/0008:17 
 msgid "ご、ごめん、つまずいて……\nあ―あ、びしょびしょだ。\n"
 msgstr ""
+"Ah, I-I'm so sorry I tripped……\n"
+"Man you're all soaked up.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0008:18 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0008:19 
 msgid "なんでっ！？\n"
-msgstr ""
+msgstr "How!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0008:20 
 msgid "ジュ―スがアンテナにかかったからだ！\nショ―トしやがった！\n"
 msgstr ""
+"Someone spilled juice on the antenna!\n"
+"And it caused a short circuit!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0008:21 
 msgid "えええ―っ！？\nた、耐水性じゃないのかよ！？\n"
 msgstr ""
+"Ehhhh—!?\n"
+"S-So it wasn't water resistant!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0008:22 
 msgid "俺も今知ったよ！\n設計スタッフは何考えてんだ――！\n"
 msgstr ""
+"I just knew about it now!\n"
+"What were the engineers thinking——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -273,6 +295,8 @@ msgstr ""
 #: sc/0008:23 
 msgid "さっ、何か飲んで\n気持ちを入れ替えるか。\n"
 msgstr ""
+"Oh well, I'll get a drink\n"
+"and shift my mental gears.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:24 
 msgid "さ―て、何にしようかな―。\n"
-msgstr ""
+msgstr "Let's see, what should I pick—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -308,7 +332,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:26 
 msgid "あれ？　あれ？　お金入れたのに……。\n"
-msgstr ""
+msgstr "Hm? Wait? But I inserted the money…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -321,6 +345,8 @@ msgstr ""
 #: sc/0008:27 
 msgid "えっ？　嘘！？\nお金、自販機に飲まれた！？\n"
 msgstr ""
+"No way? Are you kidding me!? Did\n"
+"the vending machine just eat my money!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -333,6 +359,8 @@ msgstr ""
 #: sc/0008:28 
 msgid "返却口には……くっ！　落ちてない！\n"
 msgstr ""
+"And in the return slot……tsk!\n"
+"Nothing there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -344,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:29 
 msgid "くそ―！　戻って来い！　戻って来い！\n"
-msgstr ""
+msgstr "Crap—! Give it back! Give it back!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -357,6 +385,8 @@ msgstr ""
 #: sc/0008:30 
 msgid "このポンコツが―！\nお金返せ――！！\n"
 msgstr ""
+"This stupid scrap machine—!\n"
+"Give me back my money——!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -368,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:31 
 msgid "せいや！\n"
-msgstr ""
+msgstr "Hiyahh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -380,7 +410,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:32 
 msgid "おっ！　動いた？\n"
-msgstr ""
+msgstr "Oh! Did it move a little?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -392,7 +422,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:33 
 msgid "ん？　ん？　どうなったのコレ。\n"
-msgstr ""
+msgstr "Hm? Hmm? What happened to this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -404,7 +434,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:34 
 msgid "うわっ！？　な、なにこの音！！\n"
-msgstr ""
+msgstr "Wah!? W-What's this sound!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -417,6 +447,8 @@ msgstr "Takasaki-sensei"
 #: sc/0008:35 
 msgid "こら―！　相生―！\n何をやってるんだ！！\n"
 msgstr ""
+"Hey Aioi!\n"
+"What are you doing!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -429,6 +461,8 @@ msgstr ""
 #: sc/0008:36 
 msgid "た、高崎先生！？\nあ、あの、これは、違うんです！\n"
 msgstr ""
+"Mr. T-Takasaki!?\n"
+"Ah, no it isn't what you think it is!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -441,6 +475,8 @@ msgstr ""
 #: sc/0008:37 
 msgid "何が違うんだ！\nお前が自販機を殴ったところを見たぞ！\n"
 msgstr ""
+"And what would that be! I clearly\n"
+"saw you hitting that vending machine!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:39 
 msgid "相生！　ちょっと職員室まで来い！\n"
-msgstr ""
+msgstr "Aioi! Come to the teacher's room!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -476,7 +512,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:40 
 msgid "う、うう……。\n"
-msgstr ""
+msgstr "Ugh, uhh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -488,19 +524,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:41 
 msgid "うわああああああ！！\n"
-msgstr ""
+msgstr "Uwahhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0008:42 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0008:42 
 msgid "あっ！？　相生！　待て―――！！\n"
-msgstr ""
+msgstr "Ah!? Hey Aioi! Wait up———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -525,6 +561,8 @@ msgstr ""
 #: sc/0008:44 
 msgid "はぁぁ……ついてないのも\nここまで来ると笑えてくるね。\n"
 msgstr ""
+"Hah… that my misfortune continues even\n"
+"as far as this makes me want to laugh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -537,6 +575,8 @@ msgstr ""
 #: sc/0008:45 
 msgid "ま、１杯２００円と思えばいいか。\n"
 msgstr ""
+"Welp, I guess that one bottle\n"
+"will cost 200 yen instead.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -549,6 +589,8 @@ msgstr ""
 #: sc/0008:46 
 msgid "コ―ラっと。\n……ごくごく。\n"
 msgstr ""
+"And like that, a cola. \n"
+"……Glug-glug.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,8 +601,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0008:47 
+#, fuzzy
 msgid "ブ―――――――！！！\n"
-msgstr ""
+msgstr "Bleughhhhh———!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -573,6 +616,8 @@ msgstr ""
 #: sc/0008:48 
 msgid "あったか〜い！\nどうしてコ―ラがあったかいのさ！\n"
 msgstr ""
+"It's warm～!\n"
+"Why is this cola warm!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -585,6 +630,8 @@ msgstr ""
 #: sc/0008:49 
 msgid "つめた〜いコ―ナ―にあるのに！\nあったか〜いバ―ジョンないのに！\n"
 msgstr ""
+"But, it's in the cold drinks section!\n"
+"And there is no warm variant for this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -597,6 +644,8 @@ msgstr ""
 #: sc/0008:50 
 msgid "冷たいのをゴクゴク飲んで\n爽やかな気持ちになりたかったのにっ！\n"
 msgstr ""
+"I just wanted to drink a cold cola\n"
+"to freshen up my mind!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -621,6 +670,8 @@ msgstr ""
 #: sc/0008:52 
 msgid "はぁ……\n今日はなんてついてないの？\n"
 msgstr ""
+"*Sigh*……\n"
+"Today sure isn't my day…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -633,18 +684,22 @@ msgstr ""
 #: sc/0008:53 
 msgid "自販機にまでこんな扱いを受けて……\n惨めね、ゆっこ……。\n"
 msgstr ""
+"Even the vending machine is\n"
+"treating me like this… How cruel…\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0008:54 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0008:54 
 msgid "もう今日は素直に帰ろう。\nこれ以上傷口を広げないために……。\n"
 msgstr ""
+"I should just head straight home. \n"
+"I don't want my wound to be hurt even more……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -656,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0008:55 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,7 +723,7 @@ msgstr "Tanaka"
 #  warnings: 0 
 #: sc/0008:56 
 msgid "さ―って、何飲もうかな―。\n"
-msgstr ""
+msgstr "Alright, what do I want to drink—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -681,6 +736,8 @@ msgstr ""
 #: sc/0008:57 
 msgid "あれ？　お金入ってるぞ？\nもしかして買えたりする？\n"
 msgstr ""
+"Hey, there's money inside already. \n"
+"Could I buy something with this?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -693,3 +750,5 @@ msgstr ""
 #: sc/0008:58 
 msgid "お―、ラッキ―\n誰だか知らないけどサンキュ―。\n"
 msgstr ""
+"Oh, lucky!\n"
+"I don't know who it was, but thanks—.\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 02:00+0000\n"
-"PO-Revision-Date: 2019-05-29 17:00+0000\n"
-"Last-Translator: Poro <stephjchoi@gmail.com>\n"
+"PO-Revision-Date: 2020-06-18 21:59+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0199/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 6 
@@ -26,7 +26,7 @@ msgstr "Mio"
 #: sc/0199:0 
 msgid "ただいま―……って、\nあれ、お姉いないの？\n"
 msgstr ""
-"I'm home...\n"
+"I'm home…… Wait,\n"
 "Sis, is that you?\n"
 
 #  speaker 
@@ -40,7 +40,7 @@ msgstr "Mio"
 #: sc/0199:1 
 msgid "おかしいな……\n今日は先に戻ってるって言ってたのに。\n"
 msgstr ""
-"That's weird...\n"
+"That's weird……\n"
 "She said she'd be home first today.\n"
 
 #  speaker 
@@ -90,7 +90,7 @@ msgstr ""
 #: sc/0199:5 
 msgid "な、なんだ、お姉か……\nびっくりさせないでよ。\n"
 msgstr ""
-"Wh-what the heck, sis...\n"
+"Wh-what the heck, sis……\n"
 "Don't surprise me like that.\n"
 
 #  speaker 
@@ -104,8 +104,8 @@ msgstr ""
 #: sc/0199:6 
 msgid "すごいね―。\n普通の人間にもちゃんとつけられるんだ―。\n"
 msgstr ""
-"Amazing... You can put it on\n"
-"normal people as well...\n"
+"Amazing—. You can put it\n"
+"on normal people as well—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -117,7 +117,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0199:7 
 msgid "へ？　なにが、って弌弌\n"
-msgstr "Eh? What did--\n"
+msgstr "Eh? What did——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -129,7 +129,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0199:8 
 msgid "なにこれ―！？\n"
-msgstr "What the heck is this!?\n"
+msgstr "What the heck is this—!?\n"
 
 #  speaker 
 #  warnings: 1 
@@ -141,7 +141,9 @@ msgstr ""
 #  warnings: 1 
 #: sc/0199:9 
 msgid "えへへ―、可愛いでしょ。\nなのちゃんごっこ―\n"
-msgstr "Isn't it cute? It's Nano's--\n"
+msgstr ""
+"Ehehe—, isn't it cute?\n"
+"I'm pretending to be Nano—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -179,7 +181,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0199:12 
 msgid "うん、実はね―。\n"
-msgstr "Yes! In fact--\n"
+msgstr "Yes! In fact—.\n"
 
 #  speaker 
 #  warnings: 0 

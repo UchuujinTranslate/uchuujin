@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:11+0000\n"
-"PO-Revision-Date: 2019-08-07 00:08+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2021-03-23 03:45+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0189/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakanojo"
 #: sc/0189:0 
 msgid "はぁ、はぁ……\nやっと逃げ切れた……。\n"
 msgstr ""
+"Haa, haa……\n"
+"I finally got away from her…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0189:1 
 msgid "だけどかなり時間を無駄にした……\nこんなはずじゃなかったのに。\n"
 msgstr ""
+"But I really wasted a lot of time there……\n"
+"it didn't went as I planned.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:2 
 msgid "明日１日で、\nこの髪の毛を元に戻せるのだろうか……？\n"
-msgstr ""
+msgstr "Can I really fix my hair until tomorrow……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr "Nakanojo-san"
 #  warnings: 0 
 #: sc/0189:3 
 msgid "いたっ！！\n"
-msgstr ""
+msgstr "There you are!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:4 
 msgid "ん？　あ、父さん。ただいま。\n"
-msgstr ""
+msgstr "Hm? Ah, dad. I'm home now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:5 
 msgid "これはどういうことだ！\n"
-msgstr ""
+msgstr "What on earth is this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:6 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +125,8 @@ msgstr ""
 #: sc/0189:8 
 msgid "この色といい、長さといい……\nどう見てもお前のモヒカンだろう！！\n"
 msgstr ""
+"This hair color, and this length…\n"
+"no matter how you look at it, it's your Mohawk!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +139,8 @@ msgstr ""
 #: sc/0189:9 
 msgid "あ、ああ……\nぼ、僕の髪の毛が、こんなところに……！！\n"
 msgstr ""
+"Ah, ahhh……\n"
+"M-My hair at such a place……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +152,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:10 
 msgid "大福くんとモヒカンで遊ぶとはどういうことだ！\n"
-msgstr ""
+msgstr "Please don't play around with my Daifukus and your hair like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:11 
 msgid "ち、違う！　僕だって何がなんだか！\n"
-msgstr ""
+msgstr "N-No! Not even me has a clue what happend to that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +177,8 @@ msgstr ""
 #: sc/0189:12 
 msgid "（弌弌ハッ！　そう言えば……\n　イタコさん、呪いをかけるって……）\n"
 msgstr ""
+"——hah! Oh yeah right……\n"
+"didn't the medium say that she would curse me……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,18 +191,20 @@ msgstr ""
 #: sc/0189:13 
 msgid "父さん、１万円ちょうだい！\n治せる人に心当たりがあるんだ！\n"
 msgstr ""
+"Dad, can I have 10,000 yen!\n"
+"I think I know a person who can fix this!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0189:14 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 
 #: sc/0189:14 
 msgid "本当か！！　なら今すぐその人を\n呼んできなさい！\n"
-msgstr ""
+msgstr "Really! Then go to that person quickly!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:15 
 msgid "わかった！\n"
-msgstr ""
+msgstr "Understood!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +229,8 @@ msgstr ""
 #: sc/0189:16 
 msgid "イタコさんはどこだ……？\nまだこの辺りにいてくれるといいけど……。\n"
 msgstr ""
+"Now where is that medium……?\n"
+"It would be good if she was around here……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +243,7 @@ msgstr ""
 #: sc/0189:17 
 msgid "（まさか僕がイタコさんを\n　必要とする時が来るなんて……）\n"
 msgstr ""
+"(To think there would come a day when I needed the help from that medium……)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -241,6 +256,7 @@ msgstr ""
 #: sc/0189:18 
 msgid "（ああ、元僕がお金を払っていれば\n　こんなことには……）\n"
 msgstr ""
+"(Ahh, this all would have been solved if I had just payed her to begin with\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +268,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0189:19 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +280,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:20 
 msgid "あっ！　イタコさん！\n"
-msgstr ""
+msgstr "Ah! Itako-san!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +305,8 @@ msgstr ""
 #: sc/0189:22 
 msgid "ごめんなさい！\nお金はあります。だから呪いを解いて弌弌\n"
 msgstr ""
+"I'm sorry! I have the money. \n"
+"So, could you please break the curse——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:24 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +343,8 @@ msgstr ""
 #: sc/0189:25 
 msgid "えっ、イ、イタコさん！？\nお金はあるから……呪いを……！！\n"
 msgstr ""
+"Eh, I-Itako-san!?\n"
+"I have the money so…… can you break the curse……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +356,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:26 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,16 +368,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0189:27 
 msgid "くっ……！\n"
-msgstr ""
+msgstr "Tsk……!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0189:28 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0189:28 
 msgid "イタコさあああん！\n"
-msgstr ""
+msgstr "Itako-saaaaaaaaan!\n"

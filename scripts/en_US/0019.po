@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:05+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-09 22:52+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0019/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr ""
 #: sc/0019:0 
 msgid "はぁ〜、お腹すいちゃった。\nはやく何か買ってこよう。\n"
 msgstr ""
+"Haah～, I'm hungry.\n"
+"I gotta hurry and buy something to eat.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:1 
 msgid "え？　あれは……？\n"
-msgstr ""
+msgstr "Eh? What's that……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr "Sasahara"
 #  warnings: 0 
 #: sc/0019:2 
 msgid "待て、そこの御仁。\n"
-msgstr ""
+msgstr "Please wait, madam.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +62,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0019:3 
 msgid "あ、はい。私ですか？\n"
-msgstr ""
+msgstr "Ahuh. You mean me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr ""
 #: sc/0019:4 
 msgid "うむ。おそらくそうだろう。\n今し方、これを落とさなかったか？\n"
 msgstr ""
+"Yes. I most certainly do. \n"
+"I think you dropped this just now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0019:5 
 msgid "（あ〜〜〜〜っ！？　そ、それは、\n　私の手〜〜〜〜〜〜っ！！）\n"
 msgstr ""
+"(Ah～～～～～!? That, that's\n"
+"my hand～～～～～～～!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0019:6 
 msgid "む？　人違いであったか？\n御仁の腕から落ちたように見えたのだが。\n"
 msgstr ""
+"Hmph? Could I be mistaken? It appears\n"
+"that it has fallen off your arm, madam.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +117,8 @@ msgstr ""
 #: sc/0019:7 
 msgid "え〜……えっと……その……\nた、確かに私の手です……。\n"
 msgstr ""
+"Eh～…… Um…… That……\n"
+"is surely my hand…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:8 
 msgid "そうか、ならば返そう。\n"
-msgstr ""
+msgstr "Oh in that case, allow me to return it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:9 
 msgid "あ、はい。すみません……。\n"
-msgstr ""
+msgstr "Ah, yes. Thank you…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0019:10 
 msgid "以後は気をつけよ。財布と手は\n落とすと厄介だからな。はっはっは。\n"
 msgstr ""
+"Please be careful from now on. Wallets and \n"
+"hands are so often dropped.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0019:11 
 msgid "は、はぁ……あの、あなたも\n手を落としたことがあるんですか？\n"
 msgstr ""
+"Ah, ahhh…… Um, have you ever\n"
+"lost your hand before?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0019:12 
 msgid "なにをぬかす。\n私が自分の手を落とすはずがあるまい。\n"
 msgstr ""
+"What do you mean? I fear that it is\n"
+"impossible for my hands to fall off.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +196,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:13 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +209,8 @@ msgstr ""
 #: sc/0019:14 
 msgid "あ、あの、とにかく、\nありがとうございましたっ！\n"
 msgstr ""
+"Ah, um, well anyways,\n"
+"thank you very much!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +235,8 @@ msgstr ""
 #: sc/0019:16 
 msgid "ふ―ん、優しいところもあるじゃないの。\nあの子……いいな―。\n"
 msgstr ""
+"Hey, so he has a kind side to him as well. \n"
+"I'm glad for that girl.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +261,8 @@ msgstr ""
 #: sc/0019:18 
 msgid "んっ！　えいっ！\nこのっ……なんで取れないのよ―。\n"
 msgstr ""
+"Hgh! C'mon!\n"
+"Hey……why doesn't it come off—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +275,8 @@ msgstr ""
 #: sc/0019:19 
 msgid "はぁ、どうして私の手、取れないんだろ。\nこれが取れれば、笹原に拾ってもらって……。\n"
 msgstr ""
+"Damn, why won't my hand come off? \n"
+"Then Sasahara could pick it up for me……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +288,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:20 
 msgid "って、何考えてんのよ私！？\n"
-msgstr ""
+msgstr "Er, what the hell am I thinking!?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -277,6 +301,8 @@ msgstr ""
 #: sc/0019:21 
 msgid "右手のお礼にお茶でもいかがですか？\nとか、そんな展開あるわけないでしょ！！\n"
 msgstr ""
+"\"Thank you so much. Shall I get you tea as thanks?\"\n"
+"Like hell that would happen!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,25 +314,27 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0019:22 
 msgid "……ワンッ！\n"
-msgstr ""
+msgstr "……WOOF!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:23 
 msgid "ど、どうしたんだ！？\n急に犬が走り出したぞ！？\n"
 msgstr ""
+"What, what the heck!?\n"
+"A dog suddenly started sprinting!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:24 
 msgid "どういう事だ！？\n"
-msgstr ""
+msgstr "What!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:25 
 msgid "わからん、こちらのコントロ―ルを\n一切受け付けない！！\n"
-msgstr ""
+msgstr "I don't know. The controller isn't doing anything!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:26 
 msgid "……あれ？\n"
-msgstr ""
+msgstr "……Wait, what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +371,8 @@ msgstr ""
 #: sc/0019:28 
 msgid "どうされたんですか？　……手？\nええと、うう―ん……お手、かな？\n"
 msgstr ""
+"What could it be? ……the paw?\n"
+"Ehm, hmm……is it 'shake hand'?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +384,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:29 
 msgid "わん！\n"
-msgstr ""
+msgstr "Woof!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +397,8 @@ msgstr ""
 #: sc/0019:30 
 msgid "あっ！？\n私の手をくわえて！？\n"
 msgstr ""
+"Ah!?\n"
+"My hand's in his mouth!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,36 +411,42 @@ msgstr ""
 #: sc/0019:31 
 msgid "そ、それ、プレゼントじゃありません！\n待ってください、返してくださ―い！！\n"
 msgstr ""
+"That, that isn't a treat for you!\n"
+"Wait please! Give it back please!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:32 
 msgid "……あ、さっきの女の子のとこに来た。\n"
-msgstr ""
+msgstr "……Ah, we came to that girl from before.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:33 
 msgid "そうか、あの子、\n手が取れないって落ち込んでいたから……。\n"
-msgstr ""
+msgstr "Ah. That girl has her hand stuck.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:34 
 msgid "プレゼントってことか……優しいなあ。\nあ、おい、お前も慌ててないで見ろって。\n"
 msgstr ""
+"Is that a doggie treat? That's so nice.\n"
+"Ah, hey look dude, don't panic.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:35 
 msgid "慌てるに決まってるだろ！\nそいつが急いで走ったから、アンテナが弌弌\n"
 msgstr ""
+"We're experiencing some technical difficulties.\n"
+"The dog's is running and damaging the antenna.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0019:36 
 msgid "弌弌やっぱりダメだった――！！\n"
-msgstr ""
+msgstr "——Of course it didn't work——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +458,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:37 
 msgid "……ん？　そこにいるのは立花みさとか。\n"
-msgstr ""
+msgstr "……Hmph? Could that be Misato Tachibana?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +471,8 @@ msgstr ""
 #: sc/0019:38 
 msgid "うひゃう！？\nさ、笹原、あんた一体なにやってんのよ！！\n"
 msgstr ""
+"Uwah!? Sa-sasahara?\n"
+"What the hell are you doing here!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +485,8 @@ msgstr ""
 #: sc/0019:39 
 msgid "はて、なに、と言われても……私は\n昼食を摂取するべく購買へと赴く最中だが。\n"
 msgstr ""
+"I'm afraid I don't understand. I'm just on my \n"
+"way to purchase my lunch meal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +499,8 @@ msgstr ""
 #: sc/0019:40 
 msgid "立花みさとこそ、ずっと自分の手を\n弄っているようだか、どうかしたのか？\n"
 msgstr ""
+"Misato Tachibana, you seem to have been fiddling with \n"
+"your hands this entire time. What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +513,8 @@ msgstr ""
 #: sc/0019:41 
 msgid "バッ……か、勘違いしないでよね！\n私は、私は……っ！！\n"
 msgstr ""
+"Id……iot! Don't get the wrong idea!\n"
+"I, I……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:42 
 msgid "？\n"
-msgstr ""
+msgstr "?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:43 
 msgid "私はただ、手のパ―ツモデルを\n目指してるだけなんだからねっ！！\n"
-msgstr ""
+msgstr "I just want to become a hand model, that's all!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:44 
 msgid "なっ！？　は、外れた！？\n"
-msgstr ""
+msgstr "WHAT!? Did you just dodge!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +562,7 @@ msgstr "Male student #1"
 #  warnings: 0 
 #: sc/0019:45 
 msgid "うわ―――！？\n"
-msgstr ""
+msgstr "Uwah———!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +574,7 @@ msgstr "Female student #1"
 #  warnings: 0 
 #: sc/0019:46 
 msgid "きゃああ――！？\n"
-msgstr ""
+msgstr "Aaaaaaah——!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +586,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:47 
 msgid "あ、ダメ、危な弌弌\n"
-msgstr ""
+msgstr "Ah, no. watch out——\n"
 
 #  speaker 
 #  warnings: 1 
@@ -552,7 +598,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0019:48 
 msgid "！！！\n"
-msgstr "!!!\n"
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +622,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:50 
 msgid "ちょ、だ、大丈夫！？\n"
-msgstr ""
+msgstr "Hey! Are, are you okay!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +647,8 @@ msgstr ""
 #: sc/0019:52 
 msgid "ちょっと笹原！\n無関係の女の子に当たっちゃったじゃない！\n"
 msgstr ""
+"Hey, Sasahara!\n"
+"Do you see what you did!? It hit an innocent girl!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -612,7 +660,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:53 
 msgid "いやいや、それは立花みさとが\nミサイルを外したから弌弌\n"
-msgstr ""
+msgstr "No, that's because your missile missed me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:54 
 msgid "外れたミサイルに自ら当たりに行く\n男気を見せなさいよ！\n"
-msgstr ""
+msgstr "Then be a man and bodyblock the missile!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +697,8 @@ msgstr ""
 #: sc/0019:56 
 msgid "ちょっと……その、部活の練習で、\n手を痛めちゃっただけよ！\n"
 msgstr ""
+"It's just……that I hurt my hand a little \n"
+"during club practice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +711,8 @@ msgstr ""
 #: sc/0019:57 
 msgid "む、それはいかんな。\n見せてみるがいい。\n"
 msgstr ""
+"Hmn, that's too bad.\n"
+"Do you mind showing me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +725,8 @@ msgstr ""
 #: sc/0019:58 
 msgid "え？　え？　ちょ、笹原……\nな、なに手を触ってるのよ！？\n"
 msgstr ""
+"Eh? Huh? Hey, Sasahara……\n"
+"Wh-whose hand are you touching!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +739,8 @@ msgstr ""
 #: sc/0019:59 
 msgid "触らねば診察できぬであろう。\nふむ、これは……なるほど……。\n"
 msgstr ""
+"I have to touch to do an medical examination. \n"
+"Aha, this is……I see……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +752,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:60 
 msgid "あ……あ……あぅ……。\n"
-msgstr ""
+msgstr "Ah……Ah……Aaa…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:61 
 msgid "いかんな、これは。\n射撃ダコができておる。\n"
-msgstr ""
+msgstr "You've gotten a callus from your firearms.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +777,8 @@ msgstr ""
 #: sc/0019:62 
 msgid "婦女子にはふさわしくないタコだ。\nしばらくは射撃を控えるが良い。\n"
 msgstr ""
+"A callus isn't befitting of a woman. \n"
+"It's best if you lay off with guns for a while.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +790,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:63 
 msgid "う……わ、わかったわよ……。\n"
-msgstr ""
+msgstr "Uh…… I, I get it now…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +803,8 @@ msgstr ""
 #: sc/0019:64 
 msgid "では私はこれで失敬するぞ。\nランチが私を呼んでいるのでな。\n"
 msgstr ""
+"Pardon my abrupt leaving, but \n"
+"I must find my lunch.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +816,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:65 
 msgid "あ、う、うん……。\n"
-msgstr ""
+msgstr "Ah, uh, yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +841,8 @@ msgstr ""
 #: sc/0019:67 
 msgid "……仕方ないわね。\nしばらくは地雷で勘弁してあげるわよ。\n"
 msgstr ""
+"……well, it can't be helped then. \n"
+"I'll spare you and use landmines for now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +854,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:68 
 msgid "〜〜〜〜〜〜〜〜〜〜っ！\n"
-msgstr ""
+msgstr "〜〜〜〜〜〜〜〜〜〜!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +866,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:69 
 msgid "あんたなんか、あんたなんか……っ！\n"
-msgstr ""
+msgstr "You're so, you're so……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +902,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:72 
 msgid "……って、あ、あれ？\n"
-msgstr ""
+msgstr "……W-what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +914,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:73 
 msgid "……不発、のようだな。\n"
-msgstr ""
+msgstr "……Seems like it's a dud.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +926,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:74 
 msgid "〜〜〜〜〜〜〜！！\n"
-msgstr ""
+msgstr "〜〜〜〜〜〜〜!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +950,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:76 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,18 +963,20 @@ msgstr ""
 #: sc/0019:77 
 msgid "……立花みさとよ、\n余計なことやもしれんが弌弌\n"
 msgstr ""
+"……Misato Tachibana, \n"
+"this might be needless to say but——\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0019:78 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
 #: sc/0019:78 
 msgid "……余計なことなら、言わないで。\n"
-msgstr ""
+msgstr "……If it's needless, then don't say it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,4 +988,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0019:79 
 msgid "……ふむ、それもそうだな。\n"
-msgstr ""
+msgstr "……Hmm, you may be right.\n"

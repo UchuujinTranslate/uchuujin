@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 00:05+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 21:09+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0152/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:3 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,13 +72,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:4 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0152:5 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -209,8 +209,9 @@ msgstr ""
 #  speaker 
 #  warnings: 3 
 #: sc/0152:21 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
@@ -396,7 +397,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:37 
 msgid "鹿＆ヤギ"
-msgstr ""
+msgstr "Dear & Goat"
 
 #  text 
 #  warnings: 0 
@@ -450,7 +451,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:41 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +475,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:43 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +487,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:44 
 msgid "合気道！\n"
-msgstr ""
+msgstr "Aikido!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +499,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:45 
 msgid "まだまだ――！！\n"
-msgstr ""
+msgstr "Come on. Come on——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +649,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:58 
 msgid "ナレ―タ―お姉さん"
-msgstr ""
+msgstr "Narrator Lady"
 
 #  text 
 #  warnings: 0 
@@ -690,7 +691,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:61 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +703,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:62 
 msgid "あっ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,13 +715,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0152:63 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0152:64 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 

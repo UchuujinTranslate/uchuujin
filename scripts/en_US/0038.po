@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-31 23:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-04 01:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0038/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0038:0 
 msgid "（の、乗り切った……！）\n"
-msgstr "（G- got through it……！）\n"
+msgstr "(I- I got through it……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,9 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:1 
 msgid "（モヒカンが幽霊になっていることは\n　誰にも気付かれていない）\n"
-msgstr ""
-"(Mohawk becoming a ghost\n"
-"is noticed by nobody.)\n"
+msgstr "(Nobody has noticed that my Mohawk has become ghost-like as of yet.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,8 +49,8 @@ msgstr ""
 #: sc/0038:2 
 msgid "（とは言え油断はできない。\n　安心するのはうちに帰ってからだ）\n"
 msgstr ""
-"（Can't be careless though.\n"
-"　Peace will come from returning home）\n"
+"(That's no reason to be careless though.\n"
+"I can relax when I get back home.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,10 +61,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0038:3 
+#, fuzzy
 msgid "（このままダラダラとするより、\n　早いとこうちに帰ろう）\n"
-msgstr ""
-"（At this rate of dragging on,\n"
-"　let's go home early.）\n"
+msgstr "(At this rate of dragging on, let's go home early.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -78,7 +75,7 @@ msgstr "Tanaka"
 #  warnings: 0 
 #: sc/0038:4 
 msgid "あっ、お―い中之条。\n"
-msgstr "Ah! Hey, Nakanojo!\n"
+msgstr "Ah! Hey—, Nakanojou.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,7 +100,7 @@ msgstr ""
 #: sc/0038:6 
 msgid "……な、何？\n僕、急いでるんだけど……。\n"
 msgstr ""
-"……Wh- what?\n"
+"……Wh-what?\n"
 "I'm in hurry but……\n"
 
 #  speaker 
@@ -142,7 +139,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:9 
 msgid "おう。だからお前も来ないか―？\n"
-msgstr "Oh, so why don't ya come?\n"
+msgstr "Oh, so why don't ya come—?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +152,8 @@ msgstr ""
 #: sc/0038:10 
 msgid "（何かと思ったらそんなこと……\n　まあ気付かれるよりはいいか）\n"
 msgstr ""
-"（If you think something, that thing……\n"
-"　Ah, it's better than being noticed）\n"
+"(To think it was only about something like that……\n"
+"Well, it's better than being noticed.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,8 +166,8 @@ msgstr ""
 #: sc/0038:11 
 msgid "保護者同伴だから\n親にも怒られないぞ。\n"
 msgstr ""
-"Not even parents can't get angry,\n"
-"with an accompanying guardian.\n"
+"We'll have a chaperone, \n"
+"so don't worry about getting your parents.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -183,8 +180,8 @@ msgstr ""
 #: sc/0038:12 
 msgid "保護者？\n田中君のお父さん？\n"
 msgstr ""
-"Guardian?\n"
-"Tanaka's Dad?\n"
+"A chaperone?\n"
+"Is it going to be your dad?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -202,13 +199,13 @@ msgstr "No. It's Principal.\n"
 #  warnings: 0 
 #: sc/0038:14 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0038:14 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -227,7 +224,7 @@ msgstr ""
 #: sc/0038:16 
 msgid "お、おい、いいのかよ、\nそんな安請け合いしちまって……。\n"
 msgstr ""
-"H-hey! Are you okay?\n"
+"H-hey! Are you okay with that?\n"
 "To make such a rash promise……\n"
 
 #  text 
@@ -235,8 +232,8 @@ msgstr ""
 #: sc/0038:17 
 msgid "いいって。\nどうせ霊なんか出ないし。\n"
 msgstr ""
-"It's good.\n"
-"Besides, there's no spirit anyway.\n"
+"It's fine.\n"
+"Besides, there's no spirit, anyway.\n"
 
 #  text 
 #  warnings: 1 
@@ -244,7 +241,7 @@ msgstr ""
 msgid "そ、そうかな……\nま、まあ、わかってるけどさ……。\n"
 msgstr ""
 "I, I guess so……\n"
-"W-well, I understand so……\n"
+"W-well, I understand that but……\n"
 
 #  text 
 #  warnings: 1 
@@ -269,7 +266,7 @@ msgstr "W-what is it?\n"
 #: sc/0038:22 
 msgid "別に？　……あ、そうだ！\nこれも中継してやろうぜ。\n"
 msgstr ""
-"Nothing? ……Ah, that's right！\n"
+"Nothing? ……Ah, that's right!\n"
 "Let's broadcast this too, heh.\n"
 
 #  text 
@@ -281,10 +278,11 @@ msgstr "Ehh!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0038:24 
+#, fuzzy
 msgid "怪談とか苦手なやつも、強制参加！\n面白そうじゃね？\n"
 msgstr ""
-"Poor ghost story tellers will also be \n"
-"forced to participate! Interesting, huh?\n"
+"Even if you're scared of ghost stories, you have to come!\n"
+"Doesn't that sound fun?\n"
 
 #  text 
 #  warnings: 1 
@@ -302,7 +300,7 @@ msgstr "＆"
 #  warnings: 2 
 #: sc/0038:26 
 msgid "えっ！？\n"
-msgstr ""
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -320,7 +318,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0038:28 
 msgid "＆"
-msgstr ""
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -339,7 +337,7 @@ msgstr ""
 #: sc/0038:29 
 msgid "悪いけど、興味ないよ。\n僕は幽霊って信じてないんだ。\n"
 msgstr ""
-"Sorry but, I have no interest.\n"
+"I sorry, but I'm not interested.\n"
 "I don't believe in ghosts.\n"
 
 #  speaker 
@@ -367,7 +365,7 @@ msgstr ""
 #: sc/0038:31 
 msgid "いないよ。この世のものは全て\n科学で説明できるんだからね。\n"
 msgstr ""
-"Nope! Since all things in this world\n"
+"Not at all. Everything in this world\n"
 "can be explained with science.\n"
 
 #  speaker 
@@ -381,8 +379,8 @@ msgstr ""
 #: sc/0038:32 
 msgid "（とは言え、今の僕の髪の毛を\n　科学で説明できるのだろうか……？）\n"
 msgstr ""
-"（Speaking of, I wonder if my hair\n"
-"　can be explained by science……?）\n"
+"(Speaking of which, I wonder if science \n"
+"can explain what happened to my hair……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -395,8 +393,8 @@ msgstr ""
 #: sc/0038:33 
 msgid "（ダ、ダメだ。科学を疑うんじゃない。\n　科学の力なら何でも解明できる）\n"
 msgstr ""
-"（No, no. Don't doubt science. The power\n"
-"　of science can clarify all things）\n"
+"(No, no. You can't doubt science. \n"
+"It has the power to clarify anything!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +406,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:34 
 msgid "そういうわけだから、僕は遠慮しておくよ。\n"
-msgstr "For this reason, I'd rather not.\n"
+msgstr "For that reason, I'd rather not.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,8 +419,8 @@ msgstr ""
 #: sc/0038:35 
 msgid "（それに、実は……ちょっと怖いんだよね。\n　いないんだけど、雰囲気的なものが……）\n"
 msgstr ""
-"（But to be frank…… I'm a little scared.\n"
-"　They don't exist but the atmospheric……）\n"
+"(But to be frank…… I'm a little scared.\n"
+"Ghosts don't exist, but there's just something……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -434,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:36 
 msgid "（僕の肩に手が！？）\n"
-msgstr "（A hand on my shoulder!?）\n"
+msgstr "(A hand on my shoulder!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -446,7 +444,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:37 
 msgid "（だ、誰だ！？　ま、まさか幽霊！？）\n"
-msgstr "（Wh-who!? R-really, ghosts!?）\n"
+msgstr "（Wh- Who is it!? C-Could it be a ghost!?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -459,8 +457,8 @@ msgstr ""
 #: sc/0038:38 
 msgid "（振り返るな！　こういうとき、\n　振り返ったら呪われる！）\n"
 msgstr ""
-"（Don't look back! In this moment,\n"
-"　if I look back, I'll be cursed!）\n"
+"(Don't turn around! This is when \n"
+"people look back and get cursed!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +470,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:39 
 msgid "うおおおおおお！！\n"
-msgstr "AHHHHHH!!\n"
+msgstr "UWOHHHHHHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -593,8 +591,8 @@ msgstr ""
 #: sc/0038:49 
 msgid "あ、あの、中之条くんのノ―ト……\n返し忘れたので……。\n"
 msgstr ""
-"Um, eh, these are your notes……\n"
-"I forgot to return them……\n"
+"Um, um, here is your notebook……\n"
+"I forgot to return it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:51 
 msgid "…………プッ。\n"
-msgstr "…………poof.\n"
+msgstr "…………pfff.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +652,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:54 
 msgid "中之条くん、ちょっといいですか？\n"
-msgstr "Nakanojo, do you have a minute?\n"
+msgstr "Nakanojou-kun, do you have a minute?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +676,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:56 
 msgid "……中之条くん？\n"
-msgstr "……Nakanojo？\n"
+msgstr "……Nakanojou-kun？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,13 +694,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:58 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0038:58 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +712,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:59 
 msgid "センセ―。\n"
-msgstr "Teacher.\n"
+msgstr "Sakurai—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:60 
 msgid "あ、は、はい。何ですか田中君。\n"
-msgstr "Aha, yes. What is it Tanaka?\n"
+msgstr "Aha, yes. What is it, Tanaka?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,16 +736,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:61 
 msgid "中之条、気絶してま―す。\n"
-msgstr "Nakanojo, he fainted.\n"
+msgstr "Nakanojou, he fainted—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0038:62 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0038:62 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"

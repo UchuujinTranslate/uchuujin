@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-25 23:22+0000\n"
+"Last-Translator: Bald Man <raultortats@outlook.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0156/en_US/>\n"
 "Language: en_US\n"
@@ -12,25 +12,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0156:0 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0156:0 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0156:1 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0156:4 
 msgid "わっ！？　怒った！\n"
-msgstr ""
+msgstr "Uwah!? He's mad!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0156:17 
 msgid "！！！！！\n"
-msgstr ""
+msgstr "!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0156:66 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +852,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0156:71 
 msgid "…………！\n"
-msgstr ""
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +924,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0156:77 
 msgid "う、うう……。\n"
-msgstr ""
+msgstr "Ugh, uhh…….\n"
 
 #  speaker 
 #  warnings: 0 

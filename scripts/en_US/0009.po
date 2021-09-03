@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0009/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,8 +25,8 @@ msgstr "Yuuko"
 #: sc/0009:0 
 msgid "（今日は厄日なのかな……\n　何をしても辛い結果にしかならない）\n"
 msgstr ""
-"(I feel like today is a bad day...\n"
-"Everything I do is so painful)\n"
+"(Is today just a bad day for me……\n"
+"No matter what I do, it only ends in pain.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -50,7 +50,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0009:2 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,8 +63,8 @@ msgstr ""
 #: sc/0009:3 
 msgid "（あの犬がいる時はよく辛い目に遭う。\n　やっぱり元凶はあの犬なんじゃ……）\n"
 msgstr ""
-"That dog is trouble.\n"
-"After all, he is the culprit……\n"
+"(And it's all when that dog is around.\n"
+"So could that dog be the reason……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -76,7 +76,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0009:4 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -88,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:5 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -112,7 +112,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:7 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -124,7 +124,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:8 
 msgid "……何だろう？\n"
-msgstr ""
+msgstr "……What was that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -137,12 +137,14 @@ msgstr ""
 #: sc/0009:9 
 msgid "あの人、私を見てたけど……何？\nもしかして私じゃなくて、私の後ろ？\n"
 msgstr ""
+"That person was looking at me…… Wait, \n"
+"maybe not me, but something behind me?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0009:10 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -160,7 +162,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:11 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -173,6 +175,8 @@ msgstr ""
 #: sc/0009:12 
 msgid "（何で校長がここに？\n　もしかしてずっと私の後ろをついてきた？）\n"
 msgstr ""
+"(Why is the Principal here?\n"
+"Was he following me the entire time?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -196,7 +200,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:14 
 msgid "……うわあああ！？\n"
-msgstr ""
+msgstr "……Uwaaah！？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -215,30 +219,40 @@ msgstr ""
 #: sc/0009:16 
 msgid "ひどい！\nいきなり殴ることないじゃないか！\n"
 msgstr ""
+"How mean!\n"
+"She suddenly went up and punched him!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0009:17 
 msgid "いや、それは仕方ないだろ。\n女の子には怖いことだからさ。\n"
 msgstr ""
+"Well, that can't really be helped. \n"
+"Sure, any girl would find that scary.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0009:18 
 msgid "だって、こうでもしないと\n放送できないし！\n"
 msgstr ""
+"But, if we don't do it like this,\n"
+"we won't be able to broadcast!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0009:19 
 msgid "そうだけど、仕方ないさ。\nこれはこっちが悪かったんだ。\n"
 msgstr ""
+"That may be true, but it's no use.\n"
+"What you did was wrong.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0009:20 
 msgid "じゃあ、この後のことも\n仕方ないで納得するのか？\n"
 msgstr ""
+"Well, after this, will you be satisfied \n"
+"knowing that it's no use?\n"
 
 #  text 
 #  warnings: 1 
@@ -250,13 +264,13 @@ msgstr ""
 #  warnings: 2 
 #: sc/0009:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0009:22 
 msgid "うわああああ！！\n"
-msgstr "Uwaaa!!\n"
+msgstr "UWAAAAH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -268,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:23 
 msgid "あっ！？\n"
-msgstr ""
+msgstr "Ah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -281,6 +295,8 @@ msgstr ""
 #: sc/0009:24 
 msgid "……そ、そうか！　そうだったんだ！\n今、全てが繋がった！！\n"
 msgstr ""
+"……Oh,  oh yes! So that was it! \n"
+"Now, everything is connected!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -293,6 +309,8 @@ msgstr ""
 #: sc/0009:25 
 msgid "今日の不調は犬のせいだと思ってたけど……\n私に悪霊がついてたんだ！\n"
 msgstr ""
+"I thought my slump was the dog's fault,\n"
+"but…… it was a bad spirit haunting me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,6 +323,8 @@ msgstr ""
 #: sc/0009:26 
 msgid "さっきの人、霊媒師みたいな感じだったから、\nきっと私についてた悪霊が見えたんだ！\n"
 msgstr ""
+"That person's a psychic so I'm sure\n"
+" she saw the bad spirits following me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -317,6 +337,8 @@ msgstr ""
 #: sc/0009:27 
 msgid "すみませ―ん！\nちょっと待ってくださ―い！\n"
 msgstr ""
+"Excuse me!\n"
+"Could you wait just a little bit!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -328,7 +350,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:28 
 msgid "はっ？　なんですか？\n"
-msgstr ""
+msgstr "Huh? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -341,6 +363,8 @@ msgstr ""
 #: sc/0009:29 
 msgid "あの、もしかしてですけど、私、\n悪霊に取り亅かれてるんですよね？\n"
 msgstr ""
+"Um, would you perhaps know how to\n"
+"remove an evil spirit from me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -352,7 +376,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:30 
 msgid "……はあ？\n"
-msgstr ""
+msgstr "……What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -365,6 +389,8 @@ msgstr ""
 #: sc/0009:31 
 msgid "そうですよね？\nだから今日は不運続きなんですよね？\n"
 msgstr ""
+"So that's why, right?\n"
+"That's why I've had such a bad day today?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -389,6 +415,8 @@ msgstr ""
 #: sc/0009:33 
 msgid "……あっ。そうです。\nあなたは悪霊に取り亅かれています。\n"
 msgstr ""
+"……Ah. Oh, you are right.\n"
+"You are being possessed by demons!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -401,6 +429,8 @@ msgstr ""
 #: sc/0009:34 
 msgid "やっぱり！　お願いです！\nすぐに除霊してください！\n"
 msgstr ""
+"I knew it! Please!\n"
+"Could you please exorcise me quickly!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -413,6 +443,8 @@ msgstr ""
 #: sc/0009:35 
 msgid "わかりました。この霊にとっておきの物が\nこちらのお守り。５千円になります。\n"
 msgstr ""
+"Understood. IN CHRIST'S NAME DEPART!\n"
+"Here's a helping charm. That's ¥5,000.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -424,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:36 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -436,7 +468,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:37 
 msgid "お、お金を取るの！？\n"
-msgstr ""
+msgstr "Is, is she taking money for it?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -448,7 +480,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:38 
 msgid "こちらも商売ですから。\n"
-msgstr ""
+msgstr "Well, this is also a business so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -461,6 +493,8 @@ msgstr ""
 #: sc/0009:39 
 msgid "くっ、でも、学生にとって\n５千円は大金だから……。\n"
 msgstr ""
+"Jeez, but 5,000 yen\n"
+"is a lot of money for a student…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -473,6 +507,8 @@ msgstr ""
 #: sc/0009:40 
 msgid "そう思って安くしてるんですよ。\n本当なら１万円頂くところです。\n"
 msgstr ""
+"I think it's a pretty lousy amount.\n"
+"Normally I would charge you ¥10,000 for it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -484,7 +520,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:41 
 msgid "えっ！？　じゃあ半額！？\n"
-msgstr ""
+msgstr "What!? So I got a half discount!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -497,6 +533,8 @@ msgstr ""
 #: sc/0009:42 
 msgid "はい。あなたのためを思って。\nこれでもこちらは赤字なんですよ？\n"
 msgstr ""
+"Yup. I think it's for your good. I'm the\n"
+"one loosing on this deal, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -508,7 +546,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:43 
 msgid "買います！　はい、樋口！！\n"
-msgstr ""
+msgstr "I'll buy it! Here, 5000!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -521,6 +559,8 @@ msgstr ""
 #: sc/0009:44 
 msgid "まいどあり―。\nそれではどうぞ―。\n"
 msgstr ""
+"Thank you.\n"
+"Well then, here you go—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -533,6 +573,8 @@ msgstr ""
 #: sc/0009:45 
 msgid "（よし、これでいつもの調子を\n　取り戻せる！）\n"
 msgstr ""
+"(Alright, now I can finally\n"
+"get back to normal!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -544,7 +586,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:46 
 msgid "じゃあ、おばあさん。\n"
-msgstr ""
+msgstr "Um, ma'am.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -556,7 +598,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:47 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -569,6 +611,8 @@ msgstr ""
 #: sc/0009:48 
 msgid "コ―ラをこぼしておこ―られた！\n"
 msgstr ""
+"What do you call a soda researcher?\n"
+"A fizzisist!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -592,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:50 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -604,7 +648,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:51 
 msgid "はっはっはっは……。\n"
-msgstr ""
+msgstr "Ha ha ha ha…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -617,6 +661,8 @@ msgstr ""
 #: sc/0009:52 
 msgid "やった――！！\n私、完全復活――！！\n"
 msgstr ""
+"I did it——!!\n"
+"I feel perfectly recovered——!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -628,7 +674,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:53 
 msgid "……はぁ。\n"
-msgstr ""
+msgstr "……*Sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,6 +687,8 @@ msgstr ""
 #: sc/0009:54 
 msgid "ご、５千円って……またまた。\n冗談が上手いなぁ。\n"
 msgstr ""
+"F-Five thousand yen…… huh.\n"
+"That's a good one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -653,6 +701,8 @@ msgstr ""
 #: sc/0009:55 
 msgid "本気ですよ。この不況の時代、\nタダじゃ商売上がったりですからね。\n"
 msgstr ""
+"I'm serious. In this recession,\n"
+"there's no way I can do this work without pay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -665,6 +715,8 @@ msgstr ""
 #: sc/0009:56 
 msgid "（くっ、不況の話は学生には分が悪い。\n　それを言われると何も言い返せない）\n"
 msgstr ""
+"(Tsk, talking about the recession to a student.\n"
+"I really can't say anything back to that.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -677,6 +729,8 @@ msgstr ""
 #: sc/0009:57 
 msgid "悪霊にひどい目に遭わされたんでしょう？\nそれがなくなると思えば安い物でしょう。\n"
 msgstr ""
+"You were having it rough because of the bad spirits before, right?\n"
+"It would be a small favor in comparison to repay for it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -688,7 +742,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:58 
 msgid "た、確かに……。\n"
-msgstr ""
+msgstr "C-Certainly…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -701,6 +755,8 @@ msgstr ""
 #: sc/0009:59 
 msgid "（今日みたいなことがずっと続くなんて……\n　考えただけで恐ろしい！）\n"
 msgstr ""
+"(If stuff like today continued forever…\n"
+"It's too terrible to think about!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -712,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:60 
 msgid "くっ……しかし、５千円は……。\n"
-msgstr ""
+msgstr "Geez…… But, five thousand yen…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -724,7 +780,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:61 
 msgid "それでは大サ―ビスで３千円に。\n"
-msgstr ""
+msgstr "Well, it's on sale for 3000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -736,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:62 
 msgid "買った！\n"
-msgstr ""
+msgstr "That's a deal!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -748,7 +804,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:63 
 msgid "まいどあり―。\n"
-msgstr ""
+msgstr "Thank you for your continued patronage.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -761,6 +817,8 @@ msgstr ""
 #: sc/0009:64 
 msgid "（３千円でも高い。だけど除霊が３千円なら\n　きっと相場的にも安いはず……）\n"
 msgstr ""
+"(¥3000 is also expensive. But in the\n"
+"exorcism market ¥3000 is probably cheap…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -773,6 +831,8 @@ msgstr ""
 #: sc/0009:65 
 msgid "よ―し！　早速みおちゃんたちに\nいつもの私を見せてあげよう！\n"
 msgstr ""
+"Alright! Let's quickly\n"
+"show Mio and the others the usual me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -785,6 +845,8 @@ msgstr ""
 #: sc/0009:66 
 msgid "おばあさんありがとう！\nまたね―！\n"
 msgstr ""
+"Thank you, ma'am!\n"
+"See you later!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -795,9 +857,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0009:67 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -809,7 +870,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:68 
 msgid "……フフ。\n"
-msgstr ""
+msgstr "……haha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,6 +883,8 @@ msgstr ""
 #: sc/0009:69 
 msgid "いや、いくら私が学生でも\nそれはぼったくりってわかるよ。\n"
 msgstr ""
+"No, it doesn't matter that I'm student,\n"
+"I still know that it's a rip-off.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -833,7 +896,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:70 
 msgid "妥当な値段です。\n"
-msgstr ""
+msgstr "It's a reasonable price.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -845,7 +908,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:71 
 msgid "ただのお守りじゃん。\n"
-msgstr ""
+msgstr "It's just a regular charm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,6 +921,8 @@ msgstr ""
 #: sc/0009:72 
 msgid "失礼な。これは恐山で一番霊力の強い場所で\n三日三晩清め続けられたお守りですよ。\n"
 msgstr ""
+"How rude. This charm was consecrated for\n"
+"three nights in the spiritual Mt. Osore.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -869,7 +934,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:73 
 msgid "お、恐山？　あの有名な？\n"
-msgstr ""
+msgstr "M-Mount Osore! That famous one?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -881,7 +946,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:74 
 msgid "はい。私は日頃そこにいますから。\n"
-msgstr ""
+msgstr "Yes. Since I'm normally there everyday.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,6 +959,8 @@ msgstr ""
 #: sc/0009:75 
 msgid "（そう言われると一気に信亅性が\n　高くなってきた……）\n"
 msgstr ""
+"(When she said that, her \n"
+"credibility suddenly increased……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,6 +973,8 @@ msgstr ""
 #: sc/0009:76 
 msgid "まあ、いらないというのであれば\n私は別に構いませんが。\n"
 msgstr ""
+"Well,\n"
+"I don't care if you don't want it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -917,7 +986,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:77 
 msgid "うっ……。\n"
-msgstr "Uh....\n"
+msgstr "Uh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -929,7 +998,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:78 
 msgid "それでは、私はこれで。\n"
-msgstr ""
+msgstr "Well then, I'll be heading……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -953,16 +1022,18 @@ msgstr ""
 #  warnings: 0 
 #: sc/0009:80 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0009:81 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0009:81 
 msgid "……待って！　やっぱり買う！\n買わせてくださ―い！\n"
 msgstr ""
+"……No wait! I reconsider, I'll buy it!\n"
+"Please let me buy it!\n"

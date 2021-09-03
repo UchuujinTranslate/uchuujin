@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-09-01 18:07+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0141/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:0 
 msgid "はぁ……笹原のヤツ、どこへ行ったのよ……。\n"
-msgstr "Ugh... that Sasahara, where did he go...\n"
+msgstr "Ugh…… that Sasahara, where did he go…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +96,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0141:6 
 msgid "んぎゃあああああ！？\n"
-msgstr ""
+msgstr "Ngyaaaaaaaaaaaaa!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:8 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,7 +198,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0141:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -264,7 +264,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0141:24 
 msgid "うぎゃあああああ！？\n"
-msgstr ""
+msgstr "UGYAAAAAAAAAAAH!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:25 
 msgid "あ、あの声、まさか！\n"
-msgstr ""
+msgstr "Ah, that voice. Could it be!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +349,8 @@ msgstr ""
 #: sc/0141:31 
 msgid "あ、桜井先生……！\nこ、これは、その……。\n"
 msgstr ""
+"Ah, Ms. Sakurai……!\n"
+"T-this is, well…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +368,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:33 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
@@ -378,7 +380,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:34 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -444,7 +446,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:39 
 msgid "ええと、その……。\n"
-msgstr ""
+msgstr "Um, ahh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +519,8 @@ msgstr ""
 #: sc/0141:45 
 msgid "あ、えっと……\nあっち弌弌\n"
 msgstr ""
+"Ah, um……\n"
+"That over there——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +532,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:46 
 msgid "あっちですね。わかりました！\n"
-msgstr ""
+msgstr "Over there. Understood!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +797,8 @@ msgstr ""
 #: sc/0141:68 
 msgid "笹原っ！　勘違いしないでよね！\nこれはただの人助けなんだからっ！\n"
 msgstr ""
+"Sasahara! Don't get the wrong idea, OK!\n"
+"This was just an act of mercy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -827,15 +833,14 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0141:71 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0141:72 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -889,7 +894,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:76 
 msgid "は、はいっ！\n"
-msgstr ""
+msgstr "Y- Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,7 +972,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:83 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -1057,7 +1062,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:90 
 msgid "む？　立花みさとか。どうしたのだ。\n"
-msgstr ""
+msgstr "Tachibana Misato? What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1105,13 +1110,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:94 
 msgid "か、勘違いしないでよねっ！\n"
-msgstr ""
+msgstr "Don't, don't get the wrong idea okay!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0141:95 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -1129,4 +1134,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0141:96 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2020-10-10 09:26+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0104/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0104:1 
 msgid "（ここが大工カフェか……）\n"
-msgstr ""
+msgstr "(So this is Daiku Cafe huh……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0104:2 
 msgid "（前の喫茶店だった姿がどこにもないや。\n　随分変わったな）\n"
 msgstr ""
+"(There are no signs of the former Kissaten that was here. \n"
+"This place has changed quite a bit.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0104:3 
 msgid "（個人的にはあっちの方が落ち着いて\n　好きだったんだけど……）\n"
 msgstr ""
+"(Personally speaking I think that shop had a much \n"
+"more relaxed feeling to it and I really liked it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0104:4 
 msgid "（でもメニュ―が多くなってるし、\n　どれも美味しそうだ。何を頼むか迷うなぁ）\n"
 msgstr ""
+"(But the menu has become bigger, and they all look really delicious.\n"
+"It's hard to decide what to order.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0104:5 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +102,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:6 
 msgid "あれ？　相生さんも来てたんだ。\n"
-msgstr ""
+msgstr "Wait, what? Aioi-san is also here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +114,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:7 
 msgid "へっ？　……ああ、中之条くん。\n"
-msgstr ""
+msgstr "Huh? ……Ah, Nakanojou-kun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:8 
 msgid "ここにはよく来るの？\n"
-msgstr ""
+msgstr "Do you come here often?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +139,8 @@ msgstr ""
 #: sc/0104:9 
 msgid "あ……ま、まあね。\nというか私、かなり常連だし。\n"
 msgstr ""
+"Ah……Y- Yeah I suppose.\n"
+"I'm quite a frequent customer actually.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +152,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:10 
 msgid "へ〜、そうなんだ。\n"
-msgstr ""
+msgstr "Oh〜, I see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +176,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:12 
 msgid "あれ？　この店って\n飲食店なのに犬がいるんだ。\n"
-msgstr ""
+msgstr "Huh wait? This is a restaurant but there are dogs here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +189,8 @@ msgstr ""
 #: sc/0104:13 
 msgid "えっ？\n弌弌あっ！　この犬は！\n"
 msgstr ""
+"What?\n"
+"——Ah! It's this dog!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +203,8 @@ msgstr ""
 #: sc/0104:14 
 msgid "（こ、この犬が現れたってことは……\n　もしや、何か嫌なことが起きる予兆！？）\n"
 msgstr ""
+"(W- When this dog appear then it means……\n"
+"It's an omen that something bad will happen!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:15 
 msgid "ごめん、私帰る！\n"
-msgstr ""
+msgstr "Sorry, I'm going home!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:16 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,36 +259,44 @@ msgstr "!?\n"
 #: sc/0104:19 
 msgid "お、おい！　どこ行ってるんだ？\n今はあの、モヒカン少年を映すんだよ！\n"
 msgstr ""
+"H- Hey! Where are you going?\n"
+"At this part we should be filming that boy, you know!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:20 
 msgid "わかってる！　だけど、犬が勝手に！\nこっちの指示を受け付けないんだ。\n"
 msgstr ""
+"I know that! But the dog is willfully-!\n"
+"It's not responding to my instructions.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:21 
 msgid "なんだって？\n一体、どういうことだ……？\n"
 msgstr ""
+"What?\n"
+"What exactly do you……?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:22 
 msgid "わからんが、ちょっと待ってろ。\n今すぐに復旧させ弌弌\n"
 msgstr ""
+"I'm not sure but wait a minute.\n"
+"I will restore it right away——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:23 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:24 
 msgid "ん？　どうした？\n"
-msgstr ""
+msgstr "Hmph? What is it?\n"
 
 #  text 
 #  warnings: 1 
@@ -289,18 +309,20 @@ msgstr ""
 #: sc/0104:26 
 msgid "ええっ！？\nな、何したんだお前――！！\n"
 msgstr ""
+"Ehh!?\n"
+"W- What are you doing——!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:27 
 msgid "操作装置……壊しちゃった。\n"
-msgstr ""
+msgstr "The control device……I broke it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0104:28 
 msgid "うそ――――ん！？\n"
-msgstr ""
+msgstr "ARE YOU KIDDING ME———!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +334,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:29 
 msgid "で、そっちは？　よく来るの？\n"
-msgstr ""
+msgstr "And how about you? Do you come here often?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:30 
 msgid "あ、ううん。今日が初めてなんだ。\n"
-msgstr ""
+msgstr "Ah, no. Today is the first time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +359,8 @@ msgstr ""
 #: sc/0104:31 
 msgid "初めて？\n二ヒヒ、そう、初めてなんだ―。\n"
 msgstr ""
+"First time?\n"
+"Hehe, I see, so it's your first time—.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -349,6 +373,7 @@ msgstr ""
 #: sc/0104:32 
 msgid "（じゃあ私は後ろで注文に戸惑う姿でも\n　拝見させてもらいましょうか）\n"
 msgstr ""
+"(Then let me have a look at him from the back when he struggle ordering.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +386,8 @@ msgstr ""
 #: sc/0104:33 
 msgid "あ、先に注文してもいいよ。\n私、まだ決まってないから。\n"
 msgstr ""
+"Ah, you can go first.\n"
+"I still haven't decided yet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +399,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:34 
 msgid "あ、うん。\n"
-msgstr ""
+msgstr "Ah, okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -385,6 +412,8 @@ msgstr ""
 #: sc/0104:35 
 msgid "いらっしゃいませ。\nご注文はお決まりでしょうか。\n"
 msgstr ""
+"Welcome.\n"
+"Have you decided what to order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +426,8 @@ msgstr ""
 #: sc/0104:36 
 msgid "え―っと……キャラメルソ―スへ―ゼルナッツ\nチョコマキア―トの……ト―ル？　１つ。\n"
 msgstr ""
+"Uhm……can I have a Choco Macchiato with \n"
+"caramel sauce and hazelnuts……tall size? Please.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +452,8 @@ msgstr ""
 #: sc/0104:38 
 msgid "はい。キャラメルソ―スへ―ゼルナッツ\nチョコマキア―トのト―ルですね。\n"
 msgstr ""
+"Yes. So it will be one tall size Choco Macchiato with caramel sauce and "
+"hazelnuts.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +466,8 @@ msgstr ""
 #: sc/0104:39 
 msgid "はい。\nねえ相生さん、これって美味しいの弌弌\n"
 msgstr ""
+"Yes. \n"
+"Hey Aioi-san, do you know if this one is delicious\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +479,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:40 
 msgid "ありえない……ありえない！！\n"
-msgstr ""
+msgstr "How is this possible……how!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +491,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:41 
 msgid "バリカン！？\n"
-msgstr ""
+msgstr "A hair clipper!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +503,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:42 
 msgid "はあああ！！\n"
-msgstr ""
+msgstr "Hwahhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +516,8 @@ msgstr ""
 #: sc/0104:43 
 msgid "（ど、どうしたんだ？\n　急に相生さんが怒りを露わに……！）\n"
 msgstr ""
+"(W- What happend?\n"
+"Suddenly Aioi-san is in full anger……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +529,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:44 
 msgid "あ、相生さん、落ち着いて！\n"
-msgstr ""
+msgstr "Aioi-san, calm yourself down!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +553,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:46 
 msgid "（ダメだ、怒りで僕の声が届かない！）\n"
-msgstr ""
+msgstr "(It's not working. She can't hear me because of the anger!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +565,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:47 
 msgid "うおおおおお！！\n"
-msgstr ""
+msgstr "Uwohhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +578,8 @@ msgstr ""
 #: sc/0104:48 
 msgid "（どうする、どうする！？\n　どうやって相生さんを止める弌弌）\n"
 msgstr ""
+"(What do I do, what do I do!?\n"
+"How do I stop  Aioi-san——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -551,8 +590,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0104:49 
+#, fuzzy
 msgid "せいっ！\n"
-msgstr ""
+msgstr "Sehh!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:51 
 msgid "あっ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +628,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:52 
 msgid "〜〜〜〜！！！！\n"
-msgstr ""
+msgstr "～～～～！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +640,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:53 
 msgid "（な、何故だかわからないけど\n　相生さんが怒っている……！）\n"
-msgstr ""
+msgstr "(F- For some reason I made Aioi-san angery\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +653,8 @@ msgstr ""
 #: sc/0104:54 
 msgid "（一体、僕が何を……だが何か相生さんの\n　逆鱗に触れてしまったのは間違いない）\n"
 msgstr ""
+"(What on earth did I……But it's clear that I for some \n"
+"reason upset her as a superior.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +667,7 @@ msgstr ""
 #: sc/0104:55 
 msgid "（ならばここは甘んじて罰を……\n　バリカンを受け入れるべきなのか……？）\n"
 msgstr ""
+"(In that case should I resign and accept the hair clipper as punishment……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +679,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:56 
 msgid "（しかし今日の僕の髪は刈ることなんて！\n　……いや待て、他人の手であれば弌弌）\n"
-msgstr ""
+msgstr "(But today my hair, it can't be cut!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +692,8 @@ msgstr ""
 #: sc/0104:57 
 msgid "……よし。\nさあ、こい！！\n"
 msgstr ""
+"……Alright.\n"
+"Now, do it!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -673,6 +718,8 @@ msgstr ""
 #: sc/0104:59 
 msgid "お待たせいたしました。キャラメルソ―ス\nへ―ゼルナッツチョコマキア―トです。\n"
 msgstr ""
+"Thank you for waiting. Here's the Choco Macchiato with caramel sauce and "
+"hazelnuts.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +731,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:60 
 msgid "あ、ありがとうございま弌弌\n"
-msgstr ""
+msgstr "Ah, thank you so—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -695,8 +742,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0104:61 
+#, fuzzy
 msgid "きええええええ！！\n"
-msgstr ""
+msgstr "Khyeeeehhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -708,7 +756,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:62 
 msgid "わっ！？　危な弌弌\n"
-msgstr ""
+msgstr "Wah!? Watch ou—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +774,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:64 
 msgid "中之条＆玉村"
-msgstr ""
+msgstr "Nakanojou & Tamamura"
 
 #  text 
 #  warnings: 0 
@@ -780,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:68 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +840,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:69 
 msgid "あっ、相生さん！？\n"
-msgstr ""
+msgstr "Ah, Aioi-san!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +864,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:71 
 msgid "（……逃げたのか）\n"
-msgstr ""
+msgstr "（……She left?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -829,6 +877,8 @@ msgstr ""
 #: sc/0104:72 
 msgid "（か、刈る気なのか……？\n　あのバリカンでモヒカンを……）\n"
 msgstr ""
+"(She's planning to shave it……?\n"
+"Cut my Mohawk with that hair clipper……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +891,8 @@ msgstr ""
 #: sc/0104:73 
 msgid "（だが、今日のモヒカンは幽霊状態。\n　刈ろうにも……いや、油断は禁物だ！）\n"
 msgstr ""
+"(But, my Mohawk today is in a ghost state.\n"
+"Even if she were to cut\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,6 +905,8 @@ msgstr ""
 #: sc/0104:74 
 msgid "（せっかくまた生えてきたんだ……\n　そんなことはさせない！）\n"
 msgstr ""
+"(My hair has just grown back……\n"
+"I can't let it happen!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +918,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:75 
 msgid "（とは言え、このままでは\n　刈られるのも時間の問題……）\n"
-msgstr ""
+msgstr "(Though, at this state it's just a matter of time before I get shaved\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +930,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:76 
 msgid "ならば弌弌\n"
-msgstr ""
+msgstr "In that case——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +942,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:77 
 msgid "！！\n"
-msgstr ""
+msgstr "!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +954,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:78 
 msgid "こうだ！\n"
-msgstr ""
+msgstr "Here!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,28 +966,28 @@ msgstr ""
 #  warnings: 0 
 #: sc/0104:79 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0104:80 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
 #: sc/0104:80 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0104:81 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0104:81 
 msgid "……ずるい！\n"
-msgstr ""
+msgstr "……That's unfair!\n"

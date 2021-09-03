@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:22+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0007/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Yuuko"
 #: sc/0007:0 
 msgid "（はぁ……朝からブル―だ……）\n"
 msgstr ""
+"(*Sigh*……\n"
+"I've felt blue since this morning……)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0007:1 
 msgid "（あんなに清しい気持ちだったのが\n　今ではこの変わり様……）\n"
 msgstr ""
+"(I was such in high spirits earlier,\n"
+"but now how things have changed……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0007:2 
 msgid "（今日は良い日になる気がしたんだけど、\n　あの犬のせいで悪い予感しかしない）\n"
 msgstr ""
+"(I felt like today was gonna be a good one.\n"
+"But thanks to that dog, all I feel is anxiety)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr "Takasaki-sensei"
 #: sc/0007:3 
 msgid "……であるからして、\nこの漢文はこのように訳せるわけだ。\n"
 msgstr ""
+"…therefore, this is how you'd translate\n"
+"this Chinese classical writing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +81,8 @@ msgstr ""
 #: sc/0007:4 
 msgid "（気分が乗らないと授業の話も\n　右から左に抜けるだけだ……）\n"
 msgstr ""
+"(I'm not feeling up for this class. It's\n"
+"just going in one ear and out the other…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +95,8 @@ msgstr ""
 #: sc/0007:5 
 msgid "（……ま、普段から\n　右から左に抜けてるけどね。ふふっ）\n"
 msgstr ""
+"(……Well, that's usually the\n"
+"case for me all the time though. Hehe)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:6 
 msgid "（……おっ？　今ちょっと面白かった？）\n"
-msgstr ""
+msgstr "(……Oh? Was I a bit funny there?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +121,8 @@ msgstr ""
 #: sc/0007:7 
 msgid "（……そうか。私はあの犬に怯えて\n　いつもの力が出せなかったんだ）\n"
 msgstr ""
+"(……Oh, I see. Has my fear of that\n"
+"dog hampered my usual comedic powers?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +135,8 @@ msgstr ""
 #: sc/0007:8 
 msgid "（ということは、\n　今ボケたら笑いが取れたりして？）\n"
 msgstr ""
+"(Could that mean that if I make a\n"
+"joke now, I could get a laugh or two?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +149,8 @@ msgstr ""
 #: sc/0007:9 
 msgid "よしっ。\nねえ、みおちゃん。\n"
 msgstr ""
+"Okay let's go. \n"
+"Hey, Mio-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,19 +162,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:10 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0007:11 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0007:11 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +187,8 @@ msgstr ""
 #: sc/0007:12 
 msgid "あっ、校長！\nどうされました？\n"
 msgstr ""
+"Ah, Principal!\n"
+"What is the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +212,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:14 
 msgid "校長？　……あ。\n"
-msgstr ""
+msgstr "Principal? ……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +224,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:15 
 msgid "校長、頭に虫が。\n"
-msgstr ""
+msgstr "Principal, you have a bug on your head.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,42 +243,48 @@ msgstr "!?\n"
 #: sc/0007:17 
 msgid "な、なにぃ！？\n校長の頭を叩いただと！？\n"
 msgstr ""
+"W-What!?\n"
+"She hit the Principal!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0007:18 
 msgid "どういうことだ？\n校長先生って一番偉いんじゃないのか？\n"
 msgstr ""
+"Why? Doesn't the\n"
+"Principal have the highest position?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0007:19 
 msgid "わからん。\nただ１つだけわかることは……。\n"
 msgstr ""
+"Well, I'm not sure. \n"
+"But there is one thing I'm certain about…\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0007:20 
 msgid "今のでアンテナが折れたってことだな！\n"
-msgstr ""
+msgstr "And that is that the antenna broke!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0007:21 
 msgid "その通り！\n"
-msgstr ""
+msgstr "Yeah, exactly!\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0007:22 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0007:22 
 msgid "うわあああああああ！！\n"
-msgstr ""
+msgstr "Uwahhhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,6 +297,8 @@ msgstr ""
 #: sc/0007:23 
 msgid "相生。私語をするとは余裕だな。\n"
 msgstr ""
+"Miss Aioi.\n"
+"This is not the time for chit-chat.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +310,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:24 
 msgid "えっ？　あ、その……。\n"
-msgstr ""
+msgstr "Eh? Ah, ehm yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,6 +323,8 @@ msgstr ""
 #: sc/0007:25 
 msgid "授業の邪魔をするなら廊下に立ってろ！\n"
 msgstr ""
+"If you're going to be a hindrance for\n"
+"the class, go stand in the hallway!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -306,7 +336,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:26 
 msgid "うっ……。\n"
-msgstr "Uh....\n"
+msgstr "Uh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,6 +349,8 @@ msgstr ""
 #: sc/0007:27 
 msgid "（確かに授業を真面目に受けない私も悪い）\n"
 msgstr ""
+"(He has a point. I'm in the wrong\n"
+"for not taking the class seriously)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,6 +363,8 @@ msgstr ""
 #: sc/0007:28 
 msgid "（でも、今はボケたい！\n　ボケて、みおちゃんを笑わせたい！）\n"
 msgstr ""
+"(But, right now I want to tell jokes!\n"
+"Tell them, and make Mio-chan laugh!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +377,8 @@ msgstr ""
 #: sc/0007:29 
 msgid "（……あれ？　でもこれで失敗したら\n　あの犬の予言は本物ということに……）\n"
 msgstr ""
+"(……Wait? If I let this joke slip, then\n"
+"that dog's premonition would be true……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +390,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:30 
 msgid "（ええい、恐怖に負けるもんか！）\n"
-msgstr ""
+msgstr "(No, I can't let my fear win over me!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +403,8 @@ msgstr ""
 #: sc/0007:31 
 msgid "先生！　お題をください！\n"
 msgstr ""
+"Teacher!\n"
+"Please give me a topic for my answer!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +416,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:32 
 msgid "はっ？　お、お題？\n"
-msgstr ""
+msgstr "Huh? A topic?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +429,8 @@ msgstr ""
 #: sc/0007:33 
 msgid "はい！　何でもいいから\n思い浮かんだお題を言ってください！\n"
 msgstr ""
+"Yes! It can be whatever\n"
+"comes to your head. Anything, please!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +442,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:34 
 msgid "ぬっ、そ、それじゃあ……キノコ。\n"
-msgstr ""
+msgstr "Mm, well then…… mushrooms.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +454,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:35 
 msgid "キノコ！　頂きました！\n"
-msgstr ""
+msgstr "Okay! I got it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +467,8 @@ msgstr ""
 #: sc/0007:36 
 msgid "みんな注目！　行くよ―！！\n"
 msgstr ""
+"Everyone!\n"
+"Can I have your attention please!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:39 
 msgid "はぁぁぁああ！！\n"
-msgstr ""
+msgstr "Hahhhhhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +517,8 @@ msgstr ""
 #: sc/0007:40 
 msgid "キノコが、生き残った―――！！\n"
 msgstr ""
+"Mushroom puns are good on any occasion.\n"
+"Why? Because they're portabella———!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +530,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:41 
 msgid "ゆっこ……！\n"
-msgstr ""
+msgstr "Yukko……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:42 
 msgid "相生……！\n"
-msgstr ""
+msgstr "Aioi……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:43 
 msgid "みんな！\n"
-msgstr ""
+msgstr "Everyone!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -533,8 +577,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:45 
+#, fuzzy
 msgid "廊下に立ってろうか。\n"
 msgstr ""
+"[HALLWAY PUN, that means stand in the hallway] said by Takasaki sensei\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:46 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +605,8 @@ msgstr ""
 #: sc/0007:47 
 msgid "（……ダメだ。ここでスベったら\n　私は自信をなくしてしまう……）\n"
 msgstr ""
+"(……No. If I let this joke slip,\n"
+"then I'll loose all my confidence……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:48 
 msgid "……廊下に立ってきます。\n"
-msgstr ""
+msgstr "……I'll go stand in the hallway.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +631,8 @@ msgstr ""
 #: sc/0007:49 
 msgid "……どうした相生。元気が無いが、\nもしかして体調が悪いのか？\n"
 msgstr ""
+"……What's the matter Aioi? If you're\n"
+"feeling down, could you be sick?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +645,8 @@ msgstr ""
 #: sc/0007:50 
 msgid "（おっ？　高崎先生が心配するなんて、\n　そんなに元気が無いのかな？）\n"
 msgstr ""
+"(Oh? With Mr. Takasaki worrying, could\n"
+"I really be that sounding that down?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +659,8 @@ msgstr ""
 #: sc/0007:51 
 msgid "（みんなを心配させてもいけないし、\n　ここはさっきのネタで笑いを狙ってみるか）\n"
 msgstr ""
+"(I don't want others worry. So, I'll\n"
+"lighten the mood with that one joke.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +673,8 @@ msgstr ""
 #: sc/0007:52 
 msgid "すみません。だから今日の授業内容も\n右から左に抜けて行っちゃって。\n"
 msgstr ""
+"I'm sorry, but today's class just went\n"
+"in one ear and out the other for me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,18 +687,20 @@ msgstr "Tanaka"
 #: sc/0007:53 
 msgid "あははは、相生の場合は\nいつも右から左に抜けてるよな―。\n"
 msgstr ""
+"Ahahaha, but isn't that the case\n"
+"for you all the time though—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0007:54 
 msgid "生徒たち"
-msgstr ""
+msgstr "All Classmates"
 
 #  text 
 #  warnings: 0 
 #: sc/0007:54 
 msgid "わははははははは！\n"
-msgstr ""
+msgstr "Wahahahahaha!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +712,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:55 
 msgid "田中のヤロ――！！！\n"
-msgstr ""
+msgstr "Tanaka you son of a——!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -667,6 +725,8 @@ msgstr ""
 #: sc/0007:56 
 msgid "（くっ！　ここは耐えるのよゆっこ！\n　笑いを取りにいくのは諦めるのよ！）\n"
 msgstr ""
+"(Tsk! No you have to bare it, Yukko!\n"
+"Don't take the chance on this one!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +739,8 @@ msgstr ""
 #: sc/0007:57 
 msgid "あ、いや、私語じゃないですよ。\n消しゴム忘れたから借りようとしただけです。\n"
 msgstr ""
+"No, we weren't chatting. I forgot my\n"
+"eraser so I was just about to borrow Mio's.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +753,8 @@ msgstr ""
 #: sc/0007:58 
 msgid "ん、そうだったのか。\nすまんな、怒鳴ったりして。\n"
 msgstr ""
+"Oh, I understand. \n"
+"Sorry for yelling.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +766,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:59 
 msgid "いえいえ。\n"
-msgstr ""
+msgstr "No, it's fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +778,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:60 
 msgid "じゃあゆっこ、はい消しゴム。\n"
-msgstr ""
+msgstr "Then Yukko, here's an eraser.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +790,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:61 
 msgid "うん、ありがと―。\n"
-msgstr ""
+msgstr "Ah, thanks—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +802,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:62 
 msgid "よし、では授業を続ける。\n"
-msgstr ""
+msgstr "Well then, let's continue class.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -749,21 +813,22 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:63 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0007:64 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0007:64 
 msgid "……で、この文の訳し方は\n前回の授業で教えたように……。\n"
 msgstr ""
+"……And as I explained last class, this\n"
+"is how you translate this sentence…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,16 +864,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:67 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0007:68 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0007:68 
 msgid "（つまんね―……）\n"
-msgstr ""
+msgstr "(How boring……)\n"

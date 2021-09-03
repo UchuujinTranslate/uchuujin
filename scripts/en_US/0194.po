@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:21+0000\n"
-"PO-Revision-Date: 2019-08-07 00:14+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-06-27 21:00+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0194/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Tanaka"
 #: sc/0194:0 
 msgid "……う―ん。\n結局よくわからなかったな。\n"
 msgstr ""
+"……hmm. \n"
+"In the end I never figured it out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:1 
 msgid "探れば探るほどヘンな物、出てくるんだよな。\n"
-msgstr ""
+msgstr "The more I look, the more strange things I keep finding.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0194:2 
 msgid "つ―か、腕が全部入るし。明らかに\n入らないはずの物とか入ってるし……。\n"
 msgstr ""
+"Also, my entire arm fits inside it. Things that \n"
+"shouldn't be able to fit still do somehow……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0194:3 
 msgid "前は少し物が隠せる程度だったのに……\nいつからこうなったんだ？\n"
 msgstr ""
+"Before it only let me hide some stuff inside it but……\n"
+"from when did it become like this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +78,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:4 
 msgid "……意外とアレだったりして？\n"
-msgstr ""
+msgstr "……I just thought of a crazy idea.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0194:5 
 msgid "アフロの中、宇宙人の機械の誤動作で、\n謎の空間に繋がってたりしてさ。\n"
 msgstr ""
+"Because some alien's machine malfunctioned, it lead to creating a link to a "
+"mysterious space.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0194:6 
 msgid "そんで、その四次元っぽい空間にアクセスして\nそこの物体を取り出せるようになったんだ。\n"
 msgstr ""
+"And with that 4th dimensional-like space I've been \n"
+"able access it and take out the things from there\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +119,8 @@ msgstr ""
 #: sc/0194:7 
 msgid "弌弌ハハッ、んなわけないよな―！\n俺、マンガに影響されすぎ。\n"
 msgstr ""
+"——Haha, but there's no way to can be true—!\n"
+"I've been influenced too much by reading comics.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:8 
 msgid "さ―て、変なこと考えてないで、\nさっさと帰るとすっか！\n"
-msgstr ""
+msgstr "Now then, let me stop thinking of stuff like this and head home!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0194:9 
 msgid "！？\nな、何だ、この音！？\n"
 msgstr ""
+"!?\n"
+"W-What was that sound!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:10 
 msgid "……うそ、オレの頭から！？\n"
-msgstr ""
+msgstr "……No way, it's coming from on top of my head!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +171,8 @@ msgstr ""
 #: sc/0194:11 
 msgid "うわっ、くすぐってえ！\nやめろ、やめてくれって！\n"
 msgstr ""
+"Uwah, it's ticklish!\n"
+"Stop it, hey cut it out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +185,8 @@ msgstr ""
 #: sc/0194:12 
 msgid "（……何だ！？\n　な、何か出てきた――っ！！）\n"
 msgstr ""
+"(……Huh!?\n"
+"S-Something came out——!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +198,7 @@ msgstr "#38"
 #  warnings: 0 
 #: sc/0194:13 
 msgid "……ふぅ。\n"
-msgstr "... heh.\n"
+msgstr "……Phew.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +211,8 @@ msgstr ""
 #: sc/0194:14 
 msgid "え？\n……人？\n"
 msgstr ""
+"Eh?\n"
+"……a person?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +225,8 @@ msgstr ""
 #: sc/0194:15 
 msgid "大気圏に突入した時には死を覚悟したが……\nこの下ネタの３８番、まさか助かるとは。\n"
 msgstr ""
+"When I broke into the atmosphere I was prepared for dying, \n"
+"but somehow me the dirty joke No. 38 survivied.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +239,8 @@ msgstr ""
 #: sc/0194:16 
 msgid "君、ありがとう。おかげで命拾いしたよ！\n落ち着いたら、お礼をさせてもらうぜ！\n"
 msgstr ""
+"Hey you, I want to thank you. You're my life saver!\n"
+"When things come to a rest, let me thank you properly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +252,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:17 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +264,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:18 
 msgid "今、オレの頭から出たよな？\n"
-msgstr ""
+msgstr "Ah, did you just come out from my head?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +277,8 @@ msgstr ""
 #: sc/0194:19 
 msgid "え、何？\nマジで謎の空間と繋がってんの……？\n"
 msgstr ""
+"Eh, are you serious?\n"
+"Is it really connected to a mysterious space inside……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +290,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:20 
 msgid "ちょ、ちょっと試しに……。\n"
-msgstr ""
+msgstr "J-Just for testing…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +302,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:21 
 msgid "弌弌ネジだ。\n"
-msgstr ""
+msgstr "——it's a key.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +314,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:22 
 msgid "しかもこれ、中村先生が持ってたヤツじゃね？\n"
-msgstr ""
+msgstr "And isn't this the one that Nakamura-sensei had?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +326,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:23 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,4 +338,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0194:24 
 msgid "……ま、いいか！\n"
-msgstr ""
+msgstr "……well, whatever!\n"

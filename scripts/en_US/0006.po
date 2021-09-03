@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2019-09-01 00:02+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 12:52+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0006/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0006:0 
 msgid "ん―、いい天気だ―。\n"
-msgstr ""
+msgstr "Mm—, what a lovely morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0006:1 
 msgid "こんな日は私のボケで\nみんなを爆笑させられる気がするな―。\n"
 msgstr ""
+"On a day like this, I can't help but want\n"
+"to joke and make everybody laugh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr ""
 #: sc/0006:2 
 msgid "よ―し、それじゃ早速教室についたら\n抱腹絶倒のボケをかましてみるか！\n"
 msgstr ""
+"Alright, when I get to class, I'll hit\n"
+"'em with the most hilarious jokes I can!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:3 
 msgid "……ん？\n"
-msgstr ""
+msgstr "……Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0006:4 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +101,8 @@ msgstr ""
 #: sc/0006:6 
 msgid "（こ、この犬は……いつも私が何か\n　失敗をした時にやってくる犬だ……）\n"
 msgstr ""
+"(Th-That dog…… always comes by \n"
+"when something bad happens……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +127,8 @@ msgstr ""
 #: sc/0006:8 
 msgid "……でも、まだ今日は\n何もボケてないから気にすることは……。\n"
 msgstr ""
+"……But nothing's happened yet today,\n"
+"so there's nothing to worry about…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0006:9 
 msgid "い、いや、もしかしたら\nこれから何か起こるのかも……。\n"
 msgstr ""
+"Or wait, could it be something that\n"
+"will happen in the near future……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +166,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:11 
 msgid "ハッ！？　く、黒猫！？\n"
-msgstr ""
+msgstr "Huh!? A bl-black cat!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +179,8 @@ msgstr ""
 #: sc/0006:12 
 msgid "不吉だ……やっぱりお前が来たのは\n私に何か起こることを暗示してるのね！？\n"
 msgstr ""
+"Ominous… then you really did come to warn\n"
+"me that something was about to happen!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:14 
 msgid "黙ってないで何か言って――っ！\n"
-msgstr ""
+msgstr "Don't be silent, please say something—!\n"
 
 #  text 
 #  warnings: 1 
@@ -204,19 +216,21 @@ msgstr ""
 #  warnings: 1 
 #: sc/0006:16 
 msgid "おい、どこに行くんだ？\n"
-msgstr ""
+msgstr "Oh, where are you going?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0006:17 
 msgid "えっ？　ああ、ちょっとトイレに……。\n"
-msgstr ""
+msgstr "Eh? Ah… Well, just to the toilet…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0006:18 
 msgid "トイレならあっちだろ？\nそっちは避難カプセルのある部屋だぞ？\n"
 msgstr ""
+"But the toilet is over there, you know?\n"
+"That's the way to the escape capsule room.\n"
 
 #  text 
 #  warnings: 1 
@@ -228,25 +242,29 @@ msgstr ""
 #  warnings: 1 
 #: sc/0006:20 
 msgid "……おい、まさかお前。\n"
-msgstr ""
+msgstr "……Hey, you can't possibly be going to….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0006:21 
 msgid "だって！　嫌な予感がするんだ！\n今すぐこの船を降りないときっと弌弌\n"
 msgstr ""
+"You got me! I have a bad hunch! \n"
+"And, if I don't leave immediately, I'll——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0006:22 
 msgid "ほらきた――！！\n"
-msgstr ""
+msgstr "See what I mean——!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0006:23 
 msgid "うおおお！？\nいつの間にかアンテナが折れてる―！？\n"
 msgstr ""
+"Wooaah!?\n"
+"The antenna broke all of a sudden—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +276,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0006:24 
 msgid "あっ、ゆっこ。おはよ―。\n"
-msgstr ""
+msgstr "Oh, Yukko. Good morning—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,6 +289,8 @@ msgstr ""
 #: sc/0006:25 
 msgid "あ、みおちゃん。\nスラマ弌弌\n"
 msgstr ""
+"Ah, Mio-chan. \n"
+"Selama——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -283,6 +303,8 @@ msgstr ""
 #: sc/0006:26 
 msgid "（あっ！　危ない！！\n　いつものクセでボケるところだった！）\n"
 msgstr ""
+"(Ah! That was close!!\n"
+"I was about to do my usual joke!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,6 +317,8 @@ msgstr ""
 #: sc/0006:27 
 msgid "（この犬が来たということは少しのボケでも\n　ひどい目に遭うということ……）\n"
 msgstr ""
+"(If that dog is around, the slightest\n"
+"joke could get me in trouble……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +331,8 @@ msgstr ""
 #: sc/0006:28 
 msgid "（タイミングを誤ると\n　とんでもない痛手を負うことに！）\n"
 msgstr ""
+"(But, it would really suck\n"
+"if my jokes don't land!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,6 +345,8 @@ msgstr ""
 #: sc/0006:29 
 msgid "（いや、でもスラマッパギは挨拶だし、\n　最近は割と浸透してきたし……）\n"
 msgstr ""
+"(Wait, \"Selamat Pagi\" is just a greeting.\n"
+"Recently, it's become somewhat popular…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +358,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:30 
 msgid "ゆっこ？　どしたの？\n"
-msgstr ""
+msgstr "Yukko? What is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +370,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:31 
 msgid "（……いや、スラマッパギじゃダメだ）\n"
-msgstr ""
+msgstr "(……No, I can't go with \"Selamat Pagi!\")\n"
 
 #  speaker 
 #  warnings: 0 
@@ -355,6 +383,8 @@ msgstr ""
 #: sc/0006:32 
 msgid "（あれはもはやただの挨拶。\n　ボケと言うにはレベルが低すぎる！）\n"
 msgstr ""
+"(That phrase is merely a greeting! \n"
+"Hardly on the same level as a joke!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +396,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:33 
 msgid "ゆっこ？　お―い、大丈夫―？\n"
-msgstr ""
+msgstr "Yukko? Hey, are you okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -378,7 +408,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:34 
 msgid "みおちゃん！\n"
-msgstr ""
+msgstr "Mio-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:35 
 msgid "えっ、な、なに？\n"
-msgstr ""
+msgstr "Eh, W-What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +433,8 @@ msgstr ""
 #: sc/0006:36 
 msgid "部屋の掃除をした！\n後はノミ退治のみ！\n"
 msgstr ""
+"I put all my spare cash into an\n"
+"origami business! It folded!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +446,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:37 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +459,8 @@ msgstr ""
 #: sc/0006:38 
 msgid "カタツムリに、勝ったつもりか！\n"
 msgstr ""
+"I’m addicted to brake fluid, but it’s OK \n"
+"since I can stop at any time!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +485,8 @@ msgstr ""
 #: sc/0006:40 
 msgid "ネクタイが結べないのがネックたい！\nクレヨンを買ってくれよん！\n"
 msgstr ""
+"RIP Boiling Water. You will be mist!\n"
+"Why did the coffee file a police report? It got mugged!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +511,8 @@ msgstr ""
 #: sc/0006:42 
 msgid "日本国旗は、二本こっきり―！！\n"
 msgstr ""
+"Where does a king keep his armies?\n"
+"His sleevies!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +536,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:44 
 msgid "！！！\n"
-msgstr "!!!\n"
+msgstr "!!!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:46 
 msgid "ん。そうだね。\n"
-msgstr ""
+msgstr "Yeah, you're right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +584,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:48 
 msgid "うわあああああああああ！！！\n"
-msgstr ""
+msgstr "UWAHHHHHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +596,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:49 
 msgid "あっ、ちょっとゆっこ！？\n"
-msgstr ""
+msgstr "Yukko! Where are you going!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +621,8 @@ msgstr ""
 #: sc/0006:51 
 msgid "（ダメ！　お笑いへの情熱が\n　私にボケろと言っている！）\n"
 msgstr ""
+"(It's no use! Comedic passion is  \n"
+"urging me to keep making jokes!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:52 
 msgid "みおちゃん、スラマッパギ！\n"
-msgstr ""
+msgstr "Hey Mio, Selamat Pagi!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +646,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:53 
 msgid "うん、おはよう。\n"
-msgstr ""
+msgstr "Mm, good morning.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +671,8 @@ msgstr ""
 #: sc/0006:55 
 msgid "（大丈夫。今のはただの挨拶。\n　決してボケて滑ったわけじゃない）\n"
 msgstr ""
+"(It's okay. That was just a greeting.\n"
+"Certainly not a failed joke!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +684,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:56 
 msgid "今日、天気いいよね―。\n"
-msgstr ""
+msgstr "Isn't today's weather so nice?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +697,8 @@ msgstr ""
 #: sc/0006:57 
 msgid "うん。こんな日はテンキ―を\n買いに行きたくなるんだっけ？\n"
 msgstr ""
+"You know, reporters say there won't be\n"
+"rain for 3 months, but I drought it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +723,8 @@ msgstr ""
 #: sc/0006:59 
 msgid "（まさかのボケ返し……！\n　しかも前に自分が言ったネタで！）\n"
 msgstr ""
+"(A joke stored for a rainy day…!\n"
+"And, it's even a joke she used before!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +737,8 @@ msgstr ""
 #: sc/0006:60 
 msgid "……や、やだなぁ。\n同じネタはそうそう使わないって。\n"
 msgstr ""
+"……N-No way. You already made that joke. \n"
+"You shouldn't use it again!.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +751,8 @@ msgstr ""
 #: sc/0006:61 
 msgid "あ、そう？　なんかまた\n同じこと言いそうな気がしたんだ。\n"
 msgstr ""
+"Oh, really? I just felt like\n"
+"saying the same thing again.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +776,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:63 
 msgid "（読まれてた……）\n"
-msgstr ""
+msgstr "(She read through me……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -739,6 +789,8 @@ msgstr ""
 #: sc/0006:64 
 msgid "（どうしたのみおちゃん……\n　今日に限ってどうしてそう手厳しいの？）\n"
 msgstr ""
+"(What's up with Mio-chan……?\n"
+"Why is she so harsh today?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +814,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:66 
 msgid "あっ、この犬……。\n"
-msgstr ""
+msgstr "Ah, that dog…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +826,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:67 
 msgid "ひっ！？\n"
-msgstr ""
+msgstr "Hihh-!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +850,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:69 
 msgid "（ぐっはっは――！？）\n"
-msgstr ""
+msgstr "(Gah——!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:70 
 msgid "（いや、ここは少し慎重になろう）\n"
-msgstr ""
+msgstr "(No, I gotta be careful here.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +874,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:71 
 msgid "おはよう、みおちゃん。\n"
-msgstr ""
+msgstr "Good morning, Mio-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,6 +887,8 @@ msgstr ""
 #: sc/0006:72 
 msgid "あれ？\n今日はスラマッパギじゃないんだ？\n"
 msgstr ""
+"Huh? \n"
+"You didn't go with Selamat Pagi today?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +901,8 @@ msgstr ""
 #: sc/0006:73 
 msgid "うん。何回も同じネタで笑いを取るのは\n私としても不本意だしさ。\n"
 msgstr ""
+"Yup. It goes against my motto to make\n"
+"people laugh at the same joke twice.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +914,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:74 
 msgid "へ―。でもさ。\n"
-msgstr ""
+msgstr "I see—. But you know…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +926,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:75 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -883,6 +939,8 @@ msgstr ""
 #: sc/0006:76 
 msgid "スラマッパギって挨拶でしょ？\n笑い取れるの？\n"
 msgstr ""
+"Selamat Pagi is a greeting, isn't it?\n"
+"You're trying to go for laughs with it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +952,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:77 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +964,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:78 
 msgid "……ゆっこ？\n"
-msgstr ""
+msgstr "……Yukko?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -930,16 +988,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0006:80 
 msgid "ちょっ！？　ゆっこ！？\n"
-msgstr ""
+msgstr "Ah, wait—! Yukko!?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0006:81 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0006:81 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"

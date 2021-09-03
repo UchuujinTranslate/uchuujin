@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2019-08-31 23:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 12:53+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0177/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:11 
 msgid "は、はい……。\n"
-msgstr ""
+msgstr "Y-Yes…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +186,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:14 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -276,13 +276,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:21 
 msgid "ぎゃあああああ！！？\n"
-msgstr ""
+msgstr "GYAAAAAAAAAAH!!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0177:22 
 msgid "あ―っ！？\n"
-msgstr ""
+msgstr "Ah—!?\n"
 
 #  text 
 #  warnings: 1 
@@ -300,25 +300,26 @@ msgstr ""
 #  warnings: 2 
 #: sc/0177:25 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0177:25 
 msgid "……え？\n"
-msgstr ""
+msgstr "……Eh?\n"
 
 #  speaker 
 #  warnings: 3 
 #: sc/0177:26 
+#, fuzzy
 msgid "＆＆"
-msgstr ""
+msgstr "&&"
 
 #  text 
 #  warnings: 3 
 #: sc/0177:26 
 msgid "うあああああああああ！？\n"
-msgstr ""
+msgstr "Uwaaaaaaaaaaaaaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +344,8 @@ msgstr ""
 #: sc/0177:28 
 msgid "い、一体何を言っているんだ？\nバカバカしい……。\n"
 msgstr ""
+"Wh-what the hell are you saying?\n"
+"That's nonsense…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +549,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:45 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +813,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:67 
 msgid "…………！！\n"
-msgstr "...... !!\n"
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +837,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:69 
 msgid "……あ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,13 +903,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:75 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
 #: sc/0177:75 
 msgid "……………………。\n"
-msgstr ""
+msgstr "…………………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,13 +1089,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0177:90 
 msgid "………………。\n"
-msgstr ".........\n"
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0177:91 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 

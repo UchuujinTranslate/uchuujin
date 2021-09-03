@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2019-08-31 07:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0117/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Makoto"
 #  warnings: 0 
 #: sc/0117:0 
 msgid "１３６、１３７、１３８……。\n"
-msgstr "136, 137, 138...\n"
+msgstr "136, 137, 138…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,8 +37,8 @@ msgstr ""
 #: sc/0117:1 
 msgid "何とか落とさず教室まで行けそう……っと。\n……あれ？\n"
 msgstr ""
-"I think I'll be able to get to the classroom \n"
-"without dropping anything... what?"
+"I think I'll can get to the classroom\n"
+"without dropping anything… What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,8 +51,8 @@ msgstr ""
 #: sc/0117:2 
 msgid "向こうから来るのって関口さん？\n本読んでるから顔は見えないけど……多分。\n"
 msgstr ""
-"Is that Sekiguchi-san over there?\n"
-"I can't see her face since it's in a book, but...\n"
+"Is that Sekiguchi-san coming? I can't\n"
+"see her face since it's in a book, but…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -64,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:3 
 msgid "すみませ―ん、関口さ―ん。\n"
-msgstr "Excuse me, Sekiguchi-san?\n"
+msgstr "Excuse me, Sekiguchi-san.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -76,7 +76,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0117:4 
 msgid "……あ、桜井くん。どうも。\n"
-msgstr "Oh, Sakurai-kun. Hello.\n"
+msgstr "……Oh, Sakurai-kun. Hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -225,20 +225,21 @@ msgstr ""
 #: sc/0117:16 
 msgid "くそっ、こいつ！\nアンテナが折れちまっただろ！\n"
 msgstr ""
-"Damn, this one!\n"
-"The antenna broke!\n"
+"Damn, this guy!\n"
+"He broke the antenna!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0117:17 
 msgid "バリアで猫は平気だが、万一のことがあったら\nどうするんだよ！　とっちめてやる！！\n"
 msgstr ""
-"Cats are okay with being out, but in an\n"
-"emergency will they do? I'll do it.\n"
+"The cat is safe because of the barrier, but if anything had happend to 'em\n"
+"Then I'll teach him a lesson!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0117:18 
+#, fuzzy
 msgid "……これから？　どうやって？\n"
 msgstr "... from now on? How?\n"
 
@@ -254,7 +255,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0117:20 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  text 
 #  warnings: 1 
@@ -296,9 +297,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:24 
 msgid "（あれ……？　会話終わった？）\n"
-msgstr ""
-"(What...? Is the conversation\n"
-"over?)\n"
+msgstr "(What...? Did the conversation end?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -311,8 +310,8 @@ msgstr ""
 #: sc/0117:25 
 msgid "（そういえば、\n　いつもは関口さんと何を話してたっけ？）\n"
 msgstr ""
-"(By the way, what did you talk\n"
-"about with Sekiguchi-san?)\n"
+"(Come to think of it, what do\n"
+"I usually have conversations about with her?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -323,10 +322,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0117:26 
+#, fuzzy
 msgid "（……そうか！\n　いつもは間に部長が居るんだ！）\n"
-msgstr ""
-"(...really! The manager's\n"
-"usually there somewhere!)\n"
+msgstr "(...Right! The cheif is always there inbetween us in conversations!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -380,7 +378,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:30 
 msgid "はぁ。\n"
-msgstr "Ha.\n"
+msgstr "Hah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -494,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:39 
 msgid "あ……。\n"
-msgstr "Ah...\n"
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -572,7 +570,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:45 
 msgid "……はい。\n"
-msgstr "...yes.\n"
+msgstr "……Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -634,7 +632,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:50 
 msgid "いいですよ。\n"
-msgstr "Okay.\n"
+msgstr "It's fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +658,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:52 
 msgid "え？\n"
-msgstr ""
+msgstr "Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -778,7 +776,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:61 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -868,7 +866,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:68 
 msgid "はぁ……。\n"
-msgstr "Ha...\n"
+msgstr "*Sigh*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -997,13 +995,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:78 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0117:79 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 

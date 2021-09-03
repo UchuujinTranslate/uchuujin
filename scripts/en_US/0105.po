@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: DS <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-01-17 18:29+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0105/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Takasaki-sensei"
 #: sc/0105:0 
 msgid "よ―し、授業はここまで。\n残り時間でこの間の小テストを返却するぞ―。\n"
 msgstr ""
+"Okay, let's end today's lesson here.\n"
+"For the remaining time, I will hand back the quiz test we had a while ago.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:1 
 msgid "まずは相生―。\n"
-msgstr ""
+msgstr "First off, Aioi—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -47,9 +49,8 @@ msgstr "Yuuko"
 #  text 
 #  warnings: 0 
 #: sc/0105:2 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,7 +62,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:3 
 msgid "（……相変わらず相生のテストはひどいな）\n"
-msgstr ""
+msgstr "(……Aioi's test result is bad as usual.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -74,6 +75,8 @@ msgstr ""
 #: sc/0105:4 
 msgid "（真面目にやろうとした形跡はあるんだが、\n　……いや、そうでもないか）\n"
 msgstr ""
+"(But there are some traces that she did try to do it seriously, \n"
+"……or maybe not.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,6 +89,8 @@ msgstr ""
 #: sc/0105:5 
 msgid "（特に漢字の読み問題。\n　何で途中から詩にすりかわっているんだ？）\n"
 msgstr ""
+"(And especially the kanji reading questions.\n"
+"Why does she suddenly turn it into a poem of it?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -98,6 +103,8 @@ msgstr ""
 #: sc/0105:6 
 msgid "（文章問題はオヤジギャグになってるし……。\n　本当にひどいありさまだ）\n"
 msgstr ""
+"(The sentence questions are turned into dad jokes……\n"
+"this is really a bad state.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:7 
 msgid "……むっ！　猫？\n"
-msgstr ""
+msgstr "……Hmm! A cat?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -122,48 +129,50 @@ msgstr ""
 #: sc/0105:8 
 msgid "迷い込んだのか？\n何にせよ、授業の邪魔だな。\n"
 msgstr ""
+"Did it get lost?\n"
+"Either way, it's a\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:9 
 msgid "あっ、おい、見つかったぞ！\n"
-msgstr ""
+msgstr "Ah, hey, we've been spotted!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:10 
 msgid "安心しろって、こんな時のために\n姿を隠す装置を搭載してる。\n"
-msgstr ""
+msgstr "Don't worry, for the time like these I can use the secret device.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:11 
 msgid "おおっ、で、どのボタンだ？\n"
-msgstr ""
+msgstr "Ohh, and which button is it?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:12 
 msgid "そこの赤くてデカいボタン弌弌\n"
-msgstr ""
+msgstr "Do you see that big red button——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:13 
 msgid "これか。\n"
-msgstr ""
+msgstr "You mean this.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:14 
 msgid "弌弌の隣にある小さいボタン。\n"
-msgstr ""
+msgstr "——it's the little button right next to it.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0105:15 
 msgid "……紛らわしいよ！\n"
-msgstr ""
+msgstr "……you're so misleading!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -176,6 +185,8 @@ msgstr ""
 #: sc/0105:16 
 msgid "（しかし……少し視点を変えると、\n　中面白いかもしれない）\n"
 msgstr ""
+"(But still……if you change the perspective of it, \n"
+"it could be quite amusing.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -187,7 +198,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:17 
 msgid "（真面目にやってこの回答が出せるというのは\n　思考の幅が広い証拠じゃないだろうか？）\n"
-msgstr ""
+msgstr "(Th\n"
 
 #  speaker 
 #  warnings: 0 
@@ -211,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:19 
 msgid "（しかし、テストの点を思えば……）\n"
-msgstr ""
+msgstr "(Still, if you think about the score of the test……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:20 
 msgid "（いや、ここはきちんと叱るべきだ！！）\n"
-msgstr ""
+msgstr "(No, I should scold her properly for this!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -248,6 +259,8 @@ msgstr ""
 #: sc/0105:22 
 msgid "相生っ！\nこの回答は何だ！！\n"
 msgstr ""
+"Aioi-! \n"
+"What are these answers!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -260,6 +273,8 @@ msgstr ""
 #: sc/0105:23 
 msgid "ええっ、私なんか変な……あ……。\nいや、そのポエムは……。\n"
 msgstr ""
+"Ehh, I got a weird……ah……\n"
+"no, that poem was……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,7 +286,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:24 
 msgid "特にこの部分！\n"
-msgstr ""
+msgstr "Especially this part!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,7 +442,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:37 
 msgid "ナイスポエム！！\n"
-msgstr ""
+msgstr "Nice poem!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,7 +478,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:40 
 msgid "え、ええええっ！？\n"
-msgstr ""
+msgstr "Eh, ehhhhhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -511,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:44 
 msgid "高崎先生……。\n"
-msgstr ""
+msgstr "Takasaki-sensei…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,7 +550,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:46 
 msgid "！！！！！！！\n"
-msgstr ""
+msgstr "！！！！！！！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,7 +622,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:52 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,7 +670,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:56 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,7 +700,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:59 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
@@ -703,16 +718,16 @@ msgstr ""
 #  warnings: 0 
 #: sc/0105:60 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0105:61 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0105:61 
 msgid "相生―、１８点―。\n"
-msgstr ""
+msgstr "Aioi-, 18 points\n"

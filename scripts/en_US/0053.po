@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:35+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
+"PO-Revision-Date: 2021-03-11 21:31+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0053/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -23,8 +23,11 @@ msgstr "Sakurai Sensei"
 #  text 
 #  warnings: 0 
 #: sc/0053:0 
+#, fuzzy
 msgid "はい、ここ、テストに出ますよ―。\nちゃんとノ―ト取ってくださいね―。\n"
 msgstr ""
+"Alright, I'm going to hand out the test.\n"
+"Please take good notes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +39,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:1 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +63,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:3 
 msgid "（銅製も悪く無いのかもしれない）\n"
-msgstr ""
+msgstr "(Maybe bronze statues aren't so bad)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +75,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:4 
 msgid "（木製と一緒に並べて……フフ。）\n"
-msgstr ""
+msgstr "(But compared to wooden ones…… heh.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +87,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:5 
 msgid "（あっ……）\n"
-msgstr ""
+msgstr "(Ah……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +112,8 @@ msgstr ""
 #: sc/0053:7 
 msgid "（金縛り……？\n　体が動かない……）\n"
 msgstr ""
+"(Paralysis?\n"
+"I can't move my body…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +126,8 @@ msgstr ""
 #: sc/0053:8 
 msgid "えっと、次のペ―ジにある問１を\n誰か、訳せる人は……。\n"
 msgstr ""
+"Ok, can anyone translate the first\n"
+"problem on the next page for us?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +139,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0053:9 
 msgid "ワン！　ワン！\n"
-msgstr ""
+msgstr "Woof! Woof!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +152,8 @@ msgstr ""
 #: sc/0053:10 
 msgid "わっ！？　びっくりした……\n入ってきちゃ駄目だよ〜？\n"
 msgstr ""
+"Wa! You surprised me…\n"
+"You're not supposed to be here, aren't you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +165,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:11 
 msgid "（あっ、動けるようになった）\n"
-msgstr ""
+msgstr "(Oh, I can move now.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,37 +177,47 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:12 
 msgid "ワン！\n"
-msgstr ""
+msgstr "Woof!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0053:13 
 msgid "おい、何やってるんだよ。\n見つかっちまったじゃないか。\n"
 msgstr ""
+"Hey, what are you doing over there?\n"
+"I can see you, you know.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0053:14 
 msgid "い、いや、俺じゃない！\nこの犬が勝手に吠えだしたんだ。\n"
 msgstr ""
+"N– No, it's not me!\n"
+"This dog just started barking.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0053:15 
 msgid "……嘘だろ？\nアンテナ操作中なのに……？\n"
 msgstr ""
+"…… Are you serious?\n"
+"Even though we're using the antenna?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0053:16 
 msgid "くそ、なんて強い精神力なんだ。\n大人しくしてくれっ！\n"
 msgstr ""
+"Damn, what a strong will.\n"
+"Just be obedient, for once!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0053:17 
 msgid "お、おい待て！\nそんなに負荷をかけたら弌弌\n"
 msgstr ""
+"Hey, wait up!\n"
+"If you carry such a load…\n"
 
 #  text 
 #  warnings: 1 
@@ -210,13 +229,13 @@ msgstr "Ah...\n"
 #  warnings: 2 
 #: sc/0053:19 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
 #: sc/0053:19 
 msgid "うわあああああああ！！\n"
-msgstr ""
+msgstr "Uwahhhhhhhhh!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +247,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:20 
 msgid "（う……）\n"
-msgstr ""
+msgstr "(Uuuhhhh…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +260,8 @@ msgstr ""
 #: sc/0053:21 
 msgid "（全く動けない……どうしよう）\n"
 msgstr ""
+"(I can't move at all…\n"
+"what should I do?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +274,8 @@ msgstr ""
 #: sc/0053:22 
 msgid "ではこの英文の訳を……水上さん。\n答えてください。\n"
 msgstr ""
+"Alright, this one…… Minakami-san.\n"
+"What's the answer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +299,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:24 
 msgid "水上さん？　どうかしたんですか？\n"
-msgstr ""
+msgstr "Minakami-san? Is something wrong?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,6 +324,8 @@ msgstr ""
 #: sc/0053:26 
 msgid "（答えたくても金縛りになってるから\n　何もできない……）\n"
 msgstr ""
+"(Even if I wanted to answer, \n"
+"I can't do anything……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +338,8 @@ msgstr ""
 #: sc/0053:27 
 msgid "（これは、ちょっと困った。\n　どうしよう……）\n"
 msgstr ""
+"(This is annoying.\n"
+"What should I do……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -323,8 +350,11 @@ msgstr "Yuuko"
 #  text 
 #  warnings: 0 
 #: sc/0053:28 
+#, fuzzy
 msgid "麻衣ちゃん？　どうしたの？\nご指名だよ？\n"
 msgstr ""
+"Mai-chan? What's the matter?\n"
+"How many fingers am I holding up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +367,8 @@ msgstr ""
 #: sc/0053:29 
 msgid "（……あ、そうだ。\n　ゆっこに……）\n"
 msgstr ""
+"(……Ah, I see.\n"
+"Yukko……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +380,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:30 
 msgid "（…………！）\n"
-msgstr ""
+msgstr "(…………!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +392,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:31 
 msgid "麻衣ちゃん？　麻衣弌弌ふぉっ！？\n"
-msgstr ""
+msgstr "Mai-chan? Mai—— Phwoah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:32 
 msgid "あ、相生さん！？\n"
-msgstr ""
+msgstr "Ah, Aioi-san!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +428,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:34 
 msgid "……ふぅ。\n"
-msgstr "... heh.\n"
+msgstr "……Phew.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -407,8 +439,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0053:35 
+#, fuzzy
 msgid "相生さん！？　陸に上がった魚みたいに跳ねて\nどうしたんですか！？\n"
 msgstr ""
+"Aioi-san!? What's the matter!?\n"
+"You're flopping around like a fish.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +455,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:36 
 msgid "先生。\n"
-msgstr ""
+msgstr "Teacher.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -431,8 +466,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0053:37 
+#, fuzzy
 msgid "あああ、そうですね、すぐに保健室に弌弌\n"
 msgstr ""
+"Ah ah ah, I see, go to the \n"
+"nurses' office right away\n"
 
 #  speaker 
 #  warnings: 0 
@@ -443,8 +481,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0053:38 
+#, fuzzy
 msgid "ジャンは踊っていた、です。\n"
-msgstr ""
+msgstr "Jan was dancing, sir.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +495,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:39 
 msgid "え……？\n"
-msgstr ""
+msgstr "Eh……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +508,8 @@ msgstr ""
 #: sc/0053:40 
 msgid "あ……。\nせ、正解です……。\n"
 msgstr ""
+"Ah……\n"
+"That's… that's right.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +521,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:41 
 msgid "…………！\n"
-msgstr ""
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +534,8 @@ msgstr ""
 #: sc/0053:42 
 msgid "水上さん、大丈夫弌弌あれ？\nこれは、み、弥佗菩薩？\n"
 msgstr ""
+"Minakami-san, are you OK?\n"
+"And what's this? A Mia– Maitreya?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +548,8 @@ msgstr ""
 #: sc/0053:43 
 msgid "学校に弥佗菩薩を持ってくるのは……\n校則では書かれてないですけど、ダメですよ。\n"
 msgstr ""
+"It isn't in the student handbook per se, \n"
+"but you can't bring those to school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +562,8 @@ msgstr ""
 #: sc/0053:44 
 msgid "放課後まで没収しますね。\n"
 msgstr ""
+"I'll confiscate it.\n"
+"You can have it back after school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +575,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:45 
 msgid "あっ……。\n"
-msgstr ""
+msgstr "Ah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +588,8 @@ msgstr ""
 #: sc/0053:46 
 msgid "えっ？　水上さん？\n大丈夫なんですか？\n"
 msgstr ""
+"Eh? Minakami-san?\n"
+"Minakami-san, are you OK?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +601,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:47 
 msgid "あ、動ける。\n"
-msgstr ""
+msgstr "Ah, I can move.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +613,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:48 
 msgid "動ける？\n"
-msgstr ""
+msgstr "\"I can move\"?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +625,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:49 
 msgid "いえ。それより、弥佗菩薩を……。\n"
-msgstr ""
+msgstr "Never mind. But, my Maitreya……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +638,8 @@ msgstr ""
 #: sc/0053:50 
 msgid "ダメです。放課後に取りに来てくださいね。\n"
 msgstr ""
+"Don't bother. You can come back \n"
+"and pick it up after school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +687,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:54 
 msgid "あ、あの、水上さん……。\n"
-msgstr ""
+msgstr "Uh, Uhm, Minakami-san……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +699,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:55 
 msgid "……なんですか？\n"
-msgstr ""
+msgstr "…what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +723,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:57 
 msgid "か、返します……。\n"
-msgstr ""
+msgstr "Be– Behind you……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +747,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:59 
 msgid "水上さん？　大丈夫ですか？\n"
-msgstr ""
+msgstr "Minakami-san? Are you OK?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -719,8 +770,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0053:61 
+#, fuzzy
 msgid "気分が悪いんですか？\nつらいなら保健室に行ってもいいですよ？\n"
 msgstr ""
+"Do you not feel well? If it's bad, \n"
+"we can go to the nurses' office.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +799,8 @@ msgstr ""
 #: sc/0053:63 
 msgid "喋れないくらいつらいんですね……\nスミマセン、誰か水上さんを保健室へ……。\n"
 msgstr ""
+"It's so bad you can't even talk, huh?\n"
+"Excuse me, can anyone take Minakami-san to the nurses' office?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +812,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:64 
 msgid "先生、あたしたちが連れて行きます。\n"
-msgstr ""
+msgstr "We can take her.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -767,8 +823,11 @@ msgstr "Mio"
 #  text 
 #  warnings: 0 
 #: sc/0053:65 
+#, fuzzy
 msgid "麻衣ちゃん起きられる？\n歩いていけるかな？\n"
 msgstr ""
+"Can you stand up?\n"
+"I wonder if you can walk?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +852,8 @@ msgstr ""
 #: sc/0053:67 
 msgid "相生さん、長野原さん、\n水上さんをお願いしますね。\n"
 msgstr ""
+"Aioi-san, Naganohara-san,\n"
+"Please take Minakami-san.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -805,6 +866,8 @@ msgstr ""
 #: sc/0053:68 
 msgid "はいっ！　麻衣ちゃんは私たちに任せて、\n先生は授業を続けてよ。\n"
 msgstr ""
+"Alright! Leave Mai-chan to us,\n"
+"and you can keep on teaching.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,18 +880,22 @@ msgstr ""
 #: sc/0053:69 
 msgid "ゆっこは授業受けなくて嬉しいだけでしょ。\n"
 msgstr ""
+"You look pretty happy \n"
+"about getting out of class.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0053:70 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0053:70 
 msgid "わ、私はただ、友達として麻衣ちゃんを\n心配して……ほら、早く連れてくよ！\n"
 msgstr ""
+"I– I'm just trying to care for my friend…\n"
+"Hey, we'd better take her quick!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,32 +907,33 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:71 
 msgid "はいはい。\n"
-msgstr ""
+msgstr "Yeah,  yeah.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0053:72 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0053:72 
 msgid "フフ。それじゃあ\n水上さんをお願いします。\n"
 msgstr ""
+"Hehe. Well then,\n"
+"Here's Minakami-san.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0053:73 
 msgid "ゆっこ＆みお"
-msgstr "Yuuko & Mio"
+msgstr "Yukko & Mio"
 
 #  text 
 #  warnings: 0 
 #: sc/0053:73 
-#, fuzzy
 msgid "は―い。\n"
-msgstr "Alright.\n"
+msgstr "Yes—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,16 +945,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0053:74 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0053:75 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
 #: sc/0053:75 
+#, fuzzy
 msgid "（今更、金縛りが解けたなんて言えない）\n"
 msgstr ""
+"(Now, at this point, \n"
+"it's not like I can say I'm cured.)\n"

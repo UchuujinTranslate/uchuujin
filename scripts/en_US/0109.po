@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-09-01 00:03+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-10-06 16:26+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0109/en_US/>\n"
 "Language: en_US\n"
@@ -12,19 +12,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0109:0 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
 #: sc/0109:0 
 msgid "う―、見つからないな―……\nこっちに来たと思ったんだけど……。\n"
 msgstr ""
+"Uhh, I couldn't find it....\n"
+"I thought it went this way.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0109:1 
 msgid "気のせいだったのかなぁ。\n鹿がいるわけないもんね。\n"
 msgstr ""
+"My imagination?\n"
+"There's no way that was a deer. Right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:2 
 msgid "帰ってマンガの続き読もっと。\n"
-msgstr ""
+msgstr "Let's get back home and read manga.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:3 
 msgid "あっ。\n"
-msgstr ""
+msgstr "Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0109:4 
 msgid "ん？　おお、なのちゃんちのちっこいの。\n"
-msgstr ""
+msgstr "Hm? Ohh, the little one from Nano's house.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:5 
 msgid "はかせだよ！\n"
-msgstr ""
+msgstr "It's hakase!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +101,8 @@ msgstr ""
 #: sc/0109:6 
 msgid "そうそう、はかせだ。\n私は覚えてる？　ゆっこだよ？\n"
 msgstr ""
+"True true, Hakase.\n"
+"You remember me? I'm Yukko.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +115,8 @@ msgstr ""
 #: sc/0109:7 
 msgid "うん、ゆっこ！\nゆっこのうちもこの辺なの？\n"
 msgstr ""
+"Yeah, Yukko!\n"
+"You live around this area too?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +129,8 @@ msgstr ""
 #: sc/0109:8 
 msgid "ううん。暇だったから\nなんとなくこっちに来てみただけ。\n"
 msgstr ""
+"Not at all. I just was bored,\n"
+"so I came around to kill some time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +142,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:9 
 msgid "じゃあうちで遊んでいかない？\n"
-msgstr ""
+msgstr "Theeen, can we play to something?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0109:10 
 msgid "お、いいね。\nじゃあ遊びに行こうかな。\n"
 msgstr ""
+"Oh, nice idea.\n"
+"No problem.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:11 
 msgid "やった―！\n"
-msgstr ""
+msgstr "Yayy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0109:12 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:14 
 msgid "ゆ、ゆっこ……犬……退治できる？\n"
-msgstr ""
+msgstr "Yu, Yukko.... the dog.... can you get rid of him?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +217,8 @@ msgstr ""
 #: sc/0109:15 
 msgid "う、うう……厳しい……\nでも、二人一緒なら……！\n"
 msgstr ""
+"Uh, uhh... it'll be tough.....\n"
+"But, if we work together....!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,19 +230,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:16 
 msgid "わ、わかった、二人一緒に！\n"
-msgstr ""
+msgstr "Go... got it. Together!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0109:17 
 msgid "はかせ＆ゆっこ"
-msgstr ""
+msgstr "Professor & Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0109:17 
 msgid "うわああああ！！！\n"
-msgstr ""
+msgstr "UWAAAAH！！！\n"
 
 #  text 
 #  warnings: 1 
@@ -241,12 +255,14 @@ msgstr ""
 #: sc/0109:19 
 msgid "……地球の女の子は犬を見たら\n戦う習性でもあるのか？\n"
 msgstr ""
+"..... So there are girls in earth\n"
+"that tend to fight with dogs?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0109:20 
 msgid "……あるんだろう。きっと。\n"
-msgstr ""
+msgstr "..... There are. I guess.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -259,6 +275,8 @@ msgstr ""
 #: sc/0109:21 
 msgid "そうだはかせ。\nなのちゃんはもう家に帰ってるの？\n"
 msgstr ""
+"Anyway.\n"
+"Hakase, do you know if Nano is already at home?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +288,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:22 
 msgid "ううん、なのはまだ弌弌\n"
-msgstr ""
+msgstr "No, not yeーー\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,7 +300,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:23 
 msgid "（っとと。ゆっこはなのと仲良いんだった）\n"
-msgstr ""
+msgstr "(Wait a second. Yukko is a good friend of Nano.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,6 +313,8 @@ msgstr ""
 #: sc/0109:24 
 msgid "（なのになのがいないなんて知ったら\n　遊びに来てくれないかもしれない）\n"
 msgstr ""
+"(If I tell her she isn't at home\n"
+"she won't come to play with me.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,6 +327,8 @@ msgstr ""
 #: sc/0109:25 
 msgid "（はかせはまたゆっこと遊びたいし、\n　本当のことは言っちゃダメかも）\n"
 msgstr ""
+"(I want to play with Yukko,\n"
+"I can't tell her the truth.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +340,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:26 
 msgid "あれ？　なのちゃんはまだ帰ってないの？\n"
-msgstr ""
+msgstr "Eh? So Nano hasn't arrived yet?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,6 +353,8 @@ msgstr ""
 #: sc/0109:27 
 msgid "い、いるよ！\nちゃんと、うちにいるよ！\n"
 msgstr ""
+"She, she is at home!\n"
+"She is really at home!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,6 +367,8 @@ msgstr ""
 #: sc/0109:28 
 msgid "そうなんだ。じゃあ、はかせとなのちゃんに\n私がマジックを見せてあげる。\n"
 msgstr ""
+"Oh, I see. Then, I'll let Hakase to\n"
+"see a lttile of my magical powers.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +380,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:29 
 msgid "マジック！？　できるの！？\n"
-msgstr ""
+msgstr "Magic!? You can use it!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +393,8 @@ msgstr ""
 #: sc/0109:30 
 msgid "ま、かじった程度だけどね。\n最近やるようになってさ。\n"
 msgstr ""
+"Well, I can't do that much.\n"
+"But I have been training recently.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +407,8 @@ msgstr ""
 #: sc/0109:31 
 msgid "すごいすごい！\n見せて見せて！\n"
 msgstr ""
+"Awesome awesome!\n"
+"Show me show me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -391,6 +421,8 @@ msgstr ""
 #: sc/0109:32 
 msgid "それは後のお楽しみってね。\nなのちゃん待たせても悪いし、早く行こう。\n"
 msgstr ""
+"Let's leave the fun for later.\n"
+"Nano might be waititng for you, we must go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +435,8 @@ msgstr ""
 #: sc/0109:33 
 msgid "あっ、で、でも、なのはいいの！\nなのは見られないの！\n"
 msgstr ""
+"Ah, but, Nano is OK!\n"
+"You can't see her right now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +448,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:34 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:35 
 msgid "なの、今メンテナンスしてるから！\n"
-msgstr ""
+msgstr "Nano, she is maintenance right now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +473,8 @@ msgstr ""
 #: sc/0109:36 
 msgid "メンテナンス！？　マジ！？\nやっぱりするんだ！\n"
 msgstr ""
+"Maintenance!? For real!?\n"
+"She really needs after all!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +487,8 @@ msgstr ""
 #: sc/0109:37 
 msgid "そう！　だからなのはちょっと\n起きられないから、見られないの！\n"
 msgstr ""
+"Yes! So this isn't a good moment\n"
+"to wake her up, you can't see her!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,6 +501,8 @@ msgstr ""
 #: sc/0109:38 
 msgid "そっか―。\nすぐには終わりそうにないんだ？\n"
 msgstr ""
+"I see....\n"
+"Will it take too much?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,6 +515,8 @@ msgstr ""
 #: sc/0109:39 
 msgid "うん！　メンテナンスは時間かかるの！\n明日までかかっちゃうの！\n"
 msgstr ""
+"Yes! Maintenance usually take long periods of time!\n"
+"This time will take until tomorrow!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +529,8 @@ msgstr ""
 #: sc/0109:40 
 msgid "じゃあ邪魔しても悪いし、\n遊びに行くのはまた今度にするよ。\n"
 msgstr ""
+"Oh, I don't want to interfere,\n"
+"so let's leave the games for other occasion.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:41 
 msgid "（あれ―――！？）\n"
-msgstr ""
+msgstr "(Wha―――!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:42 
 msgid "じゃあね―はかせ―。\n"
-msgstr ""
+msgstr "See you― Hakase―.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,6 +579,8 @@ msgstr ""
 #: sc/0109:44 
 msgid "あのね、なのはね、帰ってきてたんだよ？\nでもね、今は夕飯の準備してるからいないの。\n"
 msgstr ""
+"Well, you see, Nano came home.\n"
+"But, she went out to buy ingredients for the dinner.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:45 
 msgid "へ―。なのちゃんがやってるんだ。\n"
-msgstr ""
+msgstr "He―. She is very responsible, isn't she?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +605,8 @@ msgstr ""
 #: sc/0109:46 
 msgid "そ、そう。でもちょっと時間がかかるから\n帰ってくるのは遅くなるかも。\n"
 msgstr ""
+"Ye, yeah. But has always been like this,\n"
+"it might take her until night.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -571,6 +619,8 @@ msgstr ""
 #: sc/0109:47 
 msgid "それなら買い物手伝おうか？\n二人なら早く終わるでしょ。\n"
 msgstr ""
+"If that's so, shall we help her out?\n"
+"The more we are, the faster we'll finish.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +632,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:48 
 msgid "う、うん……。\n"
-msgstr ""
+msgstr "Y- Yeah…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +645,8 @@ msgstr ""
 #: sc/0109:49 
 msgid "（ど、どうしよう。本当は買い物なんて\n　行かせてないし……）\n"
 msgstr ""
+"(What do I do? Truth is she didn't\n"
+"go to buy anything.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +659,8 @@ msgstr ""
 #: sc/0109:50 
 msgid "なのちゃん、今どこかな？\n連絡取れたりする？\n"
 msgstr ""
+"I wonder where is she now?\n"
+"Should we call her?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:51 
 msgid "と、取れるけど、電波届かないかも！\n"
-msgstr ""
+msgstr "You, you can try it, but she mightn't have coverage!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +685,8 @@ msgstr ""
 #: sc/0109:52 
 msgid "えっ！？\nなのちゃんどこに行ってるの！？\n"
 msgstr ""
+"Eh!?\n"
+"Where did she go?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -643,6 +699,9 @@ msgstr ""
 #: sc/0109:53 
 msgid "……あっ、地下だからか。\nふ―、密林や樹海に行ってるかと思った。\n"
 msgstr ""
+"...... Ah, the subway, right?.\n"
+"Yeah, I thought for a moment she was in the middle of the jungle or "
+"something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -654,7 +713,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:54 
 msgid "行ってるよ！\n"
-msgstr ""
+msgstr "She is there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +725,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:55 
 msgid "えええっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Ehhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +738,8 @@ msgstr ""
 #: sc/0109:56 
 msgid "だ、だからなのには連絡取れないし、\n帰ってくるのも遅くなるの。\n"
 msgstr ""
+"Tha, that's why she can't take the phone,\n"
+"and also why she'll come home late.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +752,8 @@ msgstr ""
 #: sc/0109:57 
 msgid "夕飯のためにそんなところ行くなんて……\nはかせの家、大変なんだね……。\n"
 msgstr ""
+"To go that far just for the dinner....\n"
+"Hakase's house is, all a mess.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +765,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:58 
 msgid "う、うん、大変なの。\n"
-msgstr ""
+msgstr "Ah, yeah, a mess.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +778,8 @@ msgstr ""
 #: sc/0109:59 
 msgid "なのちゃん帰ってくるまで\nずっと遊んであげるから。大人しく待とうね。\n"
 msgstr ""
+"I'll play with you until Nano\n"
+"comes back home. So let's await patiently for her return, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +791,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:60 
 msgid "うん？\n"
-msgstr ""
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +803,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:61 
 msgid "世知辛い世の中になったんだなぁ……。\n"
-msgstr ""
+msgstr "This is a rough world we are living in.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +815,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:62 
 msgid "えっと、えっと……。\n"
-msgstr ""
+msgstr "Ahhh, ehhh....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +828,8 @@ msgstr ""
 #: sc/0109:63 
 msgid "どうしたの？\n家にはいないの？\n"
 msgstr ""
+"What happened?\n"
+"She isn't home?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +841,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:64 
 msgid "……うん。今は外に出てるの。\n"
-msgstr ""
+msgstr "...... Yeah. She's out right now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +853,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:65 
 msgid "そっか。じゃあ家で待ってようか。\n"
-msgstr ""
+msgstr "I see. Shall we wait for her at your house?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,6 +866,8 @@ msgstr ""
 #: sc/0109:66 
 msgid "えっ！？\nうちに来てくれるの！？\n"
 msgstr ""
+"Eh!?\n"
+"Will you come to my house!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +879,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:67 
 msgid "うん？　だってさっきそう言ったじゃん。\n"
-msgstr ""
+msgstr "Yeah? We were talking about that, weren't we?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -823,6 +892,8 @@ msgstr ""
 #: sc/0109:68 
 msgid "でもでも、なのがいないから……\nゆっこが来てくれないと思って……。\n"
 msgstr ""
+"But but, if Nano wasn't home....\n"
+"I thought you wouldn't come....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +905,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:69 
 msgid "あ―、だから何か言い訳を考えてたんだ。\n"
-msgstr ""
+msgstr "Ah―, so that's why you tried creating an excuse.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +929,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:71 
 msgid "……あっ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,6 +942,8 @@ msgstr ""
 #: sc/0109:72 
 msgid "はかせはかせ、\n言い訳してもいいわけよ？\n"
 msgstr ""
+"Hakase Hakase,\n"
+"So you are excused of making excuses?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +955,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:73 
 msgid "うん……。\n"
-msgstr ""
+msgstr "Hmm.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +967,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:74 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +979,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:75 
 msgid "ん？　どうしたの？\n"
-msgstr ""
+msgstr "Hm? Something's wrong?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +991,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:76 
 msgid "い、いや、言い訳してもいいわけよ？\n"
-msgstr ""
+msgstr "N, no, would you excuse me for excusing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -930,7 +1003,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:77 
 msgid "うん？　それはさっき聞いたよ？\n"
-msgstr ""
+msgstr "Hm? You asked almost the same earlier, don't you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -943,6 +1016,8 @@ msgstr ""
 #: sc/0109:78 
 msgid "あ、あの、わからない？　言い訳と、\nいいんだよをかけていいわけ―って……。\n"
 msgstr ""
+"Ah, I, don't you get it? An excuse,\n"
+"and being excuse-d.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +1029,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:79 
 msgid "それで？\n"
-msgstr ""
+msgstr "So?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -966,7 +1041,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:80 
 msgid "は、はは、ははは……。\n"
-msgstr ""
+msgstr "Ha, haha, hahaha.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,13 +1059,13 @@ msgstr "??\n"
 #  warnings: 0 
 #: sc/0109:82 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
 #: sc/0109:82 
 msgid "あの……お腹痛いから帰っていい？\n"
-msgstr ""
+msgstr "Umm... My stomach hurts, can I go home?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1002,4 +1077,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0109:83 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"

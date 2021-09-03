@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2019-08-31 23:01+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-09 22:51+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0001/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,8 +25,8 @@ msgstr "Takasaki-sensei"
 #: sc/0001:0 
 msgid "それでは授業を始める。\nまずは前回の続きからだが……。\n"
 msgstr ""
-"Now then, let's begin class.\n"
-"To start, let's continue from where we left off last time...\n"
+"Now then, let's begin class. To start,\n"
+"let's continue from where we left off……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -39,8 +39,8 @@ msgstr "Nano"
 #: sc/0001:1 
 msgid "（うぅ……結局\n　ネジを取ってもらえなかった……）\n"
 msgstr ""
-"(Ugh... I couldn't get the screw off\n"
-"after all...)\n"
+"(Ugh…… I couldn't\n"
+"get the key off after all……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -54,7 +54,7 @@ msgstr ""
 msgid "（私が寝てる間に改造するなんて\n　ひどいですはかせ……）\n"
 msgstr ""
 "(You shouldn't work on me \n"
-"while I'm sleeping, Hakase...)\n"
+"while I'm sleeping, Hakase……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "（せめて、何をどうパワ―アップしたかを\n　聞いておけば良かった）\n"
 msgstr ""
 "(I should have at least asked\n"
-"exactly what and where she powered-up.)\n"
+"exactly what and where she powered-up)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -81,8 +81,8 @@ msgstr ""
 #: sc/0001:4 
 msgid "（突然動いたりしないよね？\n　空飛んだりとか腕が取れたりとか……）\n"
 msgstr ""
-"(I don't suddenly start flying,\n"
-"do I? Does my arm come off or…)\n"
+"(I won't suddenly start flying, will I?\n"
+"Or, does my arm come off, or……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:6 
 msgid "あの、先生……。\n"
-msgstr "Um, teacher…\n"
+msgstr "Um, teacher…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,9 +120,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:7 
 msgid "ん？　どうした東雲。\n"
-msgstr ""
-"Hm? What is it,\n"
-"Shinonome?\n"
+msgstr "Hmm? What is it, Shinonome?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,8 +133,8 @@ msgstr ""
 #: sc/0001:8 
 msgid "すみません。体調が悪いので\n保健室に行ってもいいですか？\n"
 msgstr ""
-"I'm sorry. I think I may be sick, so \n"
-"may I be excused to the nurse's office?\n"
+"I'm sorry. I think I may be sick.\n"
+"May I be excused to the nurse's office?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -148,7 +146,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:9 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +172,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:11 
 msgid "い、いや、何でもない……。\n"
-msgstr "N-no, nothing...\n"
+msgstr "N-no, nothing…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -213,8 +211,8 @@ msgstr ""
 #: sc/0001:14 
 msgid "駄目だ駄目だ。\nそう言ってサボる気だろう？\n"
 msgstr ""
-"No, no. \n"
-"Are you thinking of playing hooky?\n"
+"No way, no way. You're saying\n"
+"that to play hooky, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +226,7 @@ msgstr ""
 msgid "サボりません。\n本当に体調が悪いから……。\n"
 msgstr ""
 "I won't skip.\n"
-"I'm really sick...\n"
+"I really am feeling sick…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,8 +239,8 @@ msgstr ""
 #: sc/0001:16 
 msgid "ん、んんん……\n体調と言われても、東雲、お前は……。\n"
 msgstr ""
-"Hm, hmm... even if it is a cold,\n"
-"Shinonome, you are...\n"
+"Hmm, hmmmm…… You say you're not feeling \n"
+"well, Shinonome, but you're a…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -268,7 +266,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:18 
 msgid "い、いや、その……。\n"
-msgstr "No, no, it's...\n"
+msgstr "No, no, it's…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -280,7 +278,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:19 
 msgid "あれ、先生。犬が来ていますよ？\n"
-msgstr "Look, teacher. Is that a dog?\n"
+msgstr "Uh, teacher. Is that a dog?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -293,7 +291,7 @@ msgstr ""
 #: sc/0001:20 
 msgid "なっ、本当だ。一体どこから。\n"
 msgstr ""
-"Oh, so it is. \n"
+"Oh, you're right.\n"
 "Where the heck did it come from?\n"
 
 #  speaker 
@@ -332,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:23 
 msgid "！！！\n"
-msgstr "!!!\n"
+msgstr "!!!!!!\n"
 
 #  text 
 #  warnings: 1 
@@ -340,37 +338,35 @@ msgstr "!!!\n"
 msgid "うっ！？\nなんだこの人間は！\n"
 msgstr ""
 "What!?\n"
-"What is this person!?\n"
+"What's up with this human!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0001:25 
 msgid "速い！　地球の人間はこんなに速く\n走れるものなのか！！\n"
 msgstr ""
-"Fast! Is it even possible to run\n"
-"that fast!?\n"
+"She's fast! Can humans even run\n"
+"at speeds like this!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0001:26 
 msgid "あぁっ！\n速すぎてアンテナにＦがかかった！\n"
 msgstr ""
-"Oh! They went too fast and \n"
-"the antenna got caught!\n"
+"Argh! She's so fast the antenna\n"
+"is exposed to too much G-force!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0001:27 
 msgid "ヤバイ！　アンテナが壊れる！\n"
-msgstr ""
-"This is bad! The antenna\n"
-"broke!\n"
+msgstr "This is bad! The antenna will break!\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0001:28 
 msgid "＆"
-msgstr "＆"
+msgstr "No.F5＆No.36"
 
 #  text 
 #  warnings: 2 
@@ -388,13 +384,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:29 
 msgid "……あれ？　この音は？\n"
-msgstr "...huh? What is this sound?\n"
+msgstr "……Huh? What is this sound?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0001:30 
 msgid "ゆっこ"
-msgstr "Yuuko"
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 
@@ -402,7 +398,7 @@ msgstr "Yuuko"
 msgid "なのちゃん！\n背中のネジが！！\n"
 msgstr ""
 "Nano-chan!\n"
-"The screw on your back!!\n"
+"The key on your back!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +410,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:31 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,7 +422,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:32 
 msgid "（あっ！？\n　ネジが勝手に回ってる！？）\n"
-msgstr "(What!? The screw is turning!?)\n"
+msgstr "(What!? The key is turning by itself!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,8 +471,8 @@ msgstr ""
 #: sc/0001:36 
 msgid "（オ、オルゴ―ル……？\n　これがはかせのつけた新機能？）\n"
 msgstr ""
-"(A music box...? Is this a new \n"
-"feature the Professor added?)\n"
+"(A music box……? Is this the\n"
+"new feature Hakase added?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -488,7 +484,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:37 
 msgid "し、東雲、これは一体……。\n"
-msgstr "Sh-Shinonome, this is...\n"
+msgstr "Sh-Shinonome, what the heck is…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -501,7 +497,7 @@ msgstr ""
 #: sc/0001:38 
 msgid "こ、これは！　携帯です！！\nマナ―モ―ドになっていなくて！\n"
 msgstr ""
-"Th-This is.. it's my phone!!\n"
+"Th-This is…… it's my phone!!\n"
 "I forgot to mute it!\n"
 
 #  speaker 
@@ -515,8 +511,8 @@ msgstr ""
 #: sc/0001:39 
 msgid "け、携帯？　そ、そうか。\nなら早く音を止めなさい。\n"
 msgstr ""
-"A phone? Is that so?\n"
-"Please turn the sound off.\n"
+"Your phone? I see.\n"
+"Could you please turn the sound off?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +524,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:40 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -542,7 +538,7 @@ msgstr ""
 msgid "どうした？\n早く音を止めないか。\n"
 msgstr ""
 "What's wrong?\n"
-"Won't you turn it off?\n"
+"Can't you turn it off?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -555,8 +551,8 @@ msgstr ""
 #: sc/0001:42 
 msgid "そ、それが！\n携帯がどこにあるかわからなくて！\n"
 msgstr ""
-"Th-that's right! I don't know\n"
-"where the phone is!\n"
+"The thing is that I don't know\n"
+"where my phone is!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +566,7 @@ msgstr ""
 msgid "わ、わからない！？\nなら早く探しなさい！\n"
 msgstr ""
 "Y-you don't know!?\n"
-"Please look for it!\n"
+"Then search for it please. Quick!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -596,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:45 
 msgid "えええ！？\n"
-msgstr "EEEEH!?\n"
+msgstr "What!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:46 
 msgid "すみません、止めに行ってきます！\n"
-msgstr "I'm sorry, let me go stop it!\n"
+msgstr "Pardon me, I'll go and turn it off!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -644,7 +640,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:49 
 msgid "……元気じゃないか。\n"
-msgstr "... how are you?\n"
+msgstr "……Hey, you seem to be just fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -657,7 +653,7 @@ msgstr ""
 #: sc/0001:50 
 msgid "し、知らないんですか？\nこの音はオルゴ―ルの音ですよ？\n"
 msgstr ""
-"D-did you not know? That this \n"
+"D-did you not know that this \n"
 "is the sound of a music box?\n"
 
 #  speaker 
@@ -672,7 +668,7 @@ msgstr ""
 msgid "そ、それは知っている。\nだが、この音が聞こえるのは東雲の……。\n"
 msgstr ""
 "I mean, I know that. But\n"
-"I heard it coming from you...\n"
+"I heard it coming from you…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:55 
 msgid "東雲……。\n"
-msgstr "Shinonome...\n"
+msgstr "Shinonome…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:56 
 msgid "はい……。\n"
-msgstr "Yes...\n"
+msgstr "Yes…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -783,8 +779,8 @@ msgstr ""
 #: sc/0001:60 
 msgid "言えるわけないよな。\n東雲自体がオルゴ―ルになってるなんて。\n"
 msgstr ""
-"There's nothing more to say.\n"
-"Shinonome is becoming a music box.\n"
+"There's no way I could tell her that\n"
+"her body is like one big music box.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -797,8 +793,8 @@ msgstr ""
 #: sc/0001:61 
 msgid "フッ……\nさあお前たち、授業を続けるぞ！\n"
 msgstr ""
-"Heh. Now, everyone, \n"
-"we'll be continuing class.\n"
+"Phew……\n"
+"Now, everyone, let's resume class!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -810,7 +806,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:62 
 msgid "え、えっと……なんでしょうね……？\n"
-msgstr "Um... What is it...?\n"
+msgstr "Ah, um…… I wonder where it could be……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +818,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:63 
 msgid "なんでしょうねって、お前の……。\n"
-msgstr "What is your...\n"
+msgstr ""
+"What do you mean?\n"
+"It's coming from your……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,8 +833,8 @@ msgstr ""
 #: sc/0001:64 
 msgid "どこかから鳴ってるみたいですけど、\n少ししたら止むんじゃないでしょうか？\n"
 msgstr ""
-"I hear it coming from somewhere.\n"
-"Maybe it'll stop after a while?\n"
+"I hear it's coming from somewhere.\n"
+"But, won't it maybe stop after a while?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -861,8 +859,8 @@ msgstr ""
 #: sc/0001:66 
 msgid "たまにはＡＦＬのある授業も\nいいものですね、先生。\n"
 msgstr ""
-"Sometimes AFL classes\n"
-"are also good, teacher.\n"
+"Teacher, sometimes it's nice having\n"
+"classes with BGM in the back, you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -874,7 +872,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:67 
 msgid "いや、だが……。\n"
-msgstr "No, but...\n"
+msgstr "No, but this is…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -887,8 +885,8 @@ msgstr ""
 #: sc/0001:68 
 msgid "どうかしましたか？\n早く授業を進めてください。\n"
 msgstr ""
-"What's the matter?\n"
-"Please continue class.\n"
+"What was the matter?\n"
+"Let's continue with the class.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,19 +898,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:69 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0001:70 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0001:70 
 msgid "じゅ、授業を続ける……。\n"
-msgstr "W-we'll be continuing class...\n"
+msgstr "R-Resume the lesson…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,4 +922,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0001:71 
 msgid "はいっ。\n"
-msgstr "Okay.\n"
+msgstr "Yeah.\n"

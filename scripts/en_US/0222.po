@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-09-01 00:06+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2021-07-05 23:03+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0222/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -32,7 +32,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:1 
 msgid "はかせ"
-msgstr "Professor"
+msgstr "Hakase"
 
 #  text 
 #  warnings: 0 
@@ -65,7 +65,7 @@ msgstr ""
 #: sc/0222:3 
 msgid "ほんと！？　なの大好き！\nすぐ帰ろ、帰ろ―っ！\n"
 msgstr ""
-"Really? I love Nano!\n"
+"Really? I love you Nano!\n"
 "Let's hurry back, hurry!\n"
 
 #  speaker 
@@ -102,7 +102,7 @@ msgstr "Buddy"
 #  warnings: 0 
 #: sc/0222:6 
 msgid "？？？\n"
-msgstr ""
+msgstr "???\n"
 
 #  speaker 
 #  warnings: 0 
@@ -126,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:8 
 msgid "！\n"
-msgstr ""
+msgstr "!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -162,7 +162,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0222:11 
 msgid "……相生、廊下に立ってろ。\n"
-msgstr "... ... Aioi, standing in the corridor.\n"
+msgstr "……Aioi, standing in the corridor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -186,7 +186,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:13 
 msgid "フフ。\n"
-msgstr "Huff.\n"
+msgstr "Ha ha.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -234,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:17 
 msgid "ぎゃあああああ――！\n"
-msgstr ""
+msgstr "GYAAAAAAAAAAAH——！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +288,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:22 
 msgid "ウェボシ―＆フェっちゃん"
-msgstr ""
+msgstr "Weboshi & Fe-chan"
 
 #  text 
 #  warnings: 0 
@@ -324,13 +324,13 @@ msgstr "!?\n"
 #  warnings: 0 
 #: sc/0222:25 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0222:25 
 msgid "はっ！？\n"
-msgstr ""
+msgstr "Hah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +372,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:29 
 msgid "鹿"
-msgstr ""
+msgstr "Deer"
 
 #  text 
 #  warnings: 0 
@@ -438,7 +438,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:34 
 msgid "は、はい！\n"
-msgstr ""
+msgstr "Y-Yes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +462,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:36 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -523,13 +523,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:41 
 msgid "メメェ―。\n"
-msgstr ""
+msgstr "Mei.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0222:42 
 msgid "麻衣"
-msgstr ""
+msgstr "Mai"
 
 #  text 
 #  warnings: 0 
@@ -661,7 +661,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:53 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
@@ -757,13 +757,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:61 
 msgid "大工＆阪本さん"
-msgstr ""
+msgstr "Daiku & Osaka-san"
 
 #  text 
 #  warnings: 0 
 #: sc/0222:61 
 msgid "……あ。\n"
-msgstr ""
+msgstr "……Ah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,7 +853,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:69 
 msgid "警察"
-msgstr ""
+msgstr "The Police"
 
 #  text 
 #  warnings: 0 
@@ -931,7 +931,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:75 
 msgid "でも……。\n"
-msgstr ""
+msgstr "But…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -991,7 +991,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:80 
 msgid "うん！\n"
-msgstr ""
+msgstr "Yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1057,7 +1057,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:86 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -1195,7 +1195,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:97 
 msgid "あれ？\n"
-msgstr ""
+msgstr "That?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1279,7 +1279,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:104 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1375,7 +1375,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:112 
 msgid "ええ―っ！？\n"
-msgstr ""
+msgstr "EHH—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1484,12 +1484,14 @@ msgstr ""
 #: sc/0222:121 
 msgid "なるほど。\nそれで……。\n"
 msgstr ""
+"I see.\n"
+"Then…….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0222:122 
 msgid "桜井誠"
-msgstr ""
+msgstr "Makoto Sakurai"
 
 #  text 
 #  warnings: 0 
@@ -1591,7 +1593,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:130 
 msgid "はい。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1645,13 +1647,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:135 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0222:135 
 msgid "えっ？\n"
-msgstr "Huh?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1909,7 +1911,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:157 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
@@ -1927,7 +1929,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:158 
 msgid "はい、なんでしょうか？\n"
-msgstr ""
+msgstr "Yes, how can I help?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2053,7 +2055,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:169 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 
@@ -2071,7 +2073,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:170 
 msgid "（ええ――――っ！？）\n"
-msgstr ""
+msgstr "(EHH—————!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2263,7 +2265,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:186 
 msgid "えっ！？\n"
-msgstr "Ehh!?\n"
+msgstr "Eh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2287,7 +2289,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:188 
 msgid "ええええ――――っ！？\n"
-msgstr ""
+msgstr "Ehhhhhh————!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2347,7 +2349,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:193 
 msgid "あ、はい。\n"
-msgstr ""
+msgstr "Oh, yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2365,7 +2367,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:195 
 msgid "みさと＆フェっちゃん"
-msgstr ""
+msgstr "Misato & Fe-chan"
 
 #  text 
 #  warnings: 0 
@@ -2401,7 +2403,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:198 
 msgid "中之条"
-msgstr ""
+msgstr "Nakanojou"
 
 #  text 
 #  warnings: 0 
@@ -2485,13 +2487,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:205 
 msgid "フェっちゃん"
-msgstr ""
+msgstr "Fe-chan"
 
 #  text 
 #  warnings: 0 
 #: sc/0222:205 
 msgid "うん。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2503,7 +2505,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:206 
 msgid "……ま、いっか。\n"
-msgstr ""
+msgstr "……Well, whatever.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2581,7 +2583,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:213 
 msgid "ジェントルマン"
-msgstr ""
+msgstr "Gentleman"
 
 #  text 
 #  warnings: 0 
@@ -2617,7 +2619,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:216 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
@@ -2749,7 +2751,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:227 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
@@ -2863,7 +2865,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:236 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -2899,7 +2901,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:239 
 msgid "……？\n"
-msgstr ""
+msgstr "……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -3151,7 +3153,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:261 
 msgid "メェ―\n"
-msgstr ""
+msgstr "Mehhh\n"
 
 #  speaker 
 #  warnings: 0 
@@ -3217,19 +3219,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:267 
 msgid "コジロウ"
-msgstr ""
+msgstr "Kojirou"
 
 #  text 
 #  warnings: 0 
 #: sc/0222:267 
 msgid "メェ―！\n"
-msgstr ""
+msgstr "Mei!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0222:268 
 msgid "みさと"
-msgstr ""
+msgstr "Misato"
 
 #  text 
 #  warnings: 0 
@@ -3259,13 +3261,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:270 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0222:271 
 msgid "ゆっこ"
-msgstr ""
+msgstr "Yukko"
 
 #  text 
 #  warnings: 0 

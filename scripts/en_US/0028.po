@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:18+0000\n"
-"PO-Revision-Date: 2019-09-01 18:06+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-08-02 18:22+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0028/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Nakamura-sensei"
 #: sc/0028:0 
 msgid "くそ―……結局はかせから作戦を\n教えてもらえなかった……。\n"
 msgstr ""
+"Dang it—…… In the end, the\n"
+"professor didn't tell me her plans…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0028:1 
 msgid "しかし、あんな小さな天才が\nこんな身近にいるなんて……。\n"
 msgstr ""
+"And, to think that such a small\n"
+"genius would be so nearby…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0028:2 
 msgid "ムカつく子供だったが腕は本物だ。\n将来は物凄い発明家になるだろう。\n"
 msgstr ""
+"She was irritating, but her skills are real.\n"
+"Someday, she'll be a great inventor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0028:3 
 msgid "恐らく東雲なのを作った人物も、あのように\n子供の頃から天才だったのだろうな。\n"
 msgstr ""
+"Maybe whoever made Shinonome,\n"
+"was also a child-genius.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:4 
 msgid "……さて、そろそろ学校に戻るか。\n"
-msgstr ""
+msgstr "……Well, I better head back to school.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -85,6 +93,8 @@ msgstr "Nakanojo-san"
 #: sc/0028:5 
 msgid "はいはい寄ってらっしゃい見てらっしゃい。\nあんころ大福からわらび餅まで色あるよ―。\n"
 msgstr ""
+"Here! Here! Come and see! We have\n"
+"all from ankoro daifuku to warabi mochi—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +106,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:6 
 msgid "ん？\n"
-msgstr "Hmm?\n"
+msgstr "Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +119,8 @@ msgstr ""
 #: sc/0028:7 
 msgid "そこのお姉さん。大福はどうだい？\nケ―キなんかよりよっぽど美味しいよ。\n"
 msgstr ""
+"Hello Miss, how about a daifuku?\n"
+"It's much more tastier than cake.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:8 
 msgid "大福……？\n"
-msgstr ""
+msgstr "Daifuku……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0028:9 
 msgid "（ああ、いつもここでやってる胡散臭い……\n　そう言えば少し小腹がすいてきたな）\n"
 msgstr ""
+"(They're always doing fishy stuff here…\n"
+"That reminds me,  I am actually a little hungry.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +159,8 @@ msgstr ""
 #: sc/0028:10 
 msgid "今日は大福フェアだ。\n今なら緑茶もセットでついてくるよ！\n"
 msgstr ""
+"Today is the Daifuku Fair. If you buy it today\n"
+"green tea will be bundled per set!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +173,8 @@ msgstr ""
 #: sc/0028:11 
 msgid "ん―……そうだな。\nなら大福を２つ。あと持ち帰りで４つ。\n"
 msgstr ""
+"Hmm—…… I see. Well in that case,\n"
+"I'll have two daifuku. And, four to go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +187,8 @@ msgstr ""
 #: sc/0028:12 
 msgid "まいどあり！　はい、大福。\n緑茶も亞れたてだよ。\n"
 msgstr ""
+"Thanks for the business! Here's your\n"
+"daifuku. And, your bundled green tea.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +201,8 @@ msgstr ""
 #: sc/0028:13 
 msgid "どうも。\nでは早速……はむっ。\n"
 msgstr ""
+"Thanks.\n"
+"Without further ado…… *Nom*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +214,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:14 
 msgid "（ん〜〜……）\n"
-msgstr ""
+msgstr "(Hmmm～～……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +227,8 @@ msgstr ""
 #: sc/0028:15 
 msgid "（甘くてうまい……緑茶も合うし、\n　２個なんてぺろりと食べられるな）\n"
 msgstr ""
+"(Nice and sweet… Plus, green tea too.\n"
+"I can't help but lick these two clean)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,19 +240,19 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:16 
 msgid "…………ん？\n"
-msgstr ""
+msgstr "………Hmm?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0028:17 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
 #: sc/0028:17 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +264,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:18 
 msgid "（校長も大福を買いにきたのか）\n"
-msgstr ""
+msgstr "(The Principal's also getting daifuku?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +277,8 @@ msgstr ""
 #: sc/0028:19 
 msgid "よし……\n腹ごしらえもすんだし、学校に帰るか。\n"
 msgstr ""
+"Alright…… Now that I'm all\n"
+"snacked up, let's return to school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +303,8 @@ msgstr ""
 #: sc/0028:21 
 msgid "あ―、ちょっとおじいさん。\n代金をまだもらってないよ。\n"
 msgstr ""
+"Ah—, wait, sir.\n"
+"You haven't paid for that yet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +316,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:22 
 msgid "…………？\n"
-msgstr ""
+msgstr "…………?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,61 +340,71 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:24 
 msgid "あっ！？　食い逃げ！！\n"
-msgstr ""
+msgstr "Ah!? An eat 'n' run!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:25 
 msgid "バカ野郎！\nどうして食い逃げなんかしてるんだ！\n"
 msgstr ""
+"You idiot!\n"
+"Why are you eating and running!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:26 
 msgid "すまん！　だが許してくれ！\n俺、大福が食べてみたかったんだ！\n"
 msgstr ""
+"Sorry! But, please forgive me!\n"
+"I only wanted to try a daifuku!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:27 
 msgid "でも電波越しじゃ食べられないから……せめて、\nこのオッサンに食べてもらいたかったんだ。\n"
 msgstr ""
+"But I can't eat while broadcasting……\n"
+"so at least I wanted this ol' man to eat.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:28 
 msgid "そうだったのか……なら弌弌\n"
-msgstr ""
+msgstr "Is that so? ……Well, in that case——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:29 
 msgid "って許せるか――っ！\n"
-msgstr ""
+msgstr "You thought I would forgive you for that——!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:30 
 msgid "ぐふっ！？\n"
-msgstr ""
+msgstr "Ugh!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:31 
 msgid "まったくお前と言うやつは。\n食い逃げなんてさせたら弌弌\n"
 msgstr ""
+"C'mon I've had enough with you.\n"
+"If you let that geezer do a eat'n'run then——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:32 
 msgid "ああ……。\nオッサンが町の人たちにつかまって……。\n"
 msgstr ""
+"Ahhh……. The old man\n"
+"was grabbed by the the town's folk…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0028:33 
 msgid "やっぱりボコられた―！\n"
-msgstr ""
+msgstr "Oh no, he got beaten up—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +417,8 @@ msgstr ""
 #: sc/0028:34 
 msgid "ずず―……\nふぅ。うまかった。\n"
 msgstr ""
+"*munch munch*—……\n"
+"Phew. That's good stuff.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,7 +430,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:35 
 msgid "さて、それじゃあ学校に戻るか。\n"
-msgstr ""
+msgstr "Now, let's head back to school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +442,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:36 
 msgid "あ、ちょっとお姉さん。\n"
-msgstr ""
+msgstr "Ah! Wait, Miss.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +454,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:37 
 msgid "ん？　もう大福はいらないぞ？\n"
-msgstr ""
+msgstr "Hmm? I'm fine, I don't need more daifuku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +467,8 @@ msgstr ""
 #: sc/0028:38 
 msgid "そうじゃなくて、お代。\n大福のお金、まだもらってないよ。\n"
 msgstr ""
+"No, no, it's just the payment.\n"
+"You haven't payed for those daifukus.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +481,8 @@ msgstr ""
 #: sc/0028:39 
 msgid "ああ、そう言えば。\nえっと、財布は……。\n"
 msgstr ""
+"Well, no that you mention it.\n"
+"Uh, my wallet…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +530,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:43 
 msgid "（財布が……無い！！）\n"
-msgstr ""
+msgstr "(My wallet's…… gone!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -498,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:44 
 msgid "……どうしたんだい？\n"
-msgstr ""
+msgstr "……What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:45 
 msgid "財布……忘れてきた。\n"
-msgstr ""
+msgstr "My wallet…… I forgot it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,6 +579,8 @@ msgstr ""
 #: sc/0028:47 
 msgid "（うう……ポケットに偶然\n　お金が入ってたり……しないか……）\n"
 msgstr ""
+"(Uhhh…… Maybe's there's some\n"
+"money in my pocket…… Nope……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:49 
 msgid "（くっ、どうする……）\n"
-msgstr ""
+msgstr "(Jeez, what should I do……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:50 
 msgid "……ん？　大福の中之条？\n"
-msgstr ""
+msgstr "……Hm? Nakanojou's Daifuku?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -582,7 +628,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:51 
 msgid "ん？　うちの店が何か？\n"
-msgstr ""
+msgstr "Hmm? Something about our shop……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +641,8 @@ msgstr ""
 #: sc/0028:52 
 msgid "中之条とは……あのモヒカンの？\n"
 msgstr ""
+"Nakanojou……\n"
+"then do you know the Mohawk..?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +654,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:53 
 msgid "ああ、私の息子のことかね？\n"
-msgstr ""
+msgstr "Oh, you mean my son?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +666,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:54 
 msgid "（息子！　それならば！）\n"
-msgstr ""
+msgstr "(Son! Well in that case!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +679,8 @@ msgstr ""
 #: sc/0028:55 
 msgid "店主、実は私は時定高校の\n教師をやっているんだが。\n"
 msgstr ""
+"Actually, sir, I teach at\n"
+"Tokisadame High School.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +692,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:56 
 msgid "おや、先生でしたか。\n"
-msgstr ""
+msgstr "Oh, so you're a teacher, huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +705,8 @@ msgstr ""
 #: sc/0028:57 
 msgid "ああ。そこで、大福の代金だが、\nあいにく今は財布が無いので……。\n"
 msgstr ""
+"Yeah. So, because of the price, and\n"
+"because I don't have my wallet on me….\n"
 
 #  speaker 
 #  warnings: 2 
@@ -667,6 +719,8 @@ msgstr ""
 #: sc/0028:58 
 msgid "息子の成績、\n最高の５にすることで手を打たないか？\n"
 msgstr ""
+"Would you bargain to give your son \n"
+"an A in grade for my classes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:62 
 msgid "せ、先生……。\n"
-msgstr ""
+msgstr "T-teacher…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +780,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:63 
 msgid "…………！\n"
-msgstr ""
+msgstr "…………！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:64 
 msgid "……大福、おまけしますよ。\n"
-msgstr ""
+msgstr "… Let me throw in an extra daifuku as a bonus.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,6 +817,8 @@ msgstr ""
 #: sc/0028:66 
 msgid "……む。\nモヒカンめ、理科の成績は元５だったか。\n"
 msgstr ""
+"……Hmm. \n"
+"Oh that Mohawk kid, his science grade was already an A, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,6 +831,8 @@ msgstr ""
 #: sc/0028:67 
 msgid "しかし……\nこのままでは、店主に申し訳が立たないな。\n"
 msgstr ""
+"However…… If I were to leave as it is,\n"
+"it would be disrespectful for the shop owner.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -798,7 +856,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:69 
 msgid "６、と。\n"
-msgstr ""
+msgstr "So I give him an A+, then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +869,8 @@ msgstr ""
 #: sc/0028:70 
 msgid "困るなお姉さん。そう言うのは食べる前に\n気付いてくれないと。\n"
 msgstr ""
+"What a pain, Miss. You should notice that \n"
+"before you start eating them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +882,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:71 
 msgid "む―……。\n"
-msgstr ""
+msgstr "Hmph—…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -833,8 +893,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0028:72 
+#, fuzzy
 msgid "それで、どうするんだ？\nまさかこのまま無銭飲食する気か？\n"
 msgstr ""
+"So, what will you do? Do you\n"
+"feel willing to eat without money?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +910,8 @@ msgstr ""
 #: sc/0028:73 
 msgid "ひとまずツケといてくれ。\nすぐに財布を取ってくる。\n"
 msgstr ""
+"For the time being, open a tab for me.\n"
+"And, I'll go grab my wallet right away.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -859,6 +924,8 @@ msgstr ""
 #: sc/0028:74 
 msgid "信用ならないな。\nそのまま逃げる気じゃないだろうな？\n"
 msgstr ""
+"I can't really trust you.\n"
+"What if you never come back?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,6 +938,8 @@ msgstr ""
 #: sc/0028:75 
 msgid "私が食い逃げした時は時定高校に\n捜しに来ればいい。私はそこの教師だからな。\n"
 msgstr ""
+"Come to Tokisadame High School if I\n"
+"never come back; I'm a teacher there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +951,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:76 
 msgid "時定高校の？　先生だったのかい。\n"
-msgstr ""
+msgstr "Tokisadame High? You're a teacher, huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -894,7 +963,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:77 
 msgid "で、一旦ツケでいいか？\n"
-msgstr ""
+msgstr "For the moment, could I pay you later?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +975,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:78 
 msgid "ああ。暫く待ってあげよう。\n"
-msgstr ""
+msgstr "Yeah.  I'll wait a while for you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +987,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:79 
 msgid "うむ。ではまた後で。\n"
-msgstr ""
+msgstr "Yeah. See you later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +1011,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:81 
 msgid "はぁ……。\n"
-msgstr "Ha...\n"
+msgstr "*Sigh*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -955,6 +1024,8 @@ msgstr ""
 #: sc/0028:82 
 msgid "初めて教師になって良かったと思った……。\n"
 msgstr ""
+"For the first time,\n"
+"I'm glad I became a teacher……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,6 +1038,8 @@ msgstr ""
 #: sc/0028:83 
 msgid "財布は無いので、\n今あるものを代金代わりにできないか？\n"
 msgstr ""
+"I don't have my wallet, can I \n"
+"do anything in exchange for the price?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -979,6 +1052,8 @@ msgstr ""
 #: sc/0028:84 
 msgid "そういうのはやってないんだが……\n……ちなみに、何があるんだ？\n"
 msgstr ""
+"I don't do things like that here but……\n"
+"……By the way, what do you have?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,7 +1065,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:85 
 msgid "そうだな、まずは……睡眠薬。\n"
-msgstr ""
+msgstr "Yeah, first off…… Sleeping medicine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,7 +1089,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:87 
 msgid "今なら亳れ薬もセットでついてくる。\n"
-msgstr ""
+msgstr "An anesthesia set is also included.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1039,6 +1114,8 @@ msgstr ""
 #: sc/0028:89 
 msgid "後は……回路ショ―ト君か。\nまあ強力なスタンガンと思ってくれればいい。\n"
 msgstr ""
+"And lastly…… Short Circuit-kun. Well,\n"
+"you can think of it as a strong stun gun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1063,6 +1140,8 @@ msgstr ""
 #: sc/0028:91 
 msgid "どれも代金以上の価値はあると思うが、\nどうだろうか？\n"
 msgstr ""
+"I think all of them should be enough to pay the bill but \n"
+"what do you think?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1086,28 +1165,29 @@ msgstr ""
 #  warnings: 0 
 #: sc/0028:93 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0028:94 
 msgid "中之条さん"
-msgstr ""
+msgstr "Nakanojou-san"
 
 #  text 
 #  warnings: 0 
 #: sc/0028:94 
+#, fuzzy
 msgid "怖っ……。\n"
-msgstr ""
+msgstr "Scary……\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0028:95 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0028:95 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"

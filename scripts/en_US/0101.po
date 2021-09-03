@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2019-08-31 02:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-30 21:51+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0101/en_US/>\n"
 "Language: en_US\n"
@@ -12,19 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0101:0 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0101:0 
 msgid "……う―ん。\n"
-msgstr ".......Yup.\n"
+msgstr "……Hmm—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,8 +37,8 @@ msgstr ""
 #: sc/0101:1 
 msgid "（桜井くんは\n　高崎先生を顧問にって言うんだよな）\n"
 msgstr ""
-"(Ms. Sakurai,\n"
-"You call Mr. Takasaki an advisor, right?)\n"
+"(Sakurai-kun said he wanted to \n"
+"made Takasaki-sensei be our club advisor)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -51,6 +51,8 @@ msgstr ""
 #: sc/0101:2 
 msgid "（だが、オレは高崎先生より、\n　女性の先生がいいと思う！）\n"
 msgstr ""
+"(However, I'd rather have a\n"
+"female teacher than Takasaki-sensei!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,8 +65,8 @@ msgstr ""
 #: sc/0101:3 
 msgid "（高崎先生がダメってわけじゃない。\n　ついでに言うと下心なんかもない）\n"
 msgstr ""
-"(It's not that Takasaki-Sensei is bad.\n"
-"　I don't even know what I'm doing.）\n"
+"(It's not that I think that Takasaki-Sensei is bad, and I don't have an "
+"ulterior motive for it either.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -78,8 +80,8 @@ msgstr ""
 #, fuzzy
 msgid "（女性が顧問なら厳しいイメ―ジは減るし、\n　人気の先生なら男子部員も獲得しやすいし）\n"
 msgstr ""
-"(If a woman is an adviser, the strict image will be reduced,\n"
-"　If you are a popular teacher, it is easy to earn a male member as well)\n"
+"(If a woman is an adviser, the club won't have a strict image. \n"
+"Plus if she's a popular, it'll be easier to have male members join.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -92,8 +94,8 @@ msgstr ""
 #: sc/0101:5 
 msgid "（いまは三人しか部員がいないから、\n　そ―いうことも大切だよな）\n"
 msgstr ""
-"(Because now there are only three members、\n"
-"　That's important.)\n"
+"(Because now there are only three members, so thinking about increasing the "
+"member count is important.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -106,8 +108,8 @@ msgstr ""
 #: sc/0101:6 
 msgid "（ま―、高崎先生だって嫌われていないけど、\n　人気かって言われたら……微妙だしさ―）\n"
 msgstr ""
-"(Well, even Mr. Takasaki doesn't hate me,\n"
-"　I'm not sure if it's because I'm not a fan of it.）\n"
+"(Well, it's not like Takasaki is unpopular in any way, but I doubt you could "
+"call him popular.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,8 +122,8 @@ msgstr ""
 #: sc/0101:7 
 msgid "（ただ、桜井くんの意見ももっともで……\n　経験者って言うのは大きな魅力だよな―？）\n"
 msgstr ""
-"(However, Ms. Sakurai's opinion is also the most……\n"
-"　Should I say... Experienced?)\n"
+"(But on the other hand, Sakurai-kun's opinion has it's reasons……\n"
+"Having an experienced advisor has its appeal too actually)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -134,6 +136,8 @@ msgstr ""
 #: sc/0101:8 
 msgid "（あ―、経験者の高崎先生か……未経験者でも\n　人気の先生か……これは悩みどころだな―）\n"
 msgstr ""
+"(Someone seasoned like Takasaki-sensei…\n"
+"or someone popular… I can't decide—)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -146,6 +150,8 @@ msgstr ""
 #: sc/0101:9 
 msgid "（ということで、その前にまずお願いできるか。\n　確認させてもらおうって来たんだが……）\n"
 msgstr ""
+"(Still, it won't hurt if I just give her the request. \n"
+"Just want to check how she feels……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,7 +163,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:10 
 msgid "お、いたいた。\n"
-msgstr ""
+msgstr "Oh, there she is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -170,6 +176,8 @@ msgstr ""
 #: sc/0101:11 
 msgid "どっか行く前に呼び止めないと……ん？\nしゃがんだけど何してんだろ。\n"
 msgstr ""
+"I should tell her before she goes anywhere.....hm?\n"
+"What is she doing croaching like that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,7 +189,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0101:12 
 msgid "わ〜、人懐っこい犬ですね〜。\n"
-msgstr ""
+msgstr "Naww~ so it's a friendly little doggie~\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,7 +201,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:13 
 msgid "でもダメですよ〜？\nこんな所に入ってきたら。\n"
-msgstr ""
+msgstr "But you can't come in here like that, you know~?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -206,48 +214,59 @@ msgstr ""
 #: sc/0101:14 
 msgid "あ、犬が居たのか。\n最近よく迷い込んでるよなぁ。\n"
 msgstr ""
+"Oh, so there was a dog. \n"
+"There sure are a lot of lost dogs that come here to school these days.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0101:15 
 msgid "桜井先生"
-msgstr ""
+msgstr "Ms. Sakurai"
 
 #  text 
 #  warnings: 0 
 #: sc/0101:15 
 msgid "はい、いいこいいこ。\nそれじゃ一緒に外に行きましょう〜。\n"
-msgstr ""
+msgstr "Good boy, let's head out together shall we~\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0101:16 
 msgid "あぁ……いいなぁ。\n……実にいいなぁ。\n"
 msgstr ""
+"Ahh, how nice. \n"
+"....this is really sweet.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0101:17 
 msgid "優しい笑顔だよなぁ。\n……あったかい気持ちになれるなぁ。\n"
 msgstr ""
+"And that lovable smile.\n"
+".....my heart gets so warm by this.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0101:18 
 msgid "あ、なでなでされてる。\n……和むなぁ。\n"
 msgstr ""
+"Ah, and now she's giving it a pet.\n"
+"This is so calming.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0101:19 
+#, fuzzy
 msgid "あ、アンテナ折られた。\n……癒されるなぁ。\n"
 msgstr ""
+"Ah, the antenna broke. \n"
+"......feel so at ease.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0101:20 
 msgid "……いいさ。俺たちに悔いは無いぜ？\n"
-msgstr ""
+msgstr ".....it's fine. There's nothing we regret, I think?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -259,7 +278,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:21 
 msgid "桜……んん？\n"
-msgstr ""
+msgstr "Miss Sakur-- hm??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -271,7 +290,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:22 
 msgid "アレって高崎先生だ。\n"
-msgstr ""
+msgstr "Oh isn't that Takasaki-sensei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,6 +303,8 @@ msgstr ""
 #: sc/0101:23 
 msgid "桜井先生の方を見て……んん、何だ？\nあの変な動き。\n"
 msgstr ""
+"He's looking at the direction of Sakurai-sensei…\n"
+"What's up with that strange movement?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -295,7 +316,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:24 
 msgid "何か悩んでいる……？\n"
-msgstr ""
+msgstr "Is he worried about something……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -308,6 +329,8 @@ msgstr ""
 #: sc/0101:25 
 msgid "（……待てよ？　向こうに居るのは桜井先生。\n　それを見て悩んでる高崎先生……そうか！）\n"
 msgstr ""
+"(…Hold on. Sakurai-sensei's over there.\n"
+"Takasaki-sensei's worrying… I see!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -319,7 +342,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:26 
 msgid "弌弌高崎先生！\n"
-msgstr ""
+msgstr "——Takasaki-sensei!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,7 +354,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0101:27 
 msgid "またかっ！？\n"
-msgstr ""
+msgstr "It happened again!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -356,6 +379,8 @@ msgstr ""
 #: sc/0101:29 
 msgid "またなのか！？\nいいか、中之条は埋まってなどいない！\n"
 msgstr ""
+"Did it happen again!? OK listen,\n"
+"Nakanojo has not been buried!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:31 
 msgid "えっと、何の話で……。\n"
-msgstr ""
+msgstr "Um, what are you talking about……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -392,6 +417,8 @@ msgstr ""
 #: sc/0101:32 
 msgid "弌弌なんてな。\nわかってるさ、中之条がピンチなんだろ？\n"
 msgstr ""
+"——Just joking. I already know,\n"
+"Nakanojou is in trouble again right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -404,6 +431,8 @@ msgstr ""
 #: sc/0101:33 
 msgid "いつもいつも現実逃避してきたが……\n今回は違うぞ！\n"
 msgstr ""
+"I'm always trying to avoid these\n"
+"troubling situations… Not this time!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -416,6 +445,8 @@ msgstr ""
 #: sc/0101:34 
 msgid "助けを求める生徒を救う！\nそれが、教育者だ。\n"
 msgstr ""
+"I have to save students in need!\n"
+"Yes, that's my duty as a teacher!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,7 +458,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:35 
 msgid "あの……高崎先生？\n"
-msgstr ""
+msgstr "Um…… Takasaki-sensei?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,7 +470,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:36 
 msgid "行くぞ！！\n"
-msgstr ""
+msgstr "Let's go!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,7 +482,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:37 
 msgid "どこに！？\n"
-msgstr ""
+msgstr "To where!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,6 +495,8 @@ msgstr ""
 #: sc/0101:38 
 msgid "あっ、ちょっ！？\n高崎先生―！？\n"
 msgstr ""
+"Ah, wait!?\n"
+"Takasaki sensei-!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -475,7 +508,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:39 
 msgid "……なんだったんだ。\n"
-msgstr ""
+msgstr ".....what was that all about.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -488,6 +521,8 @@ msgstr ""
 #: sc/0101:40 
 msgid "ん、ああ、大工か。\nどうしたんだ？\n"
 msgstr ""
+"Ah, it's you Daiku. \n"
+"What's up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,7 +534,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:41 
 msgid "……お悩みみたいですね。\n"
-msgstr ""
+msgstr "......you seem to be troubled over something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -523,7 +558,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:43 
 msgid "な、何を根拠にそんな！！\n"
-msgstr ""
+msgstr "A- And what makes you believe that!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -536,6 +571,7 @@ msgstr ""
 #: sc/0101:44 
 msgid "さっきから桜井先生をガン見してますし。\n"
 msgstr ""
+"Well you've been staring at Sakurai-sensei for the last minutes or so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,7 +583,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:45 
 msgid "いいいいいいやっ、そんなことは断じてだな！\n"
-msgstr ""
+msgstr "Nnnnnnno no, couldn't disagree more!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -560,6 +596,8 @@ msgstr ""
 #: sc/0101:46 
 msgid "隠さなくてもいいですって。\nむしろ相談に乗りますよ。\n"
 msgstr ""
+"You don't have to hide it. \n"
+"Rather, I'd be glad to give you advice if you need any.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -584,6 +622,8 @@ msgstr ""
 #: sc/0101:48 
 msgid "ま、待て！　それはどうなんだ！？\n教育者たるもの、生徒に協力を仰ぐのは……。\n"
 msgstr ""
+"W- Wait! Is that really fine. As a teacher, to seek help from a student "
+"about this....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,7 +635,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:49 
 msgid "こういうのは、\n生徒の方がわかるもんですって。\n"
-msgstr ""
+msgstr "These things, I'm sure students know better about it so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,6 +648,8 @@ msgstr ""
 #: sc/0101:50 
 msgid "……う―ん。\n言われてみればそれも確かに……。\n"
 msgstr ""
+".....hm. \n"
+"Well now that you mention it, yeah...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,8 +660,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0101:51 
+#, fuzzy
 msgid "よし、恥を忍んで相談に乗ってもらおう！\n"
-msgstr ""
+msgstr "Ok, I'll abide my shame and let you give me some advice then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -632,6 +675,8 @@ msgstr ""
 #: sc/0101:52 
 msgid "任せてくださいよ！　オレが先生を\n桜井先生みたいな人気教師にしてみせます！\n"
 msgstr ""
+"Leave it to me! I'll make you become a popular teacher, just like Ms. "
+"Sakurai sensei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -643,7 +688,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:53 
 msgid "……は？\n"
-msgstr ""
+msgstr ".....huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,7 +700,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:54 
 msgid "いや―、高崎先生がまさか\nそんなに悩んでたなんて思いませんでしたよ。\n"
-msgstr ""
+msgstr "Hey, I had no idea you were so troubled over something like that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,6 +713,8 @@ msgstr ""
 #: sc/0101:55 
 msgid "まあ、桜井先生は生徒に人気ですしね。\n気になるのはわかりますよ。\n"
 msgstr ""
+"But yeah, Sakurai sensei is really popular among the students. \n"
+"I can totally get how you're feeling.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -680,6 +727,8 @@ msgstr ""
 #: sc/0101:56 
 msgid "高崎先生、厳しいから生徒ウケ悪いですし。\n"
 msgstr ""
+"Also Takasaki sensei, you're always so strict so you don't have the best "
+"reputation among the students.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:57 
 msgid "！！！？\n"
-msgstr ""
+msgstr "!!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -704,6 +753,8 @@ msgstr ""
 #: sc/0101:58 
 msgid "……あ、ああ。\nそう！　実はそうなんだ！\n"
 msgstr ""
+"....oh, yes. \n"
+"Yes exactly! That's what I've been troubled by!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,7 +766,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:59 
 msgid "それじゃあまずはですね……。\n"
-msgstr ""
+msgstr "Ok then, let's start off with....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -728,6 +779,8 @@ msgstr ""
 #: sc/0101:60 
 msgid "（オレは人気が無かったのか。いや、\n　でもこうして慕ってくれてるのは……）\n"
 msgstr ""
+"(Am I really not popular by students. But well, that they think about me "
+"that way....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -739,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:61 
 msgid "（……複雑だな）\n"
-msgstr ""
+msgstr "(kind of gives me mixed feelings.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -751,7 +804,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:62 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -763,7 +816,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:63 
 msgid "お、おおっ、大工か！\n"
-msgstr ""
+msgstr "Ah, so it's you Daiku!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -775,7 +828,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:64 
 msgid "はい、こんにちは。\n"
-msgstr ""
+msgstr "Ah yes, hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -787,7 +840,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:65 
 msgid "ああ、こんにちは。\n"
-msgstr ""
+msgstr "Yes, hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,7 +852,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:66 
 msgid "……それじゃ、オレはこれで。\n"
-msgstr ""
+msgstr ".....well, I'll have to get going.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -812,6 +865,8 @@ msgstr ""
 #: sc/0101:67 
 msgid "（先生にも事情があるだろうし……\n　ここはあえてスル―だろう！）\n"
 msgstr ""
+"(Sensei probably has his own reasons for it.....\n"
+"so I'll let it slide this time!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -823,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:68 
 msgid "え―っと桜井先生は、と。\n……まだ居るな。\n"
-msgstr ""
+msgstr "Ok let's see then.. hmm Sakurai sensei.. yeah she's still there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -835,7 +890,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:69 
 msgid "ま、待てっ！！\n"
-msgstr ""
+msgstr "W- Wait up!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,7 +902,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:70 
 msgid "はい？\n"
-msgstr ""
+msgstr "Yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -859,7 +914,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:71 
 msgid "どういうことだ！？\n"
-msgstr ""
+msgstr "What's this about!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,7 +926,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:72 
 msgid "な、何がですか？\n"
-msgstr ""
+msgstr "E- Excuse me what?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -884,6 +939,8 @@ msgstr ""
 #: sc/0101:73 
 msgid "なぜお前が、桜井先生に声をかけようとする！\nせ、先生は許さん、許さんぞ！？\n"
 msgstr ""
+"Why are you, trying to get in touch with Ms. Sakurai sensei!\n"
+"I- I- can't allow this, you understand!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,7 +952,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:74 
 msgid "えぇっ？\n"
-msgstr ""
+msgstr "Ehh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -908,6 +965,8 @@ msgstr ""
 #: sc/0101:75 
 msgid "教育者として生徒が教師に告白するのは\n止めるべきで、何だ……その……。\n"
 msgstr ""
+"As an educator I can't allow students to confess to someone who is their "
+"classteacher, because.....you see....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,7 +978,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:76 
 msgid "教育者だ！！！\n"
-msgstr ""
+msgstr "Since I'm an educator!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -932,6 +991,7 @@ msgstr ""
 #: sc/0101:77 
 msgid "えぇ―っと、オレ、顧問できそうですかって、\n訊きに行くだけだったんですけど……。\n"
 msgstr ""
+"Eh, actually I just wanted to ask her if she could be our club advisor....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -955,7 +1015,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:79 
 msgid "………………。\n"
-msgstr ""
+msgstr "……………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,7 +1027,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:80 
 msgid "…………大工。\n"
-msgstr ""
+msgstr "…………Daiku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -979,28 +1039,28 @@ msgstr ""
 #  warnings: 0 
 #: sc/0101:81 
 msgid "あ、ハイ？\n"
-msgstr ""
+msgstr "Ah, yes?\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0101:82 
 msgid "高崎先生"
-msgstr ""
+msgstr "Mr. Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0101:82 
 msgid "先に言えよ〜。\n"
-msgstr ""
+msgstr "Why didn't you say so to begin with～.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0101:83 
 msgid "大工"
-msgstr ""
+msgstr "Daiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0101:83 
 msgid "（えぇ―……）\n"
-msgstr ""
+msgstr "(Ehh—……)\n"

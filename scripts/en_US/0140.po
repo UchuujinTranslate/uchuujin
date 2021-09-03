@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-08-30 22:01+0000\n"
+"PO-Revision-Date: 2020-07-27 22:22+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0140/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +156,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:11 
 msgid "…………！！\n"
-msgstr ""
+msgstr "………！！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:12 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:14 
 msgid "ぎゃあああああ！！！\n"
-msgstr "Gyaaaaa!!!\n"
+msgstr "Gyaaaaah!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,13 +216,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:16 
 msgid "…………よし。\n"
-msgstr ""
+msgstr "…………Alright.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0140:17 
 msgid "校長先生"
-msgstr "Mr. Principal"
+msgstr "Principal"
 
 #  text 
 #  warnings: 0 
@@ -276,7 +276,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:21 
 msgid "！！！？！！？？！？\n"
-msgstr ""
+msgstr "！！！ ? ！！ ?  ? ！?\n"
 
 #  text 
 #  warnings: 1 
@@ -348,7 +348,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:31 
 msgid "……？\n"
-msgstr ""
+msgstr "……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:40 
 msgid "（なになになになに〜〜〜〜〜！？）\n"
-msgstr ""
+msgstr "(What what what what〜〜〜〜〜!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:47 
 msgid "…………？？\n"
-msgstr ""
+msgstr "…………??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:48 
 msgid "あ……これ……。\n"
-msgstr ""
+msgstr "Ah…… This is…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +564,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:49 
 msgid "えっ？　どうしたんですか？\n"
-msgstr ""
+msgstr "Eh? What's the matter?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:55 
 msgid "きゃっ！！\n"
-msgstr ""
+msgstr "Kyah!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +858,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:74 
 msgid "安中"
-msgstr ""
+msgstr "Annaka"
 
 #  text 
 #  warnings: 0 
@@ -972,7 +972,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:83 
 msgid "…………え？\n"
-msgstr ""
+msgstr "…………Eh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,13 +1014,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:87 
 msgid "中村先生"
-msgstr ""
+msgstr "Ms. Nakamura"
 
 #  text 
 #  warnings: 0 
 #: sc/0140:87 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1032,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0140:88 
 msgid "…………。\n"
-msgstr ""
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
