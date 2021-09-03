@@ -1,12 +1,14 @@
 # *Nichijou: Uchuujin* Translation Project
 
-[![Translation status](https://weblate.colebob9.net/widgets/uchuujin/-/svg-badge.svg)](https://weblate.lolc.at/engage/uchuujin/?utm_source=widget) [![Discord Chat](https://img.shields.io/discord/607723665798201380.svg)](https://discord.gg/UyT4S7F)
+[![Translation status](https://weblate.colebob9.net/widgets/uchuujin/-/svg-badge.svg)][![Discord Chat](https://img.shields.io/discord/607723665798201380.svg)](https://discord.gg/UyT4S7F)
 
 **Welcome!**  
 This is the main repository of the ongoing translation effort of
-[*Nichijou: Uchuujin (2011)*](http://www.vridge.co.jp/consumer/nichijo-ch/), a visual novel-style game based on the *Nichijou* manga.
+[*Nichijou: Uchuujin (2011)*](http://www.vridge.co.jp/consumer/nichijo-ch/), a visual novel-style game based on the *Nichijou* manga. 
 
-This repository is a continuation of the project as the original repo got archived by the creator of the project. 
+This repo only includes the in-game text and CGs to translate. Please refer to other repos in [the organization](https://github.com/UchuujinTranslate) for code and tools related to the project. 
+
+This repository is a continuation of the project as [the original repo](https://github.com/noneucat/uchuujin) got archived by the creator of the project. 
 
 
 **Help Translate!**  
@@ -25,11 +27,9 @@ Please note that the game is not currently in a playable state. Use the scripts 
 ### Contents
 ```
 uchuujin
-├── EBOOT.BIN.patch (patch for EBOOT.BIN; apply using bspatch) 
 ├── cgs (original CGs & textures that need translating)
 ├── cgs_translated (translated CGs & textures) 
-├── scripts (original & translated text)
-└── src (tools to extract content)
+└── scripts (original & translated text)
 ```
 
 ### Screenshots
