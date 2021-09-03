@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2020-07-08 21:52+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0220/en_US/>\n"
+"PO-Revision-Date: 2021-09-03 04:01+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0220/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9\n"
+"X-Generator: Weblate 4.8\n"
 
 #  text 
 #  warnings: 1 
@@ -36,7 +36,7 @@ msgstr ".........\n"
 #  warnings: 1 
 #: sc/0220:2 
 msgid "あの……いかがでしょうか？\n"
-msgstr ""
+msgstr "Uh.....what do you think?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -67,18 +67,22 @@ msgstr ""
 #: sc/0220:6 
 msgid "怖くない……怖くない。\nみんなとまた会えるんだからさ……。\n"
 msgstr ""
+"I'm not scared... I'm not scared.\n"
+"I can meet everyone again...\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0220:7 
 msgid "怖ぇえよ！　死にたくない！\n俺はまだ死にたくなああああああい！\n"
 msgstr ""
+"I'm scared! I don't want to die!\n"
+"I still don't want to dieeeeee!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0220:8 
 msgid "うるさい！　黙ってろ！\n"
-msgstr ""
+msgstr "Too loud! Shut up!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +113,8 @@ msgstr "…………Haa…….\n"
 #: sc/0220:11 
 msgid "（何だよこれ！？　拷問じゃん！\n　溜めんなよ！　落とすなら早くしろよ！）\n"
 msgstr ""
+"(What is this??? It's torture!!! If you're\n"
+"gonna kill us, do it quickly!!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,13 +126,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0220:12 
 msgid "………………い。\n"
-msgstr ""
+msgstr ".................Ah.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0220:13 
 msgid "……え？　あ、あの……今なんて？\n"
-msgstr ""
+msgstr ".....What? Uh..... What now?\n"
 
 #  speaker 
 #  warnings: 0 
