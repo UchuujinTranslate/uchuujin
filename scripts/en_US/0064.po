@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-09-03 04:01+0000\n"
+"PO-Revision-Date: 2021-09-04 15:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0064/en_US/>\n"
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:1 
 msgid "う―ん、やっぱりヒ―ルが弱点かな。\n"
-msgstr "Well, hills are my weakness, I guess.\n"
+msgstr "Well, hills are my weak point, I guess.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,8 +49,8 @@ msgstr ""
 #: sc/0064:2 
 msgid "ダメダメ、これくらいは出来ないと\n高校レベルじゃ通じないぞ。もう一回！\n"
 msgstr ""
-"If you can't do this, no way you can do\n"
-"it at the high school level. Again!\n"
+"If you can't do this, there's no way you can\n"
+"play at the high school level. Again!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -90,7 +90,7 @@ msgstr ""
 msgid "あ、部長。こんにちは。\n部長も一緒にやりませんか？\n"
 msgstr ""
 "Ah, club president. Hello. \n"
-"Will you join us club president?\n"
+"Would you like to join us?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,8 +103,8 @@ msgstr ""
 #: sc/0064:6 
 msgid "そうだな……よし！\nちょっとボ―ル貸してくれるか？\n"
 msgstr ""
-"I guess so…… Yeah!\n"
-"Could you lend me the ball for a sec?\n"
+"I guess so…… Okay!\n"
+"Could you pass me the ball for a sec?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -884,7 +884,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:72 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr "…………\n"
 
 #  speaker 
 #  warnings: 0 
