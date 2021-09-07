@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
+"PO-Revision-Date: 2021-09-08 15:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0064/en_US/>\n"
@@ -141,6 +141,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:9 
+#, fuzzy
 msgid "弌弌実は昨日、囲碁サッカ―が\nどんな競技か考えてみたんだ。\n"
 msgstr ""
 "――Yesterday, I was thinking about \n"
