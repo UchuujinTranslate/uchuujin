@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-09-08 15:37+0000\n"
+"PO-Revision-Date: 2021-09-14 01:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0064/en_US/>\n"
@@ -50,7 +50,7 @@ msgstr ""
 msgid "ダメダメ、これくらいは出来ないと\n高校レベルじゃ通じないぞ。もう一回！\n"
 msgstr ""
 "If you can't do this, there's no way you can\n"
-"play at the high school level. Again!\n"
+"compete at the high school level. Again!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,10 +73,11 @@ msgstr "Daiku"
 #  text 
 #  warnings: 0 
 #: sc/0064:4 
+#, fuzzy
 msgid "お、桜井くん。\n相変わらず練習熱心だなぁ。\n"
 msgstr ""
 "Oh, Sakurai-kun.\n"
-"As usual, diligently practicing, huh.\n"
+"Practicing diligently as ever, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,7 +104,7 @@ msgstr ""
 #: sc/0064:6 
 msgid "そうだな……よし！\nちょっとボ―ル貸してくれるか？\n"
 msgstr ""
-"I guess so…… Okay!\n"
+"I guess so…… Alright!\n"
 "Could you pass me the ball for a sec?\n"
 
 #  speaker 
@@ -141,11 +142,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:9 
-#, fuzzy
 msgid "弌弌実は昨日、囲碁サッカ―が\nどんな競技か考えてみたんだ。\n"
 msgstr ""
 "――Yesterday, I was thinking about \n"
-"what kind of game Igo Soccer could be.\n"
+"the kind of game Igo Soccer could become.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -170,6 +170,8 @@ msgstr ""
 #: sc/0064:11 
 msgid "そう、そして考え出したこれが弌弌\n必殺！　囲碁シュ――――ト！！\n"
 msgstr ""
+"Yeah, and what I though up was this—\n"
+"Knockout! Igo  Shooot!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,13 +207,13 @@ msgstr "That has nothing to do with Go!!\n"
 #  warnings: 1 
 #: sc/0064:15 
 msgid "つっこんでる場合じゃねえ―！\n"
-msgstr ""
+msgstr "This isn't the time to get involved—!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0064:16 
 msgid "そして、どうにもならねえ―！！\n"
-msgstr ""
+msgstr "And, there's nothing I can do—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -223,7 +225,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:17 
 msgid "いや、オレは遠慮しとくよ。\n"
-msgstr ""
+msgstr "No, I think I'll pass.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -236,6 +238,8 @@ msgstr ""
 #: sc/0064:18 
 msgid "……そうですか。\nあ、今日の部活って何するんですか？\n"
 msgstr ""
+"……Alright.\n"
+"Hey, what are we doing for club today?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -247,7 +251,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:19 
 msgid "それがまだ決めてないんだよな。\n"
-msgstr ""
+msgstr "I haven't decided yet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -260,6 +264,8 @@ msgstr ""
 #: sc/0064:20 
 msgid "久しぶりにトランプやるか、\nそれとも三人でだるまさんがころんだか……。\n"
 msgstr ""
+"It's been a while since we've played cards,\n"
+"or the three of us could do Red Light Green Light……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,6 +290,8 @@ msgstr ""
 #: sc/0064:22 
 msgid "（部長らしいと言えばらしいけど……\n　囲碁サッカ―、まったくやる気がないよ）\n"
 msgstr ""
+"(It's just like the president to be like this……\n"
+"He just doesn't have any motivation for Igo Scoccer)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -296,6 +304,8 @@ msgstr ""
 #: sc/0064:23 
 msgid "（まあ、ずっと囲碁サッカ―のこと\n　知らなかったらしいし、しかたないのかな）\n"
 msgstr ""
+"(I don't think he really knows anything\n"
+"about Igo Soccer, so it can't be helped)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -308,6 +318,8 @@ msgstr ""
 #: sc/0064:24 
 msgid "（……でも、少しくらい興味もって欲しいよな。\n　個人戦もいいけど、団体戦も出たいし）\n"
 msgstr ""
+"(……but I wish he acted a little more interested.\n"
+"Singles matches are fine, but I want to play in a team too)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -320,6 +332,8 @@ msgstr ""
 #: sc/0064:25 
 msgid "（……よし、今がチャンスだと思って\n　部長の興味を引いてみよう！）\n"
 msgstr ""
+"(……Okay. I think now's a chance\n"
+"to try and get him into it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -368,8 +382,8 @@ msgstr ""
 #: sc/0064:29 
 msgid "はいっ、もしオレが勝ったら\n囲碁サッカ―を一緒にやって欲しいんです！\n"
 msgstr ""
-"Yes, and if I win, \n"
-"please play Igo-Soccer with us!\n"
+"Yes, and if I win,\n"
+"please play Igo Soccer with us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -394,6 +408,8 @@ msgstr ""
 #: sc/0064:31 
 msgid "……わかった、勝負に負けたら\n本気で囲碁サッカ―をやるよ！\n"
 msgstr ""
+"…Okay. If I lose, \n"
+"I'll earnestly play Igo Soccer!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -416,8 +432,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:33 
+#, fuzzy
 msgid "男に二言は無い！\n"
-msgstr ""
+msgstr "A man's word is his bond!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -430,6 +447,8 @@ msgstr ""
 #: sc/0064:34 
 msgid "ただ、そんな大事なことを\n一発勝負で決めるのはどうかと思うんだ。\n"
 msgstr ""
+"You know, I don't think it's right to put\n"
+"something this important on one match.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -441,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:35 
 msgid "……なるほど、言いたいことはわかります。\n"
-msgstr ""
+msgstr "……I get what you mean.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -453,7 +472,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:36 
 msgid "だからこうしよう！\n"
-msgstr ""
+msgstr "So, how about this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,8 +483,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:37 
+#, fuzzy
 msgid "部活のたびに何かのゲ―ムで勝負だ！\nそして５０本先取した方の勝利だ！\n"
 msgstr ""
+"Every time the club meets, we'll do some sort of game.\n"
+"Whoever gets to 50 wins first will be the victor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -477,7 +499,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:38 
 msgid "わかりました、受けて立ちます！！\n"
-msgstr ""
+msgstr "Okay, you're on!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -489,7 +511,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:39 
 msgid "よ―し、早速今日から楽しみにしてるぜ！\n"
-msgstr ""
+msgstr "All right, I'm looking forwards to getting started!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -501,7 +523,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:40 
 msgid "オレのほうこそ、負けませんからね！\n"
-msgstr ""
+msgstr "I won't be the one to lose!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -512,8 +534,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:41 
+#, fuzzy
 msgid "……よ―っし！\nこれで勝負に勝てば部長も……。\n"
 msgstr ""
+"……Alright!\n"
+"Now\n"
 
 #  speaker 
 #  warnings: 0 
@@ -526,6 +551,8 @@ msgstr ""
 #: sc/0064:42 
 msgid "あれ？　部活のたびに勝負して、\n５０本先取ってことは……？\n"
 msgstr ""
+"Huh? If you play every time club happens,\n"
+"and it's first to 50……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -538,6 +565,8 @@ msgstr ""
 #: sc/0064:43 
 msgid "最短でも５０日後！？\n"
 msgstr ""
+"Doesn't that mean it will be\n"
+"at least 50 days before you win!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -550,6 +579,8 @@ msgstr ""
 #: sc/0064:44 
 msgid "部長っ、ちょっと待ってください！\nぶちょ―――！！\n"
 msgstr ""
+"President, wait a second!\n"
+"Prez———!!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -562,6 +593,8 @@ msgstr ""
 #: sc/0064:45 
 msgid "あの、時でいいから\n部活で囲碁サッカ―の練習をしませんか？\n"
 msgstr ""
+"Well, if we have the time,\n"
+"why don't we do some Igo Soccer practice?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -574,6 +607,8 @@ msgstr ""
 #: sc/0064:46 
 msgid "ん？\nでも、他にも面白い遊びがあるから……。\n"
 msgstr ""
+"Wh?\n"
+"But, there are so many other fun games……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -646,6 +681,8 @@ msgstr ""
 #: sc/0064:52 
 msgid "わかってますよ！\nまずは朝練からですね！\n"
 msgstr ""
+"I know, I know!\n"
+"First, we'll start morning practice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -657,7 +694,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:53 
 msgid "朝練！？\n"
-msgstr ""
+msgstr "Morning practice!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -670,6 +707,8 @@ msgstr ""
 #: sc/0064:54 
 msgid "はいっ、勝利のためには必須ですから！\n５時ぐらいからにしましょうか！\n"
 msgstr ""
+"Yes, it's indispensable for victory!\n"
+"Let's start 5:00 am tomorrow!\n"
 
 #  speaker 
 #  warnings: 0 
