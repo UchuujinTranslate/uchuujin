@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-09-14 01:37+0000\n"
+"PO-Revision-Date: 2021-09-20 03:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0064/en_US/>\n"
@@ -621,6 +621,8 @@ msgstr ""
 #: sc/0064:47 
 msgid "せっかく囲碁サッカ―部なんですよ？\nちょっとくらいいいじゃないですか。\n"
 msgstr ""
+"This is the Igo Soccer Club, right?\n"
+"It only makes sense, doesn't it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -632,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:48 
 msgid "う―ん……まあ、それもそうだな！\n"
-msgstr ""
+msgstr "Uhhh…… Well, can't argue with that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -645,6 +647,8 @@ msgstr ""
 #: sc/0064:49 
 msgid "実在するスポ―ツだったんだし、\nちょっとくらいはやってみてもいいか。\n"
 msgstr ""
+"And if it is a real sport,\n"
+"it might be fun to try it a bit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -656,7 +660,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:50 
 msgid "本当ですか！？　よ―っし！\n"
-msgstr ""
+msgstr "Really!? Hell yeah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,7 +672,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:51 
 msgid "いや、でもちょっとだからな？\n"
-msgstr ""
+msgstr "But just a bit, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,7 +724,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:55 
 msgid "いや、だからちょっとだけだって……。\n"
-msgstr ""
+msgstr "Well, let's not get ahead of ourselves……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -733,6 +737,8 @@ msgstr ""
 #: sc/0064:56 
 msgid "わかってますって。\nちゃんと夜の９時には終わらせますから。\n"
 msgstr ""
+"I said I got it.\n"
+"We'll be done by nine o'clock at night.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +750,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:57 
 msgid "よ―し、楽しくなってきたぞ―！\n"
-msgstr ""
+msgstr "Alright, this is gonna be fun—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -767,8 +773,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:59 
+#, fuzzy
 msgid "（押してだめなら引いてみろ。\n　囲碁サッカ―の話題を出さずに話すぞ！）\n"
 msgstr ""
+"(\"If pushing doesn't work, try pulling\":\n"
+"I'll talk to him without breaching the subject of Igo Soccer!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +790,8 @@ msgstr ""
 #: sc/0064:60 
 msgid "今日の部活、七ならべでもやりません？\n"
 msgstr ""
+"For club today,\n"
+"why don't we play Card Dominoes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +803,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:61 
 msgid "あれ？　囲碁サッカ―はいいのか？\n"
-msgstr ""
+msgstr "Huh? Why not Igo Soccer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +839,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:64 
 msgid "ふ―ん、じゃあ今日は七並べで決定だな！\n"
-msgstr ""
+msgstr "Hmmm, well Card Dominoes it is!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +863,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:66 
 msgid "オレこそ負けないからな！\n"
-msgstr ""
+msgstr "The one who won't lose is me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +875,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:67 
 msgid "いやいや、オレが勝ちますから！\n"
-msgstr ""
+msgstr "No, because I'm going to win!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -875,8 +886,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:68 
+#, fuzzy
 msgid "……ジュ―ス賭けるか？\n"
-msgstr ""
+msgstr "……Want to bet a juice?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +900,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:69 
 msgid "望むところです。\n"
-msgstr ""
+msgstr "If you're ready to lose one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,6 +913,8 @@ msgstr "Daiku"
 #: sc/0064:70 
 msgid "よし、決まり。\nんじゃ授業始まるから、また後でな。\n"
 msgstr ""
+"Okay, it's decided.\n"
+"Well, class is starting, so see you later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +926,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0064:71 
 msgid "はい！　また部活で！\n"
-msgstr ""
+msgstr "Yes, see you at club!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -947,8 +961,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0064:74 
+#, fuzzy
 msgid "（引きすぎた！？）\n"
-msgstr ""
+msgstr "(I pulled too hard!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,4 +975,4 @@ msgstr "Makoto Sakurai"
 #  warnings: 0 
 #: sc/0064:75 
 msgid "部長っ、待ってくださ―い！\n"
-msgstr ""
+msgstr "President, wait up!\n"
