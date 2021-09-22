@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
+"PO-Revision-Date: 2021-09-23 01:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0065/en_US/>\n"
@@ -50,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:2 
 msgid "いや―、ちょっと取りに行くものがあって。\n"
-msgstr "Well— I had to go and get something.\n"
+msgstr "Well, I had to go and get something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -179,11 +179,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0065:12 
-#, fuzzy
 msgid "いや―、面白そうなもの持ってきてくれたよな。\nすぐ買ってくるよ！\n"
 msgstr ""
-"No— you brought something fun.\n"
-"I'll get them right away!\n"
+"No, you brought something fun.\n"
+"I'll go get the snacks.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -269,9 +268,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:19 
 msgid "でも、頭のアンテナは折れてますけどね。\n"
-msgstr ""
-"But it looks like \n"
-"the antenna snapped, huh.\n"
+msgstr "But it looks like the antenna broke.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -344,7 +341,7 @@ msgstr ""
 #: sc/0065:26 
 msgid "（興味持ってくれてるっぽいけど、\n　どうも本気っぽくないんだよなぁ……）\n"
 msgstr ""
-"(They seem interested, but it doesn't \n"
+"(They seem interested, but it doesn't\n"
 "look like they're really that serious……)\n"
 
 #  speaker 
@@ -491,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:38 
 msgid "（……あれ？　この反応ってもしかして……）\n"
-msgstr ""
+msgstr "(……Huh? With this reaction, could it be that……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -503,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:39 
 msgid "関口さん、もしかして……。\n"
-msgstr ""
+msgstr "Sekiguchi-san, are you trying to say that……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -527,7 +524,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:41 
 msgid "囲碁サッカ―に興味でてきましたか！？\n"
-msgstr ""
+msgstr "You're interested in Igo Soccer now!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -634,8 +631,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0065:50 
+#, fuzzy
 msgid "女子囲碁サッカ―のＣＵＣ買ってきます！\n"
-msgstr ""
+msgstr "DVD\n"
 
 #  speaker 
 #  warnings: 0 
