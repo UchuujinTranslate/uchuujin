@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
-"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-09-23 01:37+0000\n"
+"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0222/en_US/>\n"
 "Language: en_US\n"
@@ -474,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:37 
 msgid "なあ、説明書ってないのか？\n"
-msgstr ""
+msgstr "So, isn't there a manual?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,7 +967,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:78 
 msgid "……そうなんだ。\nごめんね、知らなかったから。\n"
-msgstr ""
+msgstr "So\n"
 
 #  speaker 
 #  warnings: 0 
