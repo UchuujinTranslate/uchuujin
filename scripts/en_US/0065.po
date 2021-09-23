@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2021-09-23 01:37+0000\n"
+"PO-Revision-Date: 2021-09-24 18:37+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0065/en_US/>\n"
@@ -572,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:45 
 msgid "いえ、そういうわけでは。\n"
-msgstr ""
+msgstr "No, it isn't like that…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -585,6 +585,8 @@ msgstr ""
 #: sc/0065:46 
 msgid "またまた―、わかってますよ！\n照れくさいんですよね！\n"
 msgstr ""
+"Again - I know, I know!\n"
+"You're just embarrassed to say!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -597,6 +599,8 @@ msgstr ""
 #: sc/0065:47 
 msgid "大丈夫ですよ！\n女子囲碁サッカ―も盛り上がってますし！\n"
 msgstr ""
+"It's fine!\n"
+"Women's Igo Soccer is just as popular!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,7 +612,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:48 
 msgid "いえ、本当に違うんです。\n"
-msgstr ""
+msgstr "No, I'm really not…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -621,6 +625,8 @@ msgstr ""
 #: sc/0065:49 
 msgid "だから隠さなくっていいですって。\nそうだ！　コレ部長と二人で見ててください。\n"
 msgstr ""
+"So you don't need to hid your true feelings!\n"
+"Here! Watch this with Makoto!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,9 +637,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0065:50 
-#, fuzzy
 msgid "女子囲碁サッカ―のＣＵＣ買ってきます！\n"
-msgstr "DVD\n"
+msgstr "It's a Women's Igo Soccer DVD I bought!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -645,7 +650,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:51 
 msgid "っ！？　いや、待って弌弌。\n"
-msgstr ""
+msgstr "Wh!? No, wait up――\n"
 
 #  speaker 
 #  warnings: 0 
@@ -657,7 +662,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:52 
 msgid "すぐ戻りますんで！！\n"
-msgstr ""
+msgstr "I'll be right back!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -681,7 +686,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:54 
 msgid "あ―……そういうことか。\n"
-msgstr ""
+msgstr "Oh―…… that's what you mean.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -717,7 +722,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:57 
 msgid "大丈夫ですよ、オレ言いませんから。\n"
-msgstr ""
+msgstr "It's fine, I won't tell anyone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -765,7 +770,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:61 
 msgid "……す、すいません。\n"
-msgstr ""
+msgstr "……S- sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -789,7 +794,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:63 
 msgid "桜井くん、いい人なんですね。\n"
-msgstr ""
+msgstr "Sakurai-kun, you're a good person.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -861,7 +866,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:69 
 msgid "あ、ありがとうございます！\n"
-msgstr ""
+msgstr "Th- thank you very much!\n"
 
 #  speaker 
 #  warnings: 1 
@@ -885,7 +890,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:71 
 msgid "えっ！？\n"
-msgstr "Eh!?\n"
+msgstr "Ehh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -968,8 +973,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0065:78 
+#, fuzzy
 msgid "関口さん、囲碁サッカ―やってみません？\n"
-msgstr ""
+msgstr "Sekiguchi-san, would you like to try playing Go soccer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1077,7 +1083,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:87 
 msgid "あの、部長。\n"
-msgstr ""
+msgstr "Uhm, President.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1102,6 +1108,8 @@ msgstr ""
 #: sc/0065:89 
 msgid "ＣＵＣ見てから、\n囲碁サッカ―の練習してみませんか？\n"
 msgstr ""
+"After we watch the DVD, \n"
+"why don't we practice Igo Soccer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1114,6 +1122,8 @@ msgstr "Daiku"
 #: sc/0065:90 
 msgid "え、いいよ。\n今日は体育で疲れたからパス。\n"
 msgstr ""
+"Oh, I'll have to pass.\n"
+"I had PE today so I'm completely wiped out.\n"
 
 #  speaker 
 #  warnings: 0 
