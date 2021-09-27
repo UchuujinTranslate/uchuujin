@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:05+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
-"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-09-28 20:37+0000\n"
+"Last-Translator: Ritsuka Aoyagi <moetivationalanime@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0056/en_US/>\n"
 "Language: en_US\n"
@@ -75,6 +75,8 @@ msgstr ""
 #: sc/0056:4 
 msgid "はっはっは、天候だけでなく\n１日が良くなりそうな気がするぞ。\n"
 msgstr ""
+"Hahaha, it's not just the weather.\n"
+"I have a feeling today's going to be a better day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -87,6 +89,8 @@ msgstr ""
 #: sc/0056:5 
 msgid "いささか遅刻気味ではあるが、\nそんな事最早気にもならんな。\n"
 msgstr ""
+"It may be a little late at this stage,\n"
+"but that hardly matters now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -98,7 +102,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:6 
 msgid "おや、アレは……？\n"
-msgstr ""
+msgstr "Oh, what's that...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -122,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:8 
 msgid "あそこに居るのは校長ではないか。\n"
-msgstr ""
+msgstr "Isn't that the principal over there?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,6 +139,8 @@ msgstr ""
 #: sc/0056:9 
 msgid "こんな所で校長を見かけるとは。\n弌弌吉兆の表れか？\n"
 msgstr ""
+"To think we'd see him here.\n"
+"Perhaps it's a good omen?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -147,6 +153,8 @@ msgstr ""
 #: sc/0056:10 
 msgid "何にせよ、\nここは学生として挨拶せねばならぬな。\n"
 msgstr ""
+"Well, regardless...\n"
+"We should at least go and greet him.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -158,7 +166,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:11 
 msgid "はっはっは、校長弌弌ぬうっ！？\n"
-msgstr ""
+msgstr "Hahaha. Principal--!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -171,6 +179,8 @@ msgstr ""
 #: sc/0056:12 
 msgid "コジロウ！？\nどうした、急に走り出すとは！\n"
 msgstr ""
+"Kojirou!?\n"
+"Why is he running!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -183,18 +193,22 @@ msgstr ""
 #: sc/0056:13 
 msgid "いかん、このままでは校長にぶつかる！\n止まれ！　止まらぬか弌弌！！\n"
 msgstr ""
+"Oh no, if he keeps that up, he'll hit the principal!\n"
+"Stop! Stop I saaaay!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0056:14 
 msgid "オッサンにヤギ衝突っ！\nはねられました！\n"
 msgstr ""
+"Old man v. goat strike one!\n"
+"He got hit!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0056:15 
 msgid "なんでヤギが突っ込んでくるんだ！\n"
-msgstr ""
+msgstr "Why did that goat run into me!?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -218,7 +232,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:17 
 msgid "あれは……鹿？\n"
-msgstr ""
+msgstr "Is that... a deer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -231,6 +245,8 @@ msgstr ""
 #: sc/0056:18 
 msgid "うむ、鹿だな。\n紛うことなく鹿だ。\n"
 msgstr ""
+"Yup, it's a deer.\n"
+"No doubt about it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -243,6 +259,8 @@ msgstr ""
 #: sc/0056:19 
 msgid "むむ？　よく見れば、なにやら鹿の背に。\n……あれは鳥か？\n"
 msgstr ""
+"Hm? Now that I look closer, it seems like there's something on its back.\n"
+"...Is that a bird?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -254,7 +272,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:20 
 msgid "はい、インコでございます。\n"
-msgstr ""
+msgstr "Indeed. It's a parakeet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -267,6 +285,8 @@ msgstr ""
 #: sc/0056:21 
 msgid "ほう、鹿の背にインコ。\nこれはこれで、一句弌弌\n"
 msgstr ""
+"Ho, a parakeet on a deers back.\n"
+"Now that is a sight to behold.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -291,6 +311,8 @@ msgstr ""
 #: sc/0056:23 
 msgid "どうした？\n……何？　コジロウが？\n"
 msgstr ""
+"What now?\n"
+"...Huh? Koujirou?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -303,6 +325,8 @@ msgstr ""
 #: sc/0056:24 
 msgid "どうしたコジロウ、何を猛っている。\n弌弌まさか、あの鹿か！\n"
 msgstr ""
+"It looks like something's set him off.\n"
+"Don't tell me, that deer--!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -315,6 +339,8 @@ msgstr ""
 #: sc/0056:25 
 msgid "む、危ないから降りて下がっていろ？\n……わかった、ここは従うとしよう。\n"
 msgstr ""
+"Mm, it seems things might get dangerous. Shall we step back?\n"
+"...Alright.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -351,7 +377,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:28 
 msgid "……メェェェェッ！！\n"
-msgstr ""
+msgstr "...Baaaaa!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -375,7 +401,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:30 
 msgid "むっ！？　互角！？\n"
-msgstr ""
+msgstr "What!? They're evenly matched!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -388,6 +414,8 @@ msgstr ""
 #: sc/0056:31 
 msgid "なるほど……愉快になってきた。\nそうは思わぬか弌弌\n"
 msgstr ""
+"I see... This has become most amusing.\n"
+"Don't you agree?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -412,6 +440,8 @@ msgstr ""
 #: sc/0056:33 
 msgid "弌弌おい、何をしている！\n下がれ！　危険だ！！\n"
 msgstr ""
+"Hey, what are you doing!?\n"
+"Get back! It's dangerous!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -471,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:38 
 msgid "おい、大丈夫か！？\n"
-msgstr ""
+msgstr "Oi, are you okay!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -495,7 +525,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:40 
 msgid "むっ、しまった弌弌！！\n"
-msgstr ""
+msgstr "Ngh, blast it--!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -507,7 +537,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:41 
 msgid "メエエエェェェッ！！！\n"
-msgstr ""
+msgstr "BAAAAAH!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -520,6 +550,8 @@ msgstr ""
 #: sc/0056:42 
 msgid "コジロウっ！！\n貴様、この私を守ってくれたのか？\n"
 msgstr ""
+"Kojirou!!\n"
+"You protected me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -531,7 +563,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:43 
 msgid "メェェェェ。\n"
-msgstr ""
+msgstr "Baaah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -579,7 +611,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:47 
 msgid "メエエエエエエエェェェッ！！！\n"
-msgstr ""
+msgstr "BAAAAAAAAaaaaah!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -591,7 +623,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:48 
 msgid "……！？\n"
-msgstr "……\n"
+msgstr "……!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -603,7 +635,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0056:49 
 msgid "……やった、か。\n"
-msgstr ""
+msgstr "...H-He did it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -628,6 +660,8 @@ msgstr ""
 #: sc/0056:51 
 msgid "フ、よくやったぞコジロウ。\n今日はエサを奮発してやらねばな。\n"
 msgstr ""
+"Heh. Well done, Kojirou.\n"
+"I'll have to treat you to some gourmet feed later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -640,6 +674,8 @@ msgstr ""
 #: sc/0056:52 
 msgid "おっと、学校に遅れてしまう。\n恩賞については向こうでするとしようか。\n"
 msgstr ""
+"Oops, I'm going to be late for school.\n"
+"Let's continue this conversation later.\n"
 
 #  speaker 
 #  warnings: 0 
