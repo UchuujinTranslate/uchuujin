@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-09-28 20:37+0000\n"
+"PO-Revision-Date: 2021-10-01 03:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
@@ -203,6 +203,8 @@ msgstr ""
 #: sc/0083:15 
 msgid "お、おい！\nこれってまさか、し、死ん……？\n"
 msgstr ""
+"Eh, Hey! \n"
+"This cannot be, De, dead...?\n"
 
 #  text 
 #  warnings: 1 
@@ -282,7 +284,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:23 
 msgid "（こ、こ、こ、こ、この人、\n　どうして私がロボだってことを！？）\n"
-msgstr "T-t-that person\n"
+msgstr ""
+"T-t-t-that person \n"
+"How did she realize i was a robot?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +406,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:33 
 msgid "じゃあ、これあげるね。\n"
-msgstr ""
+msgstr "Well then, take this one.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,7 +418,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:34 
 msgid "これは……クッキ―ですか。\n"
-msgstr ""
+msgstr "Is this... a cookie?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +431,8 @@ msgstr ""
 #: sc/0083:35 
 msgid "そうだよ。私が作ったの。\n良かったら食べて―。\n"
 msgstr ""
+"That's it, i made it.\n"
+"You can have one if you want.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +457,8 @@ msgstr ""
 #: sc/0083:37 
 msgid "（なんだか、悪い人じゃなさそう。\n　私の考えすぎかな？）\n"
 msgstr ""
+"(Well, she doesn't looks like a bad person.\n"
+"was i thinking too much?)\n"
 
 #  speaker 
 #  warnings: 0 
