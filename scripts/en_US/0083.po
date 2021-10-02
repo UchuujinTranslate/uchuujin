@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-01 03:37+0000\n"
+"PO-Revision-Date: 2021-10-04 00:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr "Yoshino"
 #: sc/0083:0 
 msgid "もう放課後だし、ここで待ってれば\nそのうち出てくるでしょ。\n"
 msgstr ""
+"It's already after school, if it wait here\n"
+"she'll come out sooner or later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -89,6 +91,8 @@ msgstr ""
 #: sc/0083:5 
 msgid "そうですね―。……もしかして、\n私を待っててくれたんですか？\n"
 msgstr ""
+"Yeah.... perhaps.\n"
+"Have you been waiting for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -125,6 +129,8 @@ msgstr ""
 #: sc/0083:8 
 msgid "そうそう、なのちゃんって\n右手が銃なんだよね。見せて―。\n"
 msgstr ""
+"Oh, yeah, nano-chan\n"
+"There is gun in your right arm, let me see-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +210,7 @@ msgstr ""
 msgid "お、おい！\nこれってまさか、し、死ん……？\n"
 msgstr ""
 "Eh, Hey! \n"
-"This cannot be, De, dead...?\n"
+"This cannot be, D-, dead...?\n"
 
 #  text 
 #  warnings: 1 
@@ -261,6 +267,8 @@ msgstr ""
 #: sc/0083:21 
 msgid "でも、どうして学校に通ってるの？\nロボットなのに。\n"
 msgstr ""
+"But, why are you going to school?\n"
+"You are a robot\n"
 
 #  speaker 
 #  warnings: 0 
@@ -299,6 +307,8 @@ msgstr ""
 #: sc/0083:24 
 msgid "（見た目、普通の女子大生っぽいけど……\n　この人、一体何者！？）\n"
 msgstr ""
+"She looks like a ordinary college girl...\n"
+"Who in the hell is this girl!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -482,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:39 
 msgid "マズ――――――！？\n"
-msgstr ""
+msgstr "Terrible-------!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -555,6 +565,8 @@ msgstr ""
 #: sc/0083:45 
 msgid "（そっか、それで……\n　はかせ、簡単に喋りすぎです……）\n"
 msgstr ""
+"(so is that, so.... \n"
+"How easily Hakase talk too much....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -567,6 +579,8 @@ msgstr ""
 #: sc/0083:46 
 msgid "（これじゃ私、\n　全然普通の女の子になれない……）\n"
 msgstr ""
+"(This me,\n"
+"i can't be a completely ordinary girl....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -962,7 +976,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:79 
 msgid "えっ？　なんですか？\n"
-msgstr ""
+msgstr "Eh? What's that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -975,6 +989,8 @@ msgstr ""
 #: sc/0083:80 
 msgid "私、超能力者じゃないけど、\n霊能力者ではあるんだよ。\n"
 msgstr ""
+"I'm not a psychic,\n"
+"but i'm a medium.\n"
 
 #  speaker 
 #  warnings: 0 
