@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2018-09-19 01:01+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0210/en_US/>\n"
+"PO-Revision-Date: 2021-10-05 12:37+0000\n"
+"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0210/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -23,8 +23,11 @@ msgstr "#42"
 #  text 
 #  warnings: 0 
 #: sc/0210:0 
+#, fuzzy
 msgid "弌弌聞こえるか？　分析と説明の４２番だ。\nおつきの３の代わりに説明させてもらうぞ。\n"
 msgstr ""
+"...can you hear me? It's me, #42 of analysis and explain.\n"
+"I'm gonna explain for you instead of --\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +40,8 @@ msgstr ""
 #: sc/0210:1 
 msgid "銀河に放送されているこの番組だが、\n知っての通り、これは視聴者参加型番組だ。\n"
 msgstr ""
+"This program is being broadcast to the Galaxy.\n"
+"but, as you know, this is a participatory program.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -49,6 +54,8 @@ msgstr ""
 #: sc/0210:2 
 msgid "その視聴者が参加できるコ―ナ―が、\nこのギャラクシ―電波光線タイムだ。\n"
 msgstr ""
+"And the corner that those audiences can participate is,\n"
+"this \"Galaxy Radio Wave Time\".\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +68,8 @@ msgstr ""
 #: sc/0210:3 
 msgid "アンテナには、装着者をコントロ―ルして\n映像を送る機能があるが……実はもう１つ。\n"
 msgstr ""
+"The antenna has the function that can control\n"
+"the installed ones.....However, it has one more feature.\n"
 
 #  speaker 
 #  warnings: 4 
