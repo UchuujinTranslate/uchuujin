@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2021-09-03 04:01+0000\n"
+"PO-Revision-Date: 2021-10-05 09:08+0000\n"
 "Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
@@ -106,7 +106,7 @@ msgstr "Sir！#94, reporting！\n"
 #  warnings: 1 
 #: sc/0207:7 
 msgid "アイツは確かダジャレだっけ？\n"
-msgstr "He was the guy who tells puns right?\n"
+msgstr "He was the guy who tells puns, right?\n"
 
 #  text 
 #  warnings: 1 
