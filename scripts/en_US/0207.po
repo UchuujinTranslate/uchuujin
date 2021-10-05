@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
 "PO-Revision-Date: 2021-10-05 09:08+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
@@ -318,7 +318,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:26 
 msgid "は、はいっ！\n次の者、はやくやれっ！\n"
-msgstr "Of, of course! Someone, quickly!\n"
+msgstr ""
+"Of, of course!\n"
+"Someone, quickly!\n"
 
 #  text 
 #  warnings: 1 
@@ -392,7 +394,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:36 
 msgid "スタジオ船の兵隊"
-msgstr "Director (GTV)"
+msgstr "Soldier of the studio"
 
 #  text 
 #  warnings: 0 
@@ -404,15 +406,15 @@ msgstr "Quickly! The situation is urgent!\n"
 #  warnings: 0 
 #: sc/0207:37 
 msgid "通信兵"
-msgstr "Producer (GTV)"
+msgstr "Signal corpsman"
 
 #  text 
 #  warnings: 0 
 #: sc/0207:37 
 msgid "地球に降りている設置チ―ムに連絡！\n映像を早く、姫様の船へ送るんだ！\n"
 msgstr ""
-"Get the crew down to earth! Relay the\n"
-"broadcast to the ship ASAP!\n"
+"Contact to the team that arrived on earth!\n"
+"Relay the broadcast to the ship ASAP!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -479,8 +481,8 @@ msgstr ""
 #: sc/0207:42 
 msgid "俺たちのエ―ス、通称セクハラの９番！\n金一封でるよ〜、こりゃ。\n"
 msgstr ""
-"Our ace reporter, the perverted #9! This\n"
-"is gold seal material～. Take a look.\n"
+"Our ace reporter, the perverted #9!\n"
+"Gonna get bonus~ Take a look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -507,7 +509,7 @@ msgstr ""
 #: sc/0207:44 
 msgid "え―……まずは、\n俺が育てている、芋の話から弌弌\n"
 msgstr ""
-"Well, let's see…  Let's start\n"
+"Well, let's see… Let's start\n"
 "with my youth, on the potato farm, I——\n"
 
 #  speaker 
@@ -614,13 +616,13 @@ msgstr "……Um……uh…….\n"
 #  warnings: 0 
 #: sc/0207:53 
 msgid "みお＆高崎先生"
-msgstr "Mio ＆ Takasaki-sensei"
+msgstr "Mio & Takasaki"
 
 #  text 
 #  warnings: 0 
 #: sc/0207:53 
 msgid "……………………。\n"
-msgstr "…………………….\n"
+msgstr ".........\n"
 
 #  speaker 
 #  warnings: 0 
@@ -638,7 +640,7 @@ msgstr "……I'll go stand in the hallway.\n"
 #  warnings: 0 
 #: sc/0207:55 
 msgid "ゆっこ"
-msgstr "Yukko"
+msgstr "Yuuko"
 
 #  text 
 #  warnings: 0 
