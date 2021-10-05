@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
 "PO-Revision-Date: 2021-10-05 09:59+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
 "Language: en_US\n"
@@ -204,16 +204,17 @@ msgstr ""
 #: sc/0083:14 
 msgid "ど、ど、ど、どうしよう……\n校長先生が……！\n"
 msgstr ""
-"Wha-wha-what should i do? \n"
-"The principal...!\n"
+"Wha-wha-what should I do?\n"
+"The principal is...!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0083:15 
+#, fuzzy
 msgid "お、おい！\nこれってまさか、し、死ん……？\n"
 msgstr ""
-"Eh, Hey! \n"
-"This cannot be, D-, dead...?\n"
+"Ah, Hey!\n"
+"No way! Is he...D-, dead...?\n"
 
 #  text 
 #  warnings: 1 
