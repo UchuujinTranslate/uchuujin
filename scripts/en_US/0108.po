@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
-"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-10-05 12:37+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0108/en_US/>\n"
 "Language: en_US\n"
@@ -462,7 +462,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0108:38 
 msgid "あ、あれ？\n"
-msgstr ""
+msgstr "Ah, what?\n"
 
 #  speaker 
 #  warnings: 0 
