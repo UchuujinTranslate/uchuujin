@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-05 09:39+0000\n"
+"PO-Revision-Date: 2021-10-05 09:40+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
@@ -51,6 +51,8 @@ msgstr ""
 #: sc/0083:2 
 msgid "あ、来た来た！\nお―い、なのちゃ―ん！\n"
 msgstr ""
+"Ah, she came she came!\n"
+"Hey, Nano-chan !\n"
 
 #  speaker 
 #  warnings: 0 
