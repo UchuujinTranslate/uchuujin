@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-05 09:43+0000\n"
+"PO-Revision-Date: 2021-10-05 09:49+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
@@ -117,6 +117,8 @@ msgstr ""
 #: sc/0083:7 
 msgid "（たった一度会っただけの私を……？\n　嬉しい……）\n"
 msgstr ""
+"(Even if she only has met me once...\n"
+"I'm glad...)\n"
 
 #  speaker 
 #  warnings: 0 
