@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-05 09:59+0000\n"
+"PO-Revision-Date: 2021-10-05 10:07+0000\n"
 "Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
@@ -221,14 +221,14 @@ msgstr ""
 #: sc/0083:16 
 msgid "おいおいマジかよ！？\nヤバイぞそりゃ！\n"
 msgstr ""
-"Are you being serious!? \n"
+"Seriously!?\n"
 "That's terrible!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0083:17 
 msgid "おい、アンテナも壊れたぞ！\n"
-msgstr ""
+msgstr "H,hey, the antenna is broken, too!\n"
 
 #  text 
 #  warnings: 1 
@@ -245,10 +245,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0083:19 
+#, fuzzy
 msgid "（でも……ちょっと待って。この人、\n　どうして私の名前を知ってるんだろう）\n"
-msgstr ""
-"(But, wait a moment, this person \n"
-"How this person knows my name?)\n"
+msgstr "(But, wait a moment. This person, how does she know my name?)\n"
 
 #  speaker 
 #  warnings: 0 
