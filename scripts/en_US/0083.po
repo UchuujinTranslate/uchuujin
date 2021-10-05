@@ -204,6 +204,8 @@ msgstr ""
 #: sc/0083:14 
 msgid "ど、ど、ど、どうしよう……\n校長先生が……！\n"
 msgstr ""
+"Wha-wha-what should i do? \n"
+"The principal...!\n"
 
 #  text 
 #  warnings: 1 
