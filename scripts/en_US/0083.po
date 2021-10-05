@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
 "PO-Revision-Date: 2021-10-05 09:49+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
 "Language: en_US\n"
@@ -103,8 +103,8 @@ msgstr ""
 #: sc/0083:6 
 msgid "そうだよ。\nまたなのちゃんに会いたいな―と思って。\n"
 msgstr ""
-"That's right \n"
-"I just wanted to see Nano-chan again.\n"
+"That's right!\n"
+"I just wanted to see you again, Nano-chan.\n"
 
 #  speaker 
 #  warnings: 0 
