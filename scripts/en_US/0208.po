@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2021-03-23 03:45+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0208/en_US/>\n"
+"PO-Revision-Date: 2021-10-05 12:37+0000\n"
+"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0208/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -33,8 +33,8 @@ msgstr ""
 #: sc/0208:2 
 msgid "４２番、聞いた？\nこれ、視聴者参加型の番組なんだってさ。\n"
 msgstr ""
-"#42, did ya hear? This program is filmed\n"
-"in front of a live studio audience.\n"
+"#42, did ya hear about it?\n"
+"This program is a participating program.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -47,6 +47,8 @@ msgstr ""
 #: sc/0208:3 
 msgid "ああ、３代目に就任したおつきから聞いた。\n視聴者参加型というのは好都合だな。\n"
 msgstr ""
+"Yeah, I heard it from Otsuki #3.\n"
+"I think this type of broadcasting is appropriate.\n"
 
 #  text 
 #  warnings: 1 
@@ -63,12 +65,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0208:5 
-#, fuzzy
 msgid "いいか……姫は乱暴で容赦のないお方だが、\nあれで雰囲気に流されやすいところもある。\n"
 msgstr ""
-"Okay... the princess is a turbulent and unforgiving. However, there are also "
-"places \n"
-"where she is easy to get carried away by the atmosphere.\n"
+"Okay... the princess is a turbulent and unforgiving. \n"
+"But she is often carried away by the atmosphere.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -81,12 +81,16 @@ msgstr ""
 #: sc/0208:6 
 msgid "そして、これはテレビ番組。\nテレビといえば視聴率。\n"
 msgstr ""
+"And, this is television program.\n"
+"Y'know the television is depended on watching rates.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:7 
 msgid "確かギャラクシ―テレビ弌弌ＦＳＵの視聴率は\nリアルタイム集計だったっけ？\n"
 msgstr ""
+"Clearly the watching rate of this Galaxy-television－GTV － \n"
+"is being counted in real-time, isn't it?\n"
 
 #  speaker 
 #  warnings: 0 
