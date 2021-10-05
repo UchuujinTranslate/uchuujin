@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
 "PO-Revision-Date: 2021-10-05 09:54+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0083/en_US/>\n"
 "Language: en_US\n"
@@ -116,9 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0083:7 
 msgid "（たった一度会っただけの私を……？\n　嬉しい……）\n"
-msgstr ""
-"(Even if she only has met me once...\n"
-"I'm glad...)\n"
+msgstr "(Even though she's only met me once...? How nice...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,8 +129,8 @@ msgstr ""
 #: sc/0083:8 
 msgid "そうそう、なのちゃんって\n右手が銃なんだよね。見せて―。\n"
 msgstr ""
-"Oh, yeah, nano-chan\n"
-"There is gun in your right arm, let me see-\n"
+"Oh, yeah, Nano-chan! There's a gun in your right arm, right?\n"
+"Let's see...\n"
 
 #  speaker 
 #  warnings: 0 
