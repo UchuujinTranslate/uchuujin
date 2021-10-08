@@ -24,4 +24,4 @@ For those who contributed to the project, in no particular order. Please let me 
 - colebob9
 
 ## CG Editing
-- pulli (pulli0 on GitHub)
+- puuli (pulli0 on GitHub)
