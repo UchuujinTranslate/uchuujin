@@ -14,7 +14,7 @@ All translations are now submitted through our Weblate instance.
 
 ## Scripts
 - Each component represents a single scene.
-- Translated text should try to stick to 40 characters x 2 lines (80 characters total).
+- Translated text should try to stick to 60 characters x 2 lines (120 characters total).
 
 ## CGs
 - CGs are currently not on Weblate. Please submit a PR for any changes.
