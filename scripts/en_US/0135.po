@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2021-09-23 01:37+0000\n"
+"PO-Revision-Date: 2021-10-10 18:38+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0135/en_US/>\n"
@@ -714,7 +714,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0135:61 
 msgid "！？\n"
-msgstr "!?\n"
+msgstr "! ?\n"
 
 #  speaker 
 #  warnings: 0 
