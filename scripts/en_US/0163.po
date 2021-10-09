@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-09-28 20:37+0000\n"
-"Last-Translator: Ritsuka Aoyagi <moetivationalanime@gmail.com>\n"
+"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0163/en_US/>\n"
 "Language: en_US\n"
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0163:1 
 msgid "……もうみんな帰ったみたいだね。\nそろそろ見回りは終わりにしようかな。\n"
 msgstr ""
+"....It looks like everyone's already gone home\n"
+"i should finish my rounds soon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr "Kiyoshi"
 #: sc/0163:3 
 msgid "う―ん……バディとコバディ、\n一体どこに行ったんだよ……。\n"
 msgstr ""
+"Uh....Buddy and co-buddy,\n"
+"Where in the earth did they go.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0163:4 
 msgid "（あの子、どうしたんだろう……？\n　ここの生徒……じゃないよね？）\n"
 msgstr ""
+"(This kid, what's he doing....?\n"
+"He's not a student here...is he?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:5 
 msgid "あ、あの―、スイマセン……。\n"
-msgstr ""
+msgstr "Ah, uhm-, sorry......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +115,8 @@ msgstr ""
 #: sc/0163:7 
 msgid "ここの生徒じゃないですよね？\n敷地内には入っちゃダメなんですけど……。\n"
 msgstr ""
+"You're not a student here, are you?\n"
+"You're not supposed to be here you know...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:8 
 msgid "あ、ご、ごめんなさい。\n"
-msgstr ""
+msgstr "Ah, sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0163:9 
 msgid "誰か捜してるんですか？\nお兄さん？　それともお姉さん？\n"
 msgstr ""
+"Are you looking for someone?\n"
+"Your big brother? or you big sister?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +155,8 @@ msgstr ""
 #: sc/0163:10 
 msgid "ううん、うちで飼ってる犬を探してて……\nバディとコバディって言うんだけど……。\n"
 msgstr ""
+"Eh, I'm looking for my dogs\n"
+"They're called buddy and co-buddy...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +169,8 @@ msgstr ""
 #: sc/0163:11 
 msgid "犬……？\nあ……もしかしてあの……？\n"
 msgstr ""
+"Dogs....?\n"
+"Ah...it could be....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0163:12 
 msgid "知ってるの？\nバディとコバディは今どこに？\n"
 msgstr ""
+"Do you know them? \n"
+"Where are Buddy and Co-buddy now?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +197,8 @@ msgstr ""
 #: sc/0163:13 
 msgid "ス、スイマセン、知ってはいるんですけど、\n場所まではわからなくて……。\n"
 msgstr ""
+"S-sorry, i saw them but....\n"
+"i don't know where they are.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +211,8 @@ msgstr ""
 #: sc/0163:14 
 msgid "そうですか……\nはぁ。あいつら、どこに行ったんだろう。\n"
 msgstr ""
+"I see...\n"
+"Ah, those two, where'd they go?.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +249,8 @@ msgstr ""
 #: sc/0163:17 
 msgid "あっ！　バディ！\n捜したんだぞ！　どこにいたんだよ！\n"
 msgstr ""
+"Eh! Buddy! \n"
+"I've been looking for you! Where did you go?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +274,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:19 
 msgid "見つかってよかったですね。\n"
-msgstr ""
+msgstr "I'm glad you found it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,18 +287,22 @@ msgstr ""
 #: sc/0163:20 
 msgid "うん、ありがとう！\nほらバディ、お前もお礼を言うんだ。\n"
 msgstr ""
+"Um, Thanks !\n"
+"Come on buddy, you should say thanks too.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0163:21 
 msgid "うわっ、やめろ！\nそ、そんなに頭を押さえたら弌弌\n"
 msgstr ""
+"Whoa, stop! \n"
+"If you hold the head like that----\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0163:22 
 msgid "うわあああ、壊れたぁぁっ！！\n"
-msgstr ""
+msgstr "Aargh, is broken !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -289,6 +315,8 @@ msgstr ""
 #: sc/0163:23 
 msgid "そ、そんなに落ち込まないで。\n私も一緒に捜すから。ねっ？\n"
 msgstr ""
+"Please don't be so down.\n"
+"I'll look for it with you, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +328,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:24 
 msgid "えっ？　捜してくれるの？\n"
-msgstr ""
+msgstr "Eh? you'll look for it with me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +341,8 @@ msgstr ""
 #: sc/0163:25 
 msgid "はい。私と一緒なら校内も捜せるから……\nきっと見つかりますよ。\n"
 msgstr ""
+"Yes, we can search the whole school.....\n"
+"So i'm sure we'll find them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +355,8 @@ msgstr ""
 #: sc/0163:26 
 msgid "ありがとうお姉ちゃん！\nじゃあ、早く捜しに行こうよ。\n"
 msgstr ""
+"Thank you lady!\n"
+"Well, let's find them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +368,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:27 
 msgid "はい、それじゃ弌弌え？\n"
-msgstr ""
+msgstr "Yes, wait is that a-----?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +416,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:31 
 msgid "こ、この鹿もキミのペット？\n"
-msgstr ""
+msgstr "I-is that deer your pet?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +428,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:32 
 msgid "ち、違うよ。鹿なんて飼ってないもん。\n"
-msgstr ""
+msgstr "N-no, i don't own a deer.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +441,8 @@ msgstr ""
 #: sc/0163:33 
 msgid "だよね……\nもしかして迷い込んじゃったのかな？\n"
 msgstr ""
+"isn't it?....\n"
+"Perhaps, he wandered in here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +467,8 @@ msgstr ""
 #: sc/0163:35 
 msgid "わっ！？\nあ、あの鹿、怒ってるよ！\n"
 msgstr ""
+"Wha-! ? \n"
+"T-that deer is mad !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +481,8 @@ msgstr ""
 #: sc/0163:36 
 msgid "（うぅ、怖い……。でも、大人として、\n　この子だけでも守らないと……）\n"
 msgstr ""
+"(Uhm, i'm scared, but as an adult person,\n"
+"At least i have to protect this child)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +495,8 @@ msgstr ""
 #: sc/0163:37 
 msgid "お姉ちゃん、どうしよう！？\nあの鹿、こっちを狙ってるよ！\n"
 msgstr ""
+"Lady, what should we do ! ?\n"
+"That deer, is coming for us!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +509,8 @@ msgstr ""
 #: sc/0163:38 
 msgid "〜〜〜〜っ！\nこ、こら！　止まりなさい！\n"
 msgstr ""
+"〜〜〜〜 !\n"
+"H-Hey! please stop !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +535,8 @@ msgstr ""
 #: sc/0163:40 
 msgid "きゃっ！　ど、ど、ど―ど―。\n落ち着いてください……。\n"
 msgstr ""
+"Ahh! w-w-w-whoa. \n"
+"Please calm down....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +561,8 @@ msgstr ""
 #: sc/0163:42 
 msgid "あっ、すごい、\nお姉ちゃんの言うこと聞いたよ！\n"
 msgstr ""
+"Ah, Amazing, \n"
+"He heard what you just said !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +575,8 @@ msgstr ""
 #: sc/0163:43 
 msgid "わぁ……ありがとう鹿さん。\nもしかしたら言葉がわかるのかな？\n"
 msgstr ""
+"Wha... Thanks deer.\n"
+"Maybe, he understands our language?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +601,8 @@ msgstr ""
 #: sc/0163:45 
 msgid "ここには入ってきちゃダメだよ？\nあと乱暴もダメだからね？\n"
 msgstr ""
+"You shouldn't enter here,\n"
+"Also don't be violent, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +627,8 @@ msgstr ""
 #: sc/0163:47 
 msgid "ね―、そろそろ\nバディたちを捜しに行こうよ―。\n"
 msgstr ""
+"Well, it's time\n"
+"Let's go and find the buddies-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +665,8 @@ msgstr ""
 #: sc/0163:50 
 msgid "いい？　誰かに見つかる前に\nちゃんと家に帰るんだよ？\n"
 msgstr ""
+"well? Make sure to go home,\n"
+"Before someone finds you, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +726,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:55 
 msgid "えっ、えっ、どうして怒ってるの……？\n"
-msgstr ""
+msgstr "Eh, Why is he angry........?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +750,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:57 
 msgid "きゃっ！\n"
-msgstr ""
+msgstr "Oh, no !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:60 
 msgid "……あれ？\n"
-msgstr "……Wait, what?\n"
+msgstr ".....What's that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +798,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:61 
 msgid "と、止まった……。\n"
-msgstr ""
+msgstr "I-it stopped.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +810,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:62 
 msgid "えっ？　わっ、くすぐったいよぉ。\n"
-msgstr ""
+msgstr "Eh?, hey, that tickles.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +823,8 @@ msgstr ""
 #: sc/0163:63 
 msgid "あはは、お姉ちゃん、\nこの鹿に懐かれたみたいだね。\n"
 msgstr ""
+"Haha, lady,\n"
+"it looks like the deer likes you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +836,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:64 
 msgid "そ、そうなのかな……えへへ。\n"
-msgstr ""
+msgstr "I don't think that....hehe.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -793,6 +849,8 @@ msgstr ""
 #: sc/0163:65 
 msgid "そうだよきっと。それにしても大きいなぁ。\nちょっと触ってもいいかな？\n"
 msgstr ""
+"i'm sure it is, but he's so big.\n"
+"It would be ok if i touch him?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,7 +910,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:70 
 msgid "…………！！\n"
-msgstr "………！！\n"
+msgstr "...... ! !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -877,6 +935,8 @@ msgstr ""
 #: sc/0163:72 
 msgid "あ、危ないから近付いちゃダメだよ？\n刺激しないように、ゆっくり離れるよ？\n"
 msgstr ""
+"I-it's dangerous to get close\n"
+"I'll leave slowly so don't irritate him, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +972,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:75 
 msgid "ゆっくり、離れる……。\n"
-msgstr ""
+msgstr "Slowly, i'm leaving...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +996,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:77 
 msgid "ゆっくり、ゆっくり……。\n"
-msgstr ""
+msgstr "Slowly..Slowly....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +1008,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:78 
 msgid "はぁ。ここまで来たら大丈夫だよ。\n"
-msgstr ""
+msgstr "Ah, is okay if you came this far.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,7 +1020,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:79 
 msgid "うん……怖かったぁ。\n"
-msgstr ""
+msgstr "Uh.... it was scary.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -973,6 +1033,8 @@ msgstr ""
 #: sc/0163:80 
 msgid "弌弌あっ！\nねえ、外にさっきの鹿がいる！\n"
 msgstr ""
+"---Hey! \n"
+"The deer is outside !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1014,10 +1076,10 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:84 
 msgid "桜井先生＆きよし"
-msgstr "Sakurai-sensei & Kiyoshi"
+msgstr "Sakurai sensei & Kiyoshi"
 
 #  text 
 #  warnings: 0 
 #: sc/0163:84 
 msgid "！？\n"
-msgstr "!?\n"
+msgstr "! ?\n"
