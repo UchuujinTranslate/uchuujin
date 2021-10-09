@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 02:00+0000\n"
-"PO-Revision-Date: 2020-07-25 23:22+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0173/en_US/>\n"
+"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0173/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9\n"
+"X-Generator: Weblate 4.8\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0173:27 
 msgid "！？\n"
-msgstr "!?\n"
+msgstr "! ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0173:65 
 msgid "……あれ？\n"
-msgstr "……Wait, what?\n"
+msgstr ".....What's that?\n"
 
 #  speaker 
 #  warnings: 0 
