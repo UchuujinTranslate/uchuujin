@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"PO-Revision-Date: 2021-10-11 20:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0163/en_US/>\n"
@@ -316,7 +316,7 @@ msgstr ""
 msgid "そ、そんなに落ち込まないで。\n私も一緒に捜すから。ねっ？\n"
 msgstr ""
 "Please don't be so down.\n"
-"I'll look for it with you, okay?\n"
+"I'll look for them with you, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -328,7 +328,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0163:24 
 msgid "えっ？　捜してくれるの？\n"
-msgstr "Eh? you'll look for it with me?\n"
+msgstr "Eh? you'll search them with me?\n"
 
 #  speaker 
 #  warnings: 0 
