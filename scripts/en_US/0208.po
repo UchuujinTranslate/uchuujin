@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2021-10-05 12:37+0000\n"
+"PO-Revision-Date: 2021-10-11 20:37+0000\n"
 "Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0208/en_US/>\n"
@@ -103,12 +103,16 @@ msgstr ""
 #: sc/0208:8 
 msgid "姫のお立場であれば、民衆弌弌つまり視聴者の\n客観的な数字も参考にされるはずだ。\n"
 msgstr ""
+"On princess' position, the people - in other words, watchers.\n"
+"Their objective figures could be able to be reference for her.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:9 
 msgid "それって……視聴率が上がり続けさえすれば、\n俺たちも助かるってこと？\n"
 msgstr ""
+"Then that means....If the rate continues to increase,\n"
+"we can be saved?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,12 +125,16 @@ msgstr ""
 #: sc/0208:10 
 msgid "そういうことだ。そして、サクラを使えば\n視聴率を操作することもできる！\n"
 msgstr ""
+"Yes we can. Also, If we trick few things\n"
+"we can manipulate the rate, too!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:11 
 msgid "そういうことか！\nさすが、分析と説明の４２番！\n"
 msgstr ""
+"That's why it is!\n"
+"You are great as your nickname, #42!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -139,12 +147,16 @@ msgstr ""
 #: sc/0208:12 
 msgid "おまえら、こんな所にいたのか。\n番組制作のチ―ム編成、始まってるぞ。\n"
 msgstr ""
+"Oh, you guys were here.\n"
+"We're will now organize a program production team.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:13 
 msgid "あ、おつきの３。そう言えば、\n番組のプロデュ―サ―って誰がやるの？\n"
 msgstr ""
+"Oh, hey. I'm wondering about something.\n"
+"who's the producer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,12 +169,16 @@ msgstr ""
 #: sc/0208:14 
 msgid "心配ない、既に手配してある。\n今もこちらの様子を見ているはずだ。\n"
 msgstr ""
+"Don't worry. We already have one.\n"
+"They're probably watching here right now.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0208:15 
 msgid "そ……そうだったのか。\n誰だか知らないけど、よろしく〜！\n"
 msgstr ""
+"Alright....I see.\n"
+"I don't know who you are, but let's do this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +190,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0208:16 
 msgid "それじゃ、おまえたちは早く行け。\n"
-msgstr ""
+msgstr "Well then, you guys go quickly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -187,12 +203,14 @@ msgstr ""
 #: sc/0208:17 
 msgid "編成終了後、各放送ごとに１チ―ム、\nそれぞれ１隻の中継船に乗り込んで出発だ！\n"
 msgstr ""
+"After organizing, 1 team for each program,\n"
+"will get on each OB ship and take off!\n"
 
 #  speaker 
 #  warnings: 1 
 #: sc/0208:18 
 msgid "＆４２番"
-msgstr ""
+msgstr "#E1 & #42"
 
 #  text 
 #  warnings: 1 
@@ -456,7 +474,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0208:40 
 msgid "おつき３"
-msgstr ""
+msgstr "Otsuki #3"
 
 #  text 
 #  warnings: 0 
