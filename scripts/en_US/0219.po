@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
-"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2021-10-11 20:37+0000\n"
+"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0219/en_US/>\n"
 "Language: en_US\n"
@@ -487,7 +487,7 @@ msgstr "UWOAAAAAAAAAAAAAAAAAAH!!!\n"
 #  warnings: 0 
 #: sc/0219:47 
 msgid "おつき３"
-msgstr ""
+msgstr "Otsuki #3"
 
 #  text 
 #  warnings: 0 
