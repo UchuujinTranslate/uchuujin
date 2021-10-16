@@ -20,8 +20,9 @@ For those who contributed to the project, in no particular order. Please let me 
 - Orbit
 
 ## Developers
-- noneucat
+- noneucat (original project creator)
 - colebob9
+- Gil_Unx (created new english patch)
 
 ## CG Editing
-- puuli (pulli0 on GitHub)
+- puuli (puuli0 on GitHub)
