@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2021-10-11 20:37+0000\n"
+"PO-Revision-Date: 2021-10-17 03:37+0000\n"
 "Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0208/en_US/>\n"
@@ -229,6 +229,8 @@ msgstr ""
 #: sc/0208:19 
 msgid "さて……今、我が置かれている立場は\nこれで理解してくれたかな？\n"
 msgstr ""
+"Anyway....did you understand the situation\n"
+"that happened to us right now from this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +243,8 @@ msgstr ""
 #: sc/0208:20 
 msgid "そうか、助かる。ではプロデュ―サ―である\n君の役目を説明しよう。\n"
 msgstr ""
+"alright, I see. Then I'll tell you the role\n"
+"that you, the producer, do.\n"
 
 #  speaker 
 #  warnings: 0 
