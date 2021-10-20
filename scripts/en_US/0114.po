@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-14 04:37+0000\n"
+"PO-Revision-Date: 2021-10-21 04:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0114/en_US/>\n"
@@ -249,6 +249,8 @@ msgstr ""
 #: sc/0114:22 
 msgid "俺……英語だけは駄目なんだ……\n見ただけでお腹が痛く……ううっ！\n"
 msgstr ""
+"I can't speak english....\n"
+"Just seeing it makes me feel sick... Ugh!\n"
 
 #  text 
 #  warnings: 1 
@@ -333,6 +335,8 @@ msgstr ""
 #: sc/0114:30 
 msgid "（授業に関係ない本を見てるんだから、\n　注意しなきゃダメだよね……）\n"
 msgstr ""
+"(Her book has nothing to do with the class,\n"
+"She needs to be more careful...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -344,7 +348,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0114:31 
 msgid "み、水上さん……今は授業中だから……。\n"
-msgstr ""
+msgstr "M-Minakami-san , we're in the middle of the class....\n"
 
 #  speaker 
 #  warnings: 0 
