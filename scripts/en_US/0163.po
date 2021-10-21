@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-10-11 20:37+0000\n"
+"PO-Revision-Date: 2021-10-21 04:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0163/en_US/>\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: sc/0163:1 
 msgid "……もうみんな帰ったみたいだね。\nそろそろ見回りは終わりにしようかな。\n"
 msgstr ""
-"....It looks like everyone's already gone home\n"
+"I think everyone's already gone home\n"
 "i should finish my rounds soon.\n"
 
 #  speaker 
@@ -63,8 +63,8 @@ msgstr "Kiyoshi"
 #: sc/0163:3 
 msgid "う―ん……バディとコバディ、\n一体どこに行ったんだよ……。\n"
 msgstr ""
-"Uh....Buddy and co-buddy,\n"
-"Where in the earth did they go.....\n"
+"Uh.....Buddy and co-buddy,\n"
+"Where in the earth did they go..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -116,7 +116,7 @@ msgstr ""
 msgid "ここの生徒じゃないですよね？\n敷地内には入っちゃダメなんですけど……。\n"
 msgstr ""
 "You're not a student here, are you?\n"
-"You're not supposed to be here you know...\n"
+"You shouldn't be here you know....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -250,7 +250,8 @@ msgstr ""
 msgid "あっ！　バディ！\n捜したんだぞ！　どこにいたんだよ！\n"
 msgstr ""
 "Eh! Buddy! \n"
-"I've been looking for you! Where did you go?!\n"
+"I've been looking for you\n"
+"Where did you go?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +289,8 @@ msgstr ""
 msgid "うん、ありがとう！\nほらバディ、お前もお礼を言うんだ。\n"
 msgstr ""
 "Um, Thanks !\n"
-"Come on buddy, you should say thanks too.\n"
+"Come on buddy,\n"
+"Say thanks too.\n"
 
 #  text 
 #  warnings: 1 
@@ -296,7 +298,7 @@ msgstr ""
 msgid "うわっ、やめろ！\nそ、そんなに頭を押さえたら弌弌\n"
 msgstr ""
 "Whoa, stop! \n"
-"If you hold the head like that----\n"
+"If you hold it like that----\n"
 
 #  text 
 #  warnings: 1 
@@ -341,7 +343,7 @@ msgstr ""
 #: sc/0163:25 
 msgid "はい。私と一緒なら校内も捜せるから……\nきっと見つかりますよ。\n"
 msgstr ""
-"Yes, we can search the whole school.....\n"
+"Yes, we can search the whole school..\n"
 "So i'm sure we'll find them.\n"
 
 #  speaker 
@@ -481,7 +483,7 @@ msgstr ""
 #: sc/0163:36 
 msgid "（うぅ、怖い……。でも、大人として、\n　この子だけでも守らないと……）\n"
 msgstr ""
-"(Uhm, i'm scared, but as an adult person,\n"
+"(Uh, i'm scared, but as an adult,\n"
 "At least i have to protect this child)\n"
 
 #  speaker 
@@ -935,8 +937,9 @@ msgstr ""
 #: sc/0163:72 
 msgid "あ、危ないから近付いちゃダメだよ？\n刺激しないように、ゆっくり離れるよ？\n"
 msgstr ""
-"I-it's dangerous to get close\n"
-"I'll leave slowly so don't irritate him, okay?\n"
+"I-it's dangerous to get close,\n"
+"I'll leave slowly\n"
+"don't irritate him, okay?\n"
 
 #  speaker 
 #  warnings: 0 
