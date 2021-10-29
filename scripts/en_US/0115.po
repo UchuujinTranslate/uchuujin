@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"PO-Revision-Date: 2021-10-30 03:12+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0115/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr "Sakurai Sensei"
 #: sc/0115:0 
 msgid "あっ、チャイム鳴りましたね。\nそれじゃあ、これで授業を終わります。\n"
 msgstr ""
+"Ah, i heard the bell.\n"
+"well then, the class is over.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0115:1 
 msgid "（さてと、職員室に帰って\n　次の授業の準備しないと）\n"
 msgstr ""
+"(well now i'll go to the staff room,\n"
+"i need to get ready for my next class)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:2 
 msgid "（あっ、そうだ、その前に……）\n"
-msgstr ""
+msgstr "(Oh, well, before that.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0115:3 
 msgid "相生さん、スイマセン、\nちょっといいですか？\n"
 msgstr ""
+"Aioi-san, sorry,\n"
+"Can you spare a minute?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +78,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0115:4 
 msgid "あっ、は―い。なんですか？\n"
-msgstr ""
+msgstr "Ah, y-yes. What it is?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0115:5 
 msgid "あの……宿題のことなんですけど、\nちょっと忘れすぎかな―って……。\n"
 msgstr ""
+"Well....it's about your homeworks, \n"
+"You're forgetting them a bit too much..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -137,6 +145,8 @@ msgstr ""
 #: sc/0115:9 
 msgid "他の教科の宿題もやってこないって\n聞きましたし……。\n"
 msgstr ""
+"As well in other classes's homeworks,\n"
+"i heard about that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -162,7 +172,7 @@ msgstr ""
 msgid "まだ気が早いかもしれませんけど、\n進路とかも決めないといけないし……。\n"
 msgstr ""
 "It may be a little bit early but,\n"
-"You need to think about your future carrer...\n"
+"You need to think about your future...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,39 +202,43 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0115:14 
 msgid "……これ、なにをしてるんだ？\n"
-msgstr ""
+msgstr ".....What's this?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0115:15 
 msgid "さあ？\n"
-msgstr ""
+msgstr "What?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0115:16 
 msgid "さあって、あの犬を操作してるのは\nお前じゃないか。\n"
 msgstr ""
-"what, the dog is being controlled.\n"
-"i think by you.\n"
+"\"what\"?, the dog is being controlled.\n"
+"By you i think.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0115:17 
 msgid "いや、それがさっきから\nこっちの指示通りに動いてくれなくて……。\n"
 msgstr ""
+"No, since a while,\n"
+"it hasn't been following my directions..\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0115:18 
 msgid "もしかしてリモコンが壊れたか？\nくそっ、こんな時に！\n"
 msgstr ""
+"Perhaps, the remote control is broken? \n"
+"Damn, just at this moment !\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0115:19 
 msgid "お、おい、そんなに乱暴すると……。\n"
-msgstr ""
+msgstr "Oh, hey, if you are being this violent...\n"
 
 #  speaker 
 #  warnings: 2 
@@ -236,7 +250,7 @@ msgstr "No.F5＆No.36"
 #  warnings: 2 
 #: sc/0115:20 
 msgid "いたっ！？\n"
-msgstr ""
+msgstr "Auugh ! ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -248,7 +262,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:21 
 msgid "何か、宿題ができない理由があるんですか？\n"
-msgstr "Do you have any reasons why you can not do your homework?\n"
+msgstr "Do you have any reasons why you can not do your homeworks?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -273,8 +287,8 @@ msgstr ""
 #: sc/0115:23 
 msgid "もし何か事情があるのなら、話してください。\n場合によっては免除することもできますし……。\n"
 msgstr ""
-"If it's there a reason, tell me,\n"
-"Depending of it i can make an exemption....\n"
+"If it's there a reason, please tell me,\n"
+"Depending of it i can make an exception\n"
 
 #  speaker 
 #  warnings: 0 
@@ -286,7 +300,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:24 
 msgid "えっ、本当？\n"
-msgstr ""
+msgstr "Eh, really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -298,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:25 
 msgid "はい。それで、どんな事情が……？\n"
-msgstr ""
+msgstr "Yes, so, what's the reason...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -310,7 +324,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:26 
 msgid "あ、え―っと……。\n"
-msgstr "Ah, yes well.....\n"
+msgstr "Ah, well.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -346,7 +360,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:29 
 msgid "……逆に、どんなことならいいんですか？\n"
-msgstr ""
+msgstr "....however, what things are okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -371,7 +385,7 @@ msgstr ""
 #: sc/0115:31 
 msgid "病気とかだったら\n仕方ないと思いますけど……。\n"
 msgstr ""
-"If you were sick of something like that,\n"
+"If you were sick or something,\n"
 "i think i couldn't be helped but.....\n"
 
 #  speaker 
@@ -384,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:32 
 msgid "あっ、うんうん。実は弌弌\n"
-msgstr ""
+msgstr "Ah, uh yes, to be honest--\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +411,8 @@ msgstr ""
 #: sc/0115:33 
 msgid "でも、相生さんは元気だから\n関係ない話ですよね。\n"
 msgstr ""
+"But, Aioi-san is fine,\n"
+"so it doesn't make sense.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +473,8 @@ msgstr ""
 #: sc/0115:38 
 msgid "そ、そうですね……伝統芸の習い事で、\n宿題する時間がないとか……。\n"
 msgstr ""
+"Well-, i'm learning traditional arts,\n"
+"So i don't have time for my homeworks\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +486,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:39 
 msgid "ふむふむ。\n"
-msgstr ""
+msgstr "I see.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +499,8 @@ msgstr ""
 #: sc/0115:40 
 msgid "親が共働きだから\n家事をしないといけないとか……。\n"
 msgstr ""
+"Both of my parents work so,\n"
+"I have to do the housework and others..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,7 +513,8 @@ msgstr ""
 #: sc/0115:41 
 msgid "そういうことなら、宿題を免除したり\n減らしてあげたりできますけど……。\n"
 msgstr ""
-"If that's the case, i can excuse you homework\n"
+"If that's the case,\n"
+"i can excuse you homework,\n"
 "or reduce it...\n"
 
 #  speaker 
@@ -519,6 +540,8 @@ msgstr ""
 #: sc/0115:43 
 msgid "……それで、相生さんには\nどんな事情があるんですか？\n"
 msgstr ""
+"....Well then, Aioi-san,\n"
+"Again what's your explanation?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -530,7 +553,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:44 
 msgid "えっ？　あ―、実は……。\n"
-msgstr "Eh? Ah-, Actually....\n"
+msgstr "Eh? Ah-, actually...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -579,6 +602,8 @@ msgstr ""
 #: sc/0115:48 
 msgid "お、親が共働きで……\n習い事との両立が難しくて……。\n"
 msgstr ""
+"So, both of your parent work...\n"
+"It's hard to balance it with the school\n"
 
 #  speaker 
 #  warnings: 0 
@@ -639,6 +664,8 @@ msgstr ""
 #: sc/0115:53 
 msgid "（それを言ったら嘘をつかれちゃう気が……\n　あっ、でも生徒を疑うなんて……）\n"
 msgstr ""
+"(If that is, it feels like she's lying,\n"
+"Ah, but i can't doubt Aioi-san..)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -675,6 +702,8 @@ msgstr ""
 #: sc/0115:56 
 msgid "……じゃあ、逆に\nどうすれば宿題をやってきますか？\n"
 msgstr ""
+".....then, on the other hand\n"
+"How can you do your homeworks?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -711,6 +740,9 @@ msgstr ""
 #: sc/0115:59 
 msgid "……逆に。逆にね、私が宿題をやれる環境が\nあったとして、逆にどうします？\n"
 msgstr ""
+"Contrary of the other hand\n"
+"if i have an environment to do it\n"
+"On the flip side what would i do?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -735,6 +767,9 @@ msgstr ""
 #: sc/0115:61 
 msgid "（ぎゃ、逆に逆で逆にどうする？\n　わ、わかんなくなってきちゃった……）\n"
 msgstr ""
+"(On the other hand.....\n"
+"what would be the opposite?\n"
+"I-i'm starting to lose my mind..)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -759,6 +794,8 @@ msgstr ""
 #: sc/0115:63 
 msgid "う……じゃあ、逆に、逆が逆で、\n宿題が逆なら逆にどうします？\n"
 msgstr ""
+"However, the reverse of the other hand,\n"
+"What would be instead of the homework?\n"
 
 #  speaker 
 #  warnings: 0 
