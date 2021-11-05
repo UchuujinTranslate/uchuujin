@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-21 04:37+0000\n"
+"PO-Revision-Date: 2021-11-06 03:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0114/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr "Sakurai Sensei"
 #: sc/0114:0 
 msgid "この英文は、教科書に書かれている方法で\n簡単に訳せます。\n"
 msgstr ""
+"Using the method in the book,\n"
+"this sentence can be easily translated.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0114:1 
 msgid "まずは５分だけ自分で考えてみてください。\nはいスタ―ト。\n"
 msgstr ""
+"First, take 5 minutes to think about it\n"
+"Well, let's start.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0114:3 
 msgid "えっと……後ろから順番に訳す……。\n"
-msgstr ""
+msgstr "Um well....translate it from back to front.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0114:4 
 msgid "（そうです。英文は後ろから訳すと\n　わかりやすいですね）\n"
 msgstr ""
+"(That is from the back to front\n"
+"is easier to understand)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0114:6 
 msgid "（あっ、もう答え書いてる。\n　長野原さんには簡単すぎたかな？）\n"
 msgstr ""
+"(Ah, she've already written the answers\n"
+"was it too easy for Naganohara-san?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0114:8 
 msgid "（相生さんには……難しかったかな？）\n"
-msgstr ""
+msgstr "(And for Aioi-san, was it too hard?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,9 @@ msgstr ""
 #: sc/0114:9 
 msgid "（でも教科書を見れば解ける問題なので\n　がんばってくださいっ）\n"
 msgstr ""
+"(But, it can be solved-\n"
+"if you look at the book.\n"
+"Please do your best!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +168,9 @@ msgstr ""
 #: sc/0114:11 
 msgid "（校長先生は……かなり苦戦してる……\n　やっぱり難しいのかな……）\n"
 msgstr ""
+"(The principal...\n"
+"is having a pretty hard time....\n"
+"I guess it's hard.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -211,6 +225,8 @@ msgstr "(EHHHH——!?)\n"
 #: sc/0114:16 
 msgid "えええっ！？\nなんでオッサンが倒れたんだ！？\n"
 msgstr ""
+"Ehhhhh ! ? \n"
+"Why did the old man fall ! ?\n"
 
 #  text 
 #  warnings: 1 
@@ -218,39 +234,42 @@ msgstr ""
 msgid "う、うう……\nお、俺にはわかる……。\n"
 msgstr ""
 "Eh, Uhm...\n"
-"Oh, i understand....\n"
+"Oh, i think that....\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0114:18 
 msgid "うわ、こっちでも倒れてる！\n"
-msgstr ""
+msgstr "Geez, He fall down here too!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0114:19 
 msgid "って、おい！\nあのオッサンが倒れた理由、わかるのか？\n"
 msgstr ""
+"Eh, Hey ! \n"
+"do someone know why the old man fell?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0114:20 
 msgid "ああ。お、俺……。\n"
-msgstr ""
+msgstr "Oh, well, i.....\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0114:21 
 msgid "ああ、どうした、何があった？\n"
-msgstr ""
+msgstr "Ah, what, what's going on?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0114:22 
 msgid "俺……英語だけは駄目なんだ……\n見ただけでお腹が痛く……ううっ！\n"
 msgstr ""
-"I can't speak english....\n"
-"Just seeing it makes me feel sick... Ugh!\n"
+"I can't stand the english....\n"
+"Just seeing it makes me feel sick\n"
+".....Ugh!\n"
 
 #  text 
 #  warnings: 1 
@@ -262,7 +281,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0114:24 
 msgid "そんな理由で―――！？\n"
-msgstr ""
+msgstr "That's the reason----! ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -287,6 +306,9 @@ msgstr ""
 #: sc/0114:26 
 msgid "（水上さんも\n　教科書を見ながら頑張って弌弌）\n"
 msgstr ""
+"(Minakami-san also\n"
+"did her best -\n"
+"while looking at the textbook)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -322,7 +344,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0114:29 
 msgid "（こ、この本、教科書じゃない！）\n"
-msgstr ""
+msgstr "(T- the book, isn't the textbook! !)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -335,7 +357,8 @@ msgstr ""
 #: sc/0114:30 
 msgid "（授業に関係ない本を見てるんだから、\n　注意しなきゃダメだよね……）\n"
 msgstr ""
-"(Her book has nothing to do with the class,\n"
+"(Her book has nothing to dom\n"
+"with this class,\n"
 "She needs to be more careful...)\n"
 
 #  speaker 
@@ -348,7 +371,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0114:31 
 msgid "み、水上さん……今は授業中だから……。\n"
-msgstr "M-Minakami-san , we're in the middle of the class....\n"
+msgstr ""
+"M-Minakami-san...\n"
+"we're in the middle of the class....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +385,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0114:32 
 msgid "……から……。\n"
-msgstr ""
+msgstr "....So....\n"
 
 #  speaker 
 #  warnings: 0 
