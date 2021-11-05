@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2021-10-30 03:12+0000\n"
+"PO-Revision-Date: 2021-11-06 03:37+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0115/en_US/>\n"
@@ -820,6 +820,9 @@ msgstr ""
 #: sc/0115:65 
 msgid "（逆に逆が逆！？　何それ！？\n　私の逆に逆が逆の更に逆で……！？）\n"
 msgstr ""
+"(The reverse of the othe hand?!\n"
+"What does that even mean?\n"
+"It's even more contrary!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -879,7 +882,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0115:70 
 msgid "……なら、逆で！\n"
-msgstr ""
+msgstr "...Well then, i'll do the contrary !\n"
 
 #  speaker 
 #  warnings: 0 
