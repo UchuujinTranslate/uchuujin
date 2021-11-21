@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:08+0000\n"
-"PO-Revision-Date: 2021-11-16 00:37+0000\n"
+"PO-Revision-Date: 2021-11-22 18:41+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0111/en_US/>\n"
@@ -456,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:41 
 msgid "ス―パ―、通り過ぎましたよ。\n"
-msgstr ""
+msgstr "I was just passing by the super.\n"
 
 #  speaker 
 #  warnings: 0 
