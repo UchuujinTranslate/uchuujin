@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-10-10 18:37+0000\n"
+"PO-Revision-Date: 2021-11-29 19:41+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0085/en_US/>\n"
@@ -607,7 +607,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:47 
 msgid "はい。\n"
-msgstr "Yes.\n"
+msgstr "Okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1207,7 +1207,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:94 
 msgid "……あれ？\n"
-msgstr ".....What's that?\n"
+msgstr ".....What is that?\n"
 
 #  speaker 
 #  warnings: 0 
