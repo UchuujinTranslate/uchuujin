@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:08+0000\n"
-"PO-Revision-Date: 2021-11-22 18:41+0000\n"
+"PO-Revision-Date: 2021-11-29 19:42+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0111/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr ""
 #: sc/0111:0 
 msgid "喉渇いたな……\n自販機、それか大工カフェで……。\n"
 msgstr ""
+"I'm thirsty....\n"
+"The vending machine, or Daiku cafe.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +38,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:1 
 msgid "……あれ？\n"
-msgstr ".....What's that?\n"
+msgstr ".....What is that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:4 
 msgid "……壊れた？\n"
-msgstr ""
+msgstr "....It is broken?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +110,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:7 
 msgid "桜井先生の後を追ってる？\n"
-msgstr ""
+msgstr "Is he following Sakurai-sensei?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:11 
 msgid "……私を追いかけていた？\n"
-msgstr ""
+msgstr "......Have you been chasing me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,19 +170,23 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:12 
 msgid "これは非日常の風景……。\n"
-msgstr ""
+msgstr "That's an extraordinary scene....\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0111:13 
 msgid "げっ、バレちまった！\nに、逃げないと！\n"
 msgstr ""
+"She- She found me! \n"
+"I- I have to escape\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0111:14 
 msgid "待て！　逃げたら自分からつけ回してたと\n言っているようなもんだぞ！\n"
 msgstr ""
+"Wait! If i escape she'll think,\n"
+"that i have been following her! .\n"
 
 #  text 
 #  warnings: 2 
@@ -193,12 +199,17 @@ msgstr ""
 #: sc/0111:16 
 msgid "そうだ、そして話しかけられても、\n偶然、目が合っただけだと言うんだ。\n"
 msgstr ""
+"That is, is she talks to me\n"
+"i will say that it was just coincidence.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0111:17 
 msgid "その判断力、さすがだな！\nまるでスト―キングの経験があるみたいだ。\n"
 msgstr ""
+"That judgement, i'm impressed!\n"
+"It's just like\n"
+"she had experience with stockings\n"
 
 #  text 
 #  warnings: 1 
@@ -217,6 +228,9 @@ msgstr "……Huh?\n"
 #: sc/0111:20 
 msgid "な、なななな、なんのことだ？　あれは偶然！\n本当にいつも偶然だったんだよ！？\n"
 msgstr ""
+"W----What i'm talking about?\n"
+"That was just coincidence!\n"
+"It was just an ordinary coincidence!\n"
 
 #  text 
 #  warnings: 1 
@@ -228,7 +242,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0111:22 
 msgid "偶然なんだ――！\n"
-msgstr ""
+msgstr "It is just a coincidence---!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +254,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:23 
 msgid "だけど……。\n"
-msgstr ""
+msgstr "So....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +290,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:26 
 msgid "桜井先生もかわいそうに……。\n"
-msgstr ""
+msgstr "I feel sorry for Sakurai-sensei....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +302,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:27 
 msgid "……先生。\n"
-msgstr ""
+msgstr ".....Sensei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +326,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:29 
 msgid "何してるんですか？\n"
-msgstr ""
+msgstr "What i'm doing ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +339,9 @@ msgstr ""
 #: sc/0111:30 
 msgid "み、水上！？　こ、これは、あの、\nそう、今日の夕飯の材料を買いにだな！\n"
 msgstr ""
+"Mi-Minakami ! ? This is, well,\n"
+"i'm just buying the ingredients\n"
+"for tonight's dinner!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +353,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:31 
 msgid "あ、あんなところに桜井先生が。\n"
-msgstr ""
+msgstr "Ah, Sakurai-sensei is here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +366,8 @@ msgstr ""
 #: sc/0111:32 
 msgid "ドキッ！？　あ、ああ、本当だ、\n桜井先生がいるな。気付かなかった！\n"
 msgstr ""
+"Oh god, there is\n"
+"Sakurai sensei, i didn't notice her !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,6 +380,9 @@ msgstr ""
 #: sc/0111:33 
 msgid "学校を出たら赤の他人……\nだから気付かなかったんですね。\n"
 msgstr ""
+"Once she leaves the school\n"
+"she becomes a complete stranger....\n"
+"That's why i didn't notice her.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +395,9 @@ msgstr ""
 #: sc/0111:34 
 msgid "ち、ちち違う！　例え学校を出ても同僚だ！\n教職者として強い仆で結ばれていてだな！\n"
 msgstr ""
+"No, that's wrong! We're collegues\n"
+"even if we're out of school, as teachers\n"
+"We're bound by a strong bond!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +409,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:35 
 msgid "変質者？\n"
-msgstr ""
+msgstr "Pervert ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -409,6 +434,8 @@ msgstr ""
 #: sc/0111:37 
 msgid "最近、スト―カ―が出るらしいですよ。\n"
 msgstr ""
+"I heard that recently\n"
+"there are stalkers out there\n"
 
 #  speaker 
 #  warnings: 0 
@@ -421,6 +448,8 @@ msgstr ""
 #: sc/0111:38 
 msgid "なっ！？　だだだ、誰がだ！\n俺は偶然ここにいただけで弌弌\n"
 msgstr ""
+"Eh ! ?, Who ?!\n"
+"I'm just here by coincidence-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +473,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:40 
 msgid "な、なんだ……？\n"
-msgstr ""
+msgstr "W-What...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +485,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:41 
 msgid "ス―パ―、通り過ぎましたよ。\n"
-msgstr "I was just passing by the super.\n"
+msgstr "I was just passing by the super market.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +497,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:42 
 msgid "う……。\n"
-msgstr ""
+msgstr "Uh......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -481,6 +510,8 @@ msgstr ""
 #: sc/0111:43 
 msgid "で、では俺はここで！\nスト―カ―に気をつけるんだぞ！\n"
 msgstr ""
+"Then, i will stay here! \n"
+"Watching out for the stalker !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +523,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:44 
 msgid "はい。\n"
-msgstr "Yes.\n"
+msgstr "Okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +547,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:46 
 msgid "いつ捕まるかな？\n"
-msgstr ""
+msgstr "When will the stalker be caught?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +572,8 @@ msgstr "Sakurai Sensei"
 #: sc/0111:48 
 msgid "あら、水上さん。\n水上さんもお買い物？\n"
 msgstr ""
+"Oh, Minakami-san,\n"
+"Are you shopping to?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +585,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:49 
 msgid "ボディガ―ド？\n"
-msgstr ""
+msgstr "Bodyguard?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,6 +598,8 @@ msgstr ""
 #: sc/0111:50 
 msgid "ボディガ―ド……ですか？\nへ―、誰のです？\n"
 msgstr ""
+"Bodyguard...? \n"
+"Eh, who?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +611,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:51 
 msgid "それは内緒。\n"
-msgstr ""
+msgstr "That's confidential.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +624,8 @@ msgstr ""
 #: sc/0111:52 
 msgid "あっ、そうですね。\nそれは言えませんよね。\n"
 msgstr ""
+"Ah, that is.\n"
+"You can't tell about that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +662,9 @@ msgstr ""
 #: sc/0111:55 
 msgid "そうだ、水上さん。今日の夕飯なんですけど、\n何にするか迷ってるんです。\n"
 msgstr ""
+"Minakami-san, about the dinner,\n"
+"I'm not sure what,\n"
+"I'm going to make\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +676,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:56 
 msgid "カレ―。\n"
-msgstr ""
+msgstr "Curry\n"
 
 #  speaker 
 #  warnings: 0 
@@ -649,6 +689,8 @@ msgstr ""
 #: sc/0111:57 
 msgid "カレ―、ですか？　いいですね―。\n私も弟も好きなんですよ―。\n"
 msgstr ""
+"Curry? That would be nice,\n"
+"My brother and i like it-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -661,6 +703,8 @@ msgstr ""
 #: sc/0111:58 
 msgid "今日はお肉が安い日ですから、\nカレ―にしちゃいますね。\n"
 msgstr ""
+"Today the meat is cheap, \n"
+"So i will do curry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:59 
 msgid "ついでに防犯ブザ―も。\n"
-msgstr ""
+msgstr "Also a security buzzer.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:60 
 msgid "ぼ、防犯ブザ―？\n"
-msgstr ""
+msgstr "Security buzzer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:61 
 msgid "この辺りはスト―カ―が出るから。\n"
-msgstr ""
+msgstr "There is a stalker around here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +753,9 @@ msgstr ""
 #: sc/0111:62 
 msgid "……そ、そうなんですか！？\nじゃあ防犯ブザ―も買います！\n"
 msgstr ""
+".....Is that true! ?\n"
+"Is that the case,\n"
+"i'll buy the security buzzer too!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +773,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:64 
 msgid "高崎先生"
-msgstr "Mr. Takasaki"
+msgstr "Takasaki-sensei"
 
 #  text 
 #  warnings: 0 
@@ -744,7 +791,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:65 
 msgid "フフフフ……。\n"
-msgstr ""
+msgstr "Hmm......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +803,7 @@ msgstr "Ms. Sakurai"
 #  warnings: 0 
 #: sc/0111:66 
 msgid "……？　水上さん？\n"
-msgstr ""
+msgstr "....? Minakami-san?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +815,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:67 
 msgid "ククク……。\n"
-msgstr ""
+msgstr "Mwahah....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +851,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0111:70 
 msgid "……あ、警察ですか？\n"
-msgstr ""
+msgstr ".....Ah, Is that the police?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +864,8 @@ msgstr ""
 #: sc/0111:71 
 msgid "商店街に、変質者が……\n女性を尾行してます。\n"
 msgstr ""
+"A pervert in the shopping district.....\n"
+"Following a woman.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -852,4 +901,4 @@ msgstr "Mai"
 #  warnings: 0 
 #: sc/0111:74 
 msgid "明日の新聞が楽しみ。\n"
-msgstr ""
+msgstr "Look forward to tomorrow's paper.\n"
