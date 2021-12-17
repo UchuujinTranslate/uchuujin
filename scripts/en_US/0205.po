@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-10-05 12:37+0000\n"
+"PO-Revision-Date: 2021-12-18 13:26+0000\n"
 "Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0205/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr "Principal"
 #: sc/0205:0 
 msgid "ぐううう……\nな、なんという力……こ、このままでは……。\n"
 msgstr ""
+"Uuugh....\n"
+"Wh-what a power...At..at this time...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0205:3 
 msgid "げほっ……こ、今度は……\n私が倒される番だった……か……。\n"
 msgstr ""
+"Cough...it was...\n"
+"my time to attack..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,8 +101,8 @@ msgstr ""
 #: sc/0205:6 
 msgid "フィ――――ヨ――――！\nフィ――――ヨ――――ッッ！！\n"
 msgstr ""
-"Fe——————————!\n"
-"Fe—————————————!!\n"
+"Few——————————!\n"
+"Few—————————————!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -111,18 +115,22 @@ msgstr ""
 #: sc/0205:7 
 msgid "そう、その天にも届く雄叫びは、\nまるで亡き父へ勝利を捧ぐ儀式のようでした。\n"
 msgstr ""
+"Yes, that heaven-reachable shout,\n"
+"was the ceremony to announce victory to his father.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0205:8 
 msgid "ナレ―タ―お姉さん"
-msgstr "Narrator Lady"
+msgstr "Narrator"
 
 #  text 
 #  warnings: 0 
 #: sc/0205:8 
 msgid "かくして、また１つの戦いが\n終わりを告げた弌弌のですが……。\n"
 msgstr ""
+"Thus, his another fight\n"
+"marked the end....but..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -159,6 +167,8 @@ msgstr ""
 #: sc/0205:11 
 msgid "あ、すみません！\nケガはないです……か……？\n"
 msgstr ""
+"Oh, I'm sorry!\n"
+"did you injured somewhe...re...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -182,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:13 
 msgid "……鹿？\n"
-msgstr ""
+msgstr "....deer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -194,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:14 
 msgid "……鹿……だ。\n"
-msgstr ""
+msgstr "...it is....deer.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -206,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:15 
 msgid "ミィ―……？\n"
-msgstr ""
+msgstr "bleat....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -219,6 +229,8 @@ msgstr ""
 #: sc/0205:16 
 msgid "って原稿は！？\n原稿！　原稿！　原稿――――っ！！\n"
 msgstr ""
+"wait! where's sketch!?\n"
+"sketch! sketch! skeeeeeeetch!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -242,7 +254,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:18 
 msgid "早く拾わないと！　拾わないと！　拾わないと！\n"
-msgstr ""
+msgstr "I should gather them fast! Hurry! Hurry!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -266,7 +278,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:20 
 msgid "逃げるな！\n"
-msgstr ""
+msgstr "Don't run away!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -291,6 +303,8 @@ msgstr ""
 #: sc/0205:22 
 msgid "絶対に逃がさない……\n絶対に返してもらう！！\n"
 msgstr ""
+"I won't let you run away.....\n"
+"I will pay you back!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -302,7 +316,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:23 
 msgid "しゃあっ！！\n"
-msgstr ""
+msgstr "Shaaaa!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -314,7 +328,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:24 
 msgid "弌弌弌ッ！？\n"
-msgstr ""
+msgstr ".....!!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -327,6 +341,8 @@ msgstr ""
 #: sc/0205:25 
 msgid "……外した？\n捉えたはずの、私のドラゴンスクリュ―を！？\n"
 msgstr ""
+"....It avoided?\n"
+"It avoided my supposedly captured dragon screw!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -338,7 +354,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:26 
 msgid "ゲ、ゲ、ゲッ。\n"
-msgstr ""
+msgstr "Kk...Kk..Kk..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -351,6 +367,8 @@ msgstr ""
 #: sc/0205:27 
 msgid "威嚇まで……これは、ただの鹿じゃない？\nなら、今度は本気で！\n"
 msgstr ""
+"Even threats... It isn't ordinary deer!\n"
+"Then this time, seriously!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -362,7 +380,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:28 
 msgid "……！\n"
-msgstr ""
+msgstr "....!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -387,6 +405,8 @@ msgstr ""
 #: sc/0205:30 
 msgid "うう……砂ぼこりで目潰しなんて……\n鹿なのに、頭を使うじゃない……。\n"
 msgstr ""
+"Uh... making me blinded by dust...\n"
+"It's a deer, but it is using its brain...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -399,6 +419,8 @@ msgstr ""
 #: sc/0205:31 
 msgid "弌弌あれ？　うそ、いない！？\n今ので逃げられた？　一体どこに弌弌！？\n"
 msgstr ""
+"...huh!? shit, it's gone!?\n"
+"Did it just run away now? Where is it!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -410,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:32 
 msgid "ハッ、ハッ、ハッ、ハッ！\n"
-msgstr ""
+msgstr "huh...huh...huh...huh...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -434,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:34 
 msgid "弌弌ッ！？\n"
-msgstr "—— !?\n"
+msgstr "heet...!?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -447,6 +469,8 @@ msgstr ""
 #: sc/0205:35 
 msgid "待てっ！　絶対に逃がさない……\n逃がしてたまるか―っ！！\n"
 msgstr ""
+"WAIT!!!! I won't let you run away again....\n"
+"You'll SEE!!!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -458,7 +482,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:36 
 msgid "ヒッ！！\n"
-msgstr ""
+msgstr "heet!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -471,6 +495,8 @@ msgstr ""
 #: sc/0205:37 
 msgid "くううっ！？　さすが鹿っ！\nでも、負けない！　絶対に追いついてみせる！\n"
 msgstr ""
+"ughhh!? As expected....a deer!\n"
+"But, I wont lose! I will chase it and show it a damnation!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -482,7 +508,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:38 
 msgid "はああああっ！！\n"
-msgstr ""
+msgstr "HAAAAAHHH!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -494,7 +520,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:39 
 msgid "フィ――――ッ！？\n"
-msgstr ""
+msgstr "Ngghhhh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -507,6 +533,8 @@ msgstr ""
 #: sc/0205:40 
 msgid "（うあああ！　あの気迫弌弌殺気弌弌\n　捕まったら確実に剥製にされるッ！！）\n"
 msgstr ""
+"(UHAAAAH!!! I feel...murderous...\n"
+"I'll definitely be stuffed If I get caught!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -519,6 +547,8 @@ msgstr ""
 #: sc/0205:41 
 msgid "はぁっ、はぁっ！\nま、またスピ―ドをあげた！？\n"
 msgstr ""
+"huh...huh...\n"
+"It can still speed up!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -530,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:42 
 msgid "弌弌でも、絶対に逃がさない！\n"
-msgstr ""
+msgstr "...but, I won't let you go!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -542,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0205:43 
 msgid "アイツについた、原稿を取り返すまではっ！！\n"
-msgstr ""
+msgstr "Until I, get back my sketch attached on your back!!!\n"
 
 #  speaker 
 #  warnings: 0 
