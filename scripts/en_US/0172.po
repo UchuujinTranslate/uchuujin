@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"PO-Revision-Date: 2021-12-31 16:26+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0172/en_US/>\n"
@@ -36,7 +36,7 @@ msgstr "Kiyoshi"
 #  warnings: 0 
 #: sc/0172:1 
 msgid "あれ？　今、バディがいた気が……。\n"
-msgstr ""
+msgstr "Eh? I thought that buddy was here....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,8 @@ msgstr ""
 #: sc/0172:2 
 msgid "気のせいだよね。\nバディはうちにいるはずだし。\n"
 msgstr ""
+"it must be your imagination,\n"
+"i'm quite sure Buddy's at home\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0172:3 
 msgid "……でも、最近バディは突然どこかに\n走り出したりするんだよな。\n"
 msgstr ""
+"....But, Recently buddy has been\n"
+"Running to anywhere suddenly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0172:4 
 msgid "前に見つけた時は……\n何か変なことしてたし……。\n"
 msgstr ""
+"The last lime i found him...\n"
+"He was doing something weird...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0172:5 
 msgid "もしかしてこれから\nまたあんなことをしに行くつもりじゃ……。\n"
 msgstr ""
+"Perhaps he....\n"
+"He is going to do that again....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0172:6 
 msgid "それとも、全く別のことをするために\nどこかに行くところだったかも？\n"
 msgstr ""
+"Or maybe he is going somewhere,\n"
+"to do something completely different.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +130,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:8 
 msgid "よし、行ってみよう！\n"
-msgstr ""
+msgstr "Alright, let's find him !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +143,8 @@ msgstr ""
 #: sc/0172:9 
 msgid "バディ、バディ―。\nどこにいるんだ―？\n"
 msgstr ""
+"Buddy! Buddy-!\n"
+"Where are you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +157,8 @@ msgstr ""
 #: sc/0172:10 
 msgid "見つからない……\n一体どこに行ったんだ？\n"
 msgstr ""
+"He's nowhere to be found \n"
+"Where in the world did he go?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +171,8 @@ msgstr ""
 #: sc/0172:11 
 msgid "あっ、あの人に聞いてみよう。\nすみませ―ん。\n"
 msgstr ""
+"Ah, Let's ask that person.\n"
+"Pardon me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +185,8 @@ msgstr ""
 #: sc/0172:12 
 msgid "あの―、さっきこの辺りに\n犬が走ってきませんでした？\n"
 msgstr ""
+"Well, Have you seen a dog, \n"
+"Running to anywhere in this area?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +199,8 @@ msgstr "Principal"
 #: sc/0172:13 
 msgid "え？　犬ですか？\nう〜ん、見ていませんねぇ。\n"
 msgstr ""
+"Eh? A dog? \n"
+"I haven't seen any dog.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +213,8 @@ msgstr ""
 #: sc/0172:14 
 msgid "そうですか……\nありがとうございました。\n"
 msgstr ""
+"I see...\n"
+"Thank's you mister.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +226,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:15 
 msgid "（次はあっちの方に行ってみようかな）\n"
-msgstr ""
+msgstr "(i should try going that way now)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +287,8 @@ msgstr ""
 #: sc/0172:20 
 msgid "（！？\n　なんで僕の後をついてきてるの！？）\n"
 msgstr ""
+"( ! ?\n"
+"Why is he following me! ? )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -276,7 +300,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:21 
 msgid "（ハッ！？　ま、まさか……！？）\n"
-msgstr ""
+msgstr "(Huh! ?  W-What the....! ? )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:22 
 msgid "……どうかしましたか？\n"
-msgstr ""
+msgstr "......Is something wrong?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -301,24 +325,30 @@ msgstr ""
 #: sc/0172:23 
 msgid "う、う……うおおおおおお！！\n先手必勝―――！！\n"
 msgstr ""
+"Uh, Uoooooo! !\n"
+"First----! !\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0172:24 
 msgid "えええ――！？\nなんか急に襲ってきた――！？\n"
 msgstr ""
+"Ehhhh-? \n"
+"Why did you hit me so suddenly?!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0172:25 
 msgid "こ、これはオヤジ狩りか！？\nこの子供、この歳でなんてワルなんだ！\n"
 msgstr ""
+"I- Is this an old man's hunt! ?\n"
+"The kid at this age is such a scoundrel.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0172:26 
 msgid "くそぉ！　もうダメだ――！！\n"
-msgstr ""
+msgstr "Damn ! it's enough-!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -343,6 +373,8 @@ msgstr ""
 #: sc/0172:28 
 msgid "あの―、さっきこの辺りに\n犬がいたはずなんだけど見ませんでした？\n"
 msgstr ""
+"Well, just around there was a dog,\n"
+"Have you seen him?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -354,7 +386,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0172:29 
 msgid "はい？　犬？\n"
-msgstr ""
+msgstr "Eh? A dog?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -367,6 +399,8 @@ msgstr ""
 #: sc/0172:30 
 msgid "僕んちの犬なんですけど、さっきこっちに\n走っていったのが見えた気がして……。\n"
 msgstr ""
+"He is my dog, i think that\n"
+"i just saw him running to this place\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,6 +413,8 @@ msgstr ""
 #: sc/0172:31 
 msgid "でも、消えちゃったみたいに\n姿が見えなくなって……。\n"
 msgstr ""
+"But it looks like he's gone,\n"
+"i couldn't find him....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,6 +439,8 @@ msgstr ""
 #: sc/0172:33 
 msgid "もしかしたら、あれは幻だったのかも。\nだから本当に消えちゃって……なんて。\n"
 msgstr ""
+"Maybe it was just a spirit,\n"
+"That's why he disappeared.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,6 +465,8 @@ msgstr ""
 #: sc/0172:35 
 msgid "声をかけてごめんなさい。\n僕、行きますね。\n"
 msgstr ""
+"Sorry for calling you,\n"
+"Well, I will keep looking for buddy.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,6 +479,8 @@ msgstr ""
 #: sc/0172:36 
 msgid "あっ。待ちなさい。\n私はその犬のことを知ってますよ。\n"
 msgstr ""
+"Oh, wait a moment, \n"
+"I think i know that dog.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +493,8 @@ msgstr ""
 #: sc/0172:37 
 msgid "えっ？　本当！？\nバディはどこに！？\n"
 msgstr ""
+"Eh? Really! ? \n"
+"Do you know where is buddy ! ?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -462,7 +506,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:38 
 msgid "今ここに、私たちの目の前にいます。\n"
-msgstr ""
+msgstr "Right now, right in front of us.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +518,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:39 
 msgid "え？　どこにもいないよ？\n"
-msgstr ""
+msgstr "Eh? i can't see him anywhere\n"
 
 #  speaker 
 #  warnings: 0 
@@ -487,6 +531,9 @@ msgstr ""
 #: sc/0172:40 
 msgid "それはこの犬が霊体だからです。\nあなたが心配であの世から見に来たそうです。\n"
 msgstr ""
+"That's because the dog is a ghost,\n"
+"He was worried about you,\n"
+"So he came to this earthly plane\n"
 
 #  speaker 
 #  warnings: 0 
@@ -511,6 +558,8 @@ msgstr ""
 #: sc/0172:42 
 msgid "私はイタコをやっているので\nこの犬の霊を降ろし、話をさせましょう。\n"
 msgstr ""
+"I'm a medium so,\n"
+"i'll bring his soul and let him talk.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +571,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:43 
 msgid "な、何を言って弌弌\n"
-msgstr ""
+msgstr "W- What are you saying?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,6 +584,9 @@ msgstr ""
 #: sc/0172:44 
 msgid "うう……ご主人様と喋れる日が来るなんて\n夢のようだワン。\n"
 msgstr ""
+"Who..So the day when i could talk \n"
+"has finally arrived, \n"
+"It's like a dream come true, Woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -559,6 +611,8 @@ msgstr ""
 #: sc/0172:46 
 msgid "元気にしてたワンか？\n風邪とか引いてないワンか？\n"
 msgstr ""
+"Woof, how are you doing?\n"
+"Woof, Did you catch a cold?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -571,6 +625,9 @@ msgstr ""
 #: sc/0172:47 
 msgid "いや、何してるの？　いくら僕が子供でも\nそんな小芝居に佶されないよ？\n"
 msgstr ""
+"Eh, no, what are you talking about? \n"
+"I'm just a kid, stop your little show,\n"
+"and don't make me part of it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +640,9 @@ msgstr ""
 #: sc/0172:48 
 msgid "小芝居じゃないワン。イタコさんが霊の僕に\n体を貸して話をさせてくれてるんだワン。\n"
 msgstr ""
+"This is not a little show, \n"
+"the medium let me possess his body\n"
+"so i can talk.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -595,6 +655,8 @@ msgstr ""
 #: sc/0172:49 
 msgid "ふ―ん。じゃあお前の名前は？\n本物なら言えるよね？\n"
 msgstr ""
+"Hmn...So what's your name? \n"
+"If you are the original you must know it\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +669,8 @@ msgstr ""
 #: sc/0172:50 
 msgid "もちろんだワン。\n僕の名前はバディだワン。\n"
 msgstr ""
+"Of course Woof, \n"
+"My name is buddy woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,6 +683,8 @@ msgstr ""
 #: sc/0172:51 
 msgid "（くっ！　さっきちょっと言ったのを\n　しっかり覚えている！）\n"
 msgstr ""
+"(I said the name before,\n"
+"He remembers it well!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +697,9 @@ msgstr ""
 #: sc/0172:52 
 msgid "そ、そうだ。もう１つ質問。\nうちで飼ってるもう１匹の名前は？\n"
 msgstr ""
+"That's right, well one more question,\n"
+"What's the name of the other dog\n"
+"We have at home?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +724,8 @@ msgstr ""
 #: sc/0172:54 
 msgid "本当にバディなら\nこれくらいわかるよね？\n"
 msgstr ""
+"If you are the real buddy, \n"
+"You must know that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -666,7 +737,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:55 
 msgid "……カバディ。\n"
-msgstr ""
+msgstr "...Kabady.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +750,8 @@ msgstr ""
 #: sc/0172:56 
 msgid "惜しい！　でも間違い！\n正解はコバディだよ！\n"
 msgstr ""
+"Near! But wrong,\n"
+"The answer is Co-buddy!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +764,8 @@ msgstr ""
 #: sc/0172:57 
 msgid "知ってるワン。だからさっき\nコバディって言ったワン。\n"
 msgstr ""
+"I know woof,\n"
+"That's why i said co-buddy woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -702,7 +777,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:58 
 msgid "えっ？　だって、今、カバディって弌弌\n"
-msgstr ""
+msgstr "Eh? But, you said kabaddy---\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,6 +790,8 @@ msgstr ""
 #: sc/0172:59 
 msgid "聞き間違いだワン。\nコバディって言ったワン。\n"
 msgstr ""
+"You heard wrong woof,\n"
+"I said co-buddy woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -739,6 +816,8 @@ msgstr ""
 #: sc/0172:61 
 msgid "これで僕のこと、\nバディだって信じてくれたワン？\n"
 msgstr ""
+"That's what i said woof,\n"
+"Don't you believe in me? woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -750,7 +829,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:62 
 msgid "くっ……なんて汚い大人なんだ。\n"
-msgstr ""
+msgstr "Agh...What a filthy adult you are.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +853,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:64 
 msgid "あっ、バディ！\n"
-msgstr ""
+msgstr "Ah, Buddy !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -799,6 +878,8 @@ msgstr ""
 #: sc/0172:66 
 msgid "おまえ、どこ行ってたんだ。\n……でも、良い所に来てくれたよ。\n"
 msgstr ""
+"Where did you go?\n"
+"Well, at least you come to right to me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +892,8 @@ msgstr ""
 #: sc/0172:67 
 msgid "イタコさん、これが本物のバディだ！\n小芝居だってバレた弌弌\n"
 msgstr ""
+"Medium, this is the real one buddy ! \n"
+"I knew you were doing a show\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +917,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:69 
 msgid "消えた……。\n"
-msgstr ""
+msgstr "He's gone.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +941,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:71 
 msgid "まさか、幽霊……？\n"
-msgstr ""
+msgstr "Wait, was he the real ghost?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,6 +954,8 @@ msgstr ""
 #: sc/0172:72 
 msgid "お喋りできるようになって嬉しいワン。\nこのイタコさんに感謝だワン。\n"
 msgstr ""
+"I'm glad we can finally talk woof. \n"
+"All thanks to this medium woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,6 +980,8 @@ msgstr ""
 #: sc/0172:74 
 msgid "（イタコ……聞いたことがある。\n　死んだ人の霊を呼ぶ人だっけ？）\n"
 msgstr ""
+"(I heard something about the mediums,\n"
+"They can talk with spirits, right? )\n"
 
 #  speaker 
 #  warnings: 0 
@@ -907,6 +994,8 @@ msgstr ""
 #: sc/0172:75 
 msgid "（でもバディは死んでないし……\n　この人、何してるんだ？）\n"
 msgstr ""
+"(But Buddy is not dead and\n"
+"What is this person doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +1008,8 @@ msgstr ""
 #: sc/0172:76 
 msgid "今日はご主人様が心配で見に来たけど、\n立派に成長しててうれしいワン。\n"
 msgstr ""
+"I was worried about you so i came woof,\n"
+"I'm glad to see that you've grown.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -931,6 +1022,8 @@ msgstr ""
 #: sc/0172:77 
 msgid "僕はこれで安心して成仏できるワン。\nイタコさんに感謝するワン。\n"
 msgstr ""
+"Now i can finally rest in peace woof,\n"
+"All thanks to this wonderful medium.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -943,6 +1036,8 @@ msgstr ""
 #: sc/0172:78 
 msgid "あの、ちょっといい？\nその犬の霊だけど……。\n"
 msgstr ""
+"Uhm, can you wait a moment? \n"
+"That dog's spirit....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -955,6 +1050,8 @@ msgstr ""
 #: sc/0172:79 
 msgid "ああぁ……ふぅ。\n動物霊を降ろすのは疲れる。\n"
 msgstr ""
+"Ahh....Fuu, Calling animal spirits,\n"
+"is really exhausting\n"
 
 #  speaker 
 #  warnings: 0 
@@ -967,6 +1064,8 @@ msgstr ""
 #: sc/0172:80 
 msgid "犬と話ができたようで良かった。\nそれじゃあお代、５千円もらいます。\n"
 msgstr ""
+"I'm glad you could talk with your dog, \n"
+"Well then, it will be 5000 yens.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -978,7 +1077,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:81 
 msgid "えっ！？　ごごごご、５千円！？\n"
-msgstr ""
+msgstr "Eh ! ? 5000 yens ? !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -991,6 +1090,8 @@ msgstr ""
 #: sc/0172:82 
 msgid "無理だよ！　というか、嫌だよ！\nどう見てもインチキじゃん！\n"
 msgstr ""
+"I can't ! i mean, i will not pay ! \n"
+"No matter how you look it, you're a fraud\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1003,6 +1104,8 @@ msgstr ""
 #: sc/0172:83 
 msgid "ご主人様。インチキなんて言っちゃ駄目だワン。\nそれにお金を払わないのもよくないワン。\n"
 msgstr ""
+"Master, don't say it is fraud woof,\n"
+"And please you have to pay for it woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1026,7 +1129,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:85 
 msgid "……５千円。\n"
-msgstr ""
+msgstr ".....44 Dollars.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1050,7 +1153,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:87 
 msgid "あの、何してるんですか？\n"
-msgstr ""
+msgstr "Huh, what are you doing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1165,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:88 
 msgid "ご主人様はイタコを知らないのかワン？\n"
-msgstr ""
+msgstr "Doesn't master know about the mediums?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1074,7 +1177,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:89 
 msgid "一応、聞いたことはあるけど……。\n"
-msgstr ""
+msgstr "I know a little but....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1087,6 +1190,8 @@ msgstr ""
 #: sc/0172:90 
 msgid "僕は今このイタコさんの体を借りて\n話をしているんだワン。\n"
 msgstr ""
+"The medium lent me his body woof,\n"
+"so now i can talk with you woof.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1098,7 +1203,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:91 
 msgid "はぁ……。\n"
-msgstr "*Sigh*…….\n"
+msgstr "Ha...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1111,6 +1216,8 @@ msgstr ""
 #: sc/0172:92 
 msgid "僕は死んじゃったけど、ご主人様が心配で\nあの世から戻ってきたんだワン。\n"
 msgstr ""
+"I even if i was dead i was worried so,\n"
+"I came back from the other world.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1122,7 +1229,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:93 
 msgid "うちのバディはまだ生きてるよ？\n"
-msgstr ""
+msgstr "But Buddy is still alive, okay?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1158,7 +1265,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0172:96 
 msgid "……ケッ！\n"
-msgstr ""
+msgstr "....hmph !\n"
 
 #  speaker 
 #  warnings: 0 
