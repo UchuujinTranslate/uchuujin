@@ -1,0 +1,570 @@
+{
+  "UNK": "a225",
+  "id": 16,
+  "total": 80,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "2000000038050000cc070000d00700002e0b0000480b0000961100000a150000fcffedfe0e001000110004ff03ff0300c1ffffff1000bcff00f0ff0067ff0800fcfff9ff0800eefe00000500ebfe000064ffffff1900",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ウェボシー",
+      "text": "ヒマー。\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ウェボシー",
+      "text": "ヒマすぎるー。みさとは部活だし、\nフェっちゃんは消えたし……。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ウェボシー",
+      "text": "はあ……\nジュースでも飲んで帰ろ。\n",
+      "ctrl_code": "fbffc1ff70011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ウェボシー",
+      "text": "……あれ？　あそこにいるのは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0300f6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "text": "ふう、ありがとう安中さん。\nいつもいつも助けてもらってごめんね。\n",
+      "ctrl_code": "fbffc0ff040056011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "安中",
+      "text": "気にしなくていいよ。\nクラスメートだもの。\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "安中",
+      "text": "でも、大変だよね。\n落とし穴に落ちてばかりで。\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条",
+      "text": "けど、もう慣れたよ。\nそれにこれはこれで貴重な体験だと思うんだ。\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "安中",
+      "text": "そんな冗談言って……ふふふふふ。\n",
+      "ctrl_code": "98ff0000effe080097fffbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff70011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ウェボシー",
+      "text": "……何あれ？\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "ウェボシー",
+      "text": "もしかして、かか、彼女、とか？\nうそ、そんな感じ無かったのに……。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ウェボシー",
+      "text": "それとも……ライバル出現？\nううん、実はもう……。\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe0000adffffff64ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ウェボシー",
+      "text": "………………。\n",
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0200c1ff70011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "text": "何、このモヤモヤ！？\n",
+      "ctrl_code": "fbfffefe000001007fff020067ff0d00c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "バディ",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedffc8ff6d0131011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "バディ",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "ウェボシー",
+      "text": "……ありがと、慰めてくれたんだ。\nいい奴なん[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ウェボシー",
+      "text": "[{0D80}][{0D80}]ん？\nなんだろ、これ。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1200faff01000000f9ff0800e8fe0200c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "text": "抜かれたーっ！？\n",
+      "ctrl_code": "fbffc1ffbf011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "text": "おい、どうなった！！\n船のシステムは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff02002400"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF09}]",
+      "text": "サブシステムダウン！　左、出力低下！\nこ、このままでは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF09}]",
+      "text": "やっぱりダメだったーーっ！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff6d011000ebfe0000adffffff64ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "ウェボシー",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "ウェボシー",
+      "text": "ううううううううううう！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff00c0ff03005601ff0090ffffff90ffffff67ff110071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ウェボシー",
+      "text": "ねえ、そこの！　リボン着けた子！\n",
+      "ctrl_code": "fbff05ff1fff0400000000020000c0ff04006d01ff001aff04000000680000001e0016ffffffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "安中",
+      "text": "わ、私ですか？\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "ウェボシー",
+      "text": "あなたしかいないでしょ？\nあ、あのさ……中之条の、何？\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff56011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "安中",
+      "text": "何って……私ですか？　同級生ですけど……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff70011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ウェボシー",
+      "text": "じゃあアレ！？　アイツは同級生が好みなの！？\nリボンとかウサギが大好きなの！？\n",
+      "ctrl_code": "fbffe8fe0400c1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "安中",
+      "text": "わわわわわかりません！\n",
+      "ctrl_code": "98ff0000effe020097fffbffe8fe0200c1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "ウェボシー",
+      "text": "なんで！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "安中",
+      "text": "ただの同級生ですから。\nそこまではちょっと……。\n",
+      "ctrl_code": "fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700eefe0200040067ff1800e8fe0200b3ff0300c1ff6e011000ebfe000065ff04001900"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ウェボシー",
+      "text": "目を見て話せっ！！\n",
+      "ctrl_code": "98ff0000b2ff97fffbffe8fe0200c1ff59011000ebfe000065ff05001400"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "安中",
+      "text": "はいいいいっ！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff70011000ebfe000065ff06001900"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "ウェボシー",
+      "text": "モヒカンは！　あんたの、何っ！？\n誰っ！　好きっ？　ウサギ！？　リボン！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff57011000ebfe000065ff07001400"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "安中",
+      "text": "穴です！　落とし穴です！\n",
+      "ctrl_code": "fbffeefe01000400c1ff6d011000ebfe000065ff08001900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ウェボシー",
+      "text": "……落とし、穴？\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff09001400"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "安中",
+      "text": "そうです！　高崎先生に頼んでます！\n本当です！　いつもいつもいつもいつもです！\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe0000adffffff65ff0a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ウェボシー",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff0b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ウェボシー",
+      "text": "……ふ……。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff0c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ウェボシー",
+      "text": "……ふふ……ふふ……ふふふ……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff6e011000ebfe000065ff0d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ウェボシー",
+      "text": "はーっはははははははははははっ！\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff0e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ウェボシー",
+      "text": "邪魔したね！\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0400ffff1000daffc1ff59011000ebfe000065ff0f001400"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "安中",
+      "text": "は、はあ……？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff6d011000ebfe000065ff10001900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ウェボシー",
+      "text": "そっか……穴か。穴だったんだ！\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff11001900"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ウェボシー",
+      "text": "中之条が穴に落ちるのを待てばいいんだ！\nそしたら助けて……助けて……。\n",
+      "ctrl_code": "fbffc1ff70011000ebfe000065ff12001900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ウェボシー",
+      "text": "どうしよ？　そっからどうすんのよ！？\nアイツに何すればいいの！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff6f011000ebfe000065ff13001900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ウェボシー",
+      "text": "あーもう！　わかんない！\nていうか私、どうしたいの！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff14001900"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ウェボシー",
+      "text": "私は何をすればいいのよー！？\n",
+      "ctrl_code": "fbfffaff02000000f8ff100066ff50000000bcfffd011000f9ff0800ebfe0000adffffff65ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ウェボシー",
+      "text": "……………………。\n",
+      "ctrl_code": "98ff0000effe060097fffbffebfe000065ff16001900"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ウェボシー",
+      "text": "……穴に落ちる以外で。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff6d011000ebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ウェボシー",
+      "text": "だよねー……ただのクラスメートだもんねぇ。\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff18001400"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "安中",
+      "text": "そ、そうなんです。\nそれで……あなたは？\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000065ff19001900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ウェボシー",
+      "text": "え？　わ、私？\n私は……私は……あれよ、ただの……。\n",
+      "ctrl_code": "fbffc1ff56011000ebfe000065ff1a001400"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "安中",
+      "text": "ただの？\n",
+      "ctrl_code": "fbffeefe03000400e8fe0200c1ff70011000ebfe000065ff1b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ウェボシー",
+      "text": "ただのお花の係よ！　中之条にパイナップルを\n植えてもらおうとしただけよ！\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff59011000ebfe000065ff1c001400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "安中",
+      "text": "パ、パイナップル、ですか？\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff1d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "ウェボシー",
+      "text": "似てない？\nモヒカンとパイナップル。\n",
+      "ctrl_code": "fbffeefe04000400c1ff57011000ebfe000065ff1e001400"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "安中",
+      "text": "な、何となく。\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff6d011000ebfe000065ff1f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ウェボシー",
+      "text": "と言うわけで花壇を荒らさないように。\nそれじゃ[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff59011000ebfe0000adffffff65ff20001400"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "安中",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff21001400"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "安中",
+      "text": "何だったんだろう？\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6d011000ebfe000065ff22001900"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ウェボシー",
+      "text": "わかった、もういい。\n……聞いてきて。\n",
+      "ctrl_code": "fbffeefe01000400c1ff59011000ebfe000065ff23001400"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "安中",
+      "text": "ど、どういう意味ですか？\n",
+      "ctrl_code": "fbffc1ff70011000ebfe000065ff24001900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ウェボシー",
+      "text": "だから何が好きか、アイツに聞いてきて。\n",
+      "ctrl_code": "fbff67ff1200c1ff57011000ebfe000065ff25001400"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "安中",
+      "text": "いいですけど……\nでも、大福だけは確実ですよ？\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff26001900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ウェボシー",
+      "text": "なんで？\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000065ff27001400"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "安中",
+      "text": "おうちが大福屋さんだからです。\n",
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffe8fe0200c1ff70011000ebfe000065ff28001900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ウェボシー",
+      "text": "なんで知ってるの！？\nあんた、まさか嫁いでんの！？\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff59011000ebfe000065ff29001400"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "安中",
+      "text": "ちちちち、違います！\nクラスの子なら、みんな知ってます！\n",
+      "ctrl_code": "fbffe8fe0200c1ff6e011000ebfe000065ff2a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ウェボシー",
+      "text": "何それ！？　知らない人を差別するつもり！？\n",
+      "ctrl_code": "fbffc1ff57011000ebfe000065ff2b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "安中",
+      "text": "だからクラスの子なら誰でも、です！\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff2c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "ウェボシー",
+      "text": "わかった。なら今日から１年Ｑ組に入るから。\n",
+      "ctrl_code": "98ff0000eefe02000400effe080097fffbffc1ff59011000ebfe000065ff2d001400"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "安中",
+      "text": "えーっ！？　でも、上級生の人じゃ……。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff2e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ウェボシー",
+      "text": "だったら、あんたが進級！　私は落第！\n",
+      "ctrl_code": "fbffafff03000300e8fe0400c1ff57011000ebfe000065ff2f001400"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "安中",
+      "text": "ええーーーっ！\nむ、無理です、もう勘弁してください！\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff6d011000ebfe000065ff30001900"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ウェボシー",
+      "text": "はあ……わかったわ。\nだったら最後に１つだけ。\n",
+      "ctrl_code": "fbffafff03000000c1ff56011000ebfe000065ff31001400"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "安中",
+      "text": "何ですか？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff32001900"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "ウェボシー",
+      "text": "アンタの教室、明日から２年Ｐ組だから。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff33001400"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "安中",
+      "text": "＠！！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

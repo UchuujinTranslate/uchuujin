@@ -1,0 +1,752 @@
+{
+  "UNK": "0226",
+  "id": 16,
+  "total": 106,
+  "ptrs": 448,
+  "extra": 0,
+  "ctrl_code": "20000000301100005016000054160000d4180000ee180000701e0000d2210000fcffedfe09000b000c0004ff03ff0300c1ffffff1000bcffead1ff0067ff0c00fcfff9ff0800eefe0000050066ff55000000daffe8fe0200ebfe000064ffffff0400",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みさと",
+      "text": "ああああんたのためじゃないんだから！\nヤギのためなんだからね！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edffc8ffe00036021000ebfe000064ffffff2c00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "執事",
+      "text": "……そろそろお食事の時間ですが。\n",
+      "ctrl_code": "fbffc1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "笹原",
+      "text": "ふむ……ならば仕方があるまい。\n立花、これで失礼する。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ff94001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みさと",
+      "text": "ちょっ！？　何逃げてんのよ！？\n待ちなさーい！！\n",
+      "ctrl_code": "98ff0000effe030097fffbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff00c8ff79017101ff0090ff710190ffffff67ff090071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "フェっちゃん",
+      "text": "あーあ、行っちゃったね。\n",
+      "ctrl_code": "fbffc1ff71011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ウェボシー",
+      "text": "毎度のことながら、よく飽きないね。\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "フェっちゃん",
+      "text": "だよねー。好きな人ができたら、\nみんなこんな感じなのかな？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ウェボシー",
+      "text": "みさとは極端すぎるけど……たぶんそうかもね。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシーは？　モヒカンとはどう？\n",
+      "ctrl_code": "fbffc1ff73011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ウェボシー",
+      "text": "どうって、特に何も……。\nっていうか……どうなんだろ？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "フェっちゃん",
+      "text": "ん、何のこと？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ウェボシー",
+      "text": "……何でもない。\nちょっと学校戻って散歩してくる。\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "フェっちゃん",
+      "text": "……ちょっと？\nねえねえ、ちょっとって？\n",
+      "ctrl_code": "fbffc1ff71011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "text": "……見つかるまで。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "フェっちゃん",
+      "text": "フェ？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "ウェボシー",
+      "text": "んじゃね。\n",
+      "ctrl_code": "fbffedffc0ff0400ffff1000e8fe0200c1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "フェっちゃん",
+      "text": "ええーっ！\nちょっと……って、もう行っちゃった。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "フェっちゃん",
+      "text": "でも、好きな人かー。\n",
+      "ctrl_code": "fbffebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "フェっちゃん",
+      "text": "私にも好きな人っての見つからないかなー？\n……もちろん変人以外で！\n",
+      "ctrl_code": "98ff0000effe030097fffbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc3d1ff00c1fffeffff00c8ffe4000001ff0090ff000190ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800adfffeffebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "笹原＆中之条",
+      "text": "は……\nは、はくしょん！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "フェっちゃん",
+      "text": "んー、時間もあるし、\n私も学校行って探してみよっかなー。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff87d1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff080071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "フェっちゃん",
+      "text": "誰かいないかなー、誰かいないかなー？\n誰かいないかなー、誰かいないかなーー！\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "フェっちゃん",
+      "text": "って、急に見つかるわけないよねー。\nあはは。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "フェっちゃん",
+      "text": "……もうやめたー。\nジュース飲んで帰ろー。\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "フェっちゃん",
+      "text": "フェ〜〜〜〜ッ！？\n",
+      "ctrl_code": "fbff67ff0a00ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "？？？（桜井誠）",
+      "text": "[{0D80}][{0D80}]あ、すみません。ケガは？\n",
+      "ctrl_code": "fbffedffc8ff440179011000c1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "フェっちゃん",
+      "text": "ううん、ないけど……。\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井誠",
+      "text": "ほっ、よかった。あ、すみません。\n囲碁サッカー部に行かないといけないので。\n",
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daffc1ff7c011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "フェっちゃん",
+      "text": "ちょ、ちょっと！？\n",
+      "ctrl_code": "fdffedfffcff1fff0300000000fe0000c0ff03004401ff001aff0300000078ff00003c0016ffffffebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井誠",
+      "text": "はい？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "フェっちゃん",
+      "text": "な、名前……。\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff48011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井誠",
+      "text": "え、俺のですか？\n……桜井誠、ですけど。\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "フェっちゃん",
+      "text": "そ、そう……ありがと。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井誠",
+      "text": "それじゃ、失礼します。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "フェっちゃん",
+      "text": "あ……う、うん。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff87d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "フェっちゃん",
+      "text": "桜井、誠くんかー。\nあんな人、学校にいたんだ。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "フェっちゃん",
+      "text": "どこかの部室とか言ってたけど、何年生だろ？\n２年生じゃ見たことないし……。\n",
+      "ctrl_code": "fbffedffc8ff790172011000c1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ウェボシー",
+      "text": "たぶん１年生じゃない？　敬語だったし。\n３年生ってほど大人びてないから。\n",
+      "ctrl_code": "fbffe8fe0400c1ff7c011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "フェっちゃん",
+      "text": "フェ〜〜〜〜ッ！？\nウェボシー！？　どうして、散歩は！？\n",
+      "ctrl_code": "fbffc1ff73011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ウェボシー",
+      "text": "……今日はもう帰っちゃったみたい。\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "フェっちゃん",
+      "text": "フェ？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ウェボシー",
+      "text": "な、何でもない。\nそれより、追いかけなくていいの？\n",
+      "ctrl_code": "fbffe8fe0200c1ff7c011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "フェっちゃん",
+      "text": "あ、あの子を！？\n",
+      "ctrl_code": "fbffc1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "フェっちゃん",
+      "text": "いや、さすがにそれは……\n最初っからストーカーはどうだろ？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ウェボシー",
+      "text": "みさとを見なって。\nあれぐらいやんないと駄目だって。\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "フェっちゃん",
+      "text": "そ、そかな？\n",
+      "ctrl_code": "fbffc1ff71011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ウェボシー",
+      "text": "そうなの。\nほら、行くわよ。\n",
+      "ctrl_code": "fbffc1ff7c011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "フェっちゃん",
+      "text": "ちょ、ちょっとウェボシ〜！！？\n",
+      "ctrl_code": "fbfffefe020001007fff0200faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff87d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "阪本さん",
+      "text": "[{0D80}][{0D80}]おー、青春って奴だな。\nしかし、囲碁サッカーって何なんだ？\n",
+      "ctrl_code": "fbff67ffffffedffc8ff25015a011000c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "教頭先生",
+      "text": "……おや、こんな所に黒猫が。\n",
+      "ctrl_code": "fbff67ff1100c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "教頭先生",
+      "text": "実に縁起でもない。\n受験をひかえた３年生がいると言うのに……。\n",
+      "ctrl_code": "fbffe8fe0300c1ff2f011000ebfe0100adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "阪本さん",
+      "text": "（ヤバッ、見つかった！？）\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffe8fe0200c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "教頭先生",
+      "text": "ま、待ちなさいっ！\n",
+      "ctrl_code": "fbffedffc1ffffff1000bcffffd11000ebfe0100adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "阪本さん",
+      "text": "（あ、あのオッサン、目がヤバすぎるだろ！\n　お？　あそこのフェンスの隙間なら[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffbcffabd1100066ffcc000000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "阪本さん",
+      "text": "ん！？\n何だこりゃ！？　何か引っかかったぞ！？\n",
+      "ctrl_code": "fbffebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "阪本さん",
+      "text": "くうううっ！　早く、逃げないとっ！\nよし、もっと力を入れれば[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c0ff0300bb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "[{FF07}]",
+      "text": "曲がったーっ！？\n",
+      "ctrl_code": "fbffc0ff0400ce011000ebfe000065ff01002400"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "[{FF09}]",
+      "text": "何やってんだよっ！？\nアンテナはもっと丁寧に扱えよっ！\n",
+      "ctrl_code": "fbffc0ff0300c5011000ebfe000065ff02002300"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "[{FF08}]",
+      "text": "今、そんなこと言ってる場合か！\nこのままじゃ完全に壊れるぞ！\n",
+      "ctrl_code": "fbffc1ffd2011000ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "[{FF09}]",
+      "text": "ちょっ、それ駄目だろ！\nもう猫に無茶はさせるな！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "[{FF07}]",
+      "text": "させちゃったーーーーっ！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff3d1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff080071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "フェっちゃん",
+      "text": "……そこの部室に入ってったね。\n",
+      "ctrl_code": "fbff05ffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ウェボシー",
+      "text": "えーと……囲碁サッカー部？\n",
+      "ctrl_code": "fbffedffc8ff710179011000c1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "フェっちゃん",
+      "text": "どっち？\n",
+      "ctrl_code": "fbffc1ff71011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ウェボシー",
+      "text": "両方。\n……囲碁サッカー。\n",
+      "ctrl_code": "fbffc1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "フェっちゃん",
+      "text": "そんな部活があったんだ……\n何するとこだろ？\n",
+      "ctrl_code": "fbffc1ff73011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ウェボシー",
+      "text": "私に聞かないでよ。\n……で、どうするの？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "フェっちゃん",
+      "text": "何が？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ウェボシー",
+      "text": "行くのかどうかって聞いてんのよ。\nあの子、気になるんでしょ？\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700c1ff7a011000ebfe000065ff05001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "フェっちゃん",
+      "text": "ん……けど、やめとく。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff71011000ebfe000065ff06001900"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ウェボシー",
+      "text": "なんで？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff07001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシー、あの子のこと、どう思う？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000065ff08001900"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "ウェボシー",
+      "text": "良さげじゃない、顔とか性格とか。\n部活は変だけど。\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff09001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "フェっちゃん",
+      "text": "そっかー。\nだったら、やっぱりだなー。\n",
+      "ctrl_code": "fbffeefe01000400c1ff71011000ebfe000065ff0a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ウェボシー",
+      "text": "何が？\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000065ff0b001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシーやみさととは、\nこういうことの趣味は合わないなーって。\n",
+      "ctrl_code": "fbffc1ff74011000ebfe000065ff0c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ウェボシー",
+      "text": "は？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff0d001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "フェっちゃん",
+      "text": "だから……\n変な人は好きになれないから？\n",
+      "ctrl_code": "98ff0000effe010097fffbffc1ff71011000ebfe000065ff0e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "ウェボシー",
+      "text": "ふーん。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3300ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800edfffcff66ff71000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff0f001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "フェっちゃん",
+      "text": "フェーーッ！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff3d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff7b011000ebfe000065ff10001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "フェっちゃん",
+      "text": "な、なんで、みさとまでーーっ！？\n",
+      "ctrl_code": "fbffeefe05000400e8fe0200c1ff98001000ebfe000065ff11000400"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "みさと",
+      "text": "さ、笹原は変なヤツじゃないわよ。\n笹原は……笹原は……ひどいヤツなのよっ！\n",
+      "ctrl_code": "fbffedffc8ff710179011000adfffeffebfe0000aeff03008000aeff0400800065ff12001900"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800aeff03000000aeff04000000ebfe0100adffffff65ff13001900"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "ウェボシー",
+      "text": "（……みさとの方がひどいだろ）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff7b011000ebfe000065ff14001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "フェっちゃん",
+      "text": "そ、それはそうだけど……\n順序ってのがあるよ？\n",
+      "ctrl_code": "fbffc1ff72011000ebfe000065ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "ウェボシー",
+      "text": "ラブレターとか？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff16001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "フェっちゃん",
+      "text": "じゃなくて……ほら、バズーカとか。\nあと、ロケットランチャーとか。\n",
+      "ctrl_code": "fbffeefe03000400c1ff73011000ebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "ウェボシー",
+      "text": "……それ、みさとだけでいいから。\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff7a011000ebfe000065ff18001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "フェっちゃん",
+      "text": "でも、ウェボシーだってモヒカンでしょ？\n",
+      "ctrl_code": "fbffc1ff74011000ebfe000065ff19001900"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "ウェボシー",
+      "text": "そ、それはあっちだけ！\nわたしはモヒカンにしません！\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff1a001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "フェっちゃん",
+      "text": "じゃあ……\nアレから、かなー？\n",
+      "ctrl_code": "fbffc1ff71011000ebfe000065ff1b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "ウェボシー",
+      "text": "アレって何？\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000065ff1c001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "フェっちゃん",
+      "text": "ヤギ。\n会う口実ができるよ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "ウェボシー",
+      "text": "……だから、それもみさとだけだってば。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff79011000ebfe000065ff1e001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "フェっちゃん",
+      "text": "気にはなるけど……。\nぶつかったから気になっただけ？\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff74011000ebfe000065ff1f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "ウェボシー",
+      "text": "何それー！？\n無茶苦茶気がありそうでしたけど？\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000065ff20001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシーの誤解だってば。\nそれより、囲碁サッカー部かー。\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000065ff21001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "フェっちゃん",
+      "text": "さては、人を転ばせることが目的？\n",
+      "ctrl_code": "fbffeefe01000400c1ff71011000ebfe000065ff22001900"
+    },
+    {
+      "magic": 65520,
+      "id": 98,
+      "speaker": "ウェボシー",
+      "text": "はあ？\n",
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff23001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 99,
+      "speaker": "フェっちゃん",
+      "text": "囲碁でサッカーでしょ？\n",
+      "ctrl_code": "fbffc1ff7a011000ebfe000065ff24001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 100,
+      "speaker": "フェっちゃん",
+      "text": "囲碁のように戦略的に。\nサッカーのようにドスッ！　と？\n",
+      "ctrl_code": "fbffafff04000300c1ff71011000ebfe000065ff25001900"
+    },
+    {
+      "magic": 65520,
+      "id": 101,
+      "speaker": "ウェボシー",
+      "text": "そうね、そうですねー。じゃあ私、\nジュース買ってくるから。\n",
+      "ctrl_code": "fbffc1ff7c011000ebfe000065ff26001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 102,
+      "speaker": "フェっちゃん",
+      "text": "ちょっと最後まで聞いてよー！\n囲碁サッカーの真の姿、気になるでしょ？\n",
+      "ctrl_code": "fbffafff04000000c1ff71011000ebfe000065ff27001900"
+    },
+    {
+      "magic": 65520,
+      "id": 103,
+      "speaker": "ウェボシー",
+      "text": "んー。\n別にいいかな？　それよりジュース[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff7b011000ebfe000065ff28001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 104,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシーの意地悪ー！\n話はちゃんと聞かないとだめなんだからーっ！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3300ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800edfffcff66ff71000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff29000400"
+    },
+    {
+      "magic": 65520,
+      "id": 105,
+      "speaker": "みさと＆ウェボシー",
+      "text": "お前が言うなっ！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

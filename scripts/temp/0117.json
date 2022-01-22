@@ -1,0 +1,570 @@
+{
+  "UNK": "fa1c",
+  "id": 16,
+  "total": 80,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "2000000082030000e2060000e6060000c0080000da0800008e0e00008a130000fcffedfe080009000a0004ff03ff0300c1ffffff1000bcff9301ff0067ff0800fcfff9ff0800eefe0000050066ffa7000000ebfe000064ffffff1100",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井誠",
+      "text": "１３６、１３７、１３８……。\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井誠",
+      "text": "何とか落とさず教室まで行けそう……っと。\n……あれ？\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "桜井誠",
+      "text": "向こうから来るのって関口さん？\n本読んでるから顔は見えないけど……多分。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井誠",
+      "text": "すみませーん、関口さーん。\n",
+      "ctrl_code": "fbffedffc8ff4e014a011000c1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "関口",
+      "text": "……あ、桜井くん。どうも。\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井誠",
+      "text": "こんにちは。歩きながら\n本読んでる人が居るからびっくりしました。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "桜井誠",
+      "text": "ほんとにいつも本読んでるんですね。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "関口",
+      "text": "私もリフティングしながら\n歩いてくる人がいるから驚きました。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "関口",
+      "text": "ほんとにいつもボール蹴ってるんですね。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井誠",
+      "text": "もちろんですよ。\n囲碁サッカー、大好きですから。\n",
+      "ctrl_code": "fbffc1ff4f011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "関口",
+      "text": "なるほど。\n",
+      "ctrl_code": "fbfffefe020001007fff020067ffffffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "関口",
+      "text": "でも、少しは前を見たほうがいいですよ。\n",
+      "ctrl_code": "fbffc1ff4c011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井誠",
+      "text": "え？\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "関口",
+      "text": "ほら、足元。\n",
+      "ctrl_code": "fbff67ff1000c1ff25011000e8fe0200ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "桜井誠",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffc8ff25014d011000c1ff4d011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "桜井誠",
+      "text": "まさかオレ、踏みかけてた！？\n……ってこの猫、何で逃げないんだろう？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300ec011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0B}]",
+      "text": "くそっ、こいつ！\nアンテナが折れちまっただろ！\n",
+      "ctrl_code": "fbffc0ff0300f4011000ebfe000065ff01002600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0B}]",
+      "text": "バリアで猫は平気だが、万一のことがあったら\nどうするんだよ！　とっちめてやる！！\n",
+      "ctrl_code": "fbffc0ff0400f8011000ebfe000065ff02002700"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0C}]",
+      "text": "……これから？　どうやって？\n",
+      "ctrl_code": "fbffc1fff1011000ebfe000065ff03002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]",
+      "text": "どうやってて、そりゃお前、\n今、アンテナが壊れたんだから[{0D80}][{0D80}]あれ？\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe0000adffffff65ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0B}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff05002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "text": "やるせねぇ……。\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff44011000ebfe0000adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbff05ffc1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffffe8fe0300c1ff4d011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井誠",
+      "text": "（あれ……？　会話終わった？）\n",
+      "ctrl_code": "98ff0000effe020097fffbff67ff1000c1ff47011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "桜井誠",
+      "text": "（そういえば、\n　いつもは関口さんと何を話してたっけ？）\n",
+      "ctrl_code": "fbffc1ff49011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "桜井誠",
+      "text": "（……そうか！\n　いつもは間に部長が居るんだ！）\n",
+      "ctrl_code": "fbffc1ff47011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井誠",
+      "text": "（で、原因がわかった所でどうしよう。\n　挨拶しておいて何も話さないのも変だし）\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700eefe10000400c1ff49011000ebfe0100adffffff65ff06001100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "桜井誠",
+      "text": "（ここは一番得意なジャンルで勝負！\n　とりあえずさっきの話を膨らませて……）\n",
+      "ctrl_code": "fbff67ff1700c1ff45011000ebfe000065ff07001100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井誠",
+      "text": "そ、そう！　囲碁サッカーが大好きだから\nいつだって技を出す準備も出来てるんですよ。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff08001200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "関口",
+      "text": "はぁ。\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff09001100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井誠",
+      "text": "例えばこうやってボールを高く浮かせて……。\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff0a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "桜井誠",
+      "text": "ここで碁石！\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff0b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "関口",
+      "text": "え？\n",
+      "ctrl_code": "fbffc1ff46011000ebfe000065ff0c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "桜井誠",
+      "text": "そして碁石と高さをあわせて！\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff0d001200"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "関口",
+      "text": "あの、まさかとは思いますけど\nこんな所でシュートなんてしたら……。\n",
+      "ctrl_code": "fbffe8fe020066ffa6000000c1ff49011000ebfe000065ff0e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "桜井誠",
+      "text": "シューーーート！！\n",
+      "ctrl_code": "fbffeefe03000400c1ff4e011000ebfe000065ff0f001200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "関口",
+      "text": "あ。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff45011000ebfe000065ff10001100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "桜井誠",
+      "text": "碁石も蹴ったように見せかけて\n実はボールしか蹴らない！　これが必殺の[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ffa8000000c1ffffff1000b3ff0300f4ff0400daffb2ffeffe0600c1ff47011000ebfe000065ff11001100"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井誠",
+      "text": "あ……。\n",
+      "ctrl_code": "fbffedffc1ffffff100067ff1200ebfe0000adffffff65ff12003300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "富岡先生",
+      "text": "あ、赤城先生大丈夫ですか！？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff13003300"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "富岡先生",
+      "text": "ダメだ、白目剥いてる……。\n",
+      "ctrl_code": "fbffe8fe0200ebfe0000adffffff65ff14003300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "富岡先生",
+      "text": "誰だ！　こんな所でボールを蹴ったのは！！\nさては、わざと赤城先生を狙ったな！\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000065ff15001100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井誠",
+      "text": "ど、どうしよう、わざとじゃないのに……\nあの関口さん、一緒に誤解を[{0D80}][{0D80}]居ない！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff16003300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "富岡先生",
+      "text": "あっ、犯人はそこのお前か！？\nちょっと来い！\n",
+      "ctrl_code": "fbffebfe000065ff17001100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井誠",
+      "text": "……はい。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff45011000ebfe0100adffffff65ff18001100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井誠",
+      "text": "（あ、そうだ！）\n",
+      "ctrl_code": "fbff67ff0900eefe19000400c1ff44011000ebfe000065ff19001100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井誠",
+      "text": "あの、関口さん。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff1a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "関口",
+      "text": "なんですか？\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff1b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井誠",
+      "text": "良かったらその本、\nちょっと読ませて貰ってもいいですか？\n",
+      "ctrl_code": "fbffc1ff4f011000ebfe000065ff1c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "関口",
+      "text": "いいですよ。\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff1d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "桜井誠",
+      "text": "ありがとう。\nそれじゃ、代わりにボールどうぞ。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff1e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "関口",
+      "text": "え？\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff1f001100"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "桜井誠",
+      "text": "オレだけ借りてたら不公平でしょ？\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff20001200"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "関口",
+      "text": "いえ、私は別に……。\n",
+      "ctrl_code": "fbffc1ff48011000ebfe000065ff21001100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井誠",
+      "text": "使いすぎてボロボロですけど、\n初めて買ったボールなんで許してくださいね。\n",
+      "ctrl_code": "fbffe8fe0200c1ff4e011000ebfe000065ff22001200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "関口",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe080097fffbffeefe04000400c1ff50011000ebfe000065ff23001200"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "関口",
+      "text": "そんな大事なもの、私が使うわけには。\nそもそも……。\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff24001100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井誠",
+      "text": "いえ、使ってください！\nむしろ使って欲しいんです。\n",
+      "ctrl_code": "fbffe8fe0200c1ff45011000ebfe000065ff25001100"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井誠",
+      "text": "関口さんは大切な囲碁サッカー部の\n仲間ですから！！\n",
+      "ctrl_code": "fbffc1ff49011000ebfe0100adffffff65ff26001100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井誠",
+      "text": "（そうだ、話しにくいだなんて失礼な。\n　仲間なんだからもっと親しくしないと！）\n",
+      "ctrl_code": "fbffe8fe0200c1ff50011000ebfe000065ff27001200"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "関口",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff51011000ebfe0000adffffff65ff28001200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff29001200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "関口",
+      "text": "ありがとうございます。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4c011000ebfe0100adffffff65ff2a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "桜井誠",
+      "text": "（そうだ、囲碁サッカーに興味を持ってもらう\n　いいチャンスじゃないか！）\n",
+      "ctrl_code": "fbff67ff1700eefe19000400c1ff4a011000ebfe0100adffffff65ff2b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井誠",
+      "text": "（よーし、そうと決まればその路線で）\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff2c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井誠",
+      "text": "いやー、思わず廊下でリフティングするぐらい\n囲碁サッカーって本当に面白いんですよ。\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff2d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井誠",
+      "text": "学校に囲碁サッカー部があったのが嬉しくて、\n最近は特にテンションあがってるんですよね！\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff2e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "関口",
+      "text": "はぁ……。\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff2f001100"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "桜井誠",
+      "text": "そ、それにプロリーグも盛り上がってて、\nオリンピック競技になるかもしれないですし！\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff30001200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "関口",
+      "text": "そうなんですか。\n",
+      "ctrl_code": "fbff67ffffffc1ff47011000ebfe0000adffffff65ff31001100"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff1000eefe01000400c1ff49011000ebfe0100adffffff65ff32001100"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "桜井誠",
+      "text": "（あ、あれ〜？\n　何かリアクション薄いんだけど？）\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff44011000ebfe0100adffffff65ff33001100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "桜井誠",
+      "text": "（よし、こうなったら単刀直入に！）\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff34001100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "桜井誠",
+      "text": "あの……もしかして関口さんって、\n囲碁サッカーあんまり興味ないんですか？\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff35001200"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "関口",
+      "text": "無いですね。\n",
+      "ctrl_code": "fbff67ffffff66ff7c000000c1ff4d011000ebfe0000adffffff65ff36001100"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ff1400c1ff4e011000ebfe000065ff37001200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "関口",
+      "text": "そろそろ授業なので行きますね。\nまた部室で。\n",
+      "ctrl_code": "fbffc1ff4b011000ebfe0000adffffff65ff38001100"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff39001100"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "桜井誠",
+      "text": "うちの部……ダメかも。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

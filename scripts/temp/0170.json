@@ -1,0 +1,878 @@
+{
+  "UNK": "3d22",
+  "id": 16,
+  "total": 124,
+  "ptrs": 512,
+  "extra": 0,
+  "ctrl_code": "20000000e60b0000ea0e0000ee0e0000aa150000c41500005c1a000028220000fcffedfe08000f00110004ff03ff0300c1ffffff1000bcff9901ff0067ff0800fcfff9ff0800eefe00000500c1ff5a011000ebfe000064ffffff1500",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "教頭先生",
+      "text": "ふう……もうこんな時間か。\n飲み物でも買って休憩するかな。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井先生",
+      "text": "あの……教頭先生。少しよろしいですか？\n",
+      "ctrl_code": "fbffedffc8ff5a0107011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "教頭先生",
+      "text": "ええ、大丈夫ですが……何かありましたか？\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井先生",
+      "text": "は、はい、生徒指導のことなんです。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "教頭先生",
+      "text": "困った生徒でもいましたか？\n",
+      "ctrl_code": "fbffc1ff11011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井先生",
+      "text": "それもあるんですけど……\n私にも悪い所がありまして……。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "教頭先生",
+      "text": "ほう？\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井先生",
+      "text": "髪型やアクセサリーが違反している生徒が\nいますよね？\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井先生",
+      "text": "取り締まらなければならないんですけど、\nでもなかなか強く言えなくて……。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "教頭先生",
+      "text": "ああ……まあ気持ちはわかりますよ。\nですが、校内の風紀を守るためですからなぁ。\n",
+      "ctrl_code": "fbffc1ff10011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井先生",
+      "text": "それはわかっているつもりなんですけど……。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "桜井先生",
+      "text": "でも、アフロの中からどら焼きをもらったり、\nウサギさんみたいなリボンを見ると……。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "教頭先生",
+      "text": "ウサギ？　……どういうことですか？\n",
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "桜井先生",
+      "text": "１年の安中さんです。\n大きなリボンを付けてるんです。\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "桜井先生",
+      "text": "あの子が動くたびにそれがこう、\nピョンピョンしてウサギさんみたいなんです。\n",
+      "ctrl_code": "98ff0000effe080097fffbff67ffffff66ff89000000c1ff5a011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "教頭先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbff67ff1000c1ff11011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "桜井先生",
+      "text": "いつもは大丈夫なんですが……\nさっき検査したら、今日はちょっとだけ……。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "教頭先生",
+      "text": "……行って来ます。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "桜井先生",
+      "text": "え？　どこにですか？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "教頭先生",
+      "text": "その安中という生徒の所です。\n…………由々しき事態ですから。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井先生",
+      "text": "で、でも、それ以外は良い子なんですよ？\n素直で優しい子なんですが……。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "教頭先生",
+      "text": "ですがウサ[{0D80}][{0D80}]ではなく、\nリボンが大きいのでしょう？\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井先生",
+      "text": "は、はい……。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "教頭先生",
+      "text": "探してきます。では[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffe8fe0200c1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井先生",
+      "text": "あっ！？　きょ、教頭先生！？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "教頭先生",
+      "text": "全く、許しがたい……！\n",
+      "ctrl_code": "fbff66ff80000000c1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "教頭先生",
+      "text": "ウサギに似た女の子がいるのに、\n今まで気付けなかったとは……！\n",
+      "ctrl_code": "98ff0000effe0a0097fffbff67ff0e00c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "教頭先生",
+      "text": "ウサギに似すぎて気付かなかったのだろうか？\nそれとも似てないから気付かなかったのか？\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "教頭先生",
+      "text": "うーむ……一体全体どんなリボンなんだろう？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "教頭先生",
+      "text": "アンゴラロップのようなタランとした感じ？\nそれとも素直にジャパーニズホワイトか？\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "教頭先生",
+      "text": "それともダッチのように小さいか、\nあるいはレッキスのような絹地のような……。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "教頭先生",
+      "text": "全く、けしからん。\n一体どんな種類のウサギに似ているのだ。\n",
+      "ctrl_code": "98ff0000effe0b0097fffbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "教頭先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffedfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2fffefe010001007fff0200e8fe0200c0ff04005d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "教頭先生",
+      "text": "うわっ、す、すまない！\nつい、考え事をしていて[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc0ff04005a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]ケガは……ない……かね？\n",
+      "ctrl_code": "fbff67ffffffedffc8ffb3005a011000c1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "校長先生",
+      "text": "ええ、大丈夫ですよ。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "教頭先生",
+      "text": "（……く、大丈夫だったのか。\n　私としたことが、せっかくのチャンスを！）\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c0ff0300d8011000ebfe000065ff00002400"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "[{FF09}]",
+      "text": "あーっ！？\n",
+      "ctrl_code": "fbffe8fe0200c1ffc5011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "[{FF08}]",
+      "text": "壊れた！？\nちょっとぶつかっただけなのに！？\n",
+      "ctrl_code": "fbffc1ffd2011000ebfe000065ff02002400"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "[{FF09}]",
+      "text": "なんとかしろ、やれることをやるんだ！\n",
+      "ctrl_code": "fbffc1ffb7011000ebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "[{FF07}]",
+      "text": "やってる！　だけど[{0D80}][{0D80}]！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "うあああああああああ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300e8fe0200ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "？？？（安中）",
+      "text": "きゃっ！？\n",
+      "ctrl_code": "fbffc0ff04005b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "教頭先生",
+      "text": "す、すまない！　つい考え事をしていて……\nケガはないかね？\n",
+      "ctrl_code": "fbffc0ff030056011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "安中",
+      "text": "は、はい……何とか……。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7800ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7c000000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "教頭先生",
+      "text": "＠！！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c8ff56015b01ff0090ff5b0190ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800c1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "教頭先生",
+      "text": "（この子だ……！\n　桜井先生が言っていたのはきっとこの子だ）\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "教頭先生",
+      "text": "（ウサギのように大きなリボン。\n　そして小さな体。ウサギに例えれば[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "教頭先生",
+      "text": "うむ……ドワーフホト、だな。\n",
+      "ctrl_code": "fbffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "安中",
+      "text": "何ですかそれ？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "教頭先生",
+      "text": "あ……い、いや、独り言だよ。\n何でもないから。\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "安中",
+      "text": "本当ですか？　顔が赤いですよ？\n熱でもあるんですか？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "教頭先生",
+      "text": "い、いや……。\n",
+      "ctrl_code": "fbffe8fe0300c1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "教頭先生",
+      "text": "（くっ……！　何かするたびにリボンが\n　ピョコピョコして本当にウサギのようだ！）\n",
+      "ctrl_code": "fbff05ffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "安中",
+      "text": "あの……私の顔に何かついてますか？\nさっきからずっと見てますけど……。\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]え！？　あ……いや、それはつまり……。\n",
+      "ctrl_code": "fbffc1ff56011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "安中",
+      "text": "つまり？\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "教頭先生",
+      "text": "つ、つまりリボンだよ！\nそれは微妙に校則違反じゃないのかね？\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "安中",
+      "text": "これですか？　えーと……\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "安中",
+      "text": "ぴょん♪\n",
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c8ff56015a01ff0090ff5a0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff56011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "安中",
+      "text": "なんて、だめでしょうか？\n",
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1800eefe0b000400e8fe0200c1ff5c011000ebfe000065ff05001500"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "教頭先生",
+      "text": "あり！　ぴょん♪　はありです！\n大ありです！\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000065ff06001400"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "安中",
+      "text": "えっ？　あ、はい、ありがとうございます。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff07001500"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "教頭先生",
+      "text": "も、もっと小首を傾げてみてください。\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff08001400"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "安中",
+      "text": "こ、こうですか？\n",
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff09001400"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "安中",
+      "text": "ぴょこぴょこ♪\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c8ff56015a01ff0090ff5a0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff5c011000ebfe000065ff0a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "教頭先生",
+      "text": "素晴らしい！\nあなたは本当に！　本当に！　ウサギです！\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000065ff0b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "安中",
+      "text": "え？　あ、あははは……ありがとうございます。\nじゃあリボンはＯＫですね。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff0c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "教頭先生",
+      "text": "はい！\nだからこれからもそのリボンを着用しなさい。\n",
+      "ctrl_code": "fbffc1ff56011000ebfe000065ff0d001400"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "安中",
+      "text": "は、はーい。\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff0e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "教頭先生",
+      "text": "ふむ……良い。実に良い。\n",
+      "ctrl_code": "fbffedffc8ff5c0107011000ebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井先生",
+      "text": "……あ、教頭先生。どうでしたか？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff10001500"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "教頭先生",
+      "text": "リボンは許可にしておきました！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800eefe0b000400e8fe020066ff55000000ebfe000065ff12001500"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "教頭先生",
+      "text": "サイコー！　正に最高のウサギちゃん！\n",
+      "ctrl_code": "98ff0000effe090097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c8ff56015a01ff0090ff5a0190ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff5b011000ebfe0100adffffff65ff13001500"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "教頭先生",
+      "text": "（……などと叫べたらどれほどいいだろう？\n　しかし私は教頭……さすがにそれはできん）\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff59011000ebfe000065ff14001400"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "安中",
+      "text": "あ、あの……やっぱりだめですか？\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff15001500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "教頭先生",
+      "text": "残念ながら。かわいいとは思うんだが……\nもっと小さなリボンに変えなさい。\n",
+      "ctrl_code": "fbffc1ff56011000ebfe000065ff16001400"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "安中",
+      "text": "はい、わかりました……\n先生、失礼します。\n",
+      "ctrl_code": "fbffedffc0ff0300ffff1000c1ff5d011000ebfe000065ff17001500"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "教頭先生",
+      "text": "もったいない……実にもったいない。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff18001500"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "教頭先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbffebfe000065ff19001500"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "教頭先生",
+      "text": "……校則、変えるか？\n大きなリボン、許可にしないと[{0D80}][{0D80}]んっ？\n",
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c1ff5201ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff7e000000ebfe000065ff1a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "教頭先生",
+      "text": "あ、あれは……！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c0ff04005b01ff0090ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff5b011000ebfe000065ff1b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "教頭先生",
+      "text": "そ、そこの君、ちょっと待ちなさい！\n",
+      "ctrl_code": "fbffc0ff030052011000ebfe000065ff1c001300"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "田中",
+      "text": "俺っスか？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff1d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "教頭先生",
+      "text": "な、なんなんだ、その頭は？\n",
+      "ctrl_code": "fbffc1ff53011000ebfe000065ff1e001300"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "田中",
+      "text": "地毛っスけど？\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff1f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "教頭先生",
+      "text": "どう見ても校則違反だろう、ええ？\n",
+      "ctrl_code": "fbffc1ff52011000ebfe000065ff20001300"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "田中",
+      "text": "センセー。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff21001500"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "教頭先生",
+      "text": "な、何だね？\n",
+      "ctrl_code": "fbff67ffffffc0ff030052021000ebfe000065ff22001300"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "田中",
+      "text": "どら焼き、食う？\n",
+      "ctrl_code": "fbff67ff1000c1ff5b011000ebfe000065ff23001500"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "教頭先生",
+      "text": "う……いや、私は辛党で……。\n",
+      "ctrl_code": "fbffc0ff030052011000ebfe000065ff24001300"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "田中",
+      "text": "だったら……。\n",
+      "ctrl_code": "fbffc0ff030078021000ebfe000065ff25001300"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "田中",
+      "text": "いる？\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff5a011000ebfe0000adffffff65ff26001500"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "教頭先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff27001500"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "教頭先生",
+      "text": "……うん。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffeefe10000400e8fe0400c1ff5a011000ebfe000065ff28001500"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "教頭先生",
+      "text": "……あ……いや、その……。\n",
+      "ctrl_code": "fbff67ff1000e8fe0300c1ff5d011000ebfe0100adffffff65ff29001500"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "教頭先生",
+      "text": "（くううっ！　ウサギのように抱き締めたい！\n　だが、相手は生徒だ！　落ち着け私！）\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff59011000ebfe000065ff2a001400"
+    },
+    {
+      "magic": 65520,
+      "id": 98,
+      "speaker": "安中",
+      "text": "え？　あ、あの……どうしました？\nこのリボン、まずいですか？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030007011000ebfe000065ff2b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 99,
+      "speaker": "桜井先生",
+      "text": "残念なんだけど……。\n",
+      "ctrl_code": "fbffc0ff040012011000ebfe000065ff2c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 100,
+      "speaker": "高崎先生",
+      "text": "付け方の問題かもしれないが……\n安中、それだと違反だぞ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030059011000ebfe000065ff2d001400"
+    },
+    {
+      "magic": 65520,
+      "id": 101,
+      "speaker": "安中",
+      "text": "え、桜井先生に高崎先生？\n",
+      "ctrl_code": "fbffc0ff040011011000ebfe000065ff2e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 102,
+      "speaker": "桜井先生",
+      "text": "すごくすごく可愛いと思うけど……\nでも、長さが校則を超えちゃうと……ね？\n",
+      "ctrl_code": "fbffc0ff040012011000ebfe000065ff2f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 103,
+      "speaker": "高崎先生",
+      "text": "なあ安中。\n少しだけでいいから短く付けられないか？\n",
+      "ctrl_code": "fbffc0ff04000d011000ebfe000065ff30000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 104,
+      "speaker": "桜井先生",
+      "text": "ほんのちょっとなの。ただ……ほんの\nちょっとでも違反になっちゃうから……。\n",
+      "ctrl_code": "fbffc0ff030059011000ebfe000065ff31001400"
+    },
+    {
+      "magic": 65520,
+      "id": 105,
+      "speaker": "安中",
+      "text": "そうだったんですか……\n気付いてませんでした。\n",
+      "ctrl_code": "fbffc0ff040009011000ebfe000065ff32000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 106,
+      "speaker": "桜井先生",
+      "text": "リボンをするのが\n悪いわけじゃないからね？\n",
+      "ctrl_code": "fbffc0ff04001e011000ebfe000065ff33000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 107,
+      "speaker": "高崎先生",
+      "text": "桜井先生の言うとおりだ。\n校則を超えていたのも１センチ程度だしな！\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000065ff34001400"
+    },
+    {
+      "magic": 65520,
+      "id": 108,
+      "speaker": "安中",
+      "text": "はい！\n",
+      "ctrl_code": "fbffc0ff04000d011000ebfe000065ff35000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 109,
+      "speaker": "桜井先生",
+      "text": "違反しないように、かわいくつけてね♪\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff02000000f9ff0800edffc8ff070112011000c1ff12011000ebfe000065ff36000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 110,
+      "speaker": "高崎先生",
+      "text": "安中、気付いてなかっただけみたいですね。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff37000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 111,
+      "speaker": "桜井先生",
+      "text": "ありがとうございました。\n付き添ってもらっちゃって。\n",
+      "ctrl_code": "fbffc1ff1e011000ebfe000065ff38000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 112,
+      "speaker": "高崎先生",
+      "text": "これも教師の仕事ですから。\n気にしないでください。\n",
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff39000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 113,
+      "speaker": "桜井先生",
+      "text": "ふふ……高崎先生って良い人ですね。\n",
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6f00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff3a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 114,
+      "speaker": "高崎先生",
+      "text": "ほいきたーっ！\n",
+      "ctrl_code": "fbffebfe000065ff3b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 115,
+      "speaker": "桜井先生",
+      "text": "あ、あの、高崎先生？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c1ff1201ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff3c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 116,
+      "speaker": "高崎先生",
+      "text": "[{0D80}][{0D80}]はっ！？\n",
+      "ctrl_code": "fbffc1ff1b011000ebfe000065ff3d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 117,
+      "speaker": "高崎先生",
+      "text": "なな何でもありませんから！\nいや[{0D9B}]とか山菜とか特に！\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff3e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 118,
+      "speaker": "桜井先生",
+      "text": "？\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff3f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 119,
+      "speaker": "桜井先生",
+      "text": "それよりよければ何か飲みませんか？\nお礼と言うわけではないんですけど……。\n",
+      "ctrl_code": "98ff0000effe090097fffbffe8fe0200c1ff19011000ebfe000065ff40000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 120,
+      "speaker": "高崎先生",
+      "text": "もちろんです！\nそれじゃ自販機のところに行きましょうか！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800eefe1a00040066ffc7000000ebfe000065ff41001500"
+    },
+    {
+      "magic": 65520,
+      "id": 121,
+      "speaker": "教頭先生",
+      "text": "……あれ？\n",
+      "ctrl_code": "fbff67ff1400c1ff5a011000ebfe0000adffffff65ff42001500"
+    },
+    {
+      "magic": 65520,
+      "id": 122,
+      "speaker": "教頭先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff43001500"
+    },
+    {
+      "magic": 65520,
+      "id": 123,
+      "speaker": "教頭先生",
+      "text": "私は、何をしに来たのだろうか……。\n",
+      "ctrl_code": "98ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

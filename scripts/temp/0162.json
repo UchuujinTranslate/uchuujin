@@ -1,0 +1,479 @@
+{
+  "UNK": "c018",
+  "id": 16,
+  "total": 67,
+  "ptrs": 288,
+  "extra": 0,
+  "ctrl_code": "2000000050030000d4060000d8060000a8080000c2080000f20c0000920f0000fcffedfe100011000d0004ff03ff0300c1ffffff1000bcff00f0ff0067ff0a00fcfff9ff0800eefe00000500c1ff5e011000ebfe000064ffffff1600",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条さん",
+      "text": "大福〜、大福はいかがですか〜。\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井先生",
+      "text": "（あっ、何かやってる……大福フェア？）\n",
+      "ctrl_code": "fbffc1ff60011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条さん",
+      "text": "甘くて丸くて白いよ〜。\n白さでうちの大福に勝てる店は無いよ〜。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井先生",
+      "text": "大福かぁ……。\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "桜井先生",
+      "text": "お茶菓子に良さそうだし\n買って帰ろうかな。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井先生",
+      "text": "マコちゃんも食べるかな？\nちょっと多めに買っていって[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "桜井先生",
+      "text": "[{0D80}][{0D80}]あっ。この匂い……。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井先生",
+      "text": "コーヒーの匂い……\n大工カフェからだ……。\n",
+      "ctrl_code": "fbffc1ff10011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井先生",
+      "text": "うー、大福もいいけど、大工カフェの\nケーキとコーヒーも美味しそう……。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井先生",
+      "text": "うーん……\nどっちを買って帰ろうかな……。\n",
+      "ctrl_code": "fbfffefe020001007fff0200c1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "桜井先生",
+      "text": "……あっ、猫さんだ。\n",
+      "ctrl_code": "fbffedffc8ff250109011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井先生",
+      "text": "ここは人が多いから危ないよ？\n踏まれないように気をつけてね。\n",
+      "ctrl_code": "fbffc1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c0ff0300ad011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF07}]",
+      "text": "猫相手でも優しいなぁ。\n俺もあんな風に優しくされたいなー。\n",
+      "ctrl_code": "fbffc0ff0400c8011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF08}]",
+      "text": "ホントホント。\nあーあ、何で俺、猫じゃないんだろう。\n",
+      "ctrl_code": "fbffc1ffaf011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "text": "まったくだ、あはははは。\n",
+      "ctrl_code": "fbff67ffffffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff1800ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "text": "あーーー！\nアンテナ、折れてるーー！！\n",
+      "ctrl_code": "fbffebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "text": "な、何があったんだ！？\n",
+      "ctrl_code": "fbffebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井先生",
+      "text": "あっ、スカートに何か引っかかっちゃった！\nね、猫さんは大丈夫？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "text": "そんなことでーーーーっ！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff09011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井先生",
+      "text": "……そうだ。一回見に行って\n美味しそうだった方を買おう。\n",
+      "ctrl_code": "98ff0000effe070097fffbff05ffc0ff040007011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井先生",
+      "text": "スイマセン、ちょっと見させてください。\n",
+      "ctrl_code": "fbffc0ff03005e011000ebfe0000adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffffc1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条さん",
+      "text": "大福をそんな不純な目で見ないでくれ。\n",
+      "ctrl_code": "fbffc1ff0c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "桜井先生",
+      "text": "……えっ？\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff5e011000ebfe0000adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0400c1ff11011000ebfe0000adffffff64ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe05000600070067ff0f00eefe10000400c1ff0b011000ebfe000065ff07000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井先生",
+      "text": "不純な目……ですか？\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff08001600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条さん",
+      "text": "そうだ。うちの大福を\nケーキなんかと同列に見ていただろう？\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff09000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井先生",
+      "text": "あっ、美味しそうな方を買おうかなーって。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条さん",
+      "text": "うちの大福の方がうまい！\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff07011000ebfe000065ff0b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井先生",
+      "text": "でも、ケーキも美味しいですよ？\n生徒さんからよく話聞きますし。\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff0c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "桜井先生",
+      "text": "ロールケーキは生地がふわふわで\nクリームも甘くて、本当に美味しいですよ。\n",
+      "ctrl_code": "fbff67ff1600e8fe020066ff7f000000c1ff5f011000ebfe000065ff0d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条さん",
+      "text": "大福を[{0D9F}]めるな！！\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff0c011000ebfe000065ff0e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe020066ff80000000c1ff0e011000ebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井先生",
+      "text": "ロールケーキを[{0D9F}]めないでください！\n",
+      "ctrl_code": "98ff0000effe090097fffbffc1ff61011000ebfe000065ff10001600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井先生",
+      "text": "…………！\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff12001600"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条さん",
+      "text": "…………！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13001600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条さん",
+      "text": "……なら、ロールケーキを買いなさい。\n",
+      "ctrl_code": "fbffebfe000065ff14000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井先生",
+      "text": "……はいっ。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff0b011000ebfe000065ff15000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井先生",
+      "text": "あ、ス、スイマセン……。\n",
+      "ctrl_code": "98ff0000eefe0f000400effe0a0097fffbffc1ff5e011000ebfe000065ff16001600"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中之条さん",
+      "text": "全く……これだから大福の良さを知らん者は。\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffe8fe0400c1ff11011000ebfe000065ff17000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井先生",
+      "text": "スイマセン……。\n",
+      "ctrl_code": "fbffedffc0ff0300ffff1000eefe16000400c1ff10011000ebfe0000adffffff65ff18000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe0000adffffff65ff19000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井先生",
+      "text": "……大工カフェに行こう。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe0000adffffff65ff1b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe0000adffffff65ff1c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff1d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "桜井先生",
+      "text": "（不純な目って何だろう……？）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ff11011000ebfe0100adffffff65ff1e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井先生",
+      "text": "（不純な目？　よくわからないけど……）\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff1f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "桜井先生",
+      "text": "んー、大福とケーキ、\nどっちにしようかな……。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff20001600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中之条さん",
+      "text": "だから、大福を不純な目で見るんじゃない。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff0b011000ebfe0100adffffff65ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井先生",
+      "text": "（あっ、でもケーキは前に食べたし。\n　久しぶりに大福にしよう）\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff22001600"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中之条さん",
+      "text": "おい、聞いているのかね？\n大福を不純な目で[{0D80}][{0D80}]\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ff09011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井先生",
+      "text": "あ、スイマセン、大福４つください。\n",
+      "ctrl_code": "fbff67ffffffc1ff5e011000ebfe0000adffffff65ff24001600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff25000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井先生",
+      "text": "…………？\n",
+      "ctrl_code": "fbff67ff1300eefe0e000400c1ff60011000ebfe000065ff26001600"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条さん",
+      "text": "澄んだ目をしている……\nそうか、あんたも大福の良さに気付いたか。\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ff0b011000ebfe000065ff27000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "桜井先生",
+      "text": "…………？\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff28001600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中之条さん",
+      "text": "これはサービスだ。\nタダであげよう。\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ff11011000ebfe000065ff29000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "桜井先生",
+      "text": "えっ、えっ？　いいんですか？\n",
+      "ctrl_code": "fbffc1ff60011000ebfe000065ff2a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中之条さん",
+      "text": "もちろんだ。\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff2b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井先生",
+      "text": "わー、ありがとうございます。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff2c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井先生",
+      "text": "（大福の良さとかよくわからないけど……\n　でも、いっか）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

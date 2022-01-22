@@ -1,0 +1,563 @@
+{
+  "UNK": "5a0e",
+  "id": 16,
+  "total": 79,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "20000000f40100001e060000220600009a090000b40900001e1000009e140000fcffedfe0d000e000f0004ff03ff0300c1ffffff1000bcff9c01ff0067ff0700fcfff9ff0800eefe00000500c1ffc5001000ebfe0000adffffff64ffffff0600",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中村先生",
+      "text": "……やはり材料が足りないな。\n明日の授業、実験にするつもりだったんだが。\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中村先生",
+      "text": "仕方ない、教科書を進めるとするか。\nテスト範囲を超えなければ問題ないだろう。\n",
+      "ctrl_code": "fbffc1ffbf001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中村先生",
+      "text": "テスト……そう言えば、あったな。\nそろそろ問題を考えないといけないな。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中村先生",
+      "text": "面倒だ……。\n",
+      "ctrl_code": "fbfffefe010001007fff0200c1ffc0001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中村先生",
+      "text": "あっ、すべった！\n",
+      "ctrl_code": "fbff66ff9b000000c1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中村先生",
+      "text": "あー……割ってしまったか。\nやれやれ、面倒だが片付けるとする[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5800ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "校長先生",
+      "text": "……うぅ。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbff66ff7c000000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中村先生",
+      "text": "[{0D80}][{0D80}]なんで机の下に校長が！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300bb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "[{FF07}]",
+      "text": "アンテナ破損！\n落ちてきた実験器具で一発だ！\n",
+      "ctrl_code": "fbffc0ff0400bf011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "[{FF08}]",
+      "text": "くそ、まだまだだったか！？\n俺の技で完全に気配を消していたはずなのに！\n",
+      "ctrl_code": "fbffc1ffb5011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF07}]",
+      "text": "……いや、見事だったよ。\n出来ればその技、俺にも教えて欲しいんだが。\n",
+      "ctrl_code": "fbffc1ffbe011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF08}]",
+      "text": "フ、いいだろう。\nただし飯三回おごりが条件だぜ？\n",
+      "ctrl_code": "fbffc1ffaf011000ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF07}]",
+      "text": "はは。\nそのくらいなら、すぐにでも。\n",
+      "ctrl_code": "fbffc1ffc4011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF08}]",
+      "text": "決まりだな。\nそれじゃ……明日たのむぜ？\n",
+      "ctrl_code": "fbffc1ffaf011000ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "text": "ああ……明日だな。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe0100adffffff65ff07002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "text": "（明日……か）\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300edfffcff66ff1a000000daffc1ffbf001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中村先生",
+      "text": "はい？\n",
+      "ctrl_code": "fbffc0ff04005a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "教頭先生",
+      "text": "……中村先生、少しよろしいですか？\n",
+      "ctrl_code": "fbffc0ff0300bf001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中村先生",
+      "text": "はい。何でしょうか。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中村先生",
+      "text": "（怪しいな……何コソコソしてるんだ？\n　関わりたくないなぁ）\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "教頭先生",
+      "text": "実は、作ってもらいたいものが\nあるのですが……。\n",
+      "ctrl_code": "fbff05ffc1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中村先生",
+      "text": "はあ。どんなものでしょうか？\n",
+      "ctrl_code": "fbff67ffffffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "教頭先生",
+      "text": "……絶対に演説を長引かせる機械です。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe060097fffbff67ff0e00c1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中村先生",
+      "text": "……演説を長引かせる機械？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "教頭先生",
+      "text": "絶対に、です。ここが重要なんです。\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中村先生",
+      "text": "……よくわかりませんが、わかりました。\nそれは何に使うんでしょうか？\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "教頭先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ffffffc1ffc8001000ebfe000065ff08000600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中村先生",
+      "text": "また校長先生ですか。\n",
+      "ctrl_code": "fbffe8fe020066ff81000000c1ff5d011000ebfe000065ff09001500"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "教頭先生",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ff1200c1ffc2001000ebfe000065ff0a000600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中村先生",
+      "text": "教頭先生も良く続きますね。\n",
+      "ctrl_code": "fbffeefe15000400e8fe0400c1ff5c011000ebfe000065ff0b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "教頭先生",
+      "text": "い、いや、そうでは……。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0100adffffff65ff0c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中村先生",
+      "text": "（いつもうざい教頭だが……継続は力なり、だ。\n　そこは見習う部分だな）\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000065ff0d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中村先生",
+      "text": "校長先生の話がもっと長くなれば、生徒たちの\n貧血率は上昇し人気は低下……良い発想です。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff0e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "教頭先生",
+      "text": "だから……\nいや……その……。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0100adffffff65ff0f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中村先生",
+      "text": "（一見、目的から離れているようだが、\n　目指す成果に直結している……なるほど）\n",
+      "ctrl_code": "fbffc1ffc0001000ebfe000065ff10000600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中村先生",
+      "text": "さすがは元校長。\n私には、とてもできないやり方ですね。\n",
+      "ctrl_code": "fbffc1ff5d011000ebfe0000adffffff65ff11001500"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "教頭先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0100adffffff65ff12000600"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中村先生",
+      "text": "（私には出せない素晴らしいアイディアだな。\n　教頭のくせに……いや待て？）\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0100adffffff65ff13000600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中村先生",
+      "text": "（うまく教頭の力を借りることができれば、\n　私が東雲を手に入れる作戦も[{0D80}][{0D80}]よし）\n",
+      "ctrl_code": "fbffc1ffbf001000ebfe000065ff14000600"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "中村先生",
+      "text": "ところで教頭先生[{0D80}][{0D80}]\nひとつ交換条件があるのですが……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5b011000ebfe000065ff15001500"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "教頭先生",
+      "text": "ヒッ！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ffc5001000ebfe000065ff16000600"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中村先生",
+      "text": "……教頭？\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff17001500"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "教頭先生",
+      "text": "い、いや、この話はなかったことに……。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe000065ff18000600"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中村先生",
+      "text": "え、演説を長引かせる機械とやらは？\n",
+      "ctrl_code": "fbffc1ff5d011000ebfe000065ff19001500"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "教頭先生",
+      "text": "……も、もういいんです！\n",
+      "ctrl_code": "fbffedfffcff66ff1e000000c0ff0400ffff1000daffc1ffc6001000ebfe0000adffffff65ff1a000600"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1b000600"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中村先生",
+      "text": "……なぜだ。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe0100adffffff65ff1c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中村先生",
+      "text": "（まあ、どうせろくでもないことだろう。\n　考えないでおこう）\n",
+      "ctrl_code": "fbffeefe10000400c1ffc8001000ebfe000065ff1d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中村先生",
+      "text": "それで、その機械をいつまでに\n作ればいいんですか？\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff1e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "教頭先生",
+      "text": "来週の全校集会までにあれば\n嬉しいのですが……。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0100adffffff65ff1f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中村先生",
+      "text": "（ってことは休日返上か。めんどくさ）\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000065ff20000600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中村先生",
+      "text": "やってみますけど、教頭……。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff21001500"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "教頭先生",
+      "text": "はい？\n",
+      "ctrl_code": "fbffc1ffc0001000ebfe000065ff22000600"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中村先生",
+      "text": "休日を使って作るわけですから、\nもちろん代休は頂けますよね？\n",
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff5b011000ebfe000065ff23001500"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "教頭先生",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe070097fffbff67ff1000c1ffc8001000ebfe000065ff24000600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中村先生",
+      "text": "あと材料費も請求しますね。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5d011000ebfe000065ff25001500"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "教頭先生",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff26001500"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "教頭先生",
+      "text": "……わかりました。\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ffc2001000ebfe000065ff27000600"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "中村先生",
+      "text": "では週明けまでに用意しますね。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff28001500"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "教頭先生",
+      "text": "はい……お願いします……。\n",
+      "ctrl_code": "fbffbfff15001000c1ffc1001000ebfe0000adffffff65ff29000600"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2a000600"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中村先生",
+      "text": "適当な装置１つで休日と臨時収入……\n良いカモだな。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ffc8001000ebfe0100adffffff65ff2b000600"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "中村先生",
+      "text": "（確実に話が長くなる機械、か……）\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0100adffffff65ff2c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中村先生",
+      "text": "（元々話の長い校長だからな。話の途中で\n　適当に邪魔するだけの装置でも十分だろう）\n",
+      "ctrl_code": "fbffc1ffc0001000ebfe0100adffffff65ff2d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中村先生",
+      "text": "（だが、教頭の相手は面倒だな……）\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff2e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "教頭先生",
+      "text": "それで中村先生、機械は作れそうですか？\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000065ff2f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中村先生",
+      "text": "無理ですね。\n",
+      "ctrl_code": "fbffeefe03000400e8fe0200c1ff5b011000ebfe000065ff30001500"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "教頭先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe000065ff31000600"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "中村先生",
+      "text": "使うたびに何度でも、\n確実に演説を長引かせる機械。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe000065ff32000600"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中村先生",
+      "text": "そんな物が作れるのなら、私は\n教師ではなく科学者になっています。\n",
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffc1ff5c011000ebfe000065ff33001500"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "教頭先生",
+      "text": "は、はは……\nそ、それもそうですね……。\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000065ff34000600"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "中村先生",
+      "text": "すみません。何も力になれなくて。\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff35001500"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "教頭先生",
+      "text": "いえ、無理を言ったのは私のようですし。\nこちらこそすいません。\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff36001500"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "教頭先生",
+      "text": "仕事の邪魔をしてすいません。\nそれでは。\n",
+      "ctrl_code": "fbffbfff15001000c1ffc0001000ebfe0000adffffff65ff37000600"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff38000600"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "中村先生",
+      "text": "あれは諦めてないな。\n次の全校集会が楽しみだ。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

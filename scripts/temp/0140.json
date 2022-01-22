@@ -1,0 +1,640 @@
+{
+  "UNK": "3609",
+  "id": 16,
+  "total": 90,
+  "ptrs": 384,
+  "extra": 0,
+  "ctrl_code": "20000000980300003409000038090000560c0000700c0000de0f0000be160000fcffedfe110008000c0004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500c1ff63001000ebfe000064ffffff0300",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "text": "バナジュー、バナジューと。\n今日はお金が飲まれませんように。\n",
+      "ctrl_code": "fbff66ffbd000000c1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "text": "良かった。\n普通にジュース出てきた。\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "text": "前はお金飲まれたからなー。\nま、そんな毎回飲んでたら撤去するよね。\n",
+      "ctrl_code": "fbffc1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "text": "さてと、これから原稿のネタでも……ん？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff0800effe0600ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "text": "……あれ？　理科の中村だ。\n穴掘ってるみたいだけど……何かの実験？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff03005e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "text": "中村先生、何してるんですか？\n",
+      "ctrl_code": "fbffe8fe020066ff81000000c0ff0400c9001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中村先生",
+      "text": "！？　な、長野原！？\n",
+      "ctrl_code": "fbffc1ff64001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "text": "えっ？　ど、どうかしたんですか？\n",
+      "ctrl_code": "fbffe8fe0400c1ffc6001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中村先生",
+      "text": "…………！！\n",
+      "ctrl_code": "fbfffefe010001007fff0200c1ffc9001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中村先生",
+      "text": "な、長野原……その、だな……\nこれには……深〜い訳があってだな……。\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "text": "え、あ、は、はい……。\n",
+      "ctrl_code": "fbffc1ffc0001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中村先生",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffc1ff5f001000ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff110066ff9f000000e8fe0200c1ffc3001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中村先生",
+      "text": "くらえっ！\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffe8fe0200c1ff68001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "みお",
+      "text": "ぎゃあああああ！！！\n",
+      "ctrl_code": "fbffc1ff66001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みお",
+      "text": "な、なんだこれ…………\nうぅ、急に、眠く…………。\n",
+      "ctrl_code": "fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000c1ffbf001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "中村先生",
+      "text": "…………よし。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc6001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ffbf001000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ffc3001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中村先生",
+      "text": "くらえっ！\n",
+      "ctrl_code": "fbff66ff9f000000e8fe0200c1ffb2001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "text": "！！！？！！？？！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c0ff030033021000ebfe000065ff00002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0F}]",
+      "text": "……やばい、オッサンの意識が無いぞ！\n",
+      "ctrl_code": "fbffc0ff04000a021000ebfe000065ff01002800"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0D}]",
+      "text": "なんだ今の攻撃！\n……まさか、毒かっ！？\n",
+      "ctrl_code": "fbffc1ff2b021000ebfe000065ff02002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0F}]",
+      "text": "いや、睡眠ガスを吹きかけられただけだ。\nしばらくはぐっすり夢の中だ。\n",
+      "ctrl_code": "fbffc1ff09021000ebfe000065ff03002800"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0D}]",
+      "text": "なーんだ。\nそれだけだったら、安心だな。\n",
+      "ctrl_code": "fbffc1ff31021000ebfe000065ff04002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0F}]",
+      "text": "……そうもいかないみたいだぜ。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff05002800"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF0D}]",
+      "text": "えっ！？　なんで！？\n",
+      "ctrl_code": "fbffebfe000065ff06002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF0F}]",
+      "text": "眠ったまま穴に落とされたようだ。\nその衝撃で[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff07002800"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF0D}]",
+      "text": "折れた！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ffc8001000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "text": "……？\n",
+      "ctrl_code": "fbffc1ffc3001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中村先生",
+      "text": "長野原……そこを動くなよ……。\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff64001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお",
+      "text": "えっ？　は、はい……。\n",
+      "ctrl_code": "fbffc1ff5f001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "みお",
+      "text": "（な、なに？　なにこの雰囲気！？）\n",
+      "ctrl_code": "fbffc1ff6a001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "text": "（中村の態度……どうみてもおかしい……\n　これは、絶対何かある！！）\n",
+      "ctrl_code": "fbffedffc8ff6800c2001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "みお",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff63001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお",
+      "text": "（い、いつの間にかポケットに手を入れて……\n　一体、あの中から何を出すんだ……）\n",
+      "ctrl_code": "fbffc1ffc1001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中村先生",
+      "text": "ふ、ふふふ……悪く思うな。\n",
+      "ctrl_code": "fbff05ffc1ffc0001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中村先生",
+      "text": "見られたからには、\nこのまま帰すわけにはいかん。\n",
+      "ctrl_code": "fbffe8fe0300c1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "text": "（なになになになに〜〜〜〜〜！？）\n",
+      "ctrl_code": "fbffc1ffc3001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中村先生",
+      "text": "くらえっ！！\n",
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe09000400c9ff59021000c1ff64001000ebfe000065ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "text": "そ、それは一体……？\n",
+      "ctrl_code": "fbffc1ffc4001000ebfe000065ff09000600"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中村先生",
+      "text": "スタンガンのようなものだ。\n",
+      "ctrl_code": "fbffc1ff68001000ebfe000065ff0a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "text": "そ、そんなの喰らったら……！！\n",
+      "ctrl_code": "fbffc9ffffff1000c1ffc3001000ebfe000065ff0b000600"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中村先生",
+      "text": "大丈夫、威力はモヒカンの時の１０分の１。\n怪我もない、少し眠るだけだ！　さあ！\n",
+      "ctrl_code": "fbff67ffffffeffe040066ff81000000c1ffc6001000ebfe0000adffffff65ff0c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みお",
+      "text": "…………？？\n",
+      "ctrl_code": "fbff67ff1400c1ffc8001000ebfe000065ff0e000600"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中村先生",
+      "text": "あ……これ……。\n",
+      "ctrl_code": "fbffc1ff64001000ebfe000065ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "みお",
+      "text": "えっ？　どうしたんですか？\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0000adffffff65ff10000600"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc6001000ebfe000065ff11000600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中村先生",
+      "text": "充電……し忘れた……。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffe8fe0200c1ff68001000ebfe000065ff12000300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0000adffffff65ff13000600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe0b0097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14000600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中村先生",
+      "text": "逃げろっ！！\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff66001000ebfe000065ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお",
+      "text": "きゃっ！！\n",
+      "ctrl_code": "fdffedfffcff67ffffff66ff61000000dafff5ff080066ff52000000dafff6ff0800eefe01000400c1ff63001000ebfe0000adffffff65ff16000300"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0000adffffff65ff17000600"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc3001000ebfe000065ff18000600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中村先生",
+      "text": "間違えた。\nこっちだった。\n",
+      "ctrl_code": "fbffeefe0900040067ff0e00c1ffc6001000ebfe000065ff19000600"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中村先生",
+      "text": "眠ってもらうぞ。\n",
+      "ctrl_code": "fbffe8fe0400c1ff68001000ebfe000065ff1a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "text": "ひ〜〜〜〜〜〜〜〜〜〜！？\n",
+      "ctrl_code": "fbffedffc8ffc60004001000ebfe000065ff1b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "text": "あれ？　中村先生、なにしてるんですか？\n",
+      "ctrl_code": "fbffc1ffc9001000ebfe000065ff1c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中村先生",
+      "text": "むっ！？　東雲なの！？\n",
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff1d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "なの",
+      "text": "あれ、長野原さんもいる。さっき何かが\n発射されたみたいでしたけど、実験でも[{0D80}][{0D80}]\n",
+      "ctrl_code": "fdffedfffcff66ff070000001aff04000000680010010a0016ffffffbfff00001000e8fe0200ebfe000065ff1e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "text": "わっ！？\nな、なんですかこれ〜！？\n",
+      "ctrl_code": "fbffc1ffc3001000ebfe000065ff1f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff1100c1ffc1001000ebfe0100adffffff65ff20000600"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中村先生",
+      "text": "（やった！　ついに東雲を[{0D9D}]にかけたぞ！）\n",
+      "ctrl_code": "fbffc1ffbf001000ebfe0100adffffff65ff21000600"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中村先生",
+      "text": "（あとは人知れず東雲を縛り上げて、\n　研究室へ[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff63001000ebfe0000adffffff65ff22000300"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe000065ff23000600"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中村先生",
+      "text": "……人知れず、か。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff0400c6001000ebfe000065ff24000600"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "中村先生",
+      "text": "……長野原、すまんが眠ってくれ。\nそうだな、できれば永久に。\n",
+      "ctrl_code": "98ff0000eefe0200040097fffbffe8fe0200c0ff030068001000ebfe000065ff25000300"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みお",
+      "text": "えーーーー！？\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe0100adffffff65ff26000600"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中村先生",
+      "text": "（仕方ないんだ。\n　これも人知れず、東雲を捕獲するため[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffedffc1ffffff100067ffffffc1ff52011000ebfe000065ff27001300"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "田中",
+      "text": "なんだなんだ〜？\nこっちからなんか飛んで来たぞ？\n",
+      "ctrl_code": "fbffc1ff56011000ebfe000065ff28001400"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "安中",
+      "text": "すごい音と煙だったな〜。\nあれ、東雲さんが埋まってる！？\n",
+      "ctrl_code": "98ff0000effe070097fffbff63ff0f00c1ffc9001000ebfe0000adffffff65ff29000600"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff65001000ebfe0000adffffff65ff2a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0400ebfe000065ff2b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "なの",
+      "text": "助けてくださ〜い……。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "中村先生",
+      "text": "……また失敗か。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1800e8fe0200c1ffc3001000ebfe000065ff2d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "中村先生",
+      "text": "とりゃああああああ！！\n",
+      "ctrl_code": "fbffe8fe0200c1ff68001000ebfe000065ff2e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "text": "きゃあああああああ！！\n",
+      "ctrl_code": "fdffedfffcff66ff070000001aff04000000680010010a0016ffffffbfff06001000e8fe0200ebfe000065ff2f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff66001000ebfe0000adffffff65ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff31000300"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "みお",
+      "text": "…………え？\n",
+      "ctrl_code": "fbffeefe04000400ebfe0000adffffff65ff32000600"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff33000600"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "中村先生",
+      "text": "長野原……\n良かったら、助けてくれないか？\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff34000300"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "みお",
+      "text": "……い、いやです。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff35000600"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbff66ff1c000000faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff63001000ebfe0000adffffff65ff36000300"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff37000300"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "みお",
+      "text": "（結局、ポケットに何を持ってたんだろう……）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

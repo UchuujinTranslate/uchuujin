@@ -1,0 +1,171 @@
+{
+  "UNK": "ea20",
+  "id": 16,
+  "total": 23,
+  "ptrs": 112,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffab01ff0067ff0600fcfff9ff0800c1ff56011000ebfe000065ff00001400",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "安中",
+      "text": "昨日は朝から大変だったなぁ……。\n",
+      "ctrl_code": "fbffc1ff58011000ebfe000065ff01001400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "安中",
+      "text": "で、でも今日は大丈夫なはず！\nテレビの星座占いでも一位だったし！\n",
+      "ctrl_code": "fbffc1ff57011000ebfe000065ff02001400"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "安中",
+      "text": "驚きの出会いがあるって言ってたし、\nこれは素敵な恋の予感？\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff03001400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "安中",
+      "text": "たとえばそこにある……落とし……穴？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5100ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff04000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "text": "助けてくれー！\n",
+      "ctrl_code": "fbffe8fe030066ff7c000000ebfe0100adffffff65ff05001400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "安中",
+      "text": "（ええーーーーーっ！！？）\n",
+      "ctrl_code": "fbffebfe000065ff06001400"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "安中",
+      "text": "た、高崎先生を呼んでこないと……。\n",
+      "ctrl_code": "fbff67ff1000beff52001000e8fe0200ebfe000065ff07000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "高崎先生",
+      "text": "誰かー！　助けてくれー！！\nくそっ、オレまで落ちてしまうとは！\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff08001400"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "安中",
+      "text": "（ええーーーーーっ！！？）\n",
+      "ctrl_code": "fbffebfe000065ff09001400"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "安中",
+      "text": "ど、どうしよう！？\n誰か他の先生を……。\n",
+      "ctrl_code": "fbffbeff53001000ebfe000065ff0a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井先生",
+      "text": "ス、スイマセンッ。\n助けに来たはずなのに私まで……。\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff0b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "安中",
+      "text": "（ええーーーーーっ！！？）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff57011000ebfe000065ff0c001400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "安中",
+      "text": "そ、そんなぁ……。\n",
+      "ctrl_code": "fbffebfe000065ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中之条",
+      "text": "あ、誰か居るのか！？\n",
+      "ctrl_code": "fbffebfe000065ff0e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "高崎先生",
+      "text": "何っ！？\nおーい、誰か居るなら助けてくれー！\n",
+      "ctrl_code": "fbffebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "桜井先生",
+      "text": "ス、スイマセンお願いします！\n",
+      "ctrl_code": "fbffe8fe0200c1ff59011000ebfe000065ff10001400"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "安中",
+      "text": "！！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4c00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff11001400"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "安中",
+      "text": "え、えーと、えーっと……。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff12000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "高崎先生",
+      "text": "早く頼む！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff13000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中之条",
+      "text": "誰かー！\n",
+      "ctrl_code": "fbffebfe000065ff14000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井先生",
+      "text": "た、助けてくださーい。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff59011000ebfe0000adffffff65ff15001400"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "安中",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff57011000ebfe000065ff16001400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "安中",
+      "text": "え、えいっ！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff50000000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff8a000000daffedfffcfff4ff780063ffffffbeff5101080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

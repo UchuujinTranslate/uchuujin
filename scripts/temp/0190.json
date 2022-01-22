@@ -1,0 +1,444 @@
+{
+  "UNK": "1918",
+  "id": 16,
+  "total": 62,
+  "ptrs": 272,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcff9301ff0067ff0600fcfff9ff0800c1ff0f011000ebfe000065ff00000b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井先生",
+      "text": "先週はちゃんと指導できなかったな……。\n",
+      "ctrl_code": "fbffc1ff10011000ebfe000065ff01000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井先生",
+      "text": "理想の先生になるには\n気の弱さを治さないと無理かも……。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff02000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "桜井先生",
+      "text": "でも逆に考えれば気の弱い所を治せば\n理想に近付けるんだよね……。\n",
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff03000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井先生",
+      "text": "よしっ。今週も頑張るぞっ。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff04000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "桜井先生",
+      "text": "早速、朝の服装チェックから始めよう。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff05000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井先生",
+      "text": "[{0D80}][{0D80}]ん？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6000ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff06000800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff07000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff08000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井先生",
+      "text": "（服装以前の問題だ！）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff040007011000ebfe000065ff09000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井先生",
+      "text": "あ、あの、笹原君……。\n",
+      "ctrl_code": "fbffc0ff0300e0001000ebfe000065ff0a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "笹原",
+      "text": "ぬ？　おお、どうなされた御仁。\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff0b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "笹原",
+      "text": "……っと、歩きながら食べるのは\n行儀が悪いのであったな。\n",
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff0c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井先生",
+      "text": "あっ、は、はい。スミマセン……。\n",
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff0d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "笹原",
+      "text": "謝る必要は無い。それよりも\nいつも手間をかけてすまないな。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff0e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "桜井先生",
+      "text": "い、いえっ！\n私こそいつも口うるさくて、スミマセン！\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe0000adffffff65ff0f000800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "fbffafff03000300c1ffe7001000ebfe000065ff10000800"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "笹原",
+      "text": "ププーッ。\n",
+      "ctrl_code": "fbffc1ff0c011000ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "桜井先生",
+      "text": "えっ？　な、なんですか？\n",
+      "ctrl_code": "fbffafff03000000c1ffe0001000ebfe000065ff12000800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "笹原",
+      "text": "いや、失敬。少々おかしかったものでな。\n",
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff13000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "桜井先生",
+      "text": "えっ？　えっ？\n",
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff14000800"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "笹原",
+      "text": "御仁にはどんなに注意をされても\nうるさいとは思えなくてな。\n",
+      "ctrl_code": "fbffc1ffe1001000ebfe000065ff15000800"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "笹原",
+      "text": "これが人徳というやつか。\nうむ、これからも精進すると良い。\n",
+      "ctrl_code": "fbffedffc0ff0300ffff1000c1ff0b011000ebfe0000adffffff65ff16000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffffc1ff09011000ebfe000065ff17000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井先生",
+      "text": "ありがとうございます。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff18000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井先生",
+      "text": "（人徳か……自分じゃよくわからないけど、\n　もっと素直になっていいってことかな……）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff19000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "桜井先生",
+      "text": "（臆病になりすぎずに自信を持って接すれば\n　きっと理想の先生に近付けるよね）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "桜井先生",
+      "text": "（それでもし言い過ぎた時があっても、\n　きっとみんなわかってくれるよね……）\n",
+      "ctrl_code": "fbffebfe000065ff1b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井先生",
+      "text": "……うん。焦らずに、\n自分のペースで進んでいこうっ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "高崎先生",
+      "text": "相生〜、また宿題忘れたのか〜？\n",
+      "ctrl_code": "fbffebfe000065ff1d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ゆっこ",
+      "text": "あっ、いや、でもやってるんです！\n忘れただけです。本当です。\n",
+      "ctrl_code": "fbffebfe000065ff1e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "高崎先生",
+      "text": "ったく。それなら余計忘れたらダメだろう。\n",
+      "ctrl_code": "fbff66ff3a000000ebfe000065ff1f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ゆっこ",
+      "text": "いたっ。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff20000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff08011000ebfe000065ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井先生",
+      "text": "暴力はダメ！！\n",
+      "ctrl_code": "fbffedffc8ff400017011000adfffeffebfe000065ff22000200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "ゆっこ＆高崎先生",
+      "text": "えっ！？\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c0ff040007011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井先生",
+      "text": "宿題を忘れた相生さんも悪いですけど、\nでも、先生が生徒を叩くなんてダメです！\n",
+      "ctrl_code": "fbffc0ff030017011000ebfe000065ff24000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "高崎先生",
+      "text": "さ、桜井先生！？\n",
+      "ctrl_code": "fbffc0ff03004a001000ebfe000065ff25000200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ゆっこ",
+      "text": "ど、どしたの先生？\n",
+      "ctrl_code": "fbffc1ff0e011000ebfe000065ff26000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "桜井先生",
+      "text": "高崎先生は気軽に人を叩きすぎです。\nどうしてすぐ暴力に訴えるんですか？\n",
+      "ctrl_code": "fbffc0ff030016011000ebfe000065ff27000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "高崎先生",
+      "text": "あ、い、いや……全くお恥ずかしい限りで……。\n",
+      "ctrl_code": "fbffc0ff03004a001000ebfe000065ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ゆっこ",
+      "text": "ま、まあまあ、悪いのは私だし、\nさっきの一発は軽〜〜〜い一発だし。\n",
+      "ctrl_code": "fbffe8fe0200c1ff08011000ebfe000065ff29000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "桜井先生",
+      "text": "それでもダメ！\n",
+      "ctrl_code": "fbffc1ff11011000ebfe0100adffffff65ff2a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井先生",
+      "text": "（うう……ちょっと、言いすぎたかな？）\n",
+      "ctrl_code": "fbffc1ff08011000ebfe0100adffffff65ff2b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井先生",
+      "text": "（でも、笹原君が言ってた言葉の通りなら\n　このくらい言っても大丈夫だよね……）\n",
+      "ctrl_code": "fbffc1ff11011000ebfe0100adffffff65ff2c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "text": "（それに、相手は生徒じゃなくって先生だから\n　私が強く言っても、わかってくれるはず！）\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff2d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井先生",
+      "text": "暴力を振るう男の人は最低ですよ。\n",
+      "ctrl_code": "fbff67ffffff66ff7c000000c0ff030017011000ebfe000065ff2e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "高崎先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff08011000ebfe000065ff2f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井先生",
+      "text": "そんな人を好きになる女性はいません。\nもちろん私も嫌いです！\n",
+      "ctrl_code": "fbffe8fe020066ff7b000000b3ff0300c1ff1c011000ebfe000065ff30000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "高崎先生",
+      "text": "！！！？？！！？！？？！？？！？\n",
+      "ctrl_code": "98ff0000b2ff97fffbffe8fe0200c1ff0b011000ebfe000065ff31000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff1400e8fe0400c1ff15011000ebfe000065ff32000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "高崎先生",
+      "text": "うわああああああああああああああ\nああああああああああああ！！！！\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffc0ff030040001000ebfe000065ff33000200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ゆっこ",
+      "text": "あっ、ちょ！　高崎先生！\n",
+      "ctrl_code": "fbffc1ff0c011000ebfe0000adffffff65ff34000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc0ff03004a001000ebfe0000adffffff65ff35000200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe0000adffffff65ff36000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff40001000ebfe0000adffffff65ff37000200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0400c1ff11011000ebfe000065ff38000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井先生",
+      "text": "い、言いすぎた……？\n",
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff39000200"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "ゆっこ",
+      "text": "…………うん。\n",
+      "ctrl_code": "fbffe8fe0200c1ff0c011000ebfe000065ff3a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff3b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井先生",
+      "text": "あ……。\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe000065ff3c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井先生",
+      "text": "た、高崎先生〜、\n待ってくださ〜い！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff22000000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff3d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4c01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

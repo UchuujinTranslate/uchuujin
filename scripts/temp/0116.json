@@ -1,0 +1,570 @@
+{
+  "UNK": "c01c",
+  "id": 16,
+  "total": 80,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "20000000e4020000c4080000c8080000ce0b0000e80b00009a12000020170000fcffedfe0b000c00080004ff03ff0300c1ffffff1000bcff00f0ff0067ff0600fcfff9ff0800eefe00000500ebfe000064ffffff1100",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井誠",
+      "text": "ふあ……あー、眠い……。\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井誠",
+      "text": "あんな深夜に囲碁サッカーの試合\nやってるんだもんな、そりゃ見ちゃうよ。\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "桜井誠",
+      "text": "とりあえず学校行って、\n授業始まるまで寝よっと。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井先生",
+      "text": "マコちゃーーーん！\n待ってよ、マコちゃんってばー！\n",
+      "ctrl_code": "fbffebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "桜井誠",
+      "text": "げ……。\n",
+      "ctrl_code": "fbffc0ff040008011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井先生",
+      "text": "はぁはぁ……もー、マコちゃんってば、\n一緒に学校行こうって言ったでしょー？\n",
+      "ctrl_code": "fbffc0ff030046011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "桜井誠",
+      "text": "行きたくないって言っただろ？\n",
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井先生",
+      "text": "いいでしょ、どうせ同じ道なんだから。\nほら、行こ？\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井誠",
+      "text": "はぁ……。\n",
+      "ctrl_code": "fbfffefe010001007fff0200faff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井誠",
+      "text": "（もー、姉ちゃんって何でこうなんだろ。\n　もうちょっと弟のこと気遣ったりとか……）\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井先生",
+      "text": "あっ、マコちゃん前っ！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff00c1ffb300ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "桜井誠",
+      "text": "え？　うわっ！！\n",
+      "ctrl_code": "fbffedfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井先生",
+      "text": "こ、校長先生！　大丈夫ですか？\nほらっ、マコちゃんも早く謝って！！\n",
+      "ctrl_code": "fbffedffc8ffb3004b011000c1ff4b011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "桜井誠",
+      "text": "す、すいません。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c1ffaf011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF07}]",
+      "text": "マコちゃんだってさ！\n高校生で、ちゃんはきついよなー。\n",
+      "ctrl_code": "fbffc1ffbc011000ebfe0000adffffff65ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF08}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8ffbc01af011000c1ffaf011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "text": "なあ、お前もそう思うだろ？\nちゃん、マコちゃんだぜ！\n",
+      "ctrl_code": "fbffc1ffbf011000ebfe0000adffffff65ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF08}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffae011000ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "text": "おい、聞いてる？\n今、地球人がマコちゃんって呼ばれて[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffc1ffc7011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "text": "う、う、うるさーい！\n",
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "text": "うわっ、おいやめろ！\nいきなり何を[{0D80}][{0D80}]おい、そのスイッチは！\n",
+      "ctrl_code": "fdffedfffcfffcffedffc1ffffff100066ff02000000daff67ff1400e8fe0200edffc8ffc801b4011000c1ffc8011000ebfe000065ff07002300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF08}]",
+      "text": "うるせえ！　未だに母ちゃんから\nミっちゃんって呼ばれてるオレに謝れ！\n",
+      "ctrl_code": "fbffe8fe0200c1ffb7011000ebfe000065ff08002200"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF07}]",
+      "text": "！！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0400ebfe000065ff09002300"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF08}]",
+      "text": "うっ、うう……\n俺だって……俺だって……。\n",
+      "ctrl_code": "fbffebfe000065ff0a002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]",
+      "text": "なんていうか……その、ごめんな？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000064ffffff2e00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "女子生徒（女子生徒１）",
+      "text": "おはようございまーす。\n先生、弟さんと一緒なんですね。\n",
+      "ctrl_code": "fbffebfe000064ffffff3100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "男子生徒（男子生徒２）",
+      "text": "桜井おはよ！\n今日は姉ちゃんと一緒なんだな！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff04000d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井先生",
+      "text": "ふふっ、みんな声かけてくれるね。\n",
+      "ctrl_code": "fbffc0ff030047011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "桜井誠",
+      "text": "あーもー……だから嫌なんだよ。\n",
+      "ctrl_code": "98ff0000effe020097fffbff05ffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井先生",
+      "text": "え、マコちゃん今何か言った？\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "桜井誠",
+      "text": "先に学校行ってろって言った。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井先生",
+      "text": "何でよ、間に合う時間なんだから\n一緒に行けばいいでしょー？\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "桜井誠",
+      "text": "はぁ……。\n",
+      "ctrl_code": "fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ff0f00eefe05000400e8fe0200c1ff46011000ebfe000065ff0b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井誠",
+      "text": "あーもう！\nだからうっとうしいんだって！\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff0c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "桜井誠",
+      "text": "学校じゃからむなって言っただろ！？\n恥ずかしいんだよ！\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff0d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井先生",
+      "text": "え、でも、だって。\n",
+      "ctrl_code": "fbffe8fe0200c1ff49011000ebfe000065ff0e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "桜井誠",
+      "text": "家でもそんな仲いいわけでもないくせに！\n",
+      "ctrl_code": "fbff67ffffffeefe05000400e8fe0200c1ff0e011000ebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井先生",
+      "text": "そんなことないでしょ！？\nお姉ちゃんはマコちゃんのこと好きだもん！\n",
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0200c1ff4c011000ebfe000065ff10001100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "桜井誠",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff0d00eefe04000400c1ff47011000ebfe000065ff11001100"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井誠",
+      "text": "だ、だからそういう問題じゃないって！\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff12000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "桜井先生",
+      "text": "じゃあどういう問題なの！？\n私たち仲良しでしょ！？\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe000065ff13000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "桜井先生",
+      "text": "それともマコちゃんは\n私のこと嫌いなの？\n",
+      "ctrl_code": "fbffe8fe0400c1ff49011000ebfe000065ff14001100"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井誠",
+      "text": "う……いや、それは。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff15000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井先生",
+      "text": "どうなの？\nもしかしてお姉ちゃんのこと嫌い？\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000065ff16001100"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井誠",
+      "text": "いや、それは……そうじゃないけどさ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井先生",
+      "text": "[{0D80}][{0D80}]良かった！\nやっぱりマコちゃんはいい子だね。\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff060071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff48011000ebfe0000adffffff65ff18001100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff19002d00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "女子生徒（女子生徒２）",
+      "text": "おはよーございます。\n朝から姉弟ケンカなんて仲良しなんですね〜。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井先生",
+      "text": "あ、おはようございます。\n",
+      "ctrl_code": "fbffebfe000065ff1b002d00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "女子生徒（女子生徒２）",
+      "text": "桜井くん、お姉ちゃんいじめちゃダメだよ？\nそれじゃ、後でね！\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff1c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井先生",
+      "text": "マコちゃんのクラスの人だったね。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "桜井誠",
+      "text": "……み、見られた……。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff49011000ebfe000065ff1e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井誠",
+      "text": "だったらオレが先行ってるよ。\n",
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daffe8fe0200c1ff0b011000ebfe000065ff1f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "桜井先生",
+      "text": "あっ、待ってよマコちゃん！\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ff30000000c1ffffff1000b3ff0300f4ff0400daffb2ffc0ff03004c011000ebfe000065ff20001100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "桜井誠",
+      "text": "え……？\n",
+      "ctrl_code": "fbff67ff0d00c0ff04000f011000ebfe000065ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井先生",
+      "text": "あいたたた……。\n",
+      "ctrl_code": "fbffeefe04000400c1ff47011000ebfe000065ff22001100"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井誠",
+      "text": "まったく、なんで転ぶんだよ。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井先生",
+      "text": "マコちゃんを\n追いかけようと思ったら[{0D80}][{0D80}]痛っ！？\n",
+      "ctrl_code": "fbffe8fe0400c1ff10011000ebfe000065ff24000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井先生",
+      "text": "足、ひねっちゃったかも……。\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff25001100"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井誠",
+      "text": "なら無理に立つなって！\nほら、見せてみろよ。\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe000065ff26000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井先生",
+      "text": "いたたっ……。\n",
+      "ctrl_code": "fbffc1ff46011000ebfe000065ff27001100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "桜井誠",
+      "text": "……はあ。\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff060071ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff28002d00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "女子生徒（女子生徒２）",
+      "text": "うわっ、先生おんぶですか？\nすっごい仲良しじゃないですか〜。\n",
+      "ctrl_code": "fbffebfe000065ff29003200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "男子生徒（男子生徒１）",
+      "text": "桜井〜、お前すっげえ目立ってるぞ。\nいいねー、姉弟仲よさそうでさ。\n",
+      "ctrl_code": "fbffebfe000065ff2a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "桜井先生",
+      "text": "ご、ごめんねマコちゃん……。\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff2b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井誠",
+      "text": "（……余計恥ずかしくなった。\n　誰か助け……っていうか、むしろ死にたい）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff47011000ebfe0100adffffff65ff2c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井誠",
+      "text": "（……しょうがない、リフティングでもして、\n　姉ちゃんのことは見ないでおこう）\n",
+      "ctrl_code": "fbffeefe0d000400c1ff0e011000ebfe000065ff2d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井先生",
+      "text": "マコちゃんまたボール蹴りながら歩いてる。\nもー、危ないからダメって言ったでしょ！\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff2e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "桜井誠",
+      "text": "よっ……と。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff2f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "桜井先生",
+      "text": "もうっ、ほら、貸して。\n",
+      "ctrl_code": "fbffe8fe0200c1ff4c011000ebfe000065ff30001100"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "桜井誠",
+      "text": "うわっ、何すんだよ！\n",
+      "ctrl_code": "fbffe8fe0200c1ff0e011000ebfe000065ff31000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井先生",
+      "text": "よそ見しながら歩いてたら危ないよ！\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff32001100"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "桜井誠",
+      "text": "ボール横取りしようとする\n姉ちゃんの方が危ないって！\n",
+      "ctrl_code": "fbffe8fe0200c1ff4d011000ebfe000065ff33001100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "桜井誠",
+      "text": "ほら、そんな事したら……あぁっ！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ffa6000000daff66ffa8000000daff67ff1100effe0400e8fe0400ebfe000065ff34000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "桜井先生",
+      "text": "あわわ……。\n",
+      "ctrl_code": "fbffebfe000065ff35001100"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "桜井誠",
+      "text": "うわ……\nこれ、歴史の富岡先生じゃ……。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff36000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "桜井先生",
+      "text": "富岡先生、大丈夫ですか？\n富岡先生っ！\n",
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff47011000ebfe0000adffffff65ff37001100"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0300c1ff48011000ebfe0100adffffff65ff38001100"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "桜井誠",
+      "text": "（逃げろっ！）\n",
+      "ctrl_code": "fbff66ff22000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff39000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "桜井先生",
+      "text": "ええっ！？\nま、待ってよマコちゃーん！！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

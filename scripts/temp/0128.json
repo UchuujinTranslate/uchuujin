@@ -1,0 +1,465 @@
+{
+  "UNK": "8626",
+  "id": 16,
+  "total": 65,
+  "ptrs": 288,
+  "extra": 0,
+  "ctrl_code": "2000000090080000f40a0000f80a00001e0f0000380f00009c140000b4180000fcffedfe09000b000c0004ff03ff0300c1ffffff1000bcffab01ff0067ff0900fcfff9ff0800eefe00000500ebfe000064ffffff1b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ジェントルマン",
+      "text": "困った……というより、しまったのう。\nここはどこなんじゃろう？\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ジェントルマン",
+      "text": "どうやら学校のようじゃが、\nきよしの小学校ではなさそうじゃ……。\n",
+      "ctrl_code": "fbffedffc8ff7e0108001000c1ff08001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "なの",
+      "text": "あの、もしかして……。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ジェントルマン",
+      "text": "ん？　おや、お嬢さん、また会いましたな。\n",
+      "ctrl_code": "fbffc1ff0e001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "なの",
+      "text": "は、はい！\nこの前はお世話になりました！\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ジェントルマン",
+      "text": "なぁに、紳士として\n当然のことをしたまでじゃ。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "ジェントルマン",
+      "text": "それよりお嬢さん、\nここは一体どこなんじゃろうか？\n",
+      "ctrl_code": "fbffc1ff08001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "なの",
+      "text": "はい？　ここは時定高校ですけど……？\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ジェントルマン",
+      "text": "いや、ちょっと迷い込んでしまってのう。\n出口まで案内してもらえんじゃろうか？\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "text": "あっ、そうだったんですか。\nじゃあ、こちらにどうぞ。\n",
+      "ctrl_code": "98ff00001aff04000000a00000003c0016ffffff97ffe0063705fe00e200f200f000f600800d800dfefffdffedfffcff67fffffffcff66ff500000001aff04000000a00010010a0016ffffffedffc0ff0400ffff1000e8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "なの",
+      "text": "わーーー！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ジェントルマン",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4d00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "なの",
+      "text": "うう……\nなんでこんなところに落とし穴が……？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff08001fff0400000000020000c0ff0400c4001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中村先生",
+      "text": "よし！　東雲なの捕獲作戦成功！\n",
+      "ctrl_code": "98ff01001aff04000000680000003c0016ffffff97ff1f05fe00f902550d390169011b004a018b04f600c4030e08e400ea00f500800d800dfefffdffedfffcfffcff66ff500000001aff04000000680010010a0016ffffffedffc1ffffff1000e8fe0200ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中村先生",
+      "text": "うわーっ！？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "ジェントルマン",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "中村先生",
+      "text": "し、しまった……！\n保険でいくつか掘ってたんだった……！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff00c0ff03007e01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ジェントルマン",
+      "text": "……………………！？\n",
+      "ctrl_code": "fbffc1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "ジェントルマン",
+      "text": "今度はこっちのお嬢さんまで落とし穴に……\n一体、この学校はどうなっとるんじゃ。\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "ジェントルマン",
+      "text": "……いいや、それよりも助けを呼びにいかねば。\nじゃが、下手に動けば落ちてしまう……。\n",
+      "ctrl_code": "fbfffefe000001007fff0200edfffcff67ff1600edffc1ffffff10001fff0400000000020000c0ff04003001ff001aff04000000680000001e0016ffffffc0ff040030011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "ジェントルマン",
+      "text": "おお……バディ！\n助けに来てくれたのか？\n",
+      "ctrl_code": "fdffedfffcfffcff67ffffff1aff04000000f0ff00001e0016ffffff66ff500000001aff04000000f0ff10010a0016ffffffedffc0ff0400ffff100066ff7c000000e8fe0200c1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "ジェントルマン",
+      "text": "！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1200faff01000000f9ff0800c1ffd2011000ebfe000065ff00002400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF09}]",
+      "text": "あーっ！？\nこんなところにも落とし穴が！\n",
+      "ctrl_code": "fbffedffc8ffd201b7011000c1ffb7011000ebfe000065ff01002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]",
+      "text": "……ってことは？\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF07}]＆[{FF09}]",
+      "text": "うあああああああああ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff18011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "高崎先生",
+      "text": "……ん？　あんな所にお爺さんが……\n何をやっているんだ？\n",
+      "ctrl_code": "fbffc1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "高崎先生",
+      "text": "おーい、そこのお爺さーん！\nどうしましたかー！？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff80011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ジェントルマン",
+      "text": "お、おお……男の先生が……\nこれでお嬢さんたちを助けられるぞ。\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ジェントルマン",
+      "text": "じゃが……あの先生まで\n落とし穴に落ちでもしたら……！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff18011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "高崎先生",
+      "text": "……おかしいな。声は聞こえてると思うけど、\n何も反応しないぞ？\n",
+      "ctrl_code": "fbff05ffc1ff12011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "高崎先生",
+      "text": "何かあったのかな？\nあっちに行ってみるか。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ジェントルマン",
+      "text": "こ、こっちに近づいてきておる……！\n一体……どうすりゃいいんじゃ？\n",
+      "ctrl_code": "fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe05000600070067ff1200eefe09000400edffc1ffffff1000e8fe0200c0ff03007e011000ebfe000065ff03001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "ジェントルマン",
+      "text": "そ、そこで止まるんじゃ！！\n来るんじゃないぞ！\n",
+      "ctrl_code": "fbffe8fe0200c0ff040014011000ebfe000065ff04000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "高崎先生",
+      "text": "え！？　な、何でですか！？\n",
+      "ctrl_code": "fbffc1ff81011000ebfe000065ff05001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ジェントルマン",
+      "text": "穴があるんじゃ。\n下手に動くと落ちるんじゃ！\n",
+      "ctrl_code": "fbffc1ff19011000ebfe000065ff06000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "高崎先生",
+      "text": "はははは、そんなのありませんよ。\n",
+      "ctrl_code": "fbffebfe000065ff07000000"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "なの",
+      "text": "……ありますよ……。\n",
+      "ctrl_code": "98ff0000effe060097fffbffebfe000065ff08000600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中村先生",
+      "text": "……たぶん、あと、１つは。\n",
+      "ctrl_code": "fbffc1ff1b011000ebfe000065ff09000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "高崎先生",
+      "text": "今の声は東雲に中村先生！？\nどこにいるんですか！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "なの＆中村先生",
+      "text": "ここです〜。\n",
+      "ctrl_code": "fbffebfe000065ff0b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "高崎先生",
+      "text": "こんな所に！？　早く助け出さないと！\nすみませんがお爺さんも手伝ってください！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff00c1ff8101ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff81011000ebfe000065ff0c001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ジェントルマン",
+      "text": "こ、これ、動くと危ないと言ってお[{0D80}][{0D80}]\n",
+      "ctrl_code": "fdffedfffcfffcff66ff500000001aff03000100000010010a0016ffffffedffc1ffffff1000e8fe0200ebfe000065ff0d001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ジェントルマン",
+      "text": "ぐおお！？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "高崎先生",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe0a0097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4f00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe1a000400ebfe0000adffffff65ff0f001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ジェントルマン",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff10001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ジェントルマン",
+      "text": "た、助けてくれぇ〜〜。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1600c1ff7e011000ebfe000065ff11001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ジェントルマン",
+      "text": "そ、そうじゃ。どうせ落ちるなら、\nわしが代わりに落ちた方が良いはずじゃ。\n",
+      "ctrl_code": "98ff0000eefe0c000400effe070097fffbffc1ff80011000ebfe000065ff12001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ジェントルマン",
+      "text": "若い彼さえ無事ならば、\n全員を引き上げてくれるじゃろう。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff03007f011000ebfe000065ff13001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ジェントルマン",
+      "text": "よしよし。あ、先生。\n一度、そこで止まってはもらえませんかな。\n",
+      "ctrl_code": "fbffc0ff040018011000ebfe000065ff14000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "高崎先生",
+      "text": "えっ？　な、何を言ってるんですか？\n",
+      "ctrl_code": "98ff01001aff04000000f0ff00003c0016ffffff97ffc604fa00de0cf000ee00990721016908de000507e000f900d300f700800d800dfefffdffedfffcfffcff67ffffff66ff500000001aff04000000f0ff10010a0016ffffffedffc0ff0400ffff1000effe0a00e8fe0200ebfe000065ff15000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "高崎先生",
+      "text": "おあーっ！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff81011000ebfe000065ff16001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ジェントルマン",
+      "text": "！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5000ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "高崎先生",
+      "text": "……こういうことか。\n",
+      "ctrl_code": "fbffebfe000065ff18001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "ジェントルマン",
+      "text": "じゃから止まれと言ったんじゃ……。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff19000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "高崎先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "高崎先生",
+      "text": "お年寄りの言うことは、聞くもんだよな。\n",
+      "ctrl_code": "98ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff7e011000ebfe0000adffffff65ff1b001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "ジェントルマン",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000eefe0f000400edffc8ff7e0112011000ebfe000065ff1c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "高崎先生",
+      "text": "あのーお爺さん？\n",
+      "ctrl_code": "98ff01001aff04000000f0ff00003c0016ffffff97ffd300f200ee00d3003c035305fd00570b1309f600c5022101e4001b01f500800d800dfefffbffe8fe0200c1ff17011000ebfe000065ff1d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "高崎先生",
+      "text": "え？　うわあっ！？\n",
+      "ctrl_code": "fdffedfffcfffcff66ff500000001aff04000000f0ff10010a0016ffffffeffe0a00f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5000ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe13000400e8fe0200ebfe000065ff1e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "高崎先生",
+      "text": "うおおお〜！？\nな、何でこんなところに落とし穴が〜っ！？\n",
+      "ctrl_code": "fbffe8fe0400ebfe000065ff1f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "text": "誰か〜助けてくださ〜い……。\n",
+      "ctrl_code": "fbffebfe000065ff20000600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中村先生",
+      "text": "不覚……せっかくのチャンスを……。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff21001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ジェントルマン",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ジェントルマン",
+      "text": "て……手詰まりじゃ……。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

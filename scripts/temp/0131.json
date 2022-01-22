@@ -1,0 +1,486 @@
+{
+  "UNK": "3728",
+  "id": 16,
+  "total": 68,
+  "ptrs": 288,
+  "extra": 0,
+  "ctrl_code": "200000002a0400006008000064080000700900008a090000640e000008130000fcffedfe09000b000c0004ff03ff0300c1ffffff1000bcff8701ff0067ff0e00fcfff9ff0800eefe00000500c1ff8c011000ebfe0000adffffff64ffffff1e00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff08001000ebfe0000adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "なの",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedffc8ff08008c011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "なの",
+      "text": "あ、あの……何かご用ですか？\n",
+      "ctrl_code": "98ff0000effe000097fffbffc1ff05001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "なの",
+      "text": "（鹿、だよね。なんで学校にいるんだろ？\n　それにあの目……ずっと怒ってるの？）\n",
+      "ctrl_code": "fdffedfffcfffcff1aff04000000f0ff00000a0016ffffffc1ff8c011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffe8fe0400c1ff0b001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "なの",
+      "text": "な、何！？　何なんですか！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0900ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff89000000ebfe0100adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "鹿",
+      "text": "…………！\n",
+      "ctrl_code": "fbff67ff1000eefe15000400ebfe0100adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "鹿",
+      "text": "…………！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff00c8ff0f008b01ff0090ff8b0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff0f001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "text": "（あれ？　ちょっと警戒、解いてもらえた？\n　でも、まだ私のこと注目しているし……）\n",
+      "ctrl_code": "fbffc1ff05001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "なの",
+      "text": "（どうしよう？\n　どうしたら許してもらえるのかな？）\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbfffefe010001007fff0200edffc1ffffff100067ffffffebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "校長先生",
+      "text": "……ここにいたか。\n",
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "鹿",
+      "text": "！！？\n",
+      "ctrl_code": "fbff67ff1600edffc1ffffff1000edffc8ffab0005001000c1ffab001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "校長先生",
+      "text": "そこのお嬢さん、危ないですよ。\n下がっていなさい。\n",
+      "ctrl_code": "fbffc1ff04001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "なの",
+      "text": "えっ？　は、はいっ！\n",
+      "ctrl_code": "fdffedfffcfffcffedffc1ffffff1000edffc8ff8c01ab001000c0ff03008c011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc0ff0400b6001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "校長先生",
+      "text": "来い……！\n",
+      "ctrl_code": "fdffedfffcfffcfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff42000000daffbcffff01100066ff31000000e8fe0200ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "校長先生",
+      "text": "ぐふぉっ！！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb700ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff7c000000e8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "なの",
+      "text": "えええーー！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "text": "一撃かよっ！？\n",
+      "ctrl_code": "fbff66ff0b000000c1ffc2011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF08}]",
+      "text": "やばっ！\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff0300b6011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF07}]",
+      "text": "え……まさか……？\n",
+      "ctrl_code": "fbffc0ff0400d5011000ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF09}]",
+      "text": "なんとなく予想できるけど……\nもしかして……。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "やっぱりかあああっ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff0c001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "なの",
+      "text": "（言葉は通じないだろうし……\n　だったら……そうだ、あれがあった！）\n",
+      "ctrl_code": "fbff05fff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "なの",
+      "text": "こ、これどうぞ！\nお、美味しいですよ！\n",
+      "ctrl_code": "98ff0000effe070097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700eefe04000400e8fe020066ff7c000000ebfe000065ff05001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "鹿",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff1200eefe03000400ebfe000065ff06001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "鹿",
+      "text": "…………！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff00c8ff0b008c01ff0090ff8c0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff04001000ebfe000065ff07000000"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "なの",
+      "text": "け、警戒されたっ！？　これじゃだめなの！？\nだったら[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff66ff8e000000e8fe0200c1ff03001000ebfe000065ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "text": "バームクーヘンなら！\n",
+      "ctrl_code": "98ff0000effe0300eefe0300040097fffbffe8fe0200c1ff8c011000ebfe000065ff09001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "鹿",
+      "text": "！！！！！！！？\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe000065ff0a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "鹿",
+      "text": "……ッ……ッ……ッ！\n",
+      "ctrl_code": "fbff1aff03000000f0ff00003c0016ffffffc1ff07001000ebfe000065ff0b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "なの",
+      "text": "あ、あの……おいしいですよ？\n",
+      "ctrl_code": "fbffc1ff8c011000ebfe000065ff0c001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "鹿",
+      "text": "ッ！！\n",
+      "ctrl_code": "fbffeefe05000400c1ff8c011000ebfe000065ff0d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "鹿",
+      "text": "ッ！　ッ！　ッ！\n",
+      "ctrl_code": "fbff1aff0300000078ff00000a0016ffffffc1ff06001000ebfe000065ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "なの",
+      "text": "ああっ！？\nもっと怒ったーっ！？\n",
+      "ctrl_code": "98ff0000effe020097fffbffe8fe0400eefe0b000400c1ff0c001000ebfe000065ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "なの",
+      "text": "こ、こんなときは……こんなときは……\nえーと、えーと、えーとえーとえーと……。\n",
+      "ctrl_code": "fbffc1ff8c011000ebfe0000adffffff65ff10001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "鹿",
+      "text": "フー……フー……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff02001000ebfe000065ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "text": "はかせ助けてーっ！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff12001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "鹿",
+      "text": "フィーーッ！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff31000000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edffc1ffffff1000ebfe0000adffffff65ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "",
+      "text": "今にして思えば、\nあれはお互いに不幸なできごとでした。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff00c8ff03008b01ff0090ff8b0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff8b011000ebfe0000adffffff65ff14001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "鹿",
+      "text": "……………………。\n",
+      "ctrl_code": "fdffedfffcfffcff1aff04000000f0ff00000a0016ffffffc1ff8b011000ebfe000065ff15001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "鹿",
+      "text": "……パクリ。\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff16000000"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "なの",
+      "text": "た、食べた！\n鹿さんがロールケーキを食べてくれたー！\n",
+      "ctrl_code": "98ff0000effe080097fffdffedfffcfffcff1aff04000000680000000a0016ffffffc1ff07001000ebfe0100adffffff65ff17000000"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "なの",
+      "text": "（これで許してくれるかな？\n　……たぶん大丈夫だよね？）\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff18001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff11001000ebfe000065ff19000000"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "なの",
+      "text": "それじゃ私、用事があるので[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffeefe03000400c1ff8b011000ebfe0000adffffff65ff1a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff0b001000ebfe000065ff1b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "なの",
+      "text": "な、何で！？\nそれじゃ、バームクーヘンもあげますから！\n",
+      "ctrl_code": "fbffeefe14000400e8fe0200c1ff8c011000ebfe000065ff1c001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "鹿",
+      "text": "チュイーーンッ！！\n",
+      "ctrl_code": "fbffc1ff05001000ebfe000065ff1d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "text": "ロールケーキがいいんですか？\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff8b011000ebfe000065ff1e001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "鹿",
+      "text": "ミィー。\n",
+      "ctrl_code": "fbffe8fe0200c1ff05001000ebfe000065ff1f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "なの",
+      "text": "ロールケーキじゃなきゃ駄目なんですか！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffeefe06000400e8fe0200c1ff8c011000ebfe000065ff20001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "鹿",
+      "text": "チュイーーンッ！！\n",
+      "ctrl_code": "fbffc1ff0d001000ebfe000065ff21000000"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "なの",
+      "text": "ああ……うう……ううう……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff8e000000daffebfe000065ff22000000"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "なの",
+      "text": "あ、甘食で勘弁してください。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000ebfe0000adffffff65ff23001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffebfe000065ff24000000"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "なの",
+      "text": "あ、あれ？　……食べない？\nいらないんですか？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff25001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fdffedfffcfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff00c8ff05008b01ff0090ff8b0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff440000001aff04000000000200001e0016ffffffedffc0ff0400ffff1000eefe03000400c1ff0b001000ebfe000065ff26000000"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "なの",
+      "text": "あ、あれっ！？　鹿さんっ！？\n",
+      "ctrl_code": "fbffc1ff08001000ebfe000065ff27000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "text": "……行っちゃった……。\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff05001000ebfe000065ff28000000"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "なの",
+      "text": "やっぱり鹿せんべいの方がよかったのかな。\nでも、そんなもの持ってないし……。\n",
+      "ctrl_code": "fbff67ffffffebfe000065ff29000500"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "校長先生",
+      "text": "ならばこれをどうぞ。\n",
+      "ctrl_code": "fbffeefe02000400c9ff55021000edffc8ff0800b3001000ebfe000065ff2a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "text": "えっ？　こ、校長先生？\nこれ、えっ？　し、鹿せんべい？\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ffb6001000ebfe000065ff2b000500"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "校長先生",
+      "text": "あなたなら渡すことができるはず。\n次からはこれをあげると良いでしょう。\n",
+      "ctrl_code": "fbffc9ffffff1000bfff05001000c1ff0c001000ebfe0000adffffff65ff2c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "なの",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "なの",
+      "text": "次って言われても……なあ……。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

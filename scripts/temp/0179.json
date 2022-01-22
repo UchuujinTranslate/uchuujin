@@ -1,0 +1,493 @@
+{
+  "UNK": "6528",
+  "id": 16,
+  "total": 69,
+  "ptrs": 304,
+  "extra": 0,
+  "ctrl_code": "2000000050040000080a00000c0a0000a40d0000be0d00006813000078160000fcffedfe0e001000110004ff03ff0300c1ffffff1000bcffabd1ff0067fffffffcfff9ff0800eefe0000050066ffc7000000daffc0ff04008b011000ebfe0000adffffff64ffffff1e00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff080066ff46000000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff00c8ffd0008b01ff0090ff8b0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800effe0600c0ff0300d0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "麻衣",
+      "text": "………………。\n",
+      "ctrl_code": "fdffedfffcfffcffc0ff03004f02100066ff84000000daffafff03000300c0ff0300d0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "麻衣",
+      "text": "………………。\n",
+      "ctrl_code": "fbffafff03000000e8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "鹿",
+      "text": "ッ！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffbeffb0001000e8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "鹿",
+      "text": "フィーーヨーーッ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff00c8ffd2008c01ff0090ff8c0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ffd2001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "麻衣",
+      "text": "……くっ。\n",
+      "ctrl_code": "fbffc1ffcc001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "麻衣",
+      "text": "なら……。\n",
+      "ctrl_code": "fdffedfffcfffcffc0ff03004f02100066ff84000000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffcd000000daffe8fe0200ebfe0000adffffff64ffffff2f00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "カラス",
+      "text": "ギャア！　ギャア！！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "鹿",
+      "text": "ッ！！！！？\n",
+      "ctrl_code": "fbfffefe020001007fff0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff2b011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "阪本さん",
+      "text": "……ん、俺は一体？\nなんでこんな場所に？\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ffcc008c011000adfffeffebfe0000aeff03008000aeff0400800064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "麻衣＆鹿",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffaeff03000000aeff04000000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "阪本さん",
+      "text": "……何やってんだ、こいつら？\n妙に殺気立ってるが……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffcd000000daffe8fe0200ebfe0000adffffff64ffffff2f00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "カラス",
+      "text": "ギャア、ギャアッ！！\n",
+      "ctrl_code": "fdffedfffcffc0ff03004f02100066ff84000000daffedffc1ffffff100066ff89000000daffe8fe0200ebfe0000adffffff64ffffff2f00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "カラス",
+      "text": "カアアアアアアアアア！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff2e011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "阪本さん",
+      "text": "[{0D80}][{0D80}]え？\nなんでこっちにカラスが……！？\n",
+      "ctrl_code": "fdffedfffcffedffc1ffffff100066ff38000000daffe8fe0200ebfe0000adffffff64ffffff2f00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "カラス",
+      "text": "ギャッ！　ギャアッ！\n",
+      "ctrl_code": "fdffedfffcfffcff67ff1800bcffffd1100066ff91000000e8fe0400ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "阪本さん",
+      "text": "ぎゃああああああっ！？\n来るな！　突くなっ！？　あっち行けーっ！！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800ebfe000065ff00002400"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF09}]",
+      "text": "なんだあのカラス！？\nなんでこの猫に攻撃を！？\n",
+      "ctrl_code": "fdffedfffcffedffc1ffffff100066ff0b000000daffc1ffbf011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "text": "くっ、映像が！？\nカラスの奴、カメラ機能を破壊しやがった！\n",
+      "ctrl_code": "fbffedffc8ffbf01b3011000c0ff0400b3011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]",
+      "text": "それだけじゃない！\nアンテナも、もう[{0D80}][{0D80}]！\n",
+      "ctrl_code": "fbffc0ff0300d5011000ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF09}]",
+      "text": "や、やばいっ！？\nこのままだと[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "うあああああああああ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff28011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "阪本さん",
+      "text": "……なんだあれ？\n娘の知り合いと……鹿？\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "阪本さん",
+      "text": "しかし、妙な気配だな。\nあれ、本当に娘の知り合いか？\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ffd2008c011000c0ff0300d2001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "麻衣",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffc0ff04008c011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffcd000000daffe8fe0200ebfe0000adffffff64ffffff2f00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "カラス",
+      "text": "カアアアアアアアアア！\n",
+      "ctrl_code": "fbffebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "阪本さん",
+      "text": "妙な気配の娘の知り合いに、鹿。\nそして、空には凶暴そうなカラス。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff00c1ff2b01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff2b011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "阪本さん",
+      "text": "……こりゃあ、\n迂[{0DA6}]に近づかない方がよさそうだな。\n",
+      "ctrl_code": "fbffedffc1ffffff100067ffffffc1ffcc001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "麻衣",
+      "text": "……よし。\n",
+      "ctrl_code": "fbff05ffebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "鹿",
+      "text": "…………？\n",
+      "ctrl_code": "fbff67ff0f00c1ffcf001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "麻衣",
+      "text": "行く[{0D80}][{0D80}]！\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700ebfe000065ff05000700"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "麻衣",
+      "text": "……フフ。\n",
+      "ctrl_code": "fdffedfffcfffcffc1ff4f02100066ff84000000daffeefe03000400e8fe0400ebfe000065ff06000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "阪本さん",
+      "text": "な、なんだ、妙な気配が……カラスにも？\n",
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffcd000000daffe8fe0200ebfe0000adffffff65ff07002f00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "カラス",
+      "text": "ギャア、ギャアッ！！\n",
+      "ctrl_code": "fbffebfe000065ff08001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "鹿",
+      "text": "フィ！？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff09000700"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "麻衣",
+      "text": "これで終わり！\n",
+      "ctrl_code": "fdffedfffcfffcff66ff38000000daffebfe000065ff0a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "鹿",
+      "text": "っ！\n",
+      "ctrl_code": "fdffedfffcfff5ff080067ffffffbcffabd11000c0ff04008b01100019ff03008000800080000a0016fffffff6ff080066ffce00000067ff1300c0ff03008b01040019ff0300ff00ff00ff00780016ffffffdaffc0ff03008b011000ebfe0000adffffffadffffff65ff0b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "鹿・父",
+      "text": "………………。\n",
+      "ctrl_code": "98ff0000effe060097fffbffeefe03000400e8fe0200ebfe000065ff0c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "麻衣",
+      "text": "鹿の霊！？\n",
+      "ctrl_code": "fdffedfffcfffcff66ff740000001aff0300000000fe00001e0016ffffffe8fe0200c1ff8b011000ebfe000065ff0d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "鹿",
+      "text": "ッ！？\n",
+      "ctrl_code": "fbfff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff49000000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800daff66ff55000000e8fe0200ebfe0000adffffff65ff0e002f00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "カラス",
+      "text": "グギャア−−−−ッ！！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "麻衣",
+      "text": "……相打ち！？\n",
+      "ctrl_code": "fbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff00c0ff04008b01ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800c1ff8b011000ebfe0000adffffff65ff10001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbff67ff0d00c0ff0300ca001000ebfe000065ff11000700"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "麻衣",
+      "text": "おかげで私もまた解放された。\n……父親の愛、その力は呪いも打ち破る。\n",
+      "ctrl_code": "fbffc0ff04008b011000ebfe000065ff12001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "鹿",
+      "text": "ッ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff13001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "鹿",
+      "text": "ミィィィーーッ！！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff2b011000ebfe000065ff14000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "阪本さん",
+      "text": "……なんだったんだ、ありゃ？\n",
+      "ctrl_code": "98ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffd0001000ebfe000065ff15000700"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "麻衣",
+      "text": "[{0D80}][{0D80}]散歩へ。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffe8fe030066ff7c000000ebfe0100adffffff65ff16000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "阪本さん",
+      "text": "（……散歩へ！？）\n",
+      "ctrl_code": "fbff67ff1000edffc8ffd0008b011000c1ff8b011000ebfe000065ff17001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "鹿",
+      "text": "……コクリ。\n",
+      "ctrl_code": "fbff1aff04000000f0ff00001e0016ffffffe8fe0300ebfe0100adffffff65ff18000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "阪本さん",
+      "text": "（……ＯＫした！？）\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff19000700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "麻衣",
+      "text": "それじゃ、行こう。\n",
+      "ctrl_code": "fbff1aff0300000000ff00003c001aff0400000078ff00003c0016ffffffedfffcfffcffc9ff4f02100066ff84000000daffc9ffffff1000c1ffca001000ebfe000065ff1a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "麻衣",
+      "text": "……ん？\n",
+      "ctrl_code": "fdffedfffcfffcff66ff51000000edffc1ffffff1000daffe8fe0300ebfe0100adffffff65ff1b000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "阪本さん",
+      "text": "（落ちたーーっ！）\n",
+      "ctrl_code": "fbffc0ff040059011000ebfe000065ff1c001400"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "安中",
+      "text": "ああっ！？　誰かが穴の中に！\n高崎せんせーい！！\n",
+      "ctrl_code": "fbffedfffcff66ff1c000000c1ffffff1000daffeefe04000400c1ff2b011000ebfe0000adffffff65ff1d000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "阪本さん",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1e000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "阪本さん",
+      "text": "……散歩、行くか。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffcc001000ebfe0000adffffff65ff1f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "麻衣",
+      "text": "………………。\n",
+      "ctrl_code": "fbffe8fe020066ffcd000000ebfe0000adffffff65ff20002f00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "カラス",
+      "text": "カアアアアアアアアア！！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff21001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "鹿",
+      "text": "！？\n",
+      "ctrl_code": "fbffebfe000065ff22000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "阪本さん",
+      "text": "な、なんだ、カラスたちが集まって[{0D80}][{0D80}]\n",
+      "ctrl_code": "98ff0000effe060097fffbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ffcd0000001fff03000000f0ff1001c1ffca00ff001aff03000000f0ff0000780016ffffffebfe0000adffffff65ff23001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffe8fe020066ff7c000000ebfe000065ff24000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "阪本さん",
+      "text": "[{0D80}][{0D80}]飛んでったーーーーーーーーっ！\n",
+      "ctrl_code": "98ff0000effe090097fffbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffabd1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff6ff0800eefe04000400c0ff04008b011000ebfe0000adffffff65ff25001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "鹿",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedfffcff66ff44000000c0ff0400ffff1000daffebfe000065ff26000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "阪本さん",
+      "text": "え、お前も帰っちゃうのか！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff27000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "阪本さん",
+      "text": "……ま、いいか。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

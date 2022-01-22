@@ -1,0 +1,395 @@
+{
+  "UNK": "7f03",
+  "id": 16,
+  "total": 55,
+  "ptrs": 240,
+  "extra": 0,
+  "ctrl_code": "200000002403000014070000180700001609000030090000260c00009e100000fcffedfe0b000c00080004ff03ff0300c1ffffff1000bcffc601ff0067ff0b00fcfff9ff0800eefe00000500ebfe000064ffffff0100",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "はかせ",
+      "text": "もぐもぐ……んー、うまうま♪\n",
+      "ctrl_code": "fbffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "はかせ",
+      "text": "あっ、もうポテチなくなっちゃった。\n他のおかしは……。\n",
+      "ctrl_code": "fbffc1ff2d001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "text": "あれ？　ない？　あれあれ？\n戸棚にも冷蔵庫にもない。\n",
+      "ctrl_code": "fbffc1ff35001000ebfe0000adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "はかせ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff37001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ffffffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800c1ff09001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "text": "はかせ、またおかし全部食べたんですか！？\n晩ご飯抜きです！\n",
+      "ctrl_code": "fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff080066ff7c000000c1ff37001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "text": "…………！\n",
+      "ctrl_code": "fbff67ff0f00e8fe0400c1ff2e001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "はかせ",
+      "text": "ど、どうしよう！？\nなのに怒られちゃう！\n",
+      "ctrl_code": "fbffc1ff34001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "はかせ",
+      "text": "新しいの買ってきて……\nでもはかせお金持ってないし。\n",
+      "ctrl_code": "fbffc1ff2a001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "はかせ",
+      "text": "うーん、うーん……。\n",
+      "ctrl_code": "fbfffefe000001007fff0200c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "text": "わっ！　犬だ！？\n",
+      "ctrl_code": "fbffc1ff29001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "はかせ",
+      "text": "……あれ、近づいてこないの？\n",
+      "ctrl_code": "fbff67ff1500edffc8ff2d0030011000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "はかせ",
+      "text": "あ、そうだ。犬が食べたことにすれば\nはかせは怒られない！！\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "はかせ",
+      "text": "やった！　隠してたおかしも食べよー！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c1ffad011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "text": "ほほう、なかなか考えたな、この子。\n",
+      "ctrl_code": "fbffc1ffc8011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "text": "だが大人ってのはそんな子供の嘘を\n余裕で見抜けるもんだよな。\n",
+      "ctrl_code": "fbffc1ffad011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF07}]",
+      "text": "よし。この子が怒られるのもかわいそうだし、\n少し暴れさせて協力してやるか！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfffaff02000000f9ff0800edffc1ffffff1000e8fe0400ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "はかせ",
+      "text": "うわーん！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "なの",
+      "text": "こらー！　いたずらするワンちゃんは\n出て行きなさーい！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "text": "やりすぎたーーー！！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030067ffffff66ff89000000c1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "はかせ",
+      "text": "あっ！　そうだ！\nお菓子そっくりのものを作ればいいんだ！\n",
+      "ctrl_code": "98ff0000effe070097fffbff05ff67ff1000c1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "はかせ",
+      "text": "なのはあんまりおかし食べないから\nこれで少しは誤魔化せるはず！\n",
+      "ctrl_code": "fbffc1ff2d001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "はかせ",
+      "text": "早速おかしそっくりのものを作ろう。\n",
+      "ctrl_code": "fbffc1ff35001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "はかせ",
+      "text": "あっ、でもおかしにそっくりなだけじゃ\n面白くないよね。\n",
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "はかせ",
+      "text": "何かなのがびっくりするような\n面白いものを作ろーっと。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "はかせ",
+      "text": "どんな物にしようかなぁ……。\n",
+      "ctrl_code": "fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe02000400c1ff33001000ebfe000065ff04000100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "text": "チョコ型のボタンを作って\nなのが食べたら、腕が飛ぶ装置とか！\n",
+      "ctrl_code": "98ff0000effe010097fffbffc1ff2b001000ebfe000065ff05000100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "はかせ",
+      "text": "リモコンで動くおかしを作って\nなのが食べようとしたら逃げたりとか！\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff33001000ebfe000065ff06000100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "text": "いいぞいいぞ。\nもっと面白いものを考えようっ♪\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0b0071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff2b001000ebfe000065ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "はかせ",
+      "text": "あははははははは！　あはははは！\n面白いアイデアいっぱい出た！\n",
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff08000100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "はかせ",
+      "text": "さーて、なのが帰ってくる前に\n作ろうかなー。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff09000000"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "なの",
+      "text": "ただいまー。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "はかせ",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff29001000ebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "text": "びっくり箱みたいにすれば、なのが開けた瞬間、\n驚いて腰を抜かすぞ。\n",
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff0c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "はかせ",
+      "text": "そしたらなのは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800e8fe0200c1ff06001000ebfe000065ff0d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "なの",
+      "text": "わっ！？　ビックリした！\nもう！　驚かせないでください！\n",
+      "ctrl_code": "fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800c1ff2b001000ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "はかせ",
+      "text": "ぷぷぷ。怒るなのの姿が\n想像できちゃう。\n",
+      "ctrl_code": "fbffc1ff2f001000ebfe000065ff0f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "はかせ",
+      "text": "あ、あれ？\n",
+      "ctrl_code": "fbffc1ff35001000ebfe000065ff10000100"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "はかせ",
+      "text": "え、えっと、びっくり箱は無し。\n怒らせちゃダメなんだよ。\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff33001000ebfe000065ff11000100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "はかせ",
+      "text": "そうだ、食べられないけど感触が楽しめる\nおかしを用意したら[{0D80}][{0D80}]\n",
+      "ctrl_code": "fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800c1ff07001000ebfe000065ff12000000"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "なの",
+      "text": "わっ、このおかし面白い。\nはかせの発明ですか？\n",
+      "ctrl_code": "fbffedffc8ff2b0007001000ebfe000065ff13000100"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "はかせ",
+      "text": "えっへん。すごいでしょ。\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "なの",
+      "text": "すごいです。\nそれで、本物はどこにあるんですか？\n",
+      "ctrl_code": "fbffc1ff2f001000ebfe000065ff15000100"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "はかせ",
+      "text": "えっ？\n",
+      "ctrl_code": "fbffe8fe0200c1ff03001000ebfe000065ff16000000"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "なの",
+      "text": "あっ！　またこんなにおかし食べて！\nはかせの晩ご飯は抜きです！\n",
+      "ctrl_code": "fdffedfffcffb7ff1000f5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffffb6ffedfff6ff0800ebfe000065ff17000100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "はかせ",
+      "text": "あれーー！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2e001000ebfe000065ff18000100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "はかせ",
+      "text": "……でも、なのは面白い機能を見ても\n誤魔化されないかも。\n",
+      "ctrl_code": "fbffc1ff2d001000ebfe000065ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "はかせ",
+      "text": "目的は誤魔化すことだし、\n本物そっくりに作るだけにしよう。\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0b0071ff000063ffffff90ffffffedfffaff02000000f9ff0800eefe13000400c1ff33001000ebfe000065ff1a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "はかせ",
+      "text": "ふぅ。やっとできた。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff1b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "なの",
+      "text": "ただいまー。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff1c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "はかせ",
+      "text": "あっ、帰ってきた。\n早速この偽物を設置して……。\n",
+      "ctrl_code": "fbffc1ff00001000ebfe000065ff1d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "なの",
+      "text": "あっ、はかせ。ただい[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "なの",
+      "text": "あっ！　はかせ、またゴミ散らかして！\nしかもおかし全部食べてるじゃないですか！\n",
+      "ctrl_code": "fbffebfe000065ff1f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "はかせ",
+      "text": "ばれた！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

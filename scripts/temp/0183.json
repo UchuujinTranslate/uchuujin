@@ -1,0 +1,108 @@
+{
+  "UNK": "1e08",
+  "id": 16,
+  "total": 14,
+  "ptrs": 80,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffd101ff0067ff0b00fcfff9ff0800c1ff6a001000ebfe000065ff00000300",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "text": "１、２、３[{0D80}][{0D80}]\n全部ちゃんとページ揃ってるね。\n",
+      "ctrl_code": "fbffc1ff60001000ebfe000065ff01000300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "text": "あー良かった。\n一時はどうなることかと思ったよ。\n",
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff02000300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "text": "色々大変だったけど、\nなんとか乗り切ったわけだし。\n",
+      "ctrl_code": "fbffc1ff61001000ebfe000065ff03000300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "text": "終わってみれば良い思い出よね。\n青春の１ページ、ってやつ？\n",
+      "ctrl_code": "fbffc1ff67001000ebfe000065ff04000300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "text": "はー、なにはともあれ一件落着っと。\nあとはこれを締め切りまでに送れば[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff5f001000ebfe0000adffffff65ff05000300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff68001000ebfe000065ff06000300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffc1ff66001000ebfe000065ff07000300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "text": "締め切り……！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "text": "過ぎてるーーーー！！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffec01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff09001800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお姉",
+      "text": "みお〜、晩ご飯できてるよ〜。\n",
+      "ctrl_code": "fbffebfe000065ff0a001800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお姉",
+      "text": "ね〜、寝てるの〜？\nご飯冷めちゃうよ〜？\n",
+      "ctrl_code": "fbffebfe000065ff0b001800"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みお姉",
+      "text": "今日はみおの大好きなオムライスだよ〜。\nね〜？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4501080067ff0d00f4ff7800fdfff8ff080067ffffffdeff0000196002000000ffff74ff190074ff1f00bcfffd011000f9ff0800ebfe0000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "",
+      "text": "みお姉、鹿を\nＬＩＶＥできるようになりました。\n",
+      "ctrl_code": "fdffedfffcfff8ff0800dbff0000f7ff0800fcffffff"
+    }
+  ]
+}

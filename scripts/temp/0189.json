@@ -1,0 +1,220 @@
+{
+  "UNK": "2416",
+  "id": 16,
+  "total": 30,
+  "ptrs": 144,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffd501ff0067ff0b00fcfff9ff0800c1fffa001000ebfe000065ff00000a00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条",
+      "text": "はぁ、はぁ……\nやっと逃げ切れた……。\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000065ff01000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "text": "だけどかなり時間を無駄にした……\nこんなはずじゃなかったのに。\n",
+      "ctrl_code": "fbffc1fffd001000ebfe000065ff02000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条",
+      "text": "明日１日で、\nこの髪の毛を元に戻せるのだろうか……？\n",
+      "ctrl_code": "fdffedfffcffedffc1ffffff100066ff21000000daff1fff0400000000020000c0ff04005f01ff001aff04000000f0ff00001e0016ffffffebfe0000adff050065ff03001600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "text": "いたっ！！\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8fff6005f011000ebfe000065ff04000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "text": "ん？　あ、父さん。ただいま。\n",
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff61011000ebfe000065ff05001600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条さん",
+      "text": "これはどういうことだ！\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000065ff06000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "text": "えっ！？\n",
+      "ctrl_code": "fbff67ff0f00c9ff79021000e8fe0200c1ff00011000ebfe000065ff07000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff08001600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条さん",
+      "text": "この色といい、長さといい……\nどう見てもお前のモヒカンだろう！！\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000065ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中之条",
+      "text": "あ、ああ……\nぼ、僕の髪の毛が、こんなところに……！！\n",
+      "ctrl_code": "fbffc9ffffff1000c1ff5e011000ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条さん",
+      "text": "大福くんとモヒカンで遊ぶとはどういうことだ！\n",
+      "ctrl_code": "fbffc1fffd001000ebfe000065ff0b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中之条",
+      "text": "ち、違う！　僕だって何がなんだか！\n",
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff65ff0c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条",
+      "text": "（[{0D80}][{0D80}]ハッ！　そう言えば……\n　イタコさん、呪いをかけるって……）\n",
+      "ctrl_code": "fbff67ff1600c1fffb001000ebfe000065ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中之条",
+      "text": "父さん、１万円ちょうだい！\n治せる人に心当たりがあるんだ！\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff0e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条さん",
+      "text": "本当か！！　なら今すぐその人を\n呼んできなさい！\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000065ff0f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中之条",
+      "text": "わかった！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fffb001000ebfe000065ff10000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "中之条",
+      "text": "イタコさんはどこだ……？\nまだこの辺りにいてくれるといいけど……。\n",
+      "ctrl_code": "fbffc1fffa001000ebfe0100adffffff65ff11000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条",
+      "text": "（まさか僕がイタコさんを\n　必要とする時が来るなんて……）\n",
+      "ctrl_code": "fbffc1fffd001000ebfe0100adffffff65ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条",
+      "text": "（ああ、元々僕がお金を払っていれば\n　こんなことには……）\n",
+      "ctrl_code": "fbffc1ff82011000ebfe0000adffffff65ff13001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "イタコ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "text": "あっ！　イタコさん！\n",
+      "ctrl_code": "fbffc1ff82011000ebfe0000adffffff65ff15001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "イタコ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中之条",
+      "text": "ごめんなさい！\nお金はあります。だから呪いを解いて[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffc1ff84011000ebfe0000adffffff65ff17001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "イタコ",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb800ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "fbffbeffb9001000ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条",
+      "text": "えっ、イ、イタコさん！？\nお金はあるから……呪いを……！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1fffb001000ebfe0000adffffff65ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffba00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "text": "くっ……！\n",
+      "ctrl_code": "fbffbeffbd001000e8fe0200ebfe000065ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条",
+      "text": "イタコさあああん！\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4b01080067ff0d00f4ff7800fdfff8ff080067ffffffdeff0000176002000000ffff74ff170074ff1d00bcfffd011000f9ff0800ebfe0000"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "",
+      "text": "中之条さん、イタコを\nＬＩＶＥできるようになりました。\n",
+      "ctrl_code": "fdffedfffcfff8ff0800dbff0000f7ff0800fcffffff"
+    }
+  ]
+}

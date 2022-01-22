@@ -1,0 +1,661 @@
+{
+  "UNK": "a926",
+  "id": 16,
+  "total": 93,
+  "ptrs": 400,
+  "extra": 0,
+  "ctrl_code": "20000000a4060000380c00003c0c00007e0d0000980d000024160000321d0000fcffedfe0e001000110004ff03ff0300c1ffffff1000bcff00f0ff0067ff0c00fcfff9ff0800eefe00000500ebfe000064ffffff1b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ジェントルマン",
+      "text": "ふむ……。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe0000adffffff64ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ジェントルマン",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ジェントルマン",
+      "text": "屋上から眺める時定市、絶景ですな。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe0000adffffff64ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ジェントルマン",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "ジェントルマン",
+      "text": "……しかし、なぜわしはここに？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ジェントルマン",
+      "text": "この学校に迷い込んで、はや数時間。\n一体、いつになったら出られるのやら……。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "フェっちゃん",
+      "text": "……だよ。やっぱりアレだよ。\n",
+      "ctrl_code": "fbffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ウェボシー",
+      "text": "うん。紳士だ。絶対に紳士だ！\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ジェントルマン",
+      "text": "……ん、この声は。\n",
+      "ctrl_code": "fbffedffc8ff75016d011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ジェントルマン",
+      "text": "……おや、お嬢さんが二人。\nごきげんよう。良いお日柄ですな。\n",
+      "ctrl_code": "fbffc1ff76011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "フェっちゃん",
+      "text": "すごーい！　ごきげんようだって！\nお日柄だって！\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ウェボシー",
+      "text": "さすが紳士！　やるわね。\nけど、こっちだって……！\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ウェボシー",
+      "text": "ボ……ボンボヤージ！\n",
+      "ctrl_code": "98ff0000effe010097fffbffedffc1ffffff1000edffc8ff810178011000adfffeffebfe0000aeff03008000aeff0400800064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ジェントルマン＆フェっちゃん",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000aeff03000000aeff04000000edffc8ff75016f011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "フェっちゃん",
+      "text": "ウェボシー、何それ？\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "ウェボシー",
+      "text": "挨拶に決まってるじゃない。\nどう？　ジェントルでしょ？\n",
+      "ctrl_code": "fbffc1ff76011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "フェっちゃん",
+      "text": "んー、違うんじゃない？\nていうかボンボヤージって何？\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ウェボシー",
+      "text": "だから挨拶だって。\nイタリア語で「ごきんげよう」だっけ？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff7f011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "ジェントルマン",
+      "text": "ボンボヤージは「良い旅を！」という\nフランス語ですぞ。\n",
+      "ctrl_code": "98ff0000effe070097fffbffedffc8ff77016f011000c1ff77011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "フェっちゃん",
+      "text": "だってさ。\nウェボシーかっこ悪〜い。\n",
+      "ctrl_code": "fbfffefe010001007fff0200edfffcfffcff67ffffffedffc1ffffff100066ffc7000000daffc1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff1000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "ウェボシー",
+      "text": "あはは……ん？　あれ？\nフェっちゃん、あそこに校長先生が……。\n",
+      "ctrl_code": "fbffedffc8ff6f0175011000c1ff75011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "フェっちゃん",
+      "text": "ホントだ。\n何やってんだろ。あんな隅っこで。\n",
+      "ctrl_code": "fbffe8fe0200c0ff03006e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "ウェボシー",
+      "text": "校長ー！　ボンボヤージ！\n",
+      "ctrl_code": "fbffc0ff040076011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "フェっちゃん",
+      "text": "だから、それは良い旅をだから。\nこんにちはじゃないって。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ffb5001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "校長先生",
+      "text": "ボンボヤージ！\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff700178011000adfffeffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffc1ffffff100067ff1200c1ff81011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "ジェントルマン",
+      "text": "い、いかん……\nあの者は飛び降りる気じゃ……。\n",
+      "ctrl_code": "fbffedffc8ff6f0177011000adfffeffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "！？　こ、校長先生ー！\n待って、早まらないでー！！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c1ffaf011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF07}]",
+      "text": "おおおお！？\nなんだ、急に女の子たちがこっちに……！\n",
+      "ctrl_code": "fbffedffc8ffaf01be011000c1ffbe011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF08}]",
+      "text": "抱きつかれた！？　ま、まさか、これが噂の\n桃源郷！？　ハーレムってやつじゃ？\n",
+      "ctrl_code": "fbffc1ffd3011000ebfe000065ff02002400"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF09}]",
+      "text": "そうか！　さっきのボンボヤージって言葉には\nそういう意味があったんだな！　地球すげえ！\n",
+      "ctrl_code": "fbffc1ffad011000ebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF07}]",
+      "text": "まさか、ボンボヤージが、\nそんな夢の暗号だったとは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe0000adffffff65ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffe8fe0400ebfe000065ff05002200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "そうか……\n桃源郷って……こうやって行くんだ……。\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ウェボシー",
+      "text": "あはは……流石は紳士。詳しいねー。\n",
+      "ctrl_code": "fbff05ffedffc8ff7f0175011000c1ff75011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "フェっちゃん",
+      "text": "ところで紳士は\nこんなところで何してたの？\n",
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ジェントルマン",
+      "text": "それが、いつの間にか迷って[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc0ff04006e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ウェボシー",
+      "text": "あっ、わかった！\n子供の様子を見に来たんでしょ！\n",
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1000c0ff030076011000ebfe000065ff06001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "フェっちゃん",
+      "text": "紳士だったら、\n子供って言うよりは孫じゃないの？\n",
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffc0ff04006d011000ebfe000065ff07001900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ウェボシー",
+      "text": "まあそうかな。\nねえねえ、紳士の孫の名前は何？\n",
+      "ctrl_code": "fbffc0ff03007e011000ebfe000065ff08001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ジェントルマン",
+      "text": "孫の名前？　ただしじゃ。\n",
+      "ctrl_code": "fbffc0ff040076011000ebfe000065ff09001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "フェっちゃん",
+      "text": "ただし？　うちのクラスにいたかな。\n",
+      "ctrl_code": "fbffc0ff030080011000ebfe000065ff0a001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ジェントルマン",
+      "text": "たかしは小学生じゃから\nいないと思うがのぉ。\n",
+      "ctrl_code": "fbffe8fe0200c0ff04006f011000ebfe000065ff0b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ウェボシー",
+      "text": "たかし！？　増えた！　更に孫がいた！\n",
+      "ctrl_code": "98ff0000effe020097fffbffc0ff03007f011000ebfe000065ff0c001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ジェントルマン",
+      "text": "いやいや、孫はさとし一人じゃぞ。\n",
+      "ctrl_code": "fbffe8fe0200c0ff040078011000ebfe000065ff0d001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "フェっちゃん",
+      "text": "また増えたー！\nしかも一人しか孫と認めてなーい！！\n",
+      "ctrl_code": "98ff0000effe030097fffbffc0ff04006f011000ebfe000065ff0e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ウェボシー",
+      "text": "し、紳士って実は見えないところで\n色々大変なんだね……。\n",
+      "ctrl_code": "fbffeefe0e000400c0ff03007e011000ebfe000065ff0f001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ジェントルマン",
+      "text": "ふむ……？\nそういえばつよしは今何をしとるのかの？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff700178011000adfffeffebfe000065ff10001900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "また増えたーーー！？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1fff6001000ebfe000065ff11000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条",
+      "text": "……えっ？　今、僕のこと呼びました？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff6f0177011000adfffeffebfe000065ff12001900"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "居たーーーーー！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0300edffc8ff700178011000adfffeffebfe0100aeff03008000aeff0400800065ff13001900"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "（ってお前かーーーーーっ！！？）\n",
+      "ctrl_code": "fbffaeff03000000aeff04000000edffc8ff7e01f6001000c1ff7e011000ebfe000065ff14001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ジェントルマン",
+      "text": "……誰かの？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff6f0177011000adfffeffebfe000065ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "認められてなーーーーい！\n",
+      "ctrl_code": "98ff0000effe030097fffbffedffc8ff7e01ff001000c1ffff001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "text": "……誰ですか？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff700178011000adfffeffebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "こっちも認めてなーーい！！\n",
+      "ctrl_code": "98ff0000effe030097fffbffedffc8ff7f01ff001000c1ff7f011000ebfe000065ff18001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "ジェントルマン",
+      "text": "すまんがこの学校の外に\n連れて行ってくれんかの？　迷ってしまって。\n",
+      "ctrl_code": "fbffc1fff8001000ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条",
+      "text": "あ、はい。\n良いですよ、おじいさん。\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff700178011000adfffeffebfe000065ff1a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "他人行儀だーーー！？\n",
+      "ctrl_code": "fdffedfffcfffcffedffc8ff7f01f80010001aff03000000680000003c001aff04000000440100003c0016ffffffedffc1ffffff1000edffc8ff700178011000adfffeffebfe0000aeff03008000aeff0400800065ff1b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffaeff03000000aeff04000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "ウェボシー",
+      "text": "……あの二人、赤の他人じゃない？\n",
+      "ctrl_code": "fbffebfe000065ff1d001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "フェっちゃん",
+      "text": "だよね！\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc0ff03007e011000ebfe000065ff1e001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ジェントルマン",
+      "text": "いや、実は迷ってしまいましてな。\n気付いたらこんなところにいたんじゃよ。\n",
+      "ctrl_code": "fbffc0ff04006f011000ebfe000065ff1f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ウェボシー",
+      "text": "えー？　紳士、迷ってたの？\n紳士でも迷うことがあるんだー。\n",
+      "ctrl_code": "fbffc0ff040075011000ebfe000065ff20001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "フェっちゃん",
+      "text": "じゃあ本当はどこに行きたかったの？\n職員室かな？\n",
+      "ctrl_code": "fbffc0ff03007e011000ebfe000065ff21001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ジェントルマン",
+      "text": "いや……\nわしはバディを捜していただけなんじゃ。\n",
+      "ctrl_code": "fbffc0ff04006f011000ebfe000065ff22001900"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "ウェボシー",
+      "text": "バディ？\n",
+      "ctrl_code": "fbffeefe03000400c0ff030076011000ebfe000065ff23001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "フェっちゃん",
+      "text": "あ、知ってる、確かバディって\n友達とか仲間って意味だよ！\n",
+      "ctrl_code": "fbffe8fe0200c0ff04006d011000ebfe000065ff24001900"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "ウェボシー",
+      "text": "おお！　紳士、仲間探ししてんの！？\nこれから旅にでも出るの！？\n",
+      "ctrl_code": "98ff0000effe070097fffbffc0ff03007f011000ebfe000065ff25001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ジェントルマン",
+      "text": "？？　旅に出るわけじゃありませんぞ。\nただ、バディを捜しているだけです。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff26001900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ウェボシー",
+      "text": "く〜〜〜！　ただ仲間を求めるなんて、\n紳士カッコイイ！\n",
+      "ctrl_code": "98ff0000effe080097fffbffc0ff040075011000ebfe000065ff27001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "フェっちゃん",
+      "text": "じゃあさ、じゃあさ、\nどんなバディを捜してるの？　希望の職業は？\n",
+      "ctrl_code": "fbffc0ff04006d011000ebfe000065ff28001900"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "ウェボシー",
+      "text": "おっ、重要だよ、そこ。条件が合えば\nあたしも仲間にしてもらおっかなー。\n",
+      "ctrl_code": "fbffc0ff03007e011000ebfe000065ff29001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ジェントルマン",
+      "text": "条件？　職業？　うーむ……\nわしの探しているバディは犬なんじゃが。\n",
+      "ctrl_code": "fbff67ffffffe8fe020066ff7c000000edffc8ff700178011000adfffeffebfe000065ff2a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe060097fffbff67ff1200e8fe0300edffc8ff6f0175011000adfffeffebfe0100aeff03008000aeff0400800065ff2b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "text": "（……犬！？）\n",
+      "ctrl_code": "fbffedffc1ffffff1000aeff03000000aeff04000000c0ff040075011000ebfe0100adffffff65ff2c001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "フェっちゃん",
+      "text": "（もしかして……バディって飼い犬？）\n",
+      "ctrl_code": "98ff0000effe000097fffbffedffc1ffffff1000c0ff03006f011000ebfe0100adffffff65ff2d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "ウェボシー",
+      "text": "（犬扱い……そこまで自分を捨てさせないと\n　仲間にしないとは……ヘヴィな紳士め……）\n",
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff2e001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "ジェントルマン",
+      "text": "（バディは一体どこにいるのかのう……）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c0ff030075011000ebfe000065ff2f001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "フェっちゃん",
+      "text": "子供って……紳士の年齢を考えたら\n私たちと同じくらいなわけないじゃん。\n",
+      "ctrl_code": "fbffc0ff04006e011000ebfe000065ff30001900"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "ウェボシー",
+      "text": "いや、生徒じゃなくて\n先生って可能性もアリでしょ！？\n",
+      "ctrl_code": "98ff0000effe070097fffbffc0ff030078011000ebfe000065ff31001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "フェっちゃん",
+      "text": "あっ！　そっちがあった！！\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff81011000ebfe000065ff32001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "ジェントルマン",
+      "text": "いや……ただ、迷っただけで[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff78016d011000eefe0e000400c1ff6d011000ebfe000065ff33001900"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "ウェボシー",
+      "text": "誰かな誰かな？\n高崎先生？　それとも桜井先生！？\n",
+      "ctrl_code": "fbffc1ff76011000ebfe000065ff34001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "フェっちゃん",
+      "text": "高崎先生は無いよね。この紳士っぽさを\n全く受け継いでないし。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff81011000ebfe0000adffffff65ff35001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "ジェントルマン",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffedffc8ff76016e011000c1ff6e011000ebfe000065ff36001900"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "ウェボシー",
+      "text": "じゃあ桜井先生か、\nもしかしたら中村先生とか？\n",
+      "ctrl_code": "fbffc1ff75011000ebfe000065ff37001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "フェっちゃん",
+      "text": "あっ、そっか、中村先生がいたね！\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0100adffffff65ff38001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "ジェントルマン",
+      "text": "（中村……誰じゃろう？）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff39001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "ジェントルマン",
+      "text": "（というか……ここはどこじゃろう？）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff3a001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "ジェントルマン",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffebfe000065ff3b001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "ジェントルマン",
+      "text": "……良い天気じゃの。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

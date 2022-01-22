@@ -1,0 +1,675 @@
+{
+  "UNK": "3e10",
+  "id": 16,
+  "total": 95,
+  "ptrs": 400,
+  "extra": 0,
+  "ctrl_code": "20000000b4030000960700009a070000ce090000e80900007c0e0000c4110000fcffedfe100011000d0004ff03ff0300c1ffffff1000bcff9f01ff0067ff0900fcfff9ff0800eefe00000500ebfe000064ffffff0700",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "麻衣",
+      "text": "何飲もう……。\n",
+      "ctrl_code": "fbffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "麻衣",
+      "text": "お茶、それともコーヒー……。\n",
+      "ctrl_code": "fbffebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "麻衣",
+      "text": "（和風ティーソーダかな）\n",
+      "ctrl_code": "fdffedfffcff66ff2a000000c0ff0300d00010001fff0400000000020000c0ff04004e0110001aff03000000d2ff00001e001aff040000001a0000001e0067ffffffc9ff6d021000c1ffcd001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "麻衣",
+      "text": "ん？\n",
+      "ctrl_code": "fbff16ffffffc9ff6c021000c1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "関口",
+      "text": "あっ。\n",
+      "ctrl_code": "fbffc9ffffff1000c1ffd0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fdffedfffcff1aff0300000078ff00001e001aff04000000680000001e00edffc8ffca004f011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "麻衣＆関口",
+      "text": "どうぞ。\n",
+      "ctrl_code": "fbff16ffffff66ff7e000000edffc8ffcd0050011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "麻衣＆関口",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe020097fffbff67ff1000c1ffd0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8ffca004f011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "麻衣＆関口",
+      "text": "どうぞ。\n",
+      "ctrl_code": "fbffedffc8ffcd0050011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "麻衣＆関口",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ffd0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbfffefe010001007fff0200c1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "関口",
+      "text": "じゃあ、先に……。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "麻衣",
+      "text": "なら私も先に。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "関口",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffc8ffd0004e011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "麻衣＆関口",
+      "text": "ええと……。\n",
+      "ctrl_code": "fbffedffc0ff0300ffff1000edffc0ff0400ffff1000c1ffb3001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "麻衣＆関口",
+      "text": "どうぞ。\n",
+      "ctrl_code": "fbffc1ffb9001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffac001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "校長先生",
+      "text": "じゃあ、お先に……。\n",
+      "ctrl_code": "fbffedffc8ffca004e011000adfffeffebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "麻衣＆関口",
+      "text": "じゃあ私もお先に。\n",
+      "ctrl_code": "fbffe8fe0200edffc1ffffff1000c1ffb9001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "校長先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1800faff01000000f9ff0800c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF07}]",
+      "text": "うわぁ！？\nアンテナがオーバーヒートしやがった！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF08}]",
+      "text": "……ちくしょう、\n俺の頭もオーバーヒートしてるぜ。\n",
+      "ctrl_code": "fbffebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF07}]",
+      "text": "えええっ！？　なんでだよ！？\n",
+      "ctrl_code": "fbffebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF08}]",
+      "text": "あの二人のやり取りが難解すぎるんだ！\nきっと言葉の裏に恐ろしい秘密を隠してるぞ！\n",
+      "ctrl_code": "fbffebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF07}]",
+      "text": "……絶対考えすぎだと思うぞ。\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "麻衣",
+      "text": "何狙い？\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "関口",
+      "text": "えっ？\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "麻衣",
+      "text": "何を飲むつもり？\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "関口",
+      "text": "……和風ティーソーダを。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "麻衣",
+      "text": "……私も。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "関口",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "麻衣",
+      "text": "先に買ってもいい？\n",
+      "ctrl_code": "fbff05ffc1ff4f011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "関口",
+      "text": "は、はい。\n",
+      "ctrl_code": "fbff66ffc0000000c1ffca001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "関口",
+      "text": "あ……。\n",
+      "ctrl_code": "fbffc1ffcd001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "麻衣",
+      "text": "……売り切れた。\n",
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1700c1ffd0001000ebfe000065ff05000700"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "麻衣",
+      "text": "最初はグー。\n",
+      "ctrl_code": "fbffeefe03000400c1ff50011000ebfe000065ff06001200"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "関口",
+      "text": "えっ？　えっ？\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff07000700"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "麻衣",
+      "text": "じゃんけんポン。\n",
+      "ctrl_code": "fbffedffc8ff710271021000ebfe000065ff08001200"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "関口",
+      "text": "ポン！\n",
+      "ctrl_code": "fbffedffc8ffca004e011000ebfe000065ff09000700"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff710271021000ebfe000065ff0a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc8ffca004e011000ebfe000065ff0b000700"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff720272021000ebfe000065ff0c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc8ffca0050011000ebfe000065ff0d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff710271021000ebfe000065ff0e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc8ffcb0050011000ebfe000065ff0f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff730273021000ebfe000065ff10001200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc8ffd00050011000ebfe000065ff11000700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff710271021000ebfe000065ff12001200"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc8ffd00050011000ebfe000065ff13000700"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffedffc8ff710271021000ebfe000065ff14001200"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "関口",
+      "text": "しょっ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff0300ca001000ebfe000065ff15000700"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "麻衣",
+      "text": "あいこで……。\n",
+      "ctrl_code": "fbffc0ff040050011000ebfe000065ff16001200"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "関口",
+      "text": "あの……。\n",
+      "ctrl_code": "fbffc1ffcd001000ebfe000065ff17000700"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "麻衣",
+      "text": "ん？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff18001200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "関口",
+      "text": "もう、やめませんか？\n",
+      "ctrl_code": "fbffebfe000065ff19000700"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "麻衣",
+      "text": "……やめない。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff1a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe030097fffbffebfe000065ff1b000700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "麻衣",
+      "text": "最初はグー。\n",
+      "ctrl_code": "fbffebfe000065ff1c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "関口",
+      "text": "じゃんけん……。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffd0001000ebfe0000adffffff65ff1d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe0000adffffff65ff1e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff0b00eefe01000400c1ffca001000ebfe000065ff1f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "麻衣",
+      "text": "ゴク、ゴク……。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff65ff20001200"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffcb001000ebfe000065ff21000700"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "麻衣",
+      "text": "……ふぅ。\n",
+      "ctrl_code": "fbffc1ff50011000ebfe0000adffffff65ff22001200"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff23000700"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "麻衣",
+      "text": "あげる。\n",
+      "ctrl_code": "fbffeefe02000400c1ff51011000ebfe000065ff24001200"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "関口",
+      "text": "えっ？\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff25000700"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "麻衣",
+      "text": "はんぶんこ。\n",
+      "ctrl_code": "98ff0000effe0700eefe1100040097fffbffc1ff50011000ebfe000065ff26001200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "関口",
+      "text": "あ、お金……。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff27000700"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "麻衣",
+      "text": "いい。\n",
+      "ctrl_code": "fbffedfffcff66ff2a000000c0ff0300ffff1000daffc1ff4e011000ebfe0000adffffff65ff28001200"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff4f011000ebfe000065ff29001200"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "関口",
+      "text": "ゴクっ……。\n",
+      "ctrl_code": "fbffc1ff4e011000ebfe0000adffffff65ff2a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "関口",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff51011000ebfe000065ff2b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "関口",
+      "text": "あっ……これ……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "関口",
+      "text": "／／／／／\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0b00eefe02000400c1ffca001000ebfe000065ff2d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "麻衣",
+      "text": "あげる。\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff50011000ebfe000065ff2e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "関口",
+      "text": "え？　でも……。\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff2f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "麻衣",
+      "text": "いいから。\n",
+      "ctrl_code": "fbffc1ff51011000ebfe000065ff30001200"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "関口",
+      "text": "……ありがとうございます。\nこれ、お金……。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff31000700"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "麻衣",
+      "text": "うん。\n",
+      "ctrl_code": "fbffc1ff4f011000ebfe000065ff32001200"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "関口",
+      "text": "それでは……。\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ff1c000000c0ff0400ffff1000daffc1ffd4001000ebfe0000adffffff65ff33000700"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffd2001000ebfe0000adffffff65ff34000700"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff35000700"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "麻衣",
+      "text": "和風ティーソーダ……。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff36000700"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff37000700"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "麻衣",
+      "text": "ティーソーダ……。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

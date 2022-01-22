@@ -1,0 +1,549 @@
+{
+  "UNK": "c927",
+  "id": 16,
+  "total": 77,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "20000000ac020000860600008a060000a4090000be090000d00f0000de160000fcffedfe0e001000110004ff03ff0300c1ffffff1000bcffed01ff0067ff0a00fcfff9ff0800eefe00000500ebfe000064ffffff1d00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "玉村",
+      "text": "いらっしゃいませー。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c1ff5e01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5e011000ebfe0000adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "玉村",
+      "text": "（……あ、あのお客さん、\n　いつも、すぐそこで大福売ってる人！）\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "text": "……ふーむ……。\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "玉村",
+      "text": "（こういう喫茶店にも来るんだ。\n　ケーキは苦手だと思ってたのに……）\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条さん",
+      "text": "これが……だが、こんな店では……\nしかし、まずは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffe8fe0300c1ff88011000ebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "玉村",
+      "text": "（な、何か、独り言を言ってる！？）\n",
+      "ctrl_code": "98ff0000effe060097fffbfffefe020001007fff0200c1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "玉村",
+      "text": "……あら、あの人と一緒にいるのは？\n",
+      "ctrl_code": "fbff67ff1000edffc8ff88015e011000c1ff88011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "玉村",
+      "text": "あの、お客様？　申し訳ございませんが当店は\nペットとの入店はお断りしておりまして……。\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条さん",
+      "text": "……ペット？\nあっ、なんだこの猫は、シッシッ！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1100faff01000000f9ff0800e8fe0200ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF07}]",
+      "text": "危ないっ！　ぬぉぉりゃああ！！\n",
+      "ctrl_code": "fdffedfffcfffcff66ff74000000daffc1ffc4011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF08}]",
+      "text": "おおっ！　ナイス回避！\n",
+      "ctrl_code": "fbffedffc8ffc401b0011000c1ffb0011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF07}]",
+      "text": "……ふぅ。\n猫を蹴ろうとするとは、なんてひどいやつだ。\n",
+      "ctrl_code": "fbffc1ffbe011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF08}]",
+      "text": "だが、お前の[{0D82}][{0D85}]の反応のおかげで\n猫は蹴られずに済んだな！\n",
+      "ctrl_code": "fbffc1ffaf011000ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "text": "でも、アンテナが蹴られてちゃったけどな。\nハハッ。\n",
+      "ctrl_code": "fbffc1ffc4011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "text": "ハハハハハ、ドンマイ、ドンマイ。\nまだまだ練習が足りなかったな。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff06002400"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF09}]",
+      "text": "おまえら二人、軽すぎるわっ！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300ebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "玉村",
+      "text": "（でも、お客様だから……\n　なんだかちょっと怖いけど、笑顔、笑顔）\n",
+      "ctrl_code": "98ff0000effe070097fffbff67ff1000edffc8ff5e0186011000c1ff86011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "玉村",
+      "text": "お客様、ご注文はお決まりでしょうか？\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条さん",
+      "text": "大福。\n",
+      "ctrl_code": "fbffc1ff89011000ebfe0000adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "玉村",
+      "text": "も、申し訳ありません、\n当店では大福は置いていないのですが……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "中之条さん",
+      "text": "なんで大福が置いていないんだ！\n",
+      "ctrl_code": "fbff05ffe8fe0300c1ff89011000ebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "玉村",
+      "text": "（えええーーー！？）\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "玉村",
+      "text": "も、申し訳ございません。当店で扱っている\n商品とは方向性が合いませんので[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7400ff00c1fffeffff0090ffffff90ffffff90ffffff67ff160071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条さん",
+      "text": "大福を[{0D9F}]めるな！\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff64ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "玉村",
+      "text": "（えええーーー！？）\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700e8fe0200ebfe000065ff07001600"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条さん",
+      "text": "大福は最高の物だ！\n合わないわけがないだろう！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c8ff5e018801ff0090ff880190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe04000400c1ff88011000ebfe000065ff08001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "玉村",
+      "text": "ええと、お味ではなくて……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff09001600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条さん",
+      "text": "合わないわけがない！\n",
+      "ctrl_code": "98ff0000effe010097fffbff67ff1000c1ff86011000ebfe000065ff0a001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "玉村",
+      "text": "……で、でしたらお客様、\nエスプレッソはいかがでしょうか？\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条さん",
+      "text": "えすぷれっそ？\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff0c001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "玉村",
+      "text": "はい。苦く癖のある飲み物ですが、\n大福の甘さが調和してくれると思います。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条さん",
+      "text": "ふむ。ではそれを１つ。\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff0e001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "玉村",
+      "text": "はい。\nエスプレッソのドッピオ１つ。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe0100adffffff65ff0f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条さん",
+      "text": "（……どっぴお？）\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff10001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "玉村",
+      "text": "お待たせしました。エスプレッソです。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c0ff04008601ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff03005e011000ebfe000065ff11001600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条さん",
+      "text": "ふむ……では一口……。\n",
+      "ctrl_code": "fbff67ffffff66ff89000000c1ff60011000ebfe000065ff12001600"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条さん",
+      "text": "苦っ！？\n……しかし、これなら大福にも[{0D80}][{0D80}]\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff87011000ebfe000065ff13001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "玉村",
+      "text": "……お味は、いかがでしょうか？\n",
+      "ctrl_code": "fbff67ff1200c1ff5f011000ebfe000065ff14001600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条さん",
+      "text": "ま、まあまあだ[{0D80}][{0D80}]だが、所詮は西洋の飲み物。\n大福とは方向性が合っておらんなっ！\n",
+      "ctrl_code": "fbffc1ff88011000ebfe0000adffffff65ff15001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff16001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "玉村",
+      "text": "（……私は、どうすればいいんだろう）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400ebfe000065ff17001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "玉村",
+      "text": "も、申し訳ございません……。\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff18001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "玉村",
+      "text": "（大福なら自分の店で食べればいいのに……\n　で、でも、そんなこと言えないよね）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c8ff5e018801ff0090ff880190ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff5e011000ebfe000065ff19001600"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中之条さん",
+      "text": "全く、大福も置いていないとは\nふざけた店だ。\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff1a001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "玉村",
+      "text": "ではお客様、こちらのロールケーキを\n替わりにいかがでしょうか。\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff1b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条さん",
+      "text": "フン、そんなもの大福の足元にも及ばん。\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff1c001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "玉村",
+      "text": "はい。ですが、こちらは\n当店のオススメ商品となっております。\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff1d001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "玉村",
+      "text": "大福には勝てないと思いますが、\nたまには、このような物もいかがでしょうか？\n",
+      "ctrl_code": "fbffc1ff60011000ebfe000065ff1e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条さん",
+      "text": "う、うむ、そうか、勝てないか……。\nでは、ロールケーキを１つ。\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff1f001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "玉村",
+      "text": "３００円になりまーす。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff20001600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条さん",
+      "text": "うむ。\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff21001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "玉村",
+      "text": "はい、お待たせいたしました。\nこちらがロールケーキになります。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c0ff04008601ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff03005e011000ebfe000065ff22001600"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条さん",
+      "text": "ふむ、これがこの店のオススメか。\n",
+      "ctrl_code": "fbffedffc0ff0300ffff1000ebfe000065ff23001600"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中之条さん",
+      "text": "どれどれ……もぐっ。\n",
+      "ctrl_code": "fbff67ffffff66ff89000000c1ff60011000ebfe000065ff24001600"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条さん",
+      "text": "…………うまっ。\n",
+      "ctrl_code": "98ff0000effe070097fffbff67ff1500eefe18000400c1ff87011000ebfe0000adffffff65ff25001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff61011000ebfe000065ff26001600"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条さん",
+      "text": "！？\nも、もちろん、大福の方が遥かにうまいがな！\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff27001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "玉村",
+      "text": "はい。\nそれでは、ごゆっくりお召し上がり下さい。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff60011000ebfe000065ff28001600"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "中之条さん",
+      "text": "…………うまい。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff29001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "玉村",
+      "text": "……よし。\n",
+      "ctrl_code": "98ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c8ff5e018901ff0090ff890190ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff89011000ebfe000065ff2a001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "玉村",
+      "text": "[{0D9F}]めておりませんが、\n当店に大福はございませんので……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff2b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中之条さん",
+      "text": "じゃあ、何ならあるんだ！\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff2c001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "玉村",
+      "text": "ええと……それでは、\nこちらのメニューをご覧ください！\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff2d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中之条さん",
+      "text": "う、うむ……。\n",
+      "ctrl_code": "fbffc1ff88011000ebfe0000adffffff65ff2e001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffeefe09000400c1ff88011000ebfe0100adffffff65ff2f001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "玉村",
+      "text": "（……なんだか、お客さんが予想外すぎて、\n　頭が混乱して……ああ、どうすれば……）\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe0000adffffff65ff30001600"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff31001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "玉村",
+      "text": "お、お決まりでしょうか？\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff32001600"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "中之条さん",
+      "text": "フン、ろくなもんがないな。\n",
+      "ctrl_code": "fbffe8fe0200c1ff86011000ebfe000065ff33001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "玉村",
+      "text": "そ、それではまた、\n次回のチャレンジをお待ちしております！\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff34001600"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "中之条さん",
+      "text": "チャレンジ！？\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff87011000ebfe000065ff35001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "玉村",
+      "text": "次にお待ちのお客様、どうぞー。\n",
+      "ctrl_code": "fbffe8fe0200c1ff61011000ebfe000065ff36001600"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "中之条さん",
+      "text": "終了！？\n……くっ、仕方が無い、またくるぞ！\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff12000000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff37001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "玉村",
+      "text": "え？\n……あれ？　あれれー？\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}
