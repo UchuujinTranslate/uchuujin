@@ -1,0 +1,542 @@
+{
+  "UNK": "2f0f",
+  "id": 16,
+  "total": 76,
+  "ptrs": 320,
+  "extra": 0,
+  "ctrl_code": "20000000a2020000fe05000002060000100800002a080000d00c000042110000fcffedfe01000200060004ff03ff0300c1ffffff1000bcff8a01ff0067ff0700fcfff9ff0800eefe00000500c1ff07011000ebfe000064ffffff0b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井先生",
+      "text": "はい、ここ、テストに出ますよー。\nちゃんとノート取ってくださいねー。\n",
+      "ctrl_code": "fbffc1ff51021000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "麻衣",
+      "text": "（銅製も悪く無いのかもしれない）\n",
+      "ctrl_code": "fbffc1ffd1001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "麻衣",
+      "text": "（木製と一緒に並べて……フフ。）\n",
+      "ctrl_code": "fbff67ffffff66ff82000000c1ffcd001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "麻衣",
+      "text": "（あっ……）\n",
+      "ctrl_code": "fbffeffe060067ff0e00c1ffcf001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffce001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "麻衣",
+      "text": "（金縛り……？\n　体が動かない……）\n",
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井先生",
+      "text": "えっと、次のページにある問１を\n誰か、訳せる人は……。\n",
+      "ctrl_code": "fbfffefe000001007fff0200c1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "バディ",
+      "text": "ワン！　ワン！\n",
+      "ctrl_code": "fbffedffc8ff0b0130011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井先生",
+      "text": "わっ！？　びっくりした……\n入ってきちゃ駄目だよ〜？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffd0001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "麻衣",
+      "text": "（あっ、動けるようになった）\n",
+      "ctrl_code": "fbffc1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "バディ",
+      "text": "ワン！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300ec011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0B}]",
+      "text": "おい、何やってるんだよ。\n見つかっちまったじゃないか。\n",
+      "ctrl_code": "fbffc0ff0400fe011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0C}]",
+      "text": "い、いや、俺じゃない！\nこの犬が勝手に吠えだしたんだ。\n",
+      "ctrl_code": "fbffc1fff2011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0B}]",
+      "text": "……嘘だろ？\nアンテナ操作中なのに……？\n",
+      "ctrl_code": "fbffc1ff03021000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0C}]",
+      "text": "くそ、なんて強い精神力なんだ。\n大人しくしてくれっ！\n",
+      "ctrl_code": "fbffc1fff0011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0B}]",
+      "text": "お、おい待て！\nそんなに負荷をかけたら[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0C}]",
+      "text": "あっ……。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff06002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]＆[{FF0C}]",
+      "text": "うわあああああああ！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ffcf001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "麻衣",
+      "text": "（う……）\n",
+      "ctrl_code": "fbffc1ffce001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "麻衣",
+      "text": "（全く動けない……どうしよう）\n",
+      "ctrl_code": "fbffc0ff040007011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井先生",
+      "text": "ではこの英文の訳を……水上さん。\n答えてください。\n",
+      "ctrl_code": "fbffc0ff0300cc001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井先生",
+      "text": "水上さん？　どうかしたんですか？\n",
+      "ctrl_code": "fbff05ffc1ffce001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffcf001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "麻衣",
+      "text": "（答えたくても金縛りになってるから\n　何もできない……）\n",
+      "ctrl_code": "fbffc1ffce001000ebfe0100adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "麻衣",
+      "text": "（これは、ちょっと困った。\n　どうしよう……）\n",
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700eefe10000400c0ff040043001000ebfe000065ff07000200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ゆっこ",
+      "text": "麻衣ちゃん？　どうしたの？\nご指名だよ？\n",
+      "ctrl_code": "fbffc1ffce001000ebfe0100adffffff65ff08000700"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "麻衣",
+      "text": "（……あ、そうだ。\n　ゆっこに……）\n",
+      "ctrl_code": "fbff67ff1600c1ffcd001000ebfe0100adffffff65ff09000700"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "麻衣",
+      "text": "（…………！）\n",
+      "ctrl_code": "fbffe8fe0200c1ff42001000ebfe000065ff0a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ゆっこ",
+      "text": "麻衣ちゃん？　麻衣[{0D80}][{0D80}]ふぉっ！？\n",
+      "ctrl_code": "98ff0000effe060097fffbffeefe03000400edfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0300ffff1000edffc1ffffff1000c1ff0c011000ebfe000065ff0b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "桜井先生",
+      "text": "あ、相生さん！？\n",
+      "ctrl_code": "fbffedffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3900ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "ゆっこ",
+      "text": "…………！\n",
+      "ctrl_code": "98ff0000effe030097fffbffeefe13000400ebfe000065ff0d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "麻衣",
+      "text": "……ふぅ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff04000c011000ebfe000065ff0e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井先生",
+      "text": "相生さん！？　陸に上がった魚みたいに跳ねて\nどうしたんですか！？\n",
+      "ctrl_code": "fbffc0ff0300d0001000ebfe000065ff0f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "麻衣",
+      "text": "先生。\n",
+      "ctrl_code": "fbffc1ff0e011000ebfe000065ff10000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井先生",
+      "text": "あああ、そうですね、すぐに保健室に[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffeefe0d000400c1ffca001000ebfe000065ff11000700"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "麻衣",
+      "text": "ジャンは踊っていた、です。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff12000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井先生",
+      "text": "え……？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "桜井先生",
+      "text": "あ……。\nせ、正解です……。\n",
+      "ctrl_code": "fbff66ff8a000000ebfe000065ff14000200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ゆっこ",
+      "text": "…………！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ff51021000c1ff0b011000ebfe000065ff15000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井先生",
+      "text": "水上さん、大丈夫[{0D80}][{0D80}]あれ？\nこれは、み、弥[{0DA8}]菩薩？\n",
+      "ctrl_code": "fbffeefe09000400c1ff11011000ebfe000065ff16000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井先生",
+      "text": "学校に弥[{0DA8}]菩薩を持ってくるのは……\n校則では書かれてないですけど、ダメですよ。\n",
+      "ctrl_code": "fbffc9ffffff1000c1ff07011000ebfe000065ff17000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "text": "放課後まで没収しますね。\n",
+      "ctrl_code": "fbff67ffffffc1ffcd001000ebfe000065ff18000700"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "麻衣",
+      "text": "あっ……。\n",
+      "ctrl_code": "fbffc1ff0c011000ebfe000065ff19000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "text": "えっ？　水上さん？\n大丈夫なんですか？\n",
+      "ctrl_code": "fbff67ff1000c1ffca001000ebfe000065ff1a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "麻衣",
+      "text": "あ、動ける。\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff08011000ebfe000065ff1b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井先生",
+      "text": "動ける？\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff1c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "麻衣",
+      "text": "いえ。それより、弥[{0DA8}]菩薩を……。\n",
+      "ctrl_code": "fbffc1ff0e011000ebfe000065ff1d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井先生",
+      "text": "ダメです。放課後に取りに来てくださいね。\n",
+      "ctrl_code": "fbffc1ffd2001000ebfe0000adffffff65ff1e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffeefe02000400c1ff11011000ebfe0000adffffff65ff1f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ffd4001000ebfe0000adffffff65ff20000700"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "桜井先生",
+      "text": "あ、あの、水上さん……。\n",
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff22000700"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "麻衣",
+      "text": "……なんですか？\n",
+      "ctrl_code": "fbffe8fe0400c1ff11011000ebfe0000adffffff65ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井先生",
+      "text": "か、返します……。\n",
+      "ctrl_code": "98ff0000effe030097fffbffebfe0000adffffff65ff25000700"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe09000400c1ff0b011000ebfe000065ff26000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井先生",
+      "text": "水上さん？　大丈夫ですか？\n",
+      "ctrl_code": "fbffc1ffce001000ebfe0000adffffff65ff27000700"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff28000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "桜井先生",
+      "text": "気分が悪いんですか？\nつらいなら保健室に行ってもいいですよ？\n",
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff65ff29000700"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030008011000ebfe000065ff2a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "桜井先生",
+      "text": "喋れないくらいつらいんですね……\nスミマセン、誰か水上さんを保健室へ……。\n",
+      "ctrl_code": "fbff67ff0a00c0ff040045001000ebfe000065ff2b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ゆっこ",
+      "text": "先生、あたしたちが連れて行きます。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff040063001000ebfe000065ff2c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお",
+      "text": "麻衣ちゃん起きられる？\n歩いていけるかな？\n",
+      "ctrl_code": "fbffc0ff0300ce001000ebfe0000adffffff65ff2d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff100063ff1000c0ff03000d011000ebfe000065ff2e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井先生",
+      "text": "相生さん、長野原さん、\n水上さんをお願いしますね。\n",
+      "ctrl_code": "fbffc0ff040045001000ebfe000065ff2f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ゆっこ",
+      "text": "はいっ！　麻衣ちゃんは私たちに任せて、\n先生は授業を続けてよ。\n",
+      "ctrl_code": "fbffc0ff030063001000ebfe000065ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお",
+      "text": "ゆっこは授業受けなくて嬉しいだけでしょ。\n",
+      "ctrl_code": "fbffc1ff42001000ebfe000065ff31000200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ゆっこ",
+      "text": "わ、私はただ、友達として麻衣ちゃんを\n心配して……ほら、早く連れてくよ！\n",
+      "ctrl_code": "fbffc1ff67001000ebfe000065ff32000300"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みお",
+      "text": "はいはい。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff0d011000ebfe000065ff33000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "桜井先生",
+      "text": "フフ。それじゃあ\n水上さんをお願いします。\n",
+      "ctrl_code": "fbffedffc8ff3a0061001000adfffeffebfe000065ff34000200"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "ゆっこ＆みお",
+      "text": "はーい。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffce001000ebfe0000adffffff65ff35000700"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "麻衣",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff36000700"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "麻衣",
+      "text": "（今更、金縛りが解けたなんて言えない）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

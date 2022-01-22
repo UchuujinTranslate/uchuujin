@@ -1,0 +1,584 @@
+{
+  "UNK": "ef0d",
+  "id": 16,
+  "total": 82,
+  "ptrs": 352,
+  "extra": 0,
+  "ctrl_code": "20000000f00400000c08000010080000420b00005c0b000056110000da150000fcffedfe0a000b000c0004ff03ff0300c1ffffff1000bcffab01ff0067ff0900fcfff9ff0800eefe00000500c1ffc1001000ebfe000064ffffff0600",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中村先生",
+      "text": "ふぅ。ようやく掘り終わったな。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中村先生",
+      "text": "前に落とし穴を仕掛けたときは、\n全て他人が落ちて失敗してしまった。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c9ff68021000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中村先生",
+      "text": "だが、今回はあの時よりも数を増やした。\n東雲が来る前に一杯になることはないだろう。\n",
+      "ctrl_code": "fbffebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中村先生",
+      "text": "正確な数と場所は失念してしまったが[{0D80}][{0D80}]\n東雲がこの辺りを歩けば確実に捕獲できる！\n",
+      "ctrl_code": "fbffc9ffffff1000c1ffc9001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中村先生",
+      "text": "おっと、そろそろ東雲が通る時間だ。\n隠れて待つとするか。\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff040000001000ebfe0000adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中村先生",
+      "text": "（来た！）\n",
+      "ctrl_code": "fdffedfffcff1aff04000000f0ff00003c0016ffffffebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中村先生",
+      "text": "（フフフ、今度こそ捕獲してやるぞ東雲）\n",
+      "ctrl_code": "fdffedfffcff1aff0400000078ff00003c0016ffffffc1ff00001000ebfe0000adff030064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffffc1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中村先生",
+      "text": "……？\n普通に通り過ぎて行った……。\n",
+      "ctrl_code": "fbff67ff1000c1ffc8001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中村先生",
+      "text": "おかしい。あそこを通ったのなら、\n確実に落ちるはずだ、何か不備が[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff66ff50000000c1ffc9001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0200c1ffc1001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中村先生",
+      "text": "かかった！　東雲か！？\n",
+      "ctrl_code": "98ff0000effe080097fffbfffefe010001007fff0200e8fe0200c1ff69021000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "校長先生",
+      "text": "！！\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe000064ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中村先生",
+      "text": "あ……。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c0ff0300f6011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0B}]",
+      "text": "[{0D9D}]だ！　オッサンが[{0D9D}]にはまった！\n",
+      "ctrl_code": "fbffc0ff0400f9011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0C}]",
+      "text": "こんな場所にまで掘っていたのか！？\n地球の学校はここまで許されるのか！？\n",
+      "ctrl_code": "fbffc1fff7011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0B}]",
+      "text": "すげぇな。平和そうに見えて\n本当は日々、自分たちを鍛えているんだ。\n",
+      "ctrl_code": "fbffc1fffb011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0C}]",
+      "text": "くっ、負けていられるか！\n俺たちだって兵隊の端くれだろ！\n",
+      "ctrl_code": "fbffc1fff1011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0B}]",
+      "text": "おう、落とし穴ぐらいの困難だったら楽勝さ！\nもっと難易度を上げてもらわなけりゃな！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff05002500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0A}]",
+      "text": "じゃあ、この困難をなんとかしてくれっ！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff06002600"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0B}]＆[{FF0C}]",
+      "text": "それは無理だ！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300e8fe0200c1ff69021000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "中之条",
+      "text": "うわっ！？\nまたこんなとこに落とし穴が！\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0000adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0300c1ffc9001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中村先生",
+      "text": "（またお前か……！）\n",
+      "ctrl_code": "98ff0000effe030097fffbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条",
+      "text": "誰かー！　誰かいませんかー！\n助けてくださーい！\n",
+      "ctrl_code": "fbffc1ffc6001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中村先生",
+      "text": "（くっ、また邪魔をして……\n　そんなにモヒカンを刈られたいのか）\n",
+      "ctrl_code": "fbffedffc1ffffff100067ff1600c0ff030059011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "安中",
+      "text": "先生、あっちです！\nあっちに中之条くんが！\n",
+      "ctrl_code": "fbffc0ff040014011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "高崎先生",
+      "text": "よし！　行くぞ安中！\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffc5001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中村先生",
+      "text": "（うわ、まためんどくさいのが来た……）\n",
+      "ctrl_code": "fbff05ffc1ffc8001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "中村先生",
+      "text": "（……あ、このままあの二人が来たら\n　落とし穴に落ちて[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe0100adffffff64ffffff0600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中村先生",
+      "text": "（だが、この辺りに落とし穴があると言えば\n　穴を掘ったのが私だとバレてしまう）\n",
+      "ctrl_code": "fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700e8fe0200c0ff040017011000ebfe000065ff07000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "高崎先生",
+      "text": "うわっ！？\n",
+      "ctrl_code": "fdffedfffcff1aff04000000680010010a0016ffffff66ff50000000bfff0c001000e8fe0200c0ff030059011000ebfe000065ff08001400"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "安中",
+      "text": "高崎先生！\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff09000600"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中村先生",
+      "text": "（よし、今だ）\n",
+      "ctrl_code": "fbffeefe0a000400c0ff0400c0001000ebfe000065ff0a000600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中村先生",
+      "text": "何だこれは。\n安中、一体何があった？\n",
+      "ctrl_code": "fbffc1ff57011000ebfe000065ff0b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "安中",
+      "text": "あっ、中村先生！\n中之条くんと高崎先生が穴に落ちたんです。\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe000065ff0c000600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中村先生",
+      "text": "ふむ。安中、シャベルを持ってこい。\n助けた後に穴を埋めるぞ。\n",
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff0d001400"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "安中",
+      "text": "あっ、はい！\n",
+      "ctrl_code": "fbffbfff1400100067ffffffc1ffc5001000ebfe0100adffffff65ff0e000600"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中村先生",
+      "text": "（……よし、うまくごまかせた）\n",
+      "ctrl_code": "98ff0000effe070097fffbffedffc1ffffff100067ff1000c1ffc2001000ebfe000065ff0f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中村先生",
+      "text": "高崎先生、今助けます。\n",
+      "ctrl_code": "fbffebfe000065ff10000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "高崎先生",
+      "text": "その声は中村先生。\nすみません、助かります。\n",
+      "ctrl_code": "fbffc1ffc3001000ebfe000065ff11000600"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中村先生",
+      "text": "いきますよ。ふっ！\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff12000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "高崎先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc7001000ebfe000065ff13000600"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中村先生",
+      "text": "う〜〜〜！！\n",
+      "ctrl_code": "98ff00001aff03000000faff0000050016ffffff1aff03000000e6ff0000050016ffffff1aff03000000faff0000050016ffffff1aff03000000e6ff0000050016ffffff1aff03000000f0ff0000050016ffffff97fffbffebfe0000adffffff65ff14000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "高崎先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffeefe0f000400c1ffc6001000ebfe000065ff15000600"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中村先生",
+      "text": "はぁ、はぁ、はぁ……。\n",
+      "ctrl_code": "fbffebfe000065ff16000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "高崎先生",
+      "text": "あの……中村先生？\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe0000adffffff65ff17000600"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc8001000ebfe000065ff18000600"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中村先生",
+      "text": "……上がらない。\n",
+      "ctrl_code": "98ff0000effe030097fffbffeefe10000400edffc8ffc80058011000ebfe000065ff19001400"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "安中",
+      "text": "中村先生、持ってきました！\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0000adffffff65ff1a000600"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1b000600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中村先生",
+      "text": "……このまま埋めるか。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "高崎先生＆安中",
+      "text": "ええーーーーっ！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe0000adffffff65ff1d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe000065ff1e000600"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中村先生",
+      "text": "よし。あの二人が落ちてから助けよう。\nそれなら私が疑われることは無い。\n",
+      "ctrl_code": "fbff67ffffffeefe19000400edffc8ffc50014011000ebfe000065ff1f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "高崎先生",
+      "text": "あっ、中村先生！　丁度いいところに。\n生徒が穴に落ちたんです。手伝って下さい。\n",
+      "ctrl_code": "fbffe8fe030066ff7d000000c1ffc6001000ebfe0100adffffff65ff20000600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中村先生",
+      "text": "（モミアゲ……！！）\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ff1200c1ffc2001000ebfe000065ff21000600"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中村先生",
+      "text": "……わかりました。\n",
+      "ctrl_code": "fbffc1ffc5001000ebfe0100adffffff65ff22000600"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中村先生",
+      "text": "（まあ、元はと言えば私が蒔いた種だ。\n　このくらいはしないとな）\n",
+      "ctrl_code": "fbffc1ffc9001000ebfe0100adffffff65ff23000600"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "中村先生",
+      "text": "（っと、この辺は落とし穴がいくつもある。\n　迂[{0DA6}]に歩けないな）\n",
+      "ctrl_code": "fbffc9ff67021000c1ffbf001000ebfe0100adffffff65ff24000600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中村先生",
+      "text": "（掘った穴は、確かそことあそこだったはず。\n　ここは大丈[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffc9ffffff1000e8fe0200c1ffbf001000ebfe000065ff25000600"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "中村先生",
+      "text": "！？\n",
+      "ctrl_code": "fdffedfffcff1aff0300000078ff10010a0016ffffff66ff50000000edffc0ff0300ffff1000effe0600e8fe0200edffc8ff170159011000adfffeffebfe000065ff26000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "高崎先生＆安中",
+      "text": "中村先生ーーー！！\n",
+      "ctrl_code": "fbffedffc1ffffff1000eefe1a000400ebfe0000adffffff65ff27000600"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff28000600"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中村先生",
+      "text": "……ふっ[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff29000600"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中村先生",
+      "text": "[{0D80}][{0D80}]次からは、メモが必要だな。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe020067ffffffc0ff040017011000ebfe000065ff2a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "高崎先生",
+      "text": "うおっ！？\n",
+      "ctrl_code": "fdffedfffcff66ff50000000bfff0c00100067ff1000eefe1a000400c0ff030057011000ebfe000065ff2b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "安中",
+      "text": "高崎先生！？\n",
+      "ctrl_code": "98ff0000effe020097fffbffe8fe0200c1ff59011000ebfe000065ff2c001400"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "安中",
+      "text": "きゃっ！？\n",
+      "ctrl_code": "98ff0000effe030097fffdffedfffcff66ff50000000edffc1ffffff1000c1ffc5001000ebfe0000adffffff65ff2d000600"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff2e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中之条",
+      "text": "誰かー、助けてー！\n",
+      "ctrl_code": "fbffebfe000065ff2f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "高崎先生",
+      "text": "動けん！　くそ、全く動けん！\n",
+      "ctrl_code": "fbffebfe000065ff30001400"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "安中",
+      "text": "狭い〜……。\n",
+      "ctrl_code": "fbffc1ffc2001000ebfe0000adffffff65ff31000600"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc0ff03005b011000ebfe000065ff32001500"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "教頭先生",
+      "text": "み、みなさん、大丈夫ですか！？\n",
+      "ctrl_code": "fbffe8fe0200c0ff03005d011000ebfe000065ff33001500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "教頭先生",
+      "text": "うわっ！？\n",
+      "ctrl_code": "fdffedfffcff66ff50000000bfff15001000c0ff04000c011000ebfe000065ff34000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "桜井先生",
+      "text": "わわっ、だ、大丈夫ですか！？\n",
+      "ctrl_code": "fbffe8fe0200c0ff040010011000ebfe000065ff35000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "桜井先生",
+      "text": "わぁっ！？\n",
+      "ctrl_code": "fdffedfffcff66ff50000000edffc1ffffff1000c1ffc6001000ebfe0000adffffff65ff36000600"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "中村先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff37000600"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "中村先生",
+      "text": "逃げろっ！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "UNK": "1f03",
+  "id": 16,
+  "total": 70,
+  "ptrs": 304,
+  "extra": 0,
+  "ctrl_code": "20000000e203000064070000680700003e0b0000580b00006e0f000004130000fcffedfe03000400070004ff03ff0300c1ffffff1000bcffe701ff0067ff0b00fcfff9ff0800eefe00000500ebfe000064ffffff0100",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "はかせ",
+      "text": "ただいまー！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff25011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "阪本さん",
+      "text": "おっ、帰ってきた[{0D80}][{0D80}]ん？\nおい、なんだその口元のクリームは。\n",
+      "ctrl_code": "fbffedffc8ff330025011000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "text": "あっ、な、なのには内緒だよ？\nおねえさんに、ごちそうしてもらったの。\n",
+      "ctrl_code": "fbffc1ff25011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "阪本さん",
+      "text": "お姉さん……？　まあ、誰かは知らんが\nその人に聞きに行ってたんだな？\n",
+      "ctrl_code": "fbff67ffffffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "text": "えっ？\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff2b011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "阪本さん",
+      "text": "えっ？\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ff1000eefe04000400c1ff2f001000ebfe0000adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "阪本さん",
+      "text": "ネジのことを\n聞いてきたんじゃないのか？\n",
+      "ctrl_code": "fbffc1ff35001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "はかせ",
+      "text": "……忘れてた。\n",
+      "ctrl_code": "fbffe8fe0200c1ff2f011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "阪本さん",
+      "text": "えええっ！？\nじゃあ今まで何してたんだ？\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "はかせ",
+      "text": "ご飯食べてました。\n",
+      "ctrl_code": "fbffe8fe0200c1ff28011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "阪本さん",
+      "text": "照れるとこか！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfffefe000001007fff0200edffc1ffffff1000c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "阪本さん",
+      "text": "犬まで拾ってきたのか。\n娘が飼うのを許すかどうか……。\n",
+      "ctrl_code": "fbff67ffffff66ff81000000e8fe0200c1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "はかせ",
+      "text": "！？　犬だ！？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff30002f011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "阪本さん",
+      "text": "拾ったんじゃないのか！？\n",
+      "ctrl_code": "fbff67ff1800edffc8ff2c0030011000edfffcff1fff04000000680000001aff04000000f0ff0000960016ffffffe8fe0200ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "はかせ",
+      "text": "わーーー！？　こっち来るなーー！\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ff2f011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "阪本さん",
+      "text": "こら！　物を投げるな！！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002200"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF07}]",
+      "text": "ティッシュの箱、アンテナに直撃！\nアンテナ壊れました！\n",
+      "ctrl_code": "fbffebfe000065ff02002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "text": "なんてこった！\n動物虐待じゃないか！\n",
+      "ctrl_code": "fbffebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]",
+      "text": "でもさ、俺たち、この猫に\nアンテナ刺して利用してるんだよな？\n",
+      "ctrl_code": "fbffebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "text": "なんてこった！？\n動物虐待じゃないか！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "はかせ",
+      "text": "でも、おねえさんは\nネジが可愛いって言ってくれたよ？\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "阪本さん",
+      "text": "マジか……。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "はかせ",
+      "text": "ふふふー、はかせが正しかったでしょ？\n",
+      "ctrl_code": "fbffc1ff2a011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "阪本さん",
+      "text": "む……じゃあ他の人は？\n",
+      "ctrl_code": "fbffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "text": "えっ？\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "阪本さん",
+      "text": "そいつ以外の人の意見は？\n",
+      "ctrl_code": "fbffc1ff36001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "text": "わかりません。\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff2b011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "阪本さん",
+      "text": "だからなんで照れるんだ？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff25011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "阪本さん",
+      "text": "それに、わからないってどういうことだ？\n色んなやつに意見聞きに行ったんだろ？\n",
+      "ctrl_code": "fbffc1ff29001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "はかせ",
+      "text": "だっておねえさんにしか聞いてないもん。\nでもきっとみんな可愛いって言うよ？\n",
+      "ctrl_code": "fbffc1ff2b011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "阪本さん",
+      "text": "それじゃあ聞きに行った意味が[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "阪本さん",
+      "text": "……もういい。俺は寝るぞ。\n",
+      "ctrl_code": "fbff05ffbfff0d001000c1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "はかせ",
+      "text": "…………！\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "はかせ",
+      "text": "（ぷぷぷ！　阪本ったら自分が間違ってるって\n　わかったから[{0D8D}]ねちゃってる！）\n",
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700c1ff33001000ebfe000065ff05000100"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "はかせ",
+      "text": "大丈夫だよ！　阪本のセンスが悪くても\n猫だから仕方ないもん。\n",
+      "ctrl_code": "fbffc0ff040026011000ebfe000065ff06000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "阪本さん",
+      "text": "悪いのはガキのセンスだ。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "はかせ",
+      "text": "そんなことないもんねー。\nおねえさんも可愛いって言ったもん。\n",
+      "ctrl_code": "fbffc1ff2b011000ebfe000065ff08000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "阪本さん",
+      "text": "ならその人のセンスもおかしいんだ。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "text": "ぷぷぷ。何を言っても２対１で\n阪本の負けだもんね。\n",
+      "ctrl_code": "fbffc1ff25011000ebfe000065ff0a000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "阪本さん",
+      "text": "娘は嫌がってるんだから\n少なくとも２対２で負けではないな。\n",
+      "ctrl_code": "fbffeefe02000400e8fe0200c1ff31001000ebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "はかせ",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff26011000ebfe000065ff0c000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "阪本さん",
+      "text": "むしろ背中につけられる娘が\n嫌がってるんだからこっちの勝ちだな。\n",
+      "ctrl_code": "fbffc1ff30001000ebfe000065ff0d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "はかせ",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff32001000ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "はかせ",
+      "text": "じゃあ作るはかせはいっぱい疲れるから\nはかせの勝ち！\n",
+      "ctrl_code": "fbffe8fe0200c1ff28011000ebfe000065ff0f000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "阪本さん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe020097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff10000100"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "はかせ",
+      "text": "あ、そうだ。作るのはかせなんだから\n好きに作ればいいんだ。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff11000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "阪本さん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff29001000ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "はかせ",
+      "text": "阪本の気持ちもわかるよ。でもはかせと\nおねえさんが正しいのは認めないとね。\n",
+      "ctrl_code": "fbffeefe04000400c0ff04002b011000ebfe000065ff13000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "阪本さん",
+      "text": "意見が少なすぎて認めたくても\n認められないんだよ。\n",
+      "ctrl_code": "fbffc1ff25011000ebfe000065ff14000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "阪本さん",
+      "text": "大体、そのお姉さんって誰だ？\n親戚か何かか？\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff15000100"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "はかせ",
+      "text": "ううん。はかせも今日初めて会った人だよ。\n",
+      "ctrl_code": "fbffc1ff28011000ebfe000065ff16000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "阪本さん",
+      "text": "……おい。もしかして、知らない人に\n声かけて回るつもりだったのか？\n",
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff17000100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "はかせ",
+      "text": "うん。\n",
+      "ctrl_code": "fbffc1ff2b011000ebfe000065ff18000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "阪本さん",
+      "text": "危ないだろ……。\nお前はまだガキなんだから何があるか……。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "はかせ",
+      "text": "大丈夫大丈夫。だってあのおねえさん、\nなのと知り合いだもん。\n",
+      "ctrl_code": "fbffc1ff25011000ebfe0000adffffff65ff1a000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1b000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "阪本さん",
+      "text": "……ならいいか。\n",
+      "ctrl_code": "fbffebfe000065ff1c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "はかせ",
+      "text": "うん。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe18000400c1ff2d001000ebfe000065ff1d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "はかせ",
+      "text": "残念だけど、これが一般の意見だからね。\n猫には難しかったかなー。\n",
+      "ctrl_code": "fbffc0ff04002b011000ebfe0000adffffff65ff1e000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff1f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "はかせ",
+      "text": "さーて、どんなのをつけようかな♪\n",
+      "ctrl_code": "fbffbfff01001000c1ff25011000ebfe0000adffffff65ff20000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff26011000ebfe0100adffffff65ff21000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "阪本さん",
+      "text": "（ま、俺につくわけじゃないからいいか）\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff29001000ebfe000065ff22000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "text": "形はどんなのがいいかなー。\n……ん？\n",
+      "ctrl_code": "fbffafff03000300c1ff25011000ebfe000065ff23000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "阪本さん",
+      "text": "……ｚｚＺ\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffafff03000000c1ff2b001000ebfe0100adffffff65ff24000100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "はかせ",
+      "text": "（ぷぷぷ。ふて寝してる。\n　やっぱり猫だなぁ）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff25000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "阪本さん",
+      "text": "ｚｚＺ\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

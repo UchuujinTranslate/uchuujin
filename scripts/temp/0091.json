@@ -1,0 +1,605 @@
+{
+  "UNK": "5908",
+  "id": 16,
+  "total": 85,
+  "ptrs": 368,
+  "extra": 0,
+  "ctrl_code": "2000000060030000980900009c090000c4100000de100000361500007e1a0000fcffedfe0a000b000c0004ff03ff0300c1ffffff1000bcffffd1ff0067fffffffcfff9ff0800eefe00000500ebfe0000adffffff64ffffff0300",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "text": "（二度と……二度とやるまいと心に誓ってた）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "text": "（これをやったら……女子高生として……）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "text": "（ううん、人間として大事な何かが\n　壊れていく……そう思ってた……）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "text": "（なのに……なのに……）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6400ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200b3ff030066ff7c000000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "text": "やっちゃったよー！！\n",
+      "ctrl_code": "98ff0000b2ffeffe030097fffbff67ff1200ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "text": "（諭吉さんに！　諭吉さんにつられて\n　またやっちゃったよ！）\n",
+      "ctrl_code": "fbffbeff65001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "text": "（しかも何！？　今度は大福三兄弟だし！\n　てか、末っ子どう見ても人間じゃないし！）\n",
+      "ctrl_code": "fbfffefe020001007fff0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff8d011000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "text": "（なんなのよ……なんなのよこの末っ子！\n　こいつにもバイト代１万円出るの！？）\n",
+      "ctrl_code": "fbffc1ff8d011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "text": "（あり得ない。あり得ないよ……\n　こんなんで大福、売れるわけないよ！）\n",
+      "ctrl_code": "fbffc1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff8d011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "鹿",
+      "text": "……？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6500ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "阪本さん",
+      "text": "（あの突き出た角、良い感じでゆらゆら揺れて\n　やがる……だが、つられるオレじゃない！）\n",
+      "ctrl_code": "fbff67ffffffe8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "鹿",
+      "text": "！！！！\n",
+      "ctrl_code": "fbff67ff1800ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "阪本さん",
+      "text": "……え？\nいつの間に……か、体が勝手に！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "阪本さん",
+      "text": "う、うわーー！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff00c8ff8b012501ff0090ff250190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff08001aff0300000000fe00001e001aff0400000000fe00001e0016ffffffedffc1ffffff1000ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8ff7c005e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条さん",
+      "text": "……君、大福のイメージを、壊さんでくれ。\n",
+      "ctrl_code": "fbffe8fe0200c1ff7c001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みお",
+      "text": "私！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0B}]",
+      "text": "ああっ！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "text": "し、鹿が猫のアンテナを破壊したぞ！\n",
+      "ctrl_code": "fbffebfe000065ff02002700"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0C}]",
+      "text": "チクショウ！\n俺たちが何を「しか」って言うんだ！\n",
+      "ctrl_code": "fbffebfe000065ff03002600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0B}]",
+      "text": "…………えっ？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff04002700"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0C}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0C}]",
+      "text": "……ごめん、やっぱり今の無し。\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff64ffffff2e00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "通行人女性",
+      "text": "な、なにあれ……。\n",
+      "ctrl_code": "fbffebfe0000adffffff64ffffff3100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "通行人男性",
+      "text": "ひっ、こっち向いた！？\n",
+      "ctrl_code": "fbffe8fe0300c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みお",
+      "text": "（キモがられてるよ！\n　大福売るどころじゃないよ！）\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みお",
+      "text": "（まあ鹿は動物だからいいとしてさ、\n　あと一人は何してるかと思ったら）\n",
+      "ctrl_code": "fbffc1ff68011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "きよし",
+      "text": "あ、ほいっ。\n",
+      "ctrl_code": "98ff00001aff0300000078ff00001e0016ffffff97ffd10001000a01d300f2000200feff98ff00001aff03000000680000000a0016ffffff97fffbffe8fe0300edffc1ffffff1000c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "text": "（なんだよその踊り！\n　意味わかんないよ！）\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff7c001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "みお",
+      "text": "（じゃあ最後の私は何ができるかって言えば\n　何もできないから……）\n",
+      "ctrl_code": "fbffe8fe0300c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお",
+      "text": "（直立不動だよ！）\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff7c001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "みお",
+      "text": "（明らかに鹿なやつと変な踊り踊るやつと\n　直立不動の三人が店先にいるって……）\n",
+      "ctrl_code": "fbffe8fe0300c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "text": "（これなんてネガティブキャンペーンだよ！）\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff61011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条さん",
+      "text": "さっぱり売れんな……どういうことだ……。\n",
+      "ctrl_code": "fbffe8fe0300edffc8ff7d005e011000c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお",
+      "text": "（当たり前だよ！）\n",
+      "ctrl_code": "98ff0000effe000097fffbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条さん",
+      "text": "今日の大福はみんな、\n大福らしくしているというのに……。\n",
+      "ctrl_code": "fbffe8fe0300c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお",
+      "text": "（大福らしさってなによ！？）\n",
+      "ctrl_code": "98ff0000effe010097fffbffc1ff7e001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "text": "（はぁ〜……ま、いっか。売れようが\n　売れまいが、バイト代には関係ないし）\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条さん",
+      "text": "むぅ……これでは赤字だな……\nバイト代も出せんぞ……。\n",
+      "ctrl_code": "fbff05ffe8fe030066ff7c000000c1ff7f001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "text": "（えーーーーーーーー！？）\n",
+      "ctrl_code": "fbff67ff0e00c1ff7d001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "みお",
+      "text": "（これは……何とかしないと！\n　恥を忍んで大福被った意味がない！！）\n",
+      "ctrl_code": "fbffc1ff7e001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "text": "（けど、喋ると怒られるし、\n　一体どうすれば……）\n",
+      "ctrl_code": "fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700c1ff7c001000ebfe0100adffffff65ff06000300"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みお",
+      "text": "（売れない原因は……\n　間違いなくこのお面だよね）\n",
+      "ctrl_code": "fbff67ffffff66ff89000000c1ff7c001000ebfe000065ff07000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "text": "よいしょっと。\n",
+      "ctrl_code": "98ff0000c1ff6d00100097fffbffeefe03000400e8fe0200edffc8ff6d005f011000ebfe000065ff08001600"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中之条さん",
+      "text": "あっ！　こら！　何を脱いでるんだ！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2900ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff09000300"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みお",
+      "text": "じょらぁっ！！\n",
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "きよし",
+      "text": "！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff0c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff70001000ebfe000065ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "text": "さてと。\n",
+      "ctrl_code": "fbffc1ff8d011000ebfe0000adffffff65ff0e001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000c1ff8b01100097fffbffc0ff03006e001000ebfe000065ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお",
+      "text": "それ、脱いで。\n",
+      "ctrl_code": "fbffc0ff040068011000ebfe000065ff10001700"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "きよし",
+      "text": "あっ、は、はい！！\n",
+      "ctrl_code": "98ff0000c1ff6601100097fffbffc1ff70001000ebfe000065ff11000300"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお",
+      "text": "よし！　普通に接客するよ！\n",
+      "ctrl_code": "fbffc1ff67011000ebfe000065ff12001700"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "きよし",
+      "text": "は、はい！\nわかりました！！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800edffc1ffffff1000ebfe000065ff13002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ナレーターお姉さん",
+      "text": "その後、それなりに売れたそうです。\n",
+      "ctrl_code": "98ff0000effe070097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c0ff040068011000ebfe000065ff14001700"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "きよし",
+      "text": "あの……。\n",
+      "ctrl_code": "fbffc0ff03007c001000ebfe000065ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "text": "……？\n",
+      "ctrl_code": "fbffc1ff68011000ebfe000065ff16001700"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "きよし",
+      "text": "……真面目にやりましょうよ。\nバイト代、ヤバイですよ。\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe000065ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みお",
+      "text": "え、あ、うん……そうだね。\n他にできることなんてないもんね。\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe0100adffffff65ff18000300"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "みお",
+      "text": "（こんな踊り……屈辱だけど、\n　バイト代のためには……っ！）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19001700"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "きよし",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffbeff67001000ebfe000065ff1a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffebfe000065ff1b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "きよし",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffebfe000065ff1c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "みお",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff1d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffbeff68001000ebfe000065ff1e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお＆きよし＆鹿",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffebfe000065ff1f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "中之条さん",
+      "text": "お、おおお……！！\n",
+      "ctrl_code": "fbffebfe000065ff20000300"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みお＆きよし＆鹿",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffebfe000065ff21000300"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みお＆きよし＆鹿",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff22001600"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "中之条さん",
+      "text": "うおおおおお！！\n",
+      "ctrl_code": "fbff66ffcf000000ebfe000065ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みお＆きよし＆鹿",
+      "text": "あ、ほいっ！　あ、ほいっ！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff24000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "バディ＆コバディ",
+      "text": "！！　！！\n",
+      "ctrl_code": "98ff0000effe090097fffbff66ffd0000000ebfe0100adffffff65ff25000300"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みお",
+      "text": "（ウケてる……大福も売れてる……）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff26000300"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "みお",
+      "text": "（けど……なんか嬉しくない……）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ff7c001000ebfe0000adffffff65ff27000300"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe000065ff28000300"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "みお",
+      "text": "…………！\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe000065ff29000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffeefe06000400e8fe0300c1ff7d001000ebfe0100adffffff65ff2a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "みお",
+      "text": "（何もできないよ！）\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff7f001000ebfe0100adffffff65ff2b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "みお",
+      "text": "（できて直立不動だよ！\n　それ以外何もできないよ！）\n",
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff2c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "中之条さん",
+      "text": "ここまでやって売れんとは……\nどうしてこんなことに……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe0100adffffff65ff2d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "みお",
+      "text": "（こんなことやってるからだよ！）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

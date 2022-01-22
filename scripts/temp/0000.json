@@ -1,1 +1,570 @@
-
+{
+  "UNK": "3b00",
+  "id": 16,
+  "total": 80,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "20000000dc040000160800001a08000090090000aa090000300f0000c0130000fcffedfe00000000000004ff03ff030066ffb1000000c1ffffff1000bcffe701ff0067fffffffcfff9ff0800eefe00000500ebfe000064ffffff0000",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "なの",
+      "text": "んっ、んん……。\n",
+      "ctrl_code": "fbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "はかせ",
+      "text": "あっ、起きた。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67ff060071ff000063ffffff90ffffffedfff9ff0800edffc8ff37022b001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "なの",
+      "text": "うう……はかせ？\nもう起きてたんですか……？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff37021000effe0600ebfe0000adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8ff040037021000c1ff04001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "なの",
+      "text": "（はかせの持ってるボタンって……何？）\n",
+      "ctrl_code": "fbffc0ff040033001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "はかせ",
+      "text": "おはよー、なの。\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "なの",
+      "text": "お、おはようございます。\nところではかせ……。\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "はかせ",
+      "text": "なにー？\n",
+      "ctrl_code": "fbffc0ff040037021000c1ff0f001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "なの",
+      "text": "起きていきなりでアレですけど、\nそのボタンで私に何をするつもりですか？\n",
+      "ctrl_code": "fbffc0ff040033001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "はかせ",
+      "text": "なののネジをパワーアップさせたから\n新しい機能を試すところだったの。\n",
+      "ctrl_code": "fbffe8fe0200c1ff06001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "なの",
+      "text": "えぇっ！？\nもう何かした後だったんですか！？\n",
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "text": "何かじゃないよ！\nパワーアップさせたの！\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff0c001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "なの",
+      "text": "しないでくださいよ〜。\nただでさえネジで困ってるのに〜。\n",
+      "ctrl_code": "fbffc1ff2e001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "はかせ",
+      "text": "でもパワーアップだよ？\n",
+      "ctrl_code": "fbffc1ff03001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "なの",
+      "text": "一番なくしてほしいネジを\nパワーアップされても困るんですよー。\n",
+      "ctrl_code": "fbfffefe000001007fff0200c1ff0c001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "なの",
+      "text": "阪本さんも何とか言ってくださいよー。\n",
+      "ctrl_code": "fbffc1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff060030001000adfffeffebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "なの＆はかせ",
+      "text": "！？　犬だーーー！！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c1ffb0011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "text": "くそっ、猫がいるんだから\n犬でも誤魔化せると思ったのに！\n",
+      "ctrl_code": "fbff66ff0e000000e8fe0200edffc8ffc901b0011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "text": "あっ！　アンテナが折られた！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "text": "……判断を間違えたな。俺よりも\n地球人たちの方が一枚上手だったらしい。\n",
+      "ctrl_code": "fbffebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF08}]",
+      "text": "ああ……。\n",
+      "ctrl_code": "fbffebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "text": "でも、なんで犬で行ったんだ？\n最初からいた猫でよくないか？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff05002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF07}]",
+      "text": "！？\n",
+      "ctrl_code": "fbffebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]",
+      "text": "……俺よりもお前の方が\n一枚上手だったらしい。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff07002300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF08}]",
+      "text": "えええっ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff0c001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "なの",
+      "text": "改造は許しますから\nせめてネジを取ってください。\n",
+      "ctrl_code": "fbff05ffc1ff2f001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "text": "あっ、そうだなのー。\nはかせ、おなかすいた。\n",
+      "ctrl_code": "fbffc1ff10001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "なの",
+      "text": "誤魔化さないで、\n今すぐネジを取ってくださいよ。\n",
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "text": "ごまかしてない！\nはかせ本当にお腹すいたんだもん！\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "text": "そうじゃなくて……。\n",
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe05000600070067ff1100eefe02000400c1ff10001000ebfe000065ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "なの",
+      "text": "ネジです。ネ・ジ！\nネジを取ってください！\n",
+      "ctrl_code": "fbffe8fe0200c1ff2d001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "はかせ",
+      "text": "ちがうもん！\nネジじゃなくてお腹がすいたの！\n",
+      "ctrl_code": "fbffe8fe0200c1ff03001000ebfe000065ff0a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "なの",
+      "text": "だから、ご飯の前にネジを\n取ってほしいと言ってるんです！\n",
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "text": "やだ！\n",
+      "ctrl_code": "fbffe8fe0200c1ff0f001000ebfe000065ff0c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "なの",
+      "text": "私ははかせがネジを取ってくれるまで\n朝ご飯作りませんからね！\n",
+      "ctrl_code": "fbffe8fe0200c1ff2a001000ebfe000065ff0d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "はかせ",
+      "text": "いいもん！\nなぜなら、お菓子がいっぱいあるからー！\n",
+      "ctrl_code": "fbffe8fe0200c1ff03001000ebfe000065ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "なの",
+      "text": "お菓子を朝ご飯代わりにしちゃダメです！\n",
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000065ff0f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "はかせ",
+      "text": "じゃあ、朝ご飯作って！\n",
+      "ctrl_code": "fbffe8fe0200c1ff10001000ebfe000065ff10000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "text": "わかりました！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff00c8ff00002900ff0090ff290090ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800e8fe0200ebfe000065ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "なの",
+      "text": "はい！　朝ご飯ですよ！\n",
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "text": "わーい！\nいただきまーす！\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff65ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0300c1ff06001000ebfe0100adffffff65ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "なの",
+      "text": "（何、普通に朝ご飯作ったの、私！？）\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff02001000ebfe0100adffffff65ff15000000"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "なの",
+      "text": "（違う、そうじゃない。ネジを\n　取ってもらわないと私は学校にも[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffe8fe0200c1ff04001000ebfe000065ff16000000"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "なの",
+      "text": "学校！？\nい、今何時！？\n",
+      "ctrl_code": "fbffc1ff06001000ebfe000065ff17000000"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "なの",
+      "text": "ああああーー！？　もう遅刻寸前！！\nはかせ、行ってきまーす！\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff18000100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "はかせ",
+      "text": "行ってらっしゃーい！\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff10001000ebfe000065ff19000000"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "なの",
+      "text": "ネジを取ってください。\nこれがある限り私は家事をしませんからね。\n",
+      "ctrl_code": "fbffe8fe0200c1ff2d001000ebfe000065ff1a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "はかせ",
+      "text": "ならまた別の子作るからいいもん！\n",
+      "ctrl_code": "fbff67ffffffeefe04000400e8fe020066ff7c000000c1ff04001000ebfe000065ff1b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "なの",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe060097fffbff67ff0d00e8fe0400c1ff0c001000ebfe0000adffffff65ff1c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff1d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "はかせ",
+      "text": "あっ……。\n",
+      "ctrl_code": "fbffc1ff2d001000ebfe000065ff1e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "はかせ",
+      "text": "嘘だよ。はかせは、\nなの以外は作らないよ。\n",
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0400c1ff02001000ebfe000065ff1f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "なの",
+      "text": "……本当ですか？\n私、いらない子じゃないんですか？\n",
+      "ctrl_code": "fbffc1ff2e001000ebfe000065ff20000100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "はかせ",
+      "text": "いらなくないよ！\nはかせ、なのにご飯食べさせて欲しいもん！\n",
+      "ctrl_code": "98ff0000effe090097fffbffc1ff01001000ebfe000065ff21000000"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "なの",
+      "text": "はかせ……！\nはい！　私、朝ご飯作ります！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff00c1ff3300ff0090ffffff90ffffff67ff0b0071ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff22000100"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "はかせ",
+      "text": "ごちそうさまー！\n",
+      "ctrl_code": "fbffedffc8ff070033001000ebfe000065ff23000000"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "なの",
+      "text": "はい。お粗末さまです。\n",
+      "ctrl_code": "fbffc1ff31001000ebfe000065ff24000100"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "はかせ",
+      "text": "あっ、なの。\nそろそろ学校の時間だよ。\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff25000000"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "なの",
+      "text": "あっ、本当ですね。\nじゃあはかせ、行ってきます。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff26000100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "はかせ",
+      "text": "行ってらっしゃーい。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff03001000ebfe000065ff27000000"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "なの",
+      "text": "じゃあ、ネジを取ってくれたら\n朝ご飯作ります。\n",
+      "ctrl_code": "fbffeefe14000400e8fe0200c1ff32001000ebfe000065ff28000100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "はかせ",
+      "text": "やだ！\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff10001000ebfe000065ff29000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "text": "何でですか？\n朝ご飯食べられないんですよ？\n",
+      "ctrl_code": "fbffc1ff2a001000ebfe000065ff2a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "はかせ",
+      "text": "だってはかせ、ネジのために\n早起きして頑張ったんだよ？\n",
+      "ctrl_code": "fbffc1ff0c001000ebfe000065ff2b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "なの",
+      "text": "こんなことのために\n早起きしたんですか……。\n",
+      "ctrl_code": "fbffc1ff2c001000ebfe000065ff2c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "はかせ",
+      "text": "せっかく頑張ったのに\nもう取っちゃうなんてヤダ！\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe000065ff2d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "なの",
+      "text": "……仕方ないですね。それじゃあ、\n一回だけ新機能を試してもいいですから。\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff2a001000ebfe000065ff2e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "はかせ",
+      "text": "はかせお腹減った……。\n",
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff2f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "はかせ",
+      "text": "疲れてお腹も減ってるのに、\n朝ご飯食べられないの？\n",
+      "ctrl_code": "fbffc1ff0c001000ebfe000065ff30000000"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "なの",
+      "text": "うっ……。\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe000065ff31000000"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "なの",
+      "text": "……わかりました。\n先に朝ご飯ですね。\n",
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff32000100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "はかせ",
+      "text": "わーい！\nなの大好きーー！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff00c1ff2b00ff0090ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff33000100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "はかせ",
+      "text": "ごちそうさまー！\n",
+      "ctrl_code": "fbffedffc8ff00002b001000ebfe000065ff34000000"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "なの",
+      "text": "それじゃあはかせ、早くネジを[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff2d001000ebfe000065ff35000100"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "はかせ",
+      "text": "あっ、なの、もう時間だよ？\n学校行かないと。\n",
+      "ctrl_code": "fbffe8fe0200c1ff04001000ebfe000065ff36000000"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "なの",
+      "text": "わわわっ！？　もうこんな時間！\nで、でもネジが……。\n",
+      "ctrl_code": "fbffc1ff02001000ebfe000065ff37000000"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "なの",
+      "text": "わーん！\nはかせ、行ってきまーす！\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff38000100"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "はかせ",
+      "text": "行ってらっしゃーい。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

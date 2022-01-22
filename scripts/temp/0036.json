@@ -1,0 +1,430 @@
+{
+  "UNK": "3415",
+  "id": 16,
+  "total": 60,
+  "ptrs": 256,
+  "extra": 0,
+  "ctrl_code": "20000000d20500000209000006090000c00a0000da0a0000f60d00006e100000fcffedfe00000000000004ff03ff0300c1ffffff1000bcffed01ff0067fffffffcfff9ff0800eefe00000500ebfe000064ffffff0a00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条",
+      "text": "僕の夢は科学者になることだ……。\n",
+      "ctrl_code": "fbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "text": "だから世の中の幽霊だどうたらという\n霊的現象は全く信じていない。\n",
+      "ctrl_code": "fbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条",
+      "text": "いないが……！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7a00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7c000000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条",
+      "text": "何故……僕の髪の毛が\nこんな風になってるんだ……！！\n",
+      "ctrl_code": "98ff0000effe040097fffbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "text": "何か違和感があると思ったら……\nうっすらと透けている……！！\n",
+      "ctrl_code": "fbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条",
+      "text": "ここに確かにあるのに……\n触ることができない……！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "text": "そう、まるで幽霊のように、\nここにあるのに触ることができない！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd501ff00c1fffeffff00c1ffff00ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ffff001000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "text": "……そうか、これは夢だ。\nきっと僕は今、悪い夢を見て[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1fff7001000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fffd001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条",
+      "text": "……やめよう。例え信じられない事でも\n受け入れなければいけない時がある。\n",
+      "ctrl_code": "fbffc1fffc001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中之条",
+      "text": "それが今だ……悲観に走る暇があるのなら\n学校に行くまでに問題を解決しないと。\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条",
+      "text": "とは言え、触れもしない物を相手に\n僕はどんな方法を取れば[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff100067ffffffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中之条",
+      "text": "……ん？　これは……？\n",
+      "ctrl_code": "fbff67ff1000c1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条",
+      "text": "育毛剤だ……。\nもしかして父さんが使ってるのか？\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ffff001000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbfffefe010001007fff0200edffc8ffff00b6001000c1ffb6001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条",
+      "text": "ハッ！？　いつの間に！？\n",
+      "ctrl_code": "fbffc1ffb7001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fffa001000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "text": "……つ、使いますか？\n",
+      "ctrl_code": "fbffc1ffb4001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c1ffb4011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF07}]",
+      "text": "あーっ！　バカ、やめろ！\n頭にかけたらアンテナにかかって[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF07}]",
+      "text": "ほらみろ！　機械だから水には弱いんだぞ！\n不用意に変なのつけるんじゃないって！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff02002300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF08}]",
+      "text": "へ、変とはなんだ！\n偉大なる聖水を侮辱するなーーっ！\n",
+      "ctrl_code": "fbffebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF07}]",
+      "text": "……お、おまえ。\nもしかして……帽子の下。\n",
+      "ctrl_code": "fbffebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF08}]",
+      "text": "………あ。\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "text": "す、少しくらいなら\n使ってもいいよね……？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7a00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbff05ff66ffc9000000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "中之条",
+      "text": "ま、まあ、使ったところで\nすぐに生えてくるわけじゃないけど……。\n",
+      "ctrl_code": "fbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff080066ffca000000e8fe0200ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe080097fffdff7fff040002ff01ff05003200fbfffa000000960000fffffe05000600070067ff1800eefe04000400ebfe000065ff05000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "中之条",
+      "text": "チュ、チューリップになった！？\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff06000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条",
+      "text": "（どういうことだ……この育毛剤を\n　振りかけた瞬間、チューリップに……）\n",
+      "ctrl_code": "fbffebfe000065ff07000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "中之条",
+      "text": "…………！！\n",
+      "ctrl_code": "fbff66ffc9000000ebfe000065ff08000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条",
+      "text": "も、もう一回……！\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7c00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800eefe0300040066ffcb000000effe0800e8fe0200ebfe000065ff0a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "fbffebfe000065ff0b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中之条",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffeefe0c000400ebfe000065ff0c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条",
+      "text": "この育毛剤……すごい！\nさすが父さんの育毛剤だ……。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff0e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条",
+      "text": "でも……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条",
+      "text": "コレ……どうしよう……。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1100eefe06000400ebfe000065ff10000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "中之条",
+      "text": "触れない……やっぱり幽霊のままだ……。\n",
+      "ctrl_code": "fbffebfe000065ff11000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条",
+      "text": "だけど育毛剤の効果はあるのか……。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff13000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中之条",
+      "text": "なら、水をあげれば……。\n",
+      "ctrl_code": "fbfff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7d00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff080066ffca000000eefe03000400effe0100e8fe0200ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff15000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中之条",
+      "text": "（育ったーー！？）\n",
+      "ctrl_code": "98ff0000effe020097fffbffebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "text": "…………！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中之条",
+      "text": "ど、どうしよう……。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe04000400e8fe0400ebfe000065ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条",
+      "text": "な、なんてこった……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff17000000daffbcffd501ff00c1fffeffff00c1ff5e01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5e011000ebfe000065ff19001600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条さん",
+      "text": "おい、剛。\nそろそろ学校に行かなくていいのか？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7b00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中之条",
+      "text": "あっ、父さん……。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd501ff00c1fffeffff00c1ff6101ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff61011000ebfe0000adffffff65ff1b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中之条",
+      "text": "…………。\n",
+      "ctrl_code": "fdffedfffcfffcffc1ff5e0110001aff03000100000010010a0016ffffff66ff30000000edffc1ffffff100067ff1800effe0200e8fe0200ebfe000065ff1d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "text": "……と、父さんっ！？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff1e002f00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中之条母",
+      "text": "何の音ー？\n何かあったのー？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条",
+      "text": "！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7b00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe09000400ebfe0100adffffff65ff20000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条",
+      "text": "（だ、だめだ、\n　母さんにまで見られるわけには！）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff21000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条",
+      "text": "い、行ってきまーす！！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

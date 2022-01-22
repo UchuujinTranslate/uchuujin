@@ -1,0 +1,451 @@
+{
+  "UNK": "8122",
+  "id": 16,
+  "total": 63,
+  "ptrs": 272,
+  "extra": 0,
+  "ctrl_code": "20000000640300001e0700002207000068090000820900005c0d0000e8110000fcffedfe00000000000004ff03ff0300c1ffffff1000bcffba01ff0067ff0a00fcfff9ff0800eefe00000500ebfe000064ffffff1600",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条さん",
+      "text": "うーむ。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe0100adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条さん",
+      "text": "（最近、客の数が落ち込んでいる。\n　大福フェアの効果も減り気味だ）\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe0100adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条さん",
+      "text": "（不景気のせいかと思ったが、\n　どうやらそうでもなさそうだ）\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "text": "……くっ、大工カフェめ。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条さん",
+      "text": "あそこは相変わらず大盛況。\nむしろ、うちの客を取られてる気がする。\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条さん",
+      "text": "しかし、大福がコーヒーとケーキなんぞに\n負けるはずが無い。\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条さん",
+      "text": "となれば、私の宣伝に問題があるに違いない。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条さん",
+      "text": "……よし、少しアンケートをとってみよう。\n丁度いいから、そこの人にするか。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条さん",
+      "text": "すいません！　ちょっといいですか！？\n",
+      "ctrl_code": "fbfffefe010001007fff0200c1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "校長先生",
+      "text": "はい？\n",
+      "ctrl_code": "fbffedffc8ffb3005e011000c1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条さん",
+      "text": "アンケートに答えて欲しいんですが……\n大福はケーキに負けていると思いますか？\n",
+      "ctrl_code": "fbffc1ffb6001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "校長先生",
+      "text": "大福ですか？　そうですねぇ。\n私は大福の方が好きですけど。\n",
+      "ctrl_code": "fbff67ffffff66ff7c000000e8fe0200c1ff60011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条さん",
+      "text": "！！\n",
+      "ctrl_code": "fbffc1ffaa001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "校長先生",
+      "text": "ですが、昨日大工カフェで食べたケーキも\n大福と同じくらい美味しかったですな！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7400ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条さん",
+      "text": "大福を[{0D9F}]めるな！！！\n",
+      "ctrl_code": "fdffedfffcfffcffbcffff011000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "校長先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c1ffb4011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "text": "えええーー！？\n",
+      "ctrl_code": "fbffedffc8ffb401c5011000c1ffc5011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF08}]",
+      "text": "オ、オッサンは大丈夫か！？\n急いで確認を[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "text": "えええーー！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みお姉",
+      "text": "私ですか？\n",
+      "ctrl_code": "fbffedffc8ff69015e011000c1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条さん",
+      "text": "はい。私、実はここで\n大福フェアをやってる者なんですが。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "中之条さん",
+      "text": "率直に聞きますが、うちの大福フェアは\n大工カフェと比べてどうですか？\n",
+      "ctrl_code": "fbff05ffc1ff6c011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "みお姉",
+      "text": "うーん……。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe0000adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みお姉",
+      "text": "地味？\n",
+      "ctrl_code": "98ff0000effe020097fffbff66ff7c000000e8fe0200c1ff61011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条さん",
+      "text": "！！！！！\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ff1400c1ff61011000ebfe0100adffffff64ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条さん",
+      "text": "（そんな、まさか大福の最大の武器が\n　最大の欠点になっているとは……！）\n",
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700c1ff5e011000ebfe0100adffffff65ff03001600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条さん",
+      "text": "（だが……しかし！）\n",
+      "ctrl_code": "fbffeefe05000400e8fe0200c1ff5f011000ebfe000065ff04001600"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条さん",
+      "text": "じ、地味の何が悪い！！\n",
+      "ctrl_code": "fbffe8fe0200c1ff69011000ebfe000065ff05001800"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みお姉",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff61011000ebfe000065ff06001600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条さん",
+      "text": "そうだ、地味なんじゃない。\nシックで落ち着いた、日本的なデザインだ！\n",
+      "ctrl_code": "fbffc0ff040053021000ebfe000065ff07001600"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "中之条さん",
+      "text": "それに味は抜群なんだ！\nほら、あんたも食べてみてくれ！！\n",
+      "ctrl_code": "fbffc1ff6c011000ebfe000065ff08001800"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "みお姉",
+      "text": "い、いただきます。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff03006a011000ebfe000065ff09001800"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお姉",
+      "text": "……あ、ホントだ、おいしい。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffe8fe0200c0ff040060011000ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条さん",
+      "text": "そうだろう！？\n",
+      "ctrl_code": "fbff67ff1500c1ff5e011000ebfe000065ff0b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条さん",
+      "text": "そうさ、何を間違えていたんだろう。\n大福はこのままでいいんだ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条さん",
+      "text": "私はこれからも\nこのままのスタイルを貫くぞー！\n",
+      "ctrl_code": "fbff67ffffffebfe000065ff0d001800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお姉",
+      "text": "でも……それって\n問題の解決になってませんよね？\n",
+      "ctrl_code": "fbff66ff7c000000e8fe0200ebfe000065ff0e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5e011000ebfe000065ff0f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条さん",
+      "text": "くっ……やはり大福は大福。\n地味という宿命からは逃れられないのか……。\n",
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff10001800"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお姉",
+      "text": "んー、でも私大福好きですよ？\n",
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0200c1ff60011000ebfe000065ff11001600"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条さん",
+      "text": "本当かね！？\n",
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff12001800"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお姉",
+      "text": "やっぱり緑茶には和菓子の方があいますし、\nあんこっておいしいですし。\n",
+      "ctrl_code": "fbff67ff1500e8fe0200c1ff5f011000ebfe000065ff13001600"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条さん",
+      "text": "そ、そうか！\n大福の良さをわかってくれるか！！\n",
+      "ctrl_code": "98ff0000effe080097fffbffeefe13000400c1ff60011000ebfe000065ff14001600"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中之条さん",
+      "text": "なんて良いお嬢さんだ！\nありがとう、何だか救われた気分だよ！\n",
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff15001800"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みお姉",
+      "text": "いえいえ。\n",
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff16001600"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中之条さん",
+      "text": "そうだ、良かったら寄ってってくれ！\n出来る限りサービスさせてもらうよ！\n",
+      "ctrl_code": "fbff67ffffffc1ff6a011000ebfe000065ff17001800"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みお姉",
+      "text": "あ、いいです。\n今から友達と大工カフェでお茶する所なんで。\n",
+      "ctrl_code": "fbff66ff7c000000e8fe0200c1ff61011000ebfe000065ff18001600"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe060097fffbff67ff1400c1ff69011000ebfe000065ff19001800"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "みお姉",
+      "text": "じゃあ、そろそろ時間なんで。\n",
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daffc1ff5e011000ebfe0000adffffff65ff1a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff1b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条さん",
+      "text": "い、良いお嬢さん、だった……はずだ。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5e011000ebfe0000adffffff65ff1c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff1d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条さん",
+      "text": "そ、その。\nじゃあ次の質問を……。\n",
+      "ctrl_code": "fbffeefe01000400c1ff69011000ebfe000065ff1e001800"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお姉",
+      "text": "はい？\n",
+      "ctrl_code": "fbffc1ff60011000ebfe000065ff1f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条さん",
+      "text": "反対に大福のいい所を\n思いつくだけ挙げてみてくれないか？\n",
+      "ctrl_code": "fbffc1ff6c011000ebfe000065ff20001800"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお姉",
+      "text": "んー……。\n",
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff21001800"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお姉",
+      "text": "特に無いかな！\n",
+      "ctrl_code": "fbffeefe03000400e8fe020066ff7c000000c1ff5f011000ebfe000065ff22001600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffc1ff61011000ebfe000065ff23001600"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条さん",
+      "text": "そ、そうか……。\nありがとう、もういいよ。\n",
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff24001800"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお姉",
+      "text": "はーい、それじゃー。\n",
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daffc1ff5e011000ebfe0000adffffff65ff25001600"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "中之条さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff26001600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中之条さん",
+      "text": "……大福は無力なんだろうか。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

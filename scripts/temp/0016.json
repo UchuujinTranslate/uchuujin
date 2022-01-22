@@ -1,0 +1,465 @@
+{
+  "UNK": "b307",
+  "id": 16,
+  "total": 65,
+  "ptrs": 288,
+  "extra": 0,
+  "ctrl_code": "20000000bc0300006c06000070060000c4070000de0700008c0c000022110000fcffedfe03000400070004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500ebfe000064ffffff0300",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "text": "はぁ……はぁ……た、確かこの辺だよね。\nゆっことぶつかったのは……。\n",
+      "ctrl_code": "fbffc1ff74001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "text": "なんとしても……\nなんとしても原稿見つけないと！\n",
+      "ctrl_code": "fbffc1ff6d001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "text": "…………ん？\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "text": "うわっ！？　鹿だ！！\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fdffedfffcff66ff44000000edffc1ffffff1000daffc1ff74001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "text": "びっくりした……。\n",
+      "ctrl_code": "fbffc1ff78001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "text": "つか、あの鹿って朝のやつだよね？\nくっそー、あいつのせいで私の原稿が……。\n",
+      "ctrl_code": "fbff67ffffffc1ff73001000ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8e00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff78001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "text": "鹿ーーー！！　待てーーーー！！\n",
+      "ctrl_code": "fdffedfffcff1aff0300000000fe00000a0016ffffffedffc1ffffff1000fefe010001007fff0200c1ffb9001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "校長先生",
+      "text": "！？\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1800faff01000000f9ff0800c1fff6011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF0B}]",
+      "text": "あの子、どうしたんだ！\nいきなり走り出したぞ！？\n",
+      "ctrl_code": "fbffc1fffb011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0C}]",
+      "text": "と、とにかく追うんだ！\n逃げられたら姫に怒られるぞ！\n",
+      "ctrl_code": "fbffc1fff4011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0B}]",
+      "text": "おう！\n",
+      "ctrl_code": "fbffc1fff8011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0C}]",
+      "text": "……？　どうした、もっと急がせろよ。\n見失っちまうぞ？\n",
+      "ctrl_code": "fbffc1ffee011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0B}]",
+      "text": "ご老体なんだ、無理言うなよ。\n",
+      "ctrl_code": "fbffc1fff9011000ebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0C}]",
+      "text": "……そうか、そうだよな。\n",
+      "ctrl_code": "fbffc1fff6011000ebfe000065ff06002600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0B}]",
+      "text": "あっ、バテた。\n",
+      "ctrl_code": "fbffc1fffa011000ebfe000065ff07002700"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0C}]",
+      "text": "あっ、転んだ。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff08002600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0B}]＆[{FF0C}]",
+      "text": "あっ、折れた！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc3d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff71001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "みお",
+      "text": "はぁ、はぁ……！\nあっ、いた！　鹿ーー！！\n",
+      "ctrl_code": "fbff05ffc1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffff67ff1600c1ff71001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "みお",
+      "text": "取り返す……何が何でも……私の原稿……！\n",
+      "ctrl_code": "fbffc1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "鹿",
+      "text": "！！\n",
+      "ctrl_code": "98ff0000effe080097fffdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700eefe09000400f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff09000300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みお",
+      "text": "ぐはー！？\n",
+      "ctrl_code": "98ff0000effe040097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc3d1ff00c1fffeffff00c1ff7700ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff08001aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000c1ff8c011000ebfe0100adffffff65ff0a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みお",
+      "text": "（な、なに！？　なんなのこいつ！？）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff0b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みお",
+      "text": "（こんなところで……こんなところで\n　私の人生は終わっちゃうの？）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みお",
+      "text": "（こんな……鹿１匹のために……っ！）\n",
+      "ctrl_code": "fbff67ff1700ebfe0100adffffff65ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みお",
+      "text": "（いや……まだ……まだよ！）\n",
+      "ctrl_code": "fbffe8fe0200c1ff71001000ebfe000065ff0e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "みお",
+      "text": "命を、燃やせーーー！\n",
+      "ctrl_code": "98ff0000effe090097fffbffe8fe0200c1ff8c011000ebfe000065ff0f001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "鹿",
+      "text": "！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2700ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff10000300"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "みお",
+      "text": "へやーっ！！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff11001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "鹿",
+      "text": "！！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc3d1ff00c1fffeffff00c1ff7100ff0090ffffff90ffffff67ff150071ff000063ffffff90ffffffedfff9ff0800c1ff71001000ebfe000065ff12000300"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "みお",
+      "text": "ぃよし！\n",
+      "ctrl_code": "fbffc1ff76001000ebfe000065ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "text": "勝った……！！\n",
+      "ctrl_code": "fbff66ffc7000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff14000300"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "みお",
+      "text": "あーーーー！？　原稿ーーー！！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff72001000ebfe000065ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお",
+      "text": "つ、強そう……\n何か……何かいい手はないの……？\n",
+      "ctrl_code": "fbff66ff52000000c1ff75001000ebfe000065ff16000300"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "みお",
+      "text": "カバンの中は……\nダメだ。ろくなものが無いよ……。\n",
+      "ctrl_code": "fbffc1ff76001000ebfe000065ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお",
+      "text": "くぅ、そりゃそうだ、対鹿用アイテムなんて\n日頃から持ってるわけが……。\n",
+      "ctrl_code": "fbff67ffffffc1ff55021000ebfe000065ff18000300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "text": "あっ！　ポケットに鹿せんべい！？\n",
+      "ctrl_code": "98ff0000effe070097fffbff67ff1000c1ff74001000ebfe0100adffffff65ff19000300"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みお",
+      "text": "（なんで！？\n　でも神さまありがとー！）\n",
+      "ctrl_code": "fbffc9ff55021000c0ff030070001000ebfe000065ff1a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "text": "よーしよしよし。こっちおいで〜。\n良いものあげるよ〜。\n",
+      "ctrl_code": "fbffc9ffffff1000c0ff04008b011000ebfe0000adffffff65ff1b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff72001000ebfe0100adffffff65ff1c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "text": "（よし、食べた！　今の内に原稿を……）\n",
+      "ctrl_code": "fbffc1ff6f001000ebfe000065ff1d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みお",
+      "text": "やったー！！　ゲットーー！！\n",
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff1e001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "鹿",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff73001000ebfe000065ff1f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みお",
+      "text": "あ、なに？　もっと食べたい？\nわかったわかった。あと１枚……。\n",
+      "ctrl_code": "fbff67ffffffc1ff72001000ebfe000065ff20000300"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みお",
+      "text": "…………あ、もうないや。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff160071ff000063ffffff90ffffffedfff9ff0800eefe05000400e8fe0200ebfe000065ff21001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "鹿",
+      "text": "！！\n",
+      "ctrl_code": "98ff0000effe040097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff22000300"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "みお",
+      "text": "ぐはー！？\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe17000400e8fe0300c1ff77001000ebfe0100adffffff65ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "みお",
+      "text": "（ダメ……こいつの目……\n　ただ者じゃないっ！）\n",
+      "ctrl_code": "fbffe8fe0300c1ff74001000ebfe0100adffffff65ff24000300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "text": "（一歩も動けない……先に動いたら……\n　確実に殺られる……っ！）\n",
+      "ctrl_code": "fbff67ffffffebfe000065ff25002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "警察",
+      "text": "ああいたいた。\nったく、世話が焼けるな。\n",
+      "ctrl_code": "fbffc1ff73001000ebfe000065ff26000300"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe060097fffbff67ff1000c1ff73001000ebfe000065ff27002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "警察",
+      "text": "ん？　なんだ君は。\nひょっとして君がこの鹿の飼い主か？\n",
+      "ctrl_code": "fbffc1ff72001000ebfe000065ff28000300"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお",
+      "text": "い、いいえ……。\n",
+      "ctrl_code": "fbffebfe000065ff29002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "警察",
+      "text": "そうか。いやー、近隣住民から\n鹿が暴れ回ってるって苦情が殺到してねー。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ff8c011000ebfe000065ff2a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "鹿",
+      "text": "！！！！！\n",
+      "ctrl_code": "fbffebfe000065ff2b002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "警察",
+      "text": "おっ！？　こら、暴れるな！\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff2c002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "警察",
+      "text": "それじゃ、この鹿は連れて行くから。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff74001000ebfe000065ff2d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "みお",
+      "text": "た、助かった……。\n",
+      "ctrl_code": "fbffc1ff72001000ebfe0000adffffff65ff2e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8e00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800eefe02000400ebfe000065ff2f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "みお",
+      "text": "あ、原稿取ってないじゃん！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みお",
+      "text": "すみません！\nその鹿、私のですっ！！\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

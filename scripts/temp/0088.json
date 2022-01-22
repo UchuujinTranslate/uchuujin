@@ -1,0 +1,703 @@
+{
+  "UNK": "a405",
+  "id": 16,
+  "total": 99,
+  "ptrs": 416,
+  "extra": 0,
+  "ctrl_code": "20000000600400000209000006090000820a00009c0a0000b4100000e2170000fcffedfe0a000b000c0004ff03ff0300c1ffffff1000bcffc0d1ff0067ff0a00fcfff9ff0800eefe00000500ebfe000064ffffff1d00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "店員（玉村）",
+      "text": "いらっしゃいませー。\n",
+      "ctrl_code": "fbffc1ff39001000ebfe0000adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff3f001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ゆっこ",
+      "text": "（また来てしまった……）\n",
+      "ctrl_code": "fbffc1ff44001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ゆっこ",
+      "text": "（ちょっと喉が渇いただけだから自販機か\n　それとも少し我慢して家で何か飲めばいい）\n",
+      "ctrl_code": "fbffc1ff39001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "ゆっこ",
+      "text": "（それなのに入ってしまった……）\n",
+      "ctrl_code": "fbffc1ff3c001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ゆっこ",
+      "text": "（……わかってる。\n　本当は理由なんかとっくにわかってる）\n",
+      "ctrl_code": "fbffc1ff3d001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "ゆっこ",
+      "text": "（悔しかったんだ。だからリベンジしたくて\n　やってきたんだ）\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff39001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ゆっこ",
+      "text": "（注文もろくに出来なかったことが\n　今も私の胸の中に残っている）\n",
+      "ctrl_code": "fbffc1ff47001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ゆっこ",
+      "text": "（今こそリベンジを果たす時！\n　頑張れ私！）\n",
+      "ctrl_code": "98ff0000effe090097fffbffedffc8ff470087011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "玉村",
+      "text": "いらっしゃいませ。ご注文は[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffc1ff89011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "玉村",
+      "text": "あっ……。\n",
+      "ctrl_code": "fbff66ff7c000000e8fe0300c1ff40001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ゆっこ",
+      "text": "（うっ！？　あの時の店員さん！？）\n",
+      "ctrl_code": "fbff67ff1000c1ff39001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ゆっこ",
+      "text": "（だ、大丈夫。気圧されちゃ駄目。\n　あの時の私と違うところを見せないと）\n",
+      "ctrl_code": "fbfffefe000001007fff0200c1ff88011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "玉村",
+      "text": "あの、お客様……。\n",
+      "ctrl_code": "fbffc1ff3c001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "ゆっこ",
+      "text": "あっ、は、はい！\nえ、えっと今日は……。\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "玉村",
+      "text": "あの、当店はペットを連れての入店は\nお断りさせて頂いていまして……。\n",
+      "ctrl_code": "fbffc1ff40001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "ゆっこ",
+      "text": "へっ？　ペット？\n",
+      "ctrl_code": "fbffc0ff040030011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff3d001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "ゆっこ",
+      "text": "あっ！？　あの、この犬は違うんです！\nほらほら、あっち行け。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ffe9011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]",
+      "text": "やっぱり駄目か。ペットを装えば\n正面からでも行けると思ったんだが。\n",
+      "ctrl_code": "fbffc1ff00021000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0C}]",
+      "text": "動物のときは店に入られると困るよな。\nこっそり入っても気付かれやすいし。\n",
+      "ctrl_code": "fbffc1ffe9011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "text": "仕方ない。\n出てくるまで店の前で待つか。\n",
+      "ctrl_code": "fbffc1ff00021000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0C}]",
+      "text": "だな。\n……おっ？　なんだか人が集まってきたぞ？\n",
+      "ctrl_code": "fbffc1ffeb011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0B}]",
+      "text": "おお、撫でられてる。\n店のマスコットとでも思われてるのか？\n",
+      "ctrl_code": "fbffc1ff02021000ebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0C}]",
+      "text": "ちょっ！　も、もっと優しく！\nそんな乱暴に撫でたら[{0D80}][{0D80}]！\n",
+      "ctrl_code": "fbff67ffffff66ff0e000000edffc8ffe901f8011000adfffeffebfe000065ff06002600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0B}]＆[{FF0C}]",
+      "text": "あっ……折れた……。\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffff67ff1800e8fe0200ebfe000065ff07002600"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0B}]＆[{FF0C}]",
+      "text": "うおおおおーーーー！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff86011000ebfe000064ffffff1d00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "玉村",
+      "text": "ご注文は……。\n",
+      "ctrl_code": "fbff05ffc1ff40001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ゆっこ",
+      "text": "あ、えっと……。\n",
+      "ctrl_code": "fbffc9ff40021000c1ff39001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ゆっこ",
+      "text": "（うっ……いざメニューを前にすると\n　緊張する……）\n",
+      "ctrl_code": "fbffc1ff3c001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "ゆっこ",
+      "text": "（謎の文字の羅列と店員さんの\n　無言のプレッシャー……！）\n",
+      "ctrl_code": "fbffc1ff3d001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ゆっこ",
+      "text": "（頑張れ私！\n　この雰囲気に呑まれちゃ駄目よ！）\n",
+      "ctrl_code": "98ff0000effe090097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c9ffffff1000c1ff39001000ebfe000065ff08000200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ゆっこ",
+      "text": "うーん、えーっと……。\n",
+      "ctrl_code": "fbffc1ff88011000ebfe0000adffffff65ff09001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff44001000ebfe0100adffffff65ff0a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "ゆっこ",
+      "text": "（あ、悩んだらもっと駄目だ！\n　時間をかけたら、その分焦りが生じる！）\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff0b001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "玉村",
+      "text": "あの、ご注文は……。\n",
+      "ctrl_code": "fbffc1ff39001000ebfe0100adffffff65ff0c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ゆっこ",
+      "text": "（もう何でもいい！\n　パッと目についたものを適当に……）\n",
+      "ctrl_code": "fbffe8fe0200eefe02000400c9ff41021000c1ff45001000ebfe000065ff0d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ゆっこ",
+      "text": "こ、これ！　一番大きいの！\n",
+      "ctrl_code": "fbffc1ff88011000ebfe0000adffffff65ff0e001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0300c1ff42001000ebfe0100adffffff65ff0f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ゆっこ",
+      "text": "（し、しまった！　これじゃメニューを\n　読めないと言っているのと同じだ！！）\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff10001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "玉村",
+      "text": "えー……エスプレッソフラペチーノの\n一番大きな[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff41001000ebfe000065ff11000200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ゆっこ",
+      "text": "ド、ドッピオ！\nドド、ド、ドッピオください！\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ff88011000ebfe0000adffffff65ff12001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "玉村",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff42001000ebfe000065ff13000200"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ゆっこ",
+      "text": "…………！\n",
+      "ctrl_code": "fbffc9ffffff1000c1ff86011000ebfe000065ff14001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "玉村",
+      "text": "あの……一番大きなサイズだと\nベンティになりますが……。\n",
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0300c1ff3f001000ebfe0100adffffff65ff15000200"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ゆっこ",
+      "text": "（ベベベヴェ！！　ベンティ！？）\n",
+      "ctrl_code": "fbffe8fe0300c1ff41001000ebfe0100adffffff65ff16000200"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ゆっこ",
+      "text": "（べべべべべべべべべべベンティ！？）\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff17001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "玉村",
+      "text": "あの、サイズはベンティで\nよろしいでしょうか？\n",
+      "ctrl_code": "fbff67ffffffc1ff3b001000ebfe000065ff18000200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ゆっこ",
+      "text": "…………！！\n",
+      "ctrl_code": "fbff67ff1400e8fe0200c1ff3d001000ebfe000065ff19000200"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ゆっこ",
+      "text": "もう知らん！！\n",
+      "ctrl_code": "98ff0000effe030097fffbffedfffcff66ff1e000000c0ff0300ffff1000daffc1ff88011000ebfe000065ff1a001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "玉村",
+      "text": "えええー！？　お客様ー！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff1b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ゆっこ",
+      "text": "（ベンティって、ベンティって……\n　なんなんだーーーーー！！！）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff1000c0ff040064011000ebfe0000adffffff65ff1c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "きよし",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff49001000ebfe000065ff1d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ゆっこ",
+      "text": "あっ……キ、キミ、先にどうぞ。\n私まだ決まってないから。\n",
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff1e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "きよし",
+      "text": "あっ、はーい。\nありがとうございます。\n",
+      "ctrl_code": "fbffc1ff39001000ebfe0100adffffff65ff1f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ゆっこ",
+      "text": "（よし、これでインターバルを置いて\n　仕切り直しよ。焦るな、私……！）\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff64011000ebfe000065ff20001700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "きよし",
+      "text": "えーっと……。\n",
+      "ctrl_code": "fbff67ffffffeefe0200040066ff89000000c1ff65011000ebfe000065ff21001700"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "きよし",
+      "text": "トールのオレンジクリームフラペチーノに\nエスプレットショットを。\n",
+      "ctrl_code": "98ff0000effe090097fffbffedffc1ffffff100066ff7b000000e8fe0200c1ff42001000ebfe000065ff22000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff1400edffc8ff870165011000ebfe000065ff23001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "玉村",
+      "text": "はい。トールのオレンジクリーム\nフラペチーノにエスプレットショット。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0300c1ff42001000ebfe0100adffffff65ff24000200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "ゆっこ",
+      "text": "（ノーミスだとおおお！？）\n",
+      "ctrl_code": "fbffedffc8ff860164011000ebfe000065ff25001700"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "きよし",
+      "text": "それと、キノコとベーコンの\nパンデサルを２つ。\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff26001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "玉村",
+      "text": "はい。キノコとベーコンの\nパンデサルを２つ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0300c1ff42001000ebfe0100adffffff65ff27000200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ゆっこ",
+      "text": "（またもやノーミッスィーズ！）\n",
+      "ctrl_code": "fbffc1ff41001000ebfe0100adffffff65ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ゆっこ",
+      "text": "（何この子……！\n　この歳でパンデサル……！）\n",
+      "ctrl_code": "fbffedffc8ff870164011000ebfe000065ff29001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "玉村",
+      "text": "以上でよろしいですか？\n",
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff2a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "きよし",
+      "text": "あっ、えっと最後に……。\n",
+      "ctrl_code": "fbffc1ff64011000ebfe000065ff2b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "きよし",
+      "text": "ヘーゼルナッツキャラメルカフェミスト\nキャラメルマキアートのグランデ１つ。\n",
+      "ctrl_code": "fbffedffc1ffffff100066ff55000000e8fe0200c1ff42001000ebfe000065ff2c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffc8ff860164011000ebfe000065ff2d001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "玉村",
+      "text": "はい。以上１７５０円になります。\n",
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff2e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "きよし",
+      "text": "はーい。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff42001000ebfe0000adffffff65ff2f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff30001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "玉村",
+      "text": "次の方どうぞ。\n",
+      "ctrl_code": "fbffedffc8ff650142001000ebfe000065ff31001700"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "きよし",
+      "text": "あっ、お姉ちゃん、ありがとう。\n次どうぞ。\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff64013b001000ebfe000065ff32000200"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ゆっこ",
+      "text": "死ね！！\n",
+      "ctrl_code": "98ff0000effe030097fffdffedfffcffedfffcff66ff1e000000c0ff0400ffff1000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff33001700"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "きよし＆玉村",
+      "text": "えええっ！？\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff1000c1ff44001000ebfe0100adffffff65ff34000200"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ゆっこ",
+      "text": "（そ、そうだ！\n　前にみおちゃんは確か……）\n",
+      "ctrl_code": "fbffeefe02000400e8fe0200c1ff3a001000ebfe000065ff35000200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "ゆっこ",
+      "text": "ホ、ホワイトチョコレート\nモカフラペチーノ、トールで！\n",
+      "ctrl_code": "fbffe8fe0200c1ff89011000ebfe000065ff36001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "玉村",
+      "text": "！！？\n",
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff37001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "玉村",
+      "text": "はい！　ホワイトチョコレート\nモカフラペチーノのトールですね。\n",
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0300c1ff3e001000ebfe0100adffffff65ff38000200"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "ゆっこ",
+      "text": "（ＹＥＳ！！）\n",
+      "ctrl_code": "fbffc1ff45001000ebfe0100adffffff65ff39000200"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "ゆっこ",
+      "text": "（やった、やったよゆっこ！\n　ちゃんと注文できたじゃん！）\n",
+      "ctrl_code": "fbffc1ff38001000ebfe0100adffffff65ff3a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "ゆっこ",
+      "text": "（もう私は前までの私じゃないみたいね。\n　ふふふ、レベルアップーって感じ♪）\n",
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff3b001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "玉村",
+      "text": "注文は以上でよろしいでしょうか？\n",
+      "ctrl_code": "fbffc1ff3e001000ebfe000065ff3c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "ゆっこ",
+      "text": "はい、それで[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff44001000ebfe0100adffffff65ff3d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "ゆっこ",
+      "text": "（待って、待つのよゆっこ！\n　これは、みおちゃんの真似をしただけ！）\n",
+      "ctrl_code": "fbffc1ff44001000ebfe0100adffffff65ff3e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "ゆっこ",
+      "text": "（注文ができたとは言えないんじゃないの？）\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff3f001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "玉村",
+      "text": "あ、あの……。\n",
+      "ctrl_code": "fbffc1ff38001000ebfe0100adffffff65ff40000200"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "ゆっこ",
+      "text": "（どうすれば……どうすれば……ん？\n　追加の……カスタマイズメニュー…！？）\n",
+      "ctrl_code": "fbff67ff1600e8fe0300c1ff3e001000ebfe0100adffffff65ff41000200"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "ゆっこ",
+      "text": "（レベルアップ、もらったーーっ！）\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff42001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "玉村",
+      "text": "あの、ご注文は[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff44001000ebfe000065ff43000200"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "ゆっこ",
+      "text": "じゃあ追加で！　エスプレッソのショート。\nエスプレッソのショートをしょーっとだけ！\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff49001000ebfe000065ff44000200"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "ゆっこ",
+      "text": "ショートでも、サイズはトールですよ？\nちゃんと聞いとーる？　なんちゃって♪\n",
+      "ctrl_code": "98ff0000effe030097fffbff67ffffffc1ff86011000ebfe000065ff45001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "玉村",
+      "text": "ホワイトチョコレートモカフラペチーノの\nトールに…エスプレット『ショット』ですね？\n",
+      "ctrl_code": "fbff67ff1400c1ff3f001000ebfe000065ff46000200"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "ゆっこ",
+      "text": "えっ？\nあ、あの……もう一回お願いします。\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff47001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "玉村",
+      "text": "ホ、ホワイトチョコレートモカフラペチーノの\nトールにエスプレット『ショット』ですよね？\n",
+      "ctrl_code": "fbffc1ff41001000ebfe000065ff48000200"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "ゆっこ",
+      "text": "エ、エスプレット……ショット？\n",
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff49001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "玉村",
+      "text": "……ショット。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe0100adffffff65ff4a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 98,
+      "speaker": "ゆっこ",
+      "text": "（レベルダウン！）\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

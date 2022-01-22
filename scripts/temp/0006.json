@@ -1,0 +1,584 @@
+{
+  "UNK": "2a04",
+  "id": 16,
+  "total": 82,
+  "ptrs": 352,
+  "extra": 0,
+  "ctrl_code": "200000001e030000360700003a07000088090000a2090000140f0000bc140000fcffedfe00000000000004ff03ff0300c1ffffff1000bcffb701ff0067ff0600fcfff9ff0800eefe00000500ebfe000064ffffff0200",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ゆっこ",
+      "text": "んー、いい天気だー。\n",
+      "ctrl_code": "fbffc1ff38001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ゆっこ",
+      "text": "こんな日は私のボケで\nみんなを爆笑させられる気がするなー。\n",
+      "ctrl_code": "fbffc1ff3e001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ゆっこ",
+      "text": "よーし、それじゃ早速教室についたら\n抱腹絶倒のボケをかましてみるか！\n",
+      "ctrl_code": "fbff67ffffffedffc1ffffff1000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ゆっこ",
+      "text": "……ん？\n",
+      "ctrl_code": "fbff66ff7e000000c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff1000edffc8ff30013f001000e8fe0200ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "fbffc1ff3f001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "ゆっこ",
+      "text": "（こ、この犬は……いつも私が何か\n　失敗をした時にやってくる犬だ……）\n",
+      "ctrl_code": "fbffc1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff3e001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ゆっこ",
+      "text": "……でも、まだ今日は\n何もボケてないから気にすることは……。\n",
+      "ctrl_code": "fbffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ゆっこ",
+      "text": "い、いや、もしかしたら\nこれから何か起こるのかも……。\n",
+      "ctrl_code": "fbfffefe020001007fff0200edffc1ffffff1000c1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "阪本さん",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ゆっこ",
+      "text": "ハッ！？　く、黒猫！？\n",
+      "ctrl_code": "fbffedffc8ff300140001000c1ff40001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ゆっこ",
+      "text": "不吉だ……やっぱりお前が来たのは\n私に何か起こることを暗示してるのね！？\n",
+      "ctrl_code": "fbffc1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff41001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "ゆっこ",
+      "text": "黙ってないで何か言ってーーっ！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0e00faff01000000f9ff0800c1ffb6011000ebfe0000adffffff65ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ffbd01b6011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "text": "おい、どこに行くんだ？\n",
+      "ctrl_code": "fbffc1ffba011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF07}]",
+      "text": "えっ？　ああ、ちょっとトイレに……。\n",
+      "ctrl_code": "fbffc1ffbc011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "text": "トイレならあっちだろ？\nそっちは避難カプセルのある部屋だぞ？\n",
+      "ctrl_code": "fbffc1ffb7011000ebfe0000adffffff65ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF07}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffbd011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "text": "……おい、まさかお前。\n",
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]",
+      "text": "だって！　嫌な予感がするんだ！\n今すぐこの船を降りないときっと[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff66ff0b000000e8fe0200c1ffb9011000ebfe000065ff07002200"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF07}]",
+      "text": "ほらきたーー！！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff08002300"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF08}]",
+      "text": "うおおお！？\nいつの間にかアンテナが折れてるー！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みお",
+      "text": "あっ、ゆっこ。おはよー。\n",
+      "ctrl_code": "fbffebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "ゆっこ",
+      "text": "あ、みおちゃん。\nスラマ[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff44001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "ゆっこ",
+      "text": "（あっ！　危ない！！\n　いつものクセでボケるところだった！）\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1ff30011000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "ゆっこ",
+      "text": "（この犬が来たということは少しのボケでも\n　ひどい目に遭うということ……）\n",
+      "ctrl_code": "fbff05ffc1ff44001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ゆっこ",
+      "text": "（タイミングを誤ると\n　とんでもない痛手を負うことに！）\n",
+      "ctrl_code": "fbffc1ff38001000ebfe0100adffffff64ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ゆっこ",
+      "text": "（いや、でもスラマッパギは挨拶だし、\n　最近は割と浸透してきたし……）\n",
+      "ctrl_code": "fbffedffc8ff5f0038001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "みお",
+      "text": "ゆっこ？　どしたの？\n",
+      "ctrl_code": "fdff7fff040002ff01ff0000960005003200fbfffa0000fffffe050006000700c1ff3f001000ebfe0100adffffff65ff09000200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ゆっこ",
+      "text": "（……いや、スラマッパギじゃダメだ）\n",
+      "ctrl_code": "fbffc1ff3c001000ebfe0100adffffff65ff0a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ゆっこ",
+      "text": "（あれはもはやただの挨拶。\n　ボケと言うにはレベルが低すぎる！）\n",
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff0b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお",
+      "text": "ゆっこ？　おーい、大丈夫ー？\n",
+      "ctrl_code": "fbff67ff1600e8fe0200c1ff3d001000ebfe000065ff0c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "ゆっこ",
+      "text": "みおちゃん！\n",
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "text": "えっ、な、なに？\n",
+      "ctrl_code": "fbffe8fe0200c1ff44001000ebfe000065ff0e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ゆっこ",
+      "text": "部屋の掃除をした！\n後はノミ退治のみ！\n",
+      "ctrl_code": "98ff0000effe000097fffbffc1ff63001000ebfe000065ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお",
+      "text": "……え？\n",
+      "ctrl_code": "fbffe8fe0200c1ff3c001000ebfe000065ff10000200"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ゆっこ",
+      "text": "カタツムリに、勝ったつもりか！\n",
+      "ctrl_code": "fbffc1ff65001000ebfe0000adffffff65ff11000300"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ff3d001000ebfe000065ff12000200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ゆっこ",
+      "text": "ネクタイが結べないのがネックたい！\nクレヨンを買ってくれよん！\n",
+      "ctrl_code": "98ff0000effe010097fffbffebfe0000adffffff65ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff44001000ebfe000065ff14000200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ゆっこ",
+      "text": "日本国旗は、二本こっきりー！！\n",
+      "ctrl_code": "fbffedffc8ff680044001000ebfe0000adffffff65ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ff41001000ebfe000065ff16000200"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ゆっこ",
+      "text": "！！！\n",
+      "ctrl_code": "fbffc1ff63001000ebfe0000adffffff65ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みお",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ffffff66ffc7000000c1ff5e001000ebfe000065ff18000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "text": "ん。そうだね。\n",
+      "ctrl_code": "fbff66ff7c000000e8fe0200c1ff3f001000ebfe000065ff19000200"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe0a0097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3f00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ゆっこ",
+      "text": "うわあああああああああ！！！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "みお",
+      "text": "あっ、ちょっとゆっこ！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ゆっこ",
+      "text": "うわあああああああああ！！！\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff3c001000ebfe0100adffffff65ff1d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ゆっこ",
+      "text": "（ダメ！　お笑いへの情熱が\n　私にボケろと言っている！）\n",
+      "ctrl_code": "98ff0000effe080097fffbff67ff1200eefe02000400c1ff45001000ebfe000065ff1e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ゆっこ",
+      "text": "みおちゃん、スラマッパギ！\n",
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff1f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みお",
+      "text": "うん、おはよう。\n",
+      "ctrl_code": "fbffc1ff40001000ebfe0000adffffff65ff20000200"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff3f001000ebfe0100adffffff65ff21000200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ゆっこ",
+      "text": "（大丈夫。今のはただの挨拶。\n　決してボケて滑ったわけじゃない）\n",
+      "ctrl_code": "fbffc1ff3e001000ebfe000065ff22000200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "ゆっこ",
+      "text": "今日、天気いいよねー。\n",
+      "ctrl_code": "fbffc1ff61001000ebfe000065ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお",
+      "text": "うん。こんな日はテンキーを\n買いに行きたくなるんだっけ？\n",
+      "ctrl_code": "fbffe8fe0200c1ff40001000ebfe000065ff24000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffedffc1ffffff1000e8fe0300c1ff41001000ebfe0100adffffff65ff25000200"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ゆっこ",
+      "text": "（まさかのボケ返し……！\n　しかも前に自分が言ったネタで！）\n",
+      "ctrl_code": "fbffedffc8ff61003f001000ebfe000065ff26000200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "ゆっこ",
+      "text": "……や、やだなぁ。\n同じネタはそうそう使わないって。\n",
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff27000300"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "みお",
+      "text": "あ、そう？　なんかまた\n同じこと言いそうな気がしたんだ。\n",
+      "ctrl_code": "fbffe8fe0400c1ff42001000ebfe0000adffffff65ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff3b001000ebfe0100adffffff65ff29000200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ゆっこ",
+      "text": "（読まれてた……）\n",
+      "ctrl_code": "fbffc1ff3b001000ebfe0100adffffff65ff2a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ゆっこ",
+      "text": "（どうしたのみおちゃん……\n　今日に限ってどうしてそう手厳しいの？）\n",
+      "ctrl_code": "fbff67ffffffc1ff30011000ebfe0000adffffff65ff2b000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbff67ff0d00edffc8ff5e0030011000ebfe000065ff2c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みお",
+      "text": "あっ、この犬……。\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff300141001000ebfe000065ff2d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "ゆっこ",
+      "text": "ひっ！？\n",
+      "ctrl_code": "98ff0000effe040097fffbffedffc1ffffff1000c1ff30011000ebfe0000adffffff65ff2e000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff7c000000daffbeff5c00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe0100adffffff65ff2f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "ゆっこ",
+      "text": "（ぐっはっはーー！？）\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff44001000ebfe0100adffffff65ff30000200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ゆっこ",
+      "text": "（いや、ここは少し慎重になろう）\n",
+      "ctrl_code": "98ff0000effe070097fffbffeefe16000400c1ff38001000ebfe000065ff31000200"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ゆっこ",
+      "text": "おはよう、みおちゃん。\n",
+      "ctrl_code": "fbffc1ff5f001000ebfe000065ff32000300"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みお",
+      "text": "あれ？\n今日はスラマッパギじゃないんだ？\n",
+      "ctrl_code": "fbffc1ff3e001000ebfe000065ff33000200"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "ゆっこ",
+      "text": "うん。何回も同じネタで笑いを取るのは\n私としても不本意だしさ。\n",
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff34000300"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みお",
+      "text": "へー。でもさ。\n",
+      "ctrl_code": "fbffc1ff45001000ebfe000065ff35000200"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "ゆっこ",
+      "text": "ん？\n",
+      "ctrl_code": "fbff67ffffffc1ff61001000ebfe000065ff36000300"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みお",
+      "text": "スラマッパギって挨拶でしょ？\n笑い取れるの？\n",
+      "ctrl_code": "98ff0000effe080097fffbffedffc1ffffff100066ff7c000000e8fe0200c1ff42001000ebfe000065ff37000200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "ゆっこ",
+      "text": "！？\n",
+      "ctrl_code": "fdffedfffcfffcff67ff1400c0ff030063001000ebfe000065ff38000300"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みお",
+      "text": "……ゆっこ？\n",
+      "ctrl_code": "fbffe8fe0400c0ff040042001000ebfe0000adffffff65ff39000200"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe000065ff3a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "text": "ちょっ！？　ゆっこ！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffc7000000ebfe0000adffffff65ff3b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "ゆっこ",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

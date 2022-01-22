@@ -1,0 +1,696 @@
+{
+  "UNK": "6c21",
+  "id": 16,
+  "total": 98,
+  "ptrs": 416,
+  "extra": 0,
+  "ctrl_code": "2000000034060000ec0b0000f00b0000cc110000e6110000741a0000ba220000fcffedfe00000000000004ff03ff0300c1ffffff1000bcfff901ff0067fffffffcfff9ff0800eefe0000050066ff14000000daffebfe000064ffffff1500",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]ただいまより臨時全校集会を始めます。\nまずは校長先生のお話からです。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "校長先生",
+      "text": "教頭先生、町内を[{0D8B}][{0D8A}]している野生動物に\n注意するよう言えばいいんですよね？\n",
+      "ctrl_code": "fbffedffc8ffb3005a011000c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "教頭先生",
+      "text": "ええ、手短にお願いします。\n手短に。\n",
+      "ctrl_code": "fbffc1ffaa001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "校長先生",
+      "text": "はっはっはっ、わかっていますよ。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "教頭先生",
+      "text": "（……と言っても、\n　絶対にまた長引くに決まっている）\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "教頭先生",
+      "text": "（しかし、それでいい……\n　長引けばまた今日も貧血でみんな、倒れる）\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "教頭先生",
+      "text": "（それが続けば、校長は責任を取ってクビに！\n　そうなれば私が、再び校長に！）\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ffae001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "校長先生",
+      "text": "……教頭先生……教頭先生。\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]え！？\nは、はい、何でしょう！？\n",
+      "ctrl_code": "fbffc1ffad001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "校長先生",
+      "text": "そろそろ始めていいですか？\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "教頭先生",
+      "text": "え、ええ、いつでもどうぞ。\nよろしくお願いします。\n",
+      "ctrl_code": "fbffc1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "校長先生",
+      "text": "それじゃ早速[{0D80}][{0D80}]\n",
+      "ctrl_code": "fdffedfffcff1aff0300000000fe00003c0016fffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8300ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "校長先生",
+      "text": "[{0D80}][{0D80}]おはようございます。\nいやもう、こんちには、でしょうか？\n",
+      "ctrl_code": "98ff0000effe000097fffbffebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "校長先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbffebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "校長先生",
+      "text": "おっと。こんにちはと言うところを\nこんちにはと言ってしまいました。\n",
+      "ctrl_code": "98ff0000effe010097fffbffebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "校長先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfffefe010001007fff0200f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffc7000000daffbeff8400ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c9ff46021000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "校長先生",
+      "text": "……おや？　どこからか紙が……\nこれはいったい？\n",
+      "ctrl_code": "fbffc9ffffff1000faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c8ff46024400ff0090ff440090ffffff67ff180071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff40001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ゆっこ",
+      "text": "ちょっ！？\nみおちゃん、あれってあんたの原稿じゃない！\n",
+      "ctrl_code": "fbffc0ff040065001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みお",
+      "text": "え？　ほんとだ！　どこに行ったと思ったら……\n早く取り戻さないと！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8400ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "校長先生",
+      "text": "これは……マンガかな？\nえーとなになに……前略、こちらくちびる[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff23000000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "みお",
+      "text": "しゃあっ！！\n",
+      "ctrl_code": "fbff66ff72000000e8fe0200ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "text": "うわああああああっ！？\n",
+      "ctrl_code": "fbffedfffcff66ff32000000c1ffffff1000b3ff0300f4ff0400daffb2fff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff8a000000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "校長先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c0ff0300d2011000ebfe000065ff00002400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF09}]",
+      "text": "あーっ！？\n",
+      "ctrl_code": "fbffc0ff0400bf011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF08}]",
+      "text": "うおお！？\nシステムが暴走を始めたぞ！\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffba011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF07}]",
+      "text": "は、早く止めろっ！\nじゃないと船が[{0D80}][{0D80}]！\n",
+      "ctrl_code": "fbffedffc8ffc601ba011000c1ffc6011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF08}]",
+      "text": "そ、そんなこと、言われても！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "text": "うあああああああああ！？\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff31000000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ff7c000000c0ff04000c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "桜井先生",
+      "text": "[{0D80}][{0D80}]ああっ！？　長野原さんが倒れて！\n",
+      "ctrl_code": "98ff0000effe060097fffdffedfffcfffcff67ff0f0066ff31000000daffedffc1ffffff1000e8fe0200c0ff03001a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "高崎先生",
+      "text": "安中もです！\n[{0D80}][{0D80}]うおっ！？　田中まで！\n",
+      "ctrl_code": "fdffedfffcfffcff66ff31000000daffedffc1ffffff1000c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "教頭先生",
+      "text": "大変なことになってきましたな。\n校長先生、話が長いですから……。\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "教頭先生",
+      "text": "（ふふふ、この調子だ！\n　このままいけば全員、倒れる！）\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffedffc8ff1a015c011000c1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "高崎先生",
+      "text": "教頭先生、校長先生を止めましょう！\nでないと危険です！\n",
+      "ctrl_code": "fbffe8fe0300c1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "教頭先生",
+      "text": "（バカ！　な、何を言っとるんだ！）\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "教頭先生",
+      "text": "で、ですが、野生動物の危険性を\nまだ生徒達に伝えていませんし……。\n",
+      "ctrl_code": "fbffc0ff03000e011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井先生",
+      "text": "でしたら、早くしてもらうよう伝えてください。\nそうじゃないと生徒達が……！\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "教頭先生",
+      "text": "わ、わかってますよ！\nちゃんと伝えますから！\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "教頭先生",
+      "text": "（さて、どうするか？\n　演説は長引かせなくてはならんし……）\n",
+      "ctrl_code": "fbff05fff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff31000000daffbeff0d01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "高崎先生",
+      "text": "うおっ！？　今度は中之条が倒れた！\n[{0D80}][{0D80}]あっちで立花も倒れてる！\n",
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井先生",
+      "text": "教頭先生、お願いします！\n早くしてください！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c1ff5a01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "教頭先生",
+      "text": "（ええい、こうなったら[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700e8fe020067ffffffc1ff5d011000ebfe000065ff05001500"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "教頭先生",
+      "text": "ぐうううううっ！？\n",
+      "ctrl_code": "fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff31000000daffbeff5b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800eefe0f000400ebfe000065ff06000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "高崎先生",
+      "text": "だ、大丈夫ですか！？\nだ、誰か！　教頭先生まで倒れられたぞ！\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff07001500"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "教頭先生",
+      "text": "（……ふふ、うまくいった。\n　これで校長の話は長引く[{0D80}][{0D80}]）\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffe8fe0200ebfe000065ff08000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "text": "保健室に運びましょう！　それから病院に！\n高崎先生、担架をお願いします！\n",
+      "ctrl_code": "fbffebfe000065ff09000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "高崎先生",
+      "text": "だったら俺、背負います！\n教頭先生、少しだけ我慢してください！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c1ff5a01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]え？\nいや、別にそこまでは……。\n",
+      "ctrl_code": "fbffe8fe0200c0ff04000e011000ebfe000065ff0b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井先生",
+      "text": "何を言ってるんですか！\n高崎先生、お願いします！\n",
+      "ctrl_code": "fbffe8fe0200c0ff030018011000ebfe000065ff0c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "高崎先生",
+      "text": "わかりました！　それじゃ行きますよ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edffc1ffffff1000ebfe000065ff0d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "教頭先生",
+      "text": "いや、その、待ってください。\n私は校長の最期を[{0D80}][{0D80}]！\n",
+      "ctrl_code": "98ff0000effe030097fffbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c0ff03000000ff0090ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff040044001000ebfe000065ff0e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ゆっこ",
+      "text": "……ねえねえ、なのちゃん。\n教頭先生まで倒れたんだって。\n",
+      "ctrl_code": "fbffc0ff03000f001000ebfe000065ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "text": "校長先生の話、長いですからね……と言うか、\n教頭先生も集会に出ていたんですか？\n",
+      "ctrl_code": "fbffc1ff38001000ebfe000065ff10000200"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ゆっこ",
+      "text": "うん、気付かなかったけどね。それにしても、\n先生たちまでなんて、すごい被害だよねー。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffcc001000ebfe000065ff11000700"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "麻衣",
+      "text": "……貧血でも、ここまで被害がでたら、\n責任を取らされても仕方ない。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff03000f001000ebfe000065ff12000000"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "なの",
+      "text": "うーん、もしそうなったら、\n次の校長先生には教頭先生がなるんですか？\n",
+      "ctrl_code": "fbffeefe1a000400c0ff040045001000ebfe000065ff13000200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ゆっこ",
+      "text": "ムリムリ、日陰にいたのに倒れたんだよ？\n校長先生なんて大役、体が持たないってー。\n",
+      "ctrl_code": "fbffc1ff0c001000ebfe000065ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "なの",
+      "text": "あ、確かにそうですよね。お歳だそうですし、\n無理させたらいけませんよねー。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ffca001000ebfe000065ff15000700"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "麻衣",
+      "text": "……残念でした。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff16000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "text": "残念？　何が？\n",
+      "ctrl_code": "fbffebfe000065ff17000700"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "麻衣",
+      "text": "……何でもない。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff5b011000ebfe000065ff18001500"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "教頭先生",
+      "text": "わ、わかりました！　すぐに伝えますから！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff00c1ff5b01ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800eefe10000400c1ff5b011000ebfe0100adffffff65ff19001500"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "教頭先生",
+      "text": "（だがしかし、どうすればいいんだ？）\n",
+      "ctrl_code": "fbffc1ff5a011000ebfe0100adffffff65ff1a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "教頭先生",
+      "text": "（話を終わらせるような感じで、\n　それでいて、話を長引かせる指示とは[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff1b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "教頭先生",
+      "text": "うう、考えろ……考えろ！\n",
+      "ctrl_code": "fbffc1ff5c011000ebfe0100adffffff65ff1c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "教頭先生",
+      "text": "（そう、私が校長になるため！\n　考えろ！　考えるんだ……！）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c1ff5d01ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0400c1ff5d011000ebfe000065ff1d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "教頭先生",
+      "text": "ぬぐっ……！\n",
+      "ctrl_code": "fbfff8ff0800bcfffd01ff00c1ffffffff00b5ff040066ffc5000000bcffa801ff00c1ff5a01ff00f9ff0800c1ff5a011000ebfe000065ff1e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "教頭先生",
+      "text": "う。\n",
+      "ctrl_code": "fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000f8ff0800daffb4ffbcfffd01ff00bcffa801ff00c1fffeffff00c0ff04000c01ff0090ffffff90ffffff67ff140071ff000063ffffffedfff9ff0800e8fe0200c1ff0c011000ebfe000065ff1f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井先生",
+      "text": "きゃーっ！？　教頭先生がー！！\n",
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0400ebfe000065ff20001500"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "教頭先生",
+      "text": "あ、頭が……\nす、すいませんが、ちょっと保健室に……。\n",
+      "ctrl_code": "fbffc0ff030018011000ebfe000065ff21000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "高崎先生",
+      "text": "教頭先生しっかりしてください！\nわかりました、すぐに保健室に[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff20011000ebfe000065ff22000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "高崎先生",
+      "text": "う。\n",
+      "ctrl_code": "fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000e8fe0200c1ff0c011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井先生",
+      "text": "うわわっ！？\nこ、今度は高崎先生が[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ff0f011000ebfe000065ff24000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "桜井先生",
+      "text": "あ。\n",
+      "ctrl_code": "fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000ebfe0000adffffff65ff25001500"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "教頭先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff5a000000daffbeff0d01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff26001500"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "教頭先生",
+      "text": "だ、誰か……早く……保健室……に……。\n",
+      "ctrl_code": "fbff66ff30000000faff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8400ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff27000500"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "校長先生",
+      "text": "えー……と言うわけで本日なのですが……\nおや、皆さん？\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8500ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800eefe02000400ebfe0000adffffff65ff28000500"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "校長先生",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffebfe000065ff29000500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "校長先生",
+      "text": "……全滅！？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff2a000500"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "校長先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2b000500"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "校長先生",
+      "text": "以上で話を終わります。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe14000400e8fe0200c1ff5b011000ebfe000065ff2c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "教頭先生",
+      "text": "申し訳ないですが……それはできません！\nできんのです！\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff1c015b011000c1ff1c011000ebfe000065ff2d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "高崎先生",
+      "text": "ええーーっ！？\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff14011000ebfe000065ff2e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "高崎先生",
+      "text": "な、なぜです！？　みんなが危ないんですよ！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff5a011000ebfe000065ff2f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "教頭先生",
+      "text": "しかし、校長先生の邪魔はできん！\n",
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ff5b011000ebfe000065ff30001500"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "教頭先生",
+      "text": "ど、どうしてもというのなら……\nそうだ、高崎先生、君がやりたまえっ！\n",
+      "ctrl_code": "fbff67ffffffc1ff19011000ebfe000065ff31000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "高崎先生",
+      "text": "あ、はい、わかりました。\n",
+      "ctrl_code": "98ff0000effe070097fffbff66ff7c000000c1ff5a011000ebfe000065ff32001500"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "教頭先生",
+      "text": "[{0D80}][{0D80}]え？\nそんな簡単に……。\n",
+      "ctrl_code": "fbffedffc1ffffff100067ff1400eefe1a000400ebfe000065ff33000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "高崎先生",
+      "text": "校長せんせーい、終わりでーす！\nタイムオーバーですからー！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8300ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800beff84001000ebfe000065ff34000500"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "校長先生",
+      "text": "え？　あ……そうなんですか。\nえーと、じゃあ……。\n",
+      "ctrl_code": "fbffbeff83001000ebfe000065ff35000500"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "校長先生",
+      "text": "校内に野生動物がうろついてます。\n皆さん、注意してください、以上。\n",
+      "ctrl_code": "98ff0000effe070097fffbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c1ff5d01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800eefe13000400c1ff5d011000ebfe000065ff36001500"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "教頭先生",
+      "text": "そ、そんな……せっかくのチャンスを……\nいとも簡単に……あっさりと……。\n",
+      "ctrl_code": "fbffedffc8ff5d0107011000c1ff07011000ebfe000065ff37000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "桜井先生",
+      "text": "教頭先生、これで臨時集会は終わりですか？\n",
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff38001500"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "教頭先生",
+      "text": "あ、ああ……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff39000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "高崎先生",
+      "text": "[{0D80}][{0D80}]以上で臨時集会を終わります。\nそして教頭先生[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffebfe000065ff3a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "高崎先生",
+      "text": "本日までありがとうございました。\n一同、礼[{0D80}][{0D80}]\n",
+      "ctrl_code": "98ff0000effe020097fffbffebfe0000adffffff65ff3b002d00"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "生徒たち",
+      "text": "ありがとうございました！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c1ff5a01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5a011000ebfe0000adffffff65ff3c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "教頭先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff3d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "教頭先生",
+      "text": "……ありがとうございました。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

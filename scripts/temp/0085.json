@@ -1,0 +1,689 @@
+{
+  "UNK": "b401",
+  "id": 16,
+  "total": 97,
+  "ptrs": 416,
+  "extra": 0,
+  "ctrl_code": "20000000e8020000f8050000fc050000fc090000160a0000dc1500003e1d0000fcffedfe0a000b000c0004ff03ff0300c1ffffff1000bcff8a01ff0067fffffffcfff9ff0800eefe0000050066ff13000000daffc1ff07011000ebfe000064ffffff0b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井先生",
+      "text": "それでは小テストを始めます。\nどうぞっ。\n",
+      "ctrl_code": "fbffc1ff00001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "なの",
+      "text": "（よーし、頑張るぞー）\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff2e001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "text": "ん〜〜？\n",
+      "ctrl_code": "fbff66ff02000000c1ff2f001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "はかせ",
+      "text": "テレビでもエアコンでもないし……\nこのボタン、何のボタンだったっけ？\n",
+      "ctrl_code": "fbffc1ff34001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "text": "ん〜〜〜〜？？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "text": "（あれ？　この問題は……\n　昨日勉強したはずなんだけど……）\n",
+      "ctrl_code": "fbffedfffcff66ff90000000daffebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "なの",
+      "text": "ん？\n",
+      "ctrl_code": "fbfffefe000001007fff0200edfffcff66ff15000000daffc1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8ff300107011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井先生",
+      "text": "あれ？\nどうして、ワンちゃんがこんなところに？\n",
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井先生",
+      "text": "ダメですよー。\nおうちに帰りなさ〜い。\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c0ff0300dc011000ebfe000065ff00002500"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "[{FF0A}]",
+      "text": "いいなー、この人。\n",
+      "ctrl_code": "fbffc0ff040004021000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF0C}]",
+      "text": "ああ、こういう優しそうな人は、\n体罰とか絶対しないよなー。\n",
+      "ctrl_code": "fbffc1ffdc011000ebfe000065ff02002500"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF0A}]",
+      "text": "ははは、幻想抱きすぎだろ？\nでも、その通りだろうなー。\n",
+      "ctrl_code": "fbff66ff0b00000067ffffffe8fe0200edffc8ffdb0105021000adfffeffebfe000065ff03002500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0A}]＆[{FF0C}]",
+      "text": "！？\n",
+      "ctrl_code": "fbff67ff110066ff39000000c1ffdd011000ebfe000065ff04002500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0A}]",
+      "text": "何でアンテナが！？\nあ！　頭をなでられてる！？\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff05002500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0A}]＆[{FF0C}]",
+      "text": "優しさが、まさかの体罰化ーーー！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff8e000000daffbeff0100ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "なの",
+      "text": "！？\n",
+      "ctrl_code": "98ff0000effe030097fffbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "なの",
+      "text": "（な、なんで腕からロールケーキが！？\n　どうしてこのタイミングで！？）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "なの",
+      "text": "（と言うか、またロールケーキが入ってる！\n　いつの間に補充を！？）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "なの",
+      "text": "（と、とにかく、\n　見られる前にしまわないと！）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "なの",
+      "text": "（ふぅ……これで良し）\n",
+      "ctrl_code": "fbff67ffffff66ff7b000000c1ff0c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "桜井先生",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffe8fe030066ff7c000000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "なの",
+      "text": "（良くなかった！！）\n",
+      "ctrl_code": "98ff0000effe010097fffbff67ff0f00ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "なの",
+      "text": "（ま、まさか、今のを先生に見られて……）\n",
+      "ctrl_code": "fbff05ffedffc8ff0c0100011000c1ff00011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "なの",
+      "text": "（ぎゃああああ！！）\n",
+      "ctrl_code": "98ff0000effe030097fffbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "なの",
+      "text": "（まだいた！\n　見てしまった人が、まだいたー！！）\n",
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "なの",
+      "text": "（どうしよう！　どうすれば？\n　これはテストより難題では……！）\n",
+      "ctrl_code": "fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fffa001000ebfe0100adffffff65ff06000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条",
+      "text": "（と、とんでもない物をみてしまった！）\n",
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff65ff07000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "中之条",
+      "text": "（僕の目の錯覚だろうか？\n　でも、さっきは確かに……）\n",
+      "ctrl_code": "fbffc1ff02001000ebfe0100adffffff65ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "text": "（どうすれば……どうすれば……）\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0400fa001000ebfe0100adffffff65ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "中之条",
+      "text": "（………………）\n",
+      "ctrl_code": "fbff67ff1600c1fffb001000ebfe000065ff0a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条",
+      "text": "先生！！\n",
+      "ctrl_code": "98ff0000effe060097fffbffc0ff03000b011000ebfe000065ff0b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井先生",
+      "text": "はっ、はい！！\nどうしましたか、中之条くん。\n",
+      "ctrl_code": "fbffc1fffa001000ebfe000065ff0c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条",
+      "text": "見てしまったんです！\n東雲さんの[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff06001000ebfe000065ff0d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "なの",
+      "text": "！？\n",
+      "ctrl_code": "fbffe8fe0300c1ff02001000ebfe0100adffffff65ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "なの",
+      "text": "（ど……どうしよー！\n　わたしがロボットだってバレちゃう！）\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff03000b011000ebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井先生",
+      "text": "それは……本当ですか？\n",
+      "ctrl_code": "fbffc0ff0400fb001000ebfe000065ff10000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条",
+      "text": "はい、見てしまったんです。\n東雲さんの[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff02001000ebfe0100adffffff65ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "text": "（ああああっ、もう終わりだー！）\n",
+      "ctrl_code": "fbffe8fe0200c0ff0400fb001000ebfe000065ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条",
+      "text": "[{0D80}][{0D80}]テストを！\n",
+      "ctrl_code": "fbffeefe03000400c0ff030006001000ebfe000065ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "なの",
+      "text": "って、テスト？\n",
+      "ctrl_code": "fbffc0ff0400fd001000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "中之条",
+      "text": "はい、見たのはテストです。\n……カンニングです。\n",
+      "ctrl_code": "fbffc0ff030005001000ebfe000065ff15000000"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "なの",
+      "text": "そんな！\n先生、中之条くんが見たのは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030007011000ebfe000065ff16000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "text": "……わかりました。\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff17000000"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "なの",
+      "text": "（……！？　もしかしたら二人は、\n　見なかったことにしてくれようと？）\n",
+      "ctrl_code": "98ff0000effe070097fffbffc0ff03000d011000ebfe000065ff18000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "text": "でも、中之条くん。今はテスト中ですから、\nえっと……先生と廊下でお話ししましょう。\n",
+      "ctrl_code": "fbffc0ff0400f6001000ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中之条",
+      "text": "はい。\n",
+      "ctrl_code": "fbffc1fff8001000ebfe0100adffffff65ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "text": "（[{0D80}][{0D80}]うん、これでよかったんだ）\n",
+      "ctrl_code": "fbffc1ff09011000ebfe0100adffffff65ff1b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "text": "（これでよかったんですよね[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff7900000019ffffffff00ff0080000a0016ffffff19ffffffff00ff00ff000a0016ffffffb3ff0300e8fe0200ebfe000065ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条",
+      "text": "んぎゃああああああ！？\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "桜井先生",
+      "text": "きゃーーーーーーー！？\n",
+      "ctrl_code": "98ff0000effe030097fffbfff3ffb2ff66ff30000000faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ffc2001000ebfe000065ff1e000600"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中村先生",
+      "text": "東雲なのが出てくると思ったら、\nまさか、こんなことになるとは[{0D80}][{0D80}]。\n",
+      "ctrl_code": "fbffc1ffc9001000ebfe0000adffffff65ff1f000600"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中村先生",
+      "text": "………………。\n",
+      "ctrl_code": "fbffedfffcff66ff1e000000c1ffffff1000daffebfe000065ff20000600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中村先生",
+      "text": "逃げろっ！\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff0400fe001000ebfe000065ff21000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "text": "ここは？\n僕は一体なにを……。\n",
+      "ctrl_code": "fbffc0ff03000c011000ebfe000065ff22000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井先生",
+      "text": "えっと、私は何を……。\n",
+      "ctrl_code": "fbffc0ff03000e011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井先生",
+      "text": "あっ、中之条くんどうしたんですか？\nテスト始まってますよ。\n",
+      "ctrl_code": "fbffc1ffff001000ebfe000065ff24000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条",
+      "text": "はい、すみません！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff00001000ebfe0000adffffff65ff25000000"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff26000000"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "なの",
+      "text": "テスト、受けようっと。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe0100adffffff65ff27000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "text": "（あ、そうだ、テスト！\n　小テストだから急がないと時間が[{0D80}][{0D80}]）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff28000000"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "なの",
+      "text": "（でも、二人の視線が気になって、\n　テストなんて受けられません！！）\n",
+      "ctrl_code": "fbff67ffffffebfe0100adffffff65ff29000000"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "なの",
+      "text": "（ああ……どうすれば……）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff2a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "text": "（あっ、そうだ）\n",
+      "ctrl_code": "fbffedffc1ffffff100067ff1200e8fe0200c0ff040000001000ebfe000065ff2b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "なの",
+      "text": "桜井先生、ちょっと質問があります！\n",
+      "ctrl_code": "98ff0000effe080097fffbffc0ff03000b011000ebfe000065ff2c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井先生",
+      "text": "はっ、はいっ！\n",
+      "ctrl_code": "fbffc1ff0a001000ebfe000065ff2d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "なの",
+      "text": "えっとですね……。\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff2e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "なの",
+      "text": "先生、ロールケーキは好きですか？\n",
+      "ctrl_code": "fbffeefe03000400c1ff11011000ebfe000065ff2f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "桜井先生",
+      "text": "！？\nす、好きですけど……。\n",
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff30000000"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "なの",
+      "text": "良かった！\nなら後で、中之条くんも呼んで食べませんか？\n",
+      "ctrl_code": "fbffc1ff0c011000ebfe000065ff31000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井先生",
+      "text": "え、えっと……\nそれはつまり……。\n",
+      "ctrl_code": "fbffc1ff11001000ebfe000065ff32000000"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "なの",
+      "text": "何も見ていませんよね？\n見ていませんよね！\n",
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff33000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "桜井先生",
+      "text": "……はい。\n",
+      "ctrl_code": "fbffc1ff0e001000ebfe000065ff34000000"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "なの",
+      "text": "ありがとうございます。\nテスト頑張ります。\n",
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff35000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "桜井先生",
+      "text": "……頑張ってください。\n",
+      "ctrl_code": "fbffc1ff0a001000ebfe0000adffffff65ff36000000"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "なの",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff37000000"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "なの",
+      "text": "（秘密を守る為とは言え、\n　賄賂を渡すことになるなんて……）\n",
+      "ctrl_code": "fbffebfe0100adffffff65ff38000000"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "なの",
+      "text": "（ごめんなさい、はかせ……\n　私は悪い子です……）\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff39000100"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "はかせ",
+      "text": "あれ〜？　ロールケーキどこに置いたっけ？\n阪本知ってる〜？\n",
+      "ctrl_code": "fbffebfe000065ff3a000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "阪本さん",
+      "text": "それなら、またおまえが悪さをして、\n娘の腕の中にしまってただろ？\n",
+      "ctrl_code": "fbffebfe000065ff3b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "はかせ",
+      "text": "あれれ、そうだったっけ〜？\nあははははは〜！\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800edffc1ffffff1000ebfe000065ff3c002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "ナレーターお姉さん",
+      "text": "その後、事情が判明して、\nお説教の時間が準備されたと言います。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff00c1ff0500ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff05001000ebfe0100adffffff65ff3d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "なの",
+      "text": "（あ、でも下手に騒ぐと\n　みんなに広がる気がする……）\n",
+      "ctrl_code": "fbff67ff1200c1ff00001000ebfe0100adffffff65ff3e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "なの",
+      "text": "（もうロールケーキはしまったんだから\n　普通にしてればいいんだ）\n",
+      "ctrl_code": "fbffc1ff0f001000ebfe0100adffffff65ff3f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "なの",
+      "text": "（だって腕からロールケーキが\n　出てくるなんて誰も信じないし！）\n",
+      "ctrl_code": "fbffc1ff00001000ebfe0100adffffff65ff40000000"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "なの",
+      "text": "（そうとわかればテストの続きをしようっと）\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff030011011000ebfe000065ff41000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "桜井先生",
+      "text": "あ、あ、あの、東雲さん……。\n",
+      "ctrl_code": "fbffc0ff040004001000ebfe000065ff42000000"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "なの",
+      "text": "はい？　なんでしょうか。\n",
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff43000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "桜井先生",
+      "text": "あの、その……ロールケーキは腕の中じゃ\nなくて、ちゃんとした入れ物に……。\n",
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff44000000"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "なの",
+      "text": "またまた〜。腕にロールケーキが\n入るわけないじゃないですか。\n",
+      "ctrl_code": "fbffeefe0d000400c1ff0b011000ebfe000065ff45000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "桜井先生",
+      "text": "ええ？　あ、でも、あの……。\n",
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff46000000"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "なの",
+      "text": "それじゃあまるで私が\nロボットみたいじゃないですか〜。\n",
+      "ctrl_code": "fbff67ffffffc1ff0c011000ebfe0000adffffff65ff47000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "桜井先生",
+      "text": "……………………。\n",
+      "ctrl_code": "98ff0000effe020097fffbffc1ff08001000ebfe000065ff48000000"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "なの",
+      "text": "……あれ？\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffffadffffff65ff49002d00"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "生徒たち",
+      "text": "……………………。\n",
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff501ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff4a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "なの",
+      "text": "あれれれれれれ〜っ？\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "UNK": "1e0a",
+  "id": 16,
+  "total": 79,
+  "ptrs": 336,
+  "extra": 0,
+  "ctrl_code": "200000005c0500009207000096070000e80a0000020b0000cc0f000090160000fcffedfe03000400070004ff03ff0300c1ffffff1000bcffab01ff0067ff0900fcfff9ff0800eefe00000500c1ff81001000ebfe000064ffffff0400",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みさと",
+      "text": "さてと、授業も終わったし、\n部活に行かないとね〜。\n",
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みさと",
+      "text": "ん？　あ、あれは……。\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みさと",
+      "text": "ウェボシーが言ってたモヒカン……\nなんで花壇の花に水をあげてるの？\n",
+      "ctrl_code": "fbffc1ff81001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みさと",
+      "text": "あ、そうか。前にフェっちゃんが\n花壇の花に水あげてるって言ってたっけ。\n",
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みさと",
+      "text": "冗談かと思ったけど……ホントだったんだ。\nあんな髪形してるのに……。\n",
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みさと",
+      "text": "もしかして不良じゃないとか？\nでもあの髪形だしねぇ……。\n",
+      "ctrl_code": "fbffc1ff81001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みさと",
+      "text": "まあ、ウェボシーの友達としては\nあいつが不良じゃない方がうれしいけど。\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条",
+      "text": "〜〜〜♪\n……あれ、こんなところにてんとう虫……。\n",
+      "ctrl_code": "fbffebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みさと",
+      "text": "あ！　虫を捕まえた！\n",
+      "ctrl_code": "fbffebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みさと",
+      "text": "花に害虫は付き物……\nどうするの？　殺しちゃうの？\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条",
+      "text": "花に水をあげるからちょっとどいててね。\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中之条",
+      "text": "……はい。これでよし。邪魔してごめんね。\n花に戻してあげるよ。\n",
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みさと",
+      "text": "（キャッチ　アンド　リリーーース！？）\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff81001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "みさと",
+      "text": "な、なんて良い人っぽいのよ……モヒカン……\nこんな陸上で魅せてくれるじゃない……。\n",
+      "ctrl_code": "fbffc1ff86001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "みさと",
+      "text": "これは疑い様もないわね。\nアイツ……かなりいい人だわ。\n",
+      "ctrl_code": "fbfffefe000001007fff0200c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffedffc8fff60030011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "中之条",
+      "text": "ん？\n……迷子かな？\n",
+      "ctrl_code": "fdffedfffcff1aff04000000f0ff00000a0016ffffffc1ff30011000ebfe0000adff050064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条",
+      "text": "うわ、人なつっこい犬だなあ。\n",
+      "ctrl_code": "fbffebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みさと",
+      "text": "なっ！　笑顔で犬の頭を！\nこれは間違いなく良い人ーーっ！！\n",
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "text": "なっ！　笑顔でアンテナを！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF08}]",
+      "text": "間違いなく悪い人だーー！！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030067ff1000e8fe0200c1ff84001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "みさと",
+      "text": "で、でも、優しさだったら\n笹原だって負けてないんだから！\n",
+      "ctrl_code": "fbffc1ff89001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "みさと",
+      "text": "……はっ！？\n今、私、何言ったの！？\n",
+      "ctrl_code": "fbffe8fe0200c1ff8a001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みさと",
+      "text": "大声で独り言なんて、\nめちゃ恥ずいじゃない！\n",
+      "ctrl_code": "fbffc1ff88001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みさと",
+      "text": "……じゃなくて、誰が、誰と、\n何を比べてどうだって言うのよ！\n",
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みさと",
+      "text": "そりゃ笹原だったら害虫だってキャッチアンド\nリリースなんて中途半端なことしないわよ。\n",
+      "ctrl_code": "fbffe8fe0200c1ff85001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みさと",
+      "text": "責任もってビニールハウスで自家栽培よ！\n",
+      "ctrl_code": "fbffe8fe0200c1ff86001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みさと",
+      "text": "夫婦で家庭菜園よ！\n",
+      "ctrl_code": "fbffc1ff84001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みさと",
+      "text": "……じゃなくて！\n",
+      "ctrl_code": "fbff05ffe8fe0200c1ff8a001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "みさと",
+      "text": "なんで私がこんなに笹原のことばっかり\n考えなきゃいけないのよっ！\n",
+      "ctrl_code": "fbff67ff0c00ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "笹原",
+      "text": "……私がどうかしたか。\n立花みさとよ。\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff8400e0001000c1ff84001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "みさと",
+      "text": "！？\n",
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700edfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffedffc1ffffff1000bcfffe011000f6ff0800eefe02000400ebfe0000adffffff65ff02000800"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2f00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800e8fe0200ebfe000065ff03000400"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "みさと",
+      "text": "き、急に声かけないでよね！\nビックリするじゃない！！\n",
+      "ctrl_code": "fbffebfe000065ff04000800"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "笹原",
+      "text": "ああ……そうか。それは失敬。\n以後気をつけよう。\n",
+      "ctrl_code": "fbff67ffffffe8fe0400ebfe000065ff05000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条",
+      "text": "あわ……あわわ……。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff00c8ff8000e600ff0090ffe60090ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800c1ff80001000ebfe000065ff06000400"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みさと",
+      "text": "？\n",
+      "ctrl_code": "fbffc1ffe0001000ebfe000065ff07000800"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "笹原",
+      "text": "？\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff00011000ebfe000065ff08000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条",
+      "text": "そ、そんな馬鹿な！\nニッポンの学校で銃撃事件なんて！！\n",
+      "ctrl_code": "fbffc1fffd001000ebfe000065ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条",
+      "text": "そんな嘘みたいなこと、\nあるはずがないんだ！！\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c1ffffff1000daffedffc8ff8600e0001000ebfe000065ff0a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みさと",
+      "text": "待って！！　笹原だから銃撃じゃないの！\nちょ、ちょっと逃げないで！　説明を！\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffc0ff0400e0001000ebfe0000adffffff65ff0b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff0c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "笹原",
+      "text": "むう、私だからと言うのはさておき、\nそもそも校内で銃撃とは、いかがだろうか。\n",
+      "ctrl_code": "fbffe8fe020065ff0d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みさと",
+      "text": "あんたは黙ってて！\n",
+      "ctrl_code": "fbfff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff57000000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800daffebfe000065ff0e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "笹原",
+      "text": "なるほど、砲撃であったか。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff84001000ebfe000065ff0f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みさと",
+      "text": "ちょ……笹原、あんたいつからそこに……？\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff10000800"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "笹原",
+      "text": "？　いつからと言われても。\nここに来てからだが。\n",
+      "ctrl_code": "fbffeefe02000400e8fe0200c1ff8c001000ebfe000065ff11000400"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みさと",
+      "text": "正直に答えなさい！\n今の、聞いたの？　聞いてないの！？\n",
+      "ctrl_code": "fbffc1ffe9001000ebfe000065ff12000800"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "笹原",
+      "text": "はて、何のことだ。\n立花みさとよ、わけがわからんぞ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2f00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff13000400"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "みさと",
+      "text": "だから！　わ、私が今言ってた独り言を、\n聞いたのかって聞いてるのよ！！\n",
+      "ctrl_code": "fbffebfe000065ff14000800"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "笹原",
+      "text": "独り言？　ああ、そう言えば\nなにやらぶつぶつ言っていたな。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff00c8ff8400e600ff0090ffe60090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff84001000ebfe000065ff15000400"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みさと",
+      "text": "や、やっぱり聞いたのね！\n",
+      "ctrl_code": "fbffe8fe0200c1ff8a001000ebfe000065ff16000400"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みさと",
+      "text": "私が笹原と家庭菜園で仲良く汗する\n未来計画を聞いたのねっ！？\n",
+      "ctrl_code": "fbff67ffffffc1ffe0001000ebfe000065ff17000800"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "笹原",
+      "text": "いやいや、\nそんな話は出てこなかったはずだが。\n",
+      "ctrl_code": "fbff66ff7b000000c1ff84001000ebfe000065ff18000400"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みさと",
+      "text": "…………えっ？\n",
+      "ctrl_code": "fbff67ff1200c1ffe7001000ebfe000065ff19000800"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "笹原",
+      "text": "しかし……ふむ、立花みさとは\n家庭菜園を営むのが夢なのだな。\n",
+      "ctrl_code": "fbffc1ff89001000ebfe000065ff1a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みさと",
+      "text": "！！\n",
+      "ctrl_code": "fbffc1ff8a001000ebfe000065ff1b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "みさと",
+      "text": "そそそ、そんなわけ[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffc1ffe0001000ebfe000065ff1c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "笹原",
+      "text": "近代化の進む中、こんなに身近な者が\n家庭菜園を夢見ていたとは感動した。\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ffe1001000ebfe000065ff1d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "笹原",
+      "text": "是非私にも\nその夢の一端を担がせてくれ。\n",
+      "ctrl_code": "98ff0000effe090097fffbffc1ff84001000ebfe000065ff1e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "みさと",
+      "text": "…………！！\n",
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2fff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3000ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800f6ff0800eefe02000400e8fe0200ebfe000065ff1f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みさと",
+      "text": "…………！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff20000400"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "みさと",
+      "text": "……………………………………うん。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff84001000ebfe0100adffffff65ff21000400"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みさと",
+      "text": "（聞かれた？　聞かれたわよね！？）\n",
+      "ctrl_code": "fbffc1ff8a001000ebfe0100adffffff65ff22000400"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みさと",
+      "text": "（さっきの問題発言、\n　もろ聞かれちゃったわよね！？）\n",
+      "ctrl_code": "fbffc1ff89001000ebfe0100adffffff65ff23000400"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みさと",
+      "text": "（どうしよう……言い訳しようとしても、\n　かえって泥沼な気がするし……）\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff24000800"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "笹原",
+      "text": "？　どうした、立花みさとよ。\n何を黙っている。\n",
+      "ctrl_code": "fbffc1ff85001000ebfe0100adffffff65ff25000400"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みさと",
+      "text": "（ここは……もう……\n　あえて無視するしか……！）\n",
+      "ctrl_code": "fbffc1ffe9001000ebfe000065ff26000800"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "笹原",
+      "text": "？\n",
+      "ctrl_code": "fbffc1ff80001000ebfe0000adffffff65ff27000400"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "みさと",
+      "text": "…………。\n",
+      "ctrl_code": "fdffedfffcff66ff1c0000001aff03000000000200001e0016ffffffc1ffe0001000ebfe000065ff28000800"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "笹原",
+      "text": "はて、どうしたのだ。\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff29000800"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "笹原",
+      "text": "まあ良い。では帰るとするか。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff9000ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff080066ff43000000ebfe0000adffffff65ff2a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff2b002c00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "執事",
+      "text": "…………。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb101ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ffa0001000ebfe0000adffffff65ff2c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "みさと",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe060097fffbffebfe0000adffffff65ff2d003100"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "通行人男性",
+      "text": "うわっ、何だあれ！？　ほら見ろよ。\n鹿と執事と……大砲？\n",
+      "ctrl_code": "fbffebfe0000adffffff65ff2e002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "通行人女性",
+      "text": "しっ、やめなさいよ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8700ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff2f000800"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "笹原",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

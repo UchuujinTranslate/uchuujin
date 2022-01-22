@@ -1,0 +1,542 @@
+{
+  "UNK": "ce1b",
+  "id": 16,
+  "total": 76,
+  "ptrs": 320,
+  "extra": 0,
+  "ctrl_code": "200000006c0200007e060000820600008e0a0000a80a0000ce10000068150000fcffedfe00000000000004ff03ff0300c1ffffff1000bcfff901ff0067ff0600fcfff9ff0800eefe0000050066ffa7000000ebfe000064ffffff1100",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井誠",
+      "text": "よっ、はっ……おっと。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井誠",
+      "text": "うーん、やっぱりヒールが弱点かな。\n",
+      "ctrl_code": "fbffe8fe0200c1ff49011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "桜井誠",
+      "text": "ダメダメ、これくらいは出来ないと\n高校レベルじゃ通じないぞ。もう一回！\n",
+      "ctrl_code": "fbffedffc1ffffff100066ffa7000000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井誠",
+      "text": "よっ……はっ、やっ、とうっ！\n",
+      "ctrl_code": "fbffc0ff0400eb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "大工",
+      "text": "お、桜井くん。\n相変わらず練習熱心だなぁ。\n",
+      "ctrl_code": "fbffc0ff030044011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井誠",
+      "text": "あ、部長。こんにちは。\n部長も一緒にやりませんか？\n",
+      "ctrl_code": "fbfffefe010001007fff0200c0ff0400f1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "大工",
+      "text": "そうだな……よし！\nちょっとボール貸してくれるか？\n",
+      "ctrl_code": "fbffc0ff03004a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井誠",
+      "text": "はいっ！\nそれじゃ、リフティングから……。\n",
+      "ctrl_code": "fbffc0ff0400f2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "大工",
+      "text": "いや、ちょっと見ててくれ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000afff03000300c1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "大工",
+      "text": "[{0D80}][{0D80}]実は昨日、囲碁サッカーが\nどんな競技か考えてみたんだ。\n",
+      "ctrl_code": "fbffebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井誠",
+      "text": "え、あの、オレに聞いてくれれば。\n",
+      "ctrl_code": "fbffe8fe0200afff03000000c1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "大工",
+      "text": "そう、そして考え出したこれが[{0D80}][{0D80}]\n必殺！　囲碁シューーーート！！\n",
+      "ctrl_code": "fdffedfffcffedffc1ffffff1000fcff66ffa6000000daff66ff6e000000e8fe0200ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井誠",
+      "text": "！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c1ffad00ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ffae001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "校長先生",
+      "text": "！？\n",
+      "ctrl_code": "fdffedfffcfffcff66ffa8000000daff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000edfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c0ff0300b4011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF07}]",
+      "text": "囲碁、何も関係ねえーっ！！\n",
+      "ctrl_code": "fbffe8fe0200c0ff0400c6011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF08}]",
+      "text": "つっこんでる場合じゃねえー！\n",
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "text": "そして、どうにもならねえー！！\n",
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c0ff0400eb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "大工",
+      "text": "いや、オレは遠慮しとくよ。\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "桜井誠",
+      "text": "……そうですか。\nあ、今日の部活って何するんですか？\n",
+      "ctrl_code": "fbffc1ffef001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "大工",
+      "text": "それがまだ決めてないんだよな。\n",
+      "ctrl_code": "fbffc1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "大工",
+      "text": "久しぶりにトランプやるか、\nそれとも三人でだるまさんがころんだか……。\n",
+      "ctrl_code": "fbffc1ff46011000ebfe0000adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff00c1ff4b01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff4b011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井誠",
+      "text": "（部長らしいと言えばらしいけど……\n　囲碁サッカー、まったくやる気がないよ）\n",
+      "ctrl_code": "fbff05ffc1ff44011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井誠",
+      "text": "（まあ、ずっと囲碁サッカーのこと\n　知らなかったらしいし、しかたないのかな）\n",
+      "ctrl_code": "fbffc1ff49011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井誠",
+      "text": "（……でも、少しくらい興味もって欲しいよな。\n　個人戦もいいけど、団体戦も出たいし）\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe0100adffffff64ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "桜井誠",
+      "text": "（……よし、今がチャンスだと思って\n　部長の興味を引いてみよう！）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff00c8ff4501f100ff0090fff10090ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "桜井誠",
+      "text": "あの、部長！\n",
+      "ctrl_code": "98ff0000effe080097fffdff7fff040002ff01ff05003200fbfffa000000960000fffffe05000600070067ff1700eefe19000400e8fe0200c1ff44011000ebfe000065ff03001100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井誠",
+      "text": "オレと勝負しませんか！？\n",
+      "ctrl_code": "98ff0000effe070097fffbffc1fff5001000ebfe000065ff04000900"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "大工",
+      "text": "勝負だって！？\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff05001100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井誠",
+      "text": "はいっ、もしオレが勝ったら\n囲碁サッカーを一緒にやって欲しいんです！\n",
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff06001100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "桜井誠",
+      "text": "お願いします、部長！！\n",
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff07000900"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "大工",
+      "text": "……わかった、勝負に負けたら\n本気で囲碁サッカーをやるよ！\n",
+      "ctrl_code": "fbffe8fe0200c1ff4a011000ebfe000065ff08001100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "桜井誠",
+      "text": "ホントですか！？\n",
+      "ctrl_code": "98ff0000effe080097fffbffc1ffec001000ebfe000065ff09000900"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "大工",
+      "text": "男に二言は無い！\n",
+      "ctrl_code": "98ff0000effe090097fffbffc1ffeb001000ebfe000065ff0a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "大工",
+      "text": "ただ、そんな大事なことを\n一発勝負で決めるのはどうかと思うんだ。\n",
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffc1ff46011000ebfe000065ff0b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井誠",
+      "text": "……なるほど、言いたいことはわかります。\n",
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff0c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "大工",
+      "text": "だからこうしよう！\n",
+      "ctrl_code": "fbffe8fe0200c1ffeb001000ebfe000065ff0d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "大工",
+      "text": "部活のたびに何かのゲームで勝負だ！\nそして５０本先取した方の勝利だ！\n",
+      "ctrl_code": "fbffeefe03000400e8fe0200c1ff49011000ebfe000065ff0e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "桜井誠",
+      "text": "わかりました、受けて立ちます！！\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ffeb001000ebfe000065ff0f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "大工",
+      "text": "よーし、早速今日から楽しみにしてるぜ！\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff10001100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "桜井誠",
+      "text": "オレのほうこそ、負けませんからね！\n",
+      "ctrl_code": "fdffedfffcfffcfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff44011000ebfe000065ff11001100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "桜井誠",
+      "text": "……よーっし！\nこれで勝負に勝てば部長も……。\n",
+      "ctrl_code": "fbffc1ff47011000ebfe000065ff12001100"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井誠",
+      "text": "あれ？　部活のたびに勝負して、\n５０本先取ってことは……？\n",
+      "ctrl_code": "fbffe8fe0200c1ff4c011000ebfe000065ff13001100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井誠",
+      "text": "最短でも５０日後！？\n",
+      "ctrl_code": "98ff0000effe020097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff4200ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14001100"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井誠",
+      "text": "部長っ、ちょっと待ってください！\nぶちょーーー！！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff44011000ebfe000065ff15001100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井誠",
+      "text": "あの、時々でいいから\n部活で囲碁サッカーの練習をしませんか？\n",
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff16000900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "大工",
+      "text": "ん？\nでも、他にも面白い遊びがあるから……。\n",
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff45011000ebfe000065ff17001100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井誠",
+      "text": "せっかく囲碁サッカー部なんですよ？\nちょっとくらいいいじゃないですか。\n",
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff18000900"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "大工",
+      "text": "うーん……まあ、それもそうだな！\n",
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff19000900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "大工",
+      "text": "実在するスポーツだったんだし、\nちょっとくらいはやってみてもいいか。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff1a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井誠",
+      "text": "本当ですか！？　よーっし！\n",
+      "ctrl_code": "fbffc1fff5001000ebfe000065ff1b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "大工",
+      "text": "いや、でもちょっとだからな？\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff1c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井誠",
+      "text": "わかってますよ！\nまずは朝練からですね！\n",
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200c1fff0001000ebfe000065ff1d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "大工",
+      "text": "朝練！？\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff1e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "桜井誠",
+      "text": "はいっ、勝利のためには必須ですから！\n５時ぐらいからにしましょうか！\n",
+      "ctrl_code": "98ff0000effe090097fffbffc1ffef001000ebfe000065ff1f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "大工",
+      "text": "いや、だからちょっとだけだって……。\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff20001100"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井誠",
+      "text": "わかってますって。\nちゃんと夜の９時には終わらせますから。\n",
+      "ctrl_code": "fbffeefe03000400c1ff4a011000ebfe000065ff21001100"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井誠",
+      "text": "よーし、楽しくなってきたぞー！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22000900"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "大工",
+      "text": "……さすが、中学ＭＶＰ。\n",
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1ff44011000ebfe0100adffffff65ff23001100"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井誠",
+      "text": "（押してだめなら引いてみろ。\n　囲碁サッカーの話題を出さずに話すぞ！）\n",
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffc1ff4a011000ebfe000065ff24001100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井誠",
+      "text": "今日の部活、七ならべでもやりません？\n",
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff25000900"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "大工",
+      "text": "あれ？　囲碁サッカーはいいのか？\n",
+      "ctrl_code": "fbffc1ff49011000ebfe0100adffffff65ff26001100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "桜井誠",
+      "text": "（きたっ、でもまだ早いかな）\n",
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff27001100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "桜井誠",
+      "text": "別に今日すぐやらなくてもいいですよ。\n",
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff28000900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "大工",
+      "text": "ふーん、じゃあ今日は七並べで決定だな！\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff29001100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井誠",
+      "text": "負けませんよー。\n",
+      "ctrl_code": "fbffe8fe0200c1fff1001000ebfe000065ff2a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "大工",
+      "text": "オレこそ負けないからな！\n",
+      "ctrl_code": "fbffe8fe0200c1ff45011000ebfe000065ff2b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井誠",
+      "text": "いやいや、オレが勝ちますから！\n",
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff2c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "大工",
+      "text": "……ジュース賭けるか？\n",
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff2d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "桜井誠",
+      "text": "望むところです。\n",
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff2e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "大工",
+      "text": "よし、決まり。\nんじゃ授業始まるから、また後でな。\n",
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff2f001100"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "桜井誠",
+      "text": "はい！　また部活で！\n",
+      "ctrl_code": "fdffedfffcfffcffedffc0ff0400ffff1000eefe01000400c1ff4a011000ebfe0000adffffff65ff30001100"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "桜井誠",
+      "text": "…………。\n",
+      "ctrl_code": "98ff0000effe060097fffbffc1ff47011000ebfe000065ff31001100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "桜井誠",
+      "text": "……………………あれ？\n",
+      "ctrl_code": "fbffe8fe0300c1ff4d011000ebfe0100adffffff65ff32001100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "桜井誠",
+      "text": "（引きすぎた！？）\n",
+      "ctrl_code": "98ff0000effe020097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff4200ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff33001100"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "桜井誠",
+      "text": "部長っ、待ってくださーい！\n",
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}
