@@ -1,0 +1,521 @@
+{
+  "UNK": "2c25",
+  "id": 16,
+  "total": 73,
+  "ptrs": 320,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffba01ff0067ff0a00fcfff9ff0800c1ff6f011000ebfe000065ff00001900",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ウェボシー",
+      "text": "あーあ、ヒマだなあ。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff01001900"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ウェボシー",
+      "text": "予定が無いときに限って、\nみさともフェっちゃんも駄目なんだもんなー。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff02001900"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ウェボシー",
+      "text": "……あれ？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c1fffb00ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000065ff03001900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ウェボシー",
+      "text": "あそこにいるのは中之条じゃん！\nうそ！？　なんでぇ！？\n",
+      "ctrl_code": "fbffebfe000065ff04001900"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "ウェボシー",
+      "text": "……って、そうか。\n実家が大福屋だったよね。\n",
+      "ctrl_code": "fbffc1ffff001000ebfe000065ff05001900"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ウェボシー",
+      "text": "なにか困ってるみたい。\n考え事して……どうしたんだろ？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c0ff0400ff00ff0090ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ffff001000ebfe000065ff06000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "text": "う〜ん……どうしようかな……\nあと一人……早く代役探さないと。\n",
+      "ctrl_code": "fbffc0ff03006d011000ebfe000065ff07001900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ウェボシー",
+      "text": "あ、あの……どうしたの？\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff08000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "text": "あれ？　確かあなたは……。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff09001900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ウェボシー",
+      "text": "うん、何度か会ってると思うけど\n……覚えててくれたんだ？\n",
+      "ctrl_code": "fbffc1fffa001000ebfe000065ff0a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条",
+      "text": "はい。あ、そういえば、\n教室で呼ばれて、なぜか驚かれたことも……。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff0b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ウェボシー",
+      "text": "んー、あれはちょっと理由があって。\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe0100adffffff65ff0c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ウェボシー",
+      "text": "（あのとき、モヒカンなかったから）\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff0d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "text": "それより、どうしたの？\n何か考え事していたようだったけど？\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff0e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条",
+      "text": "あ、実はちょっと困ったことがあって……。\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000065ff0f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中之条",
+      "text": "[{0D80}][{0D80}]って、そうだ！　今ヒマですか！？\n付き合ってもらえませんか！？\n",
+      "ctrl_code": "fbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffe01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800e8fe0200ebfe000065ff10001900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "ウェボシー",
+      "text": "ＯＨｈｈｈｈｈｈ！\n",
+      "ctrl_code": "fbff67ff1200e8fe0300ebfe0100adffffff65ff11001900"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ウェボシー",
+      "text": "（これってコクられた！？　デートの誘い！？\n　ていうか、それしかないじゃん！？）\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff6d01fa00ff0090fffa0090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1fffa001000ebfe000065ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条",
+      "text": "駄目ですか？\n嫌ならいいんですけど……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff6e011000ebfe000065ff13001900"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "ウェボシー",
+      "text": "も、もちろんイエス！　どこ！？\n花山公園！？　それとも伊香保温泉！？\n",
+      "ctrl_code": "fbffc1fffb001000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "text": "いえ、そんな遠くじゃなくて[{0D80}][{0D80}]ここです。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "ウェボシー",
+      "text": "こ、ここって……商店街？\n大工カフェってこと？\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中之条",
+      "text": "じゃなくて、うちの家です。\n",
+      "ctrl_code": "fbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffe01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800e8fe0200ebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "ウェボシー",
+      "text": "ＹＥＡＨｈｈｈｈｈｈｈｈ！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff7001f600ff0090fff60090ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff70011000ebfe000065ff18001900"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ウェボシー",
+      "text": "ちょっ！？　それは早い！　早すぎ！\nいつでもいいけど！　もうちょっと先に！\n",
+      "ctrl_code": "fbffe8fe0200c1fffb001000ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条",
+      "text": "だったら今すぐお願いします！\nじゃないと父さんに怒られるんです！\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000065ff1a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "ウェボシー",
+      "text": "と、父さん？　怒られるって……何で？\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff1b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "text": "大福フェアです。\nこれ被ってください。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff54021000ebfe000065ff1c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ウェボシー",
+      "text": "こ、これって……確か大福くん？\n",
+      "ctrl_code": "fbffedffc8ff6d01fa001000c1fffa001000ebfe000065ff1d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "中之条",
+      "text": "そうです、うちの店のマスコットです。今回は\n大福兄弟をやることになってまして……。\n",
+      "ctrl_code": "fbff67ffffffc1fffb001000ebfe000065ff1e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条",
+      "text": "バイト代はちゃんと払います！\n",
+      "ctrl_code": "fbff67ff1400c1ff6f011000ebfe000065ff1f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ウェボシー",
+      "text": "……バイト？\nなんだ、バイトかー。\n",
+      "ctrl_code": "fbffc1ff6d011000ebfe0100adffffff65ff20001900"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ウェボシー",
+      "text": "（うちの隣にも大福屋さんあるし、\n　少し前に大工カフェできたから……）\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe0100adffffff65ff21001900"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "ウェボシー",
+      "text": "（なにかと宣伝が大変なのはわかるけど、\n　はぁ……バイトの誘いだったんだ……）\n",
+      "ctrl_code": "fbffe8fe0200c1fffd001000ebfe000065ff22000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条",
+      "text": "お願いします！　一緒に大福兄弟を！\nあなたしかいないんです！\n",
+      "ctrl_code": "fbff67ffffffe8fe030066ff89000000c1ff70011000ebfe0100adffffff65ff23001900"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ウェボシー",
+      "text": "（あなたしか、いないっ！）\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffe01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff24001900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ウェボシー",
+      "text": "ＧＯｏｏｏｏｏｏｏｏｏｏｏｏｏＡＬ！！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff7001fa00ff0090fffa0090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1fffa001000ebfe000065ff25000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中之条",
+      "text": "……やっぱり、\n大福兄弟なんて無理ですよね。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff26001900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ウェボシー",
+      "text": "あー……\nううん、別にいいよ。ど、どうせヒマだしね！\n",
+      "ctrl_code": "fbffe8fe0300c1ff70011000ebfe0100adffffff65ff27001900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ウェボシー",
+      "text": "（っていうか、これってチャンス！\n　兄弟ってことは二人っきり！？）\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe0100adffffff65ff28001900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ウェボシー",
+      "text": "（ふおおおおおおおおおおおおお！！）\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff29000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条",
+      "text": "……あれ？　大丈夫ですか？\nなんかすごく顔が赤いんですけど……。\n",
+      "ctrl_code": "fbffe8fe0200c1ff6e011000ebfe000065ff2a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ウェボシー",
+      "text": "だ、大丈夫！　全然オッケー！\nそれじゃ始めよっか！\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000065ff2b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条",
+      "text": "わかりました。\nそれじゃ、この大福くんを[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff60011000ebfe000065ff2c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中之条さん",
+      "text": "おお、兄弟は見つかったようだな。\n",
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff2d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中之条さん",
+      "text": "二人共、今日はよろしく頼むぞ。\n大福の良さをみんなに知らせてやってくれ！\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff6d0103011000c1ff03011000ebfe000065ff2e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中之条",
+      "text": "わかってるって。\nがんばるからさ。\n",
+      "ctrl_code": "fbffe8fe0200c1ff6e011000ebfe000065ff2f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ウェボシー",
+      "text": "私もです！　一生懸命やります！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2e00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff3d000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff30000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "text": "ぐはあっ！？\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff70015f01ff0090ff5f0190ffffff67ff0f0071ff000063ffffff90ffffffedfff9ff0800c0ff030070011000ebfe000065ff31001900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ウェボシー",
+      "text": "な、何を……？\n",
+      "ctrl_code": "fbffe8fe0200c0ff030004011000ebfe000065ff32000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条",
+      "text": "そうだよ！\n父さん、何するんだよ！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff3d000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff33000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条",
+      "text": "げふあっ！？\nだ、だから何で殴るんだよ！？\n",
+      "ctrl_code": "fbffbeff74001000e8fe0200ebfe000065ff34001600"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中之条さん",
+      "text": "大福がしゃべるな！\n",
+      "ctrl_code": "fbffebfe000065ff35001900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ウェボシー",
+      "text": "いや、でも……\nしゃべらないと宣伝にならないし？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff3d000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff36001600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中之条さん",
+      "text": "何べんも言わせるな！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400c0ff030004011000ebfe000065ff37000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "text": "うう……ど、どうします？\n",
+      "ctrl_code": "fbffc1ff6f011000ebfe000065ff38001900"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "ウェボシー",
+      "text": "さすがに……ごめん無理。\n",
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff39000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条",
+      "text": "いえ、僕も……\n……はい、父さん、大福くん。\n",
+      "ctrl_code": "fbff67ff1400e8fe0200ebfe000065ff3a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条さん",
+      "text": "！？\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff3b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条さん",
+      "text": "お、おい、二人共！？　どこに行く！\n大福を裏切るつもりか！？\n",
+      "ctrl_code": "fbffebfe000065ff3c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条さん",
+      "text": "……行ってしまったか。\n",
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff3d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "中之条さん",
+      "text": "仕方がない、自分でやってみるか。\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff540254021000ebfe000065ff3e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中之条さん",
+      "text": "しかし、兄弟を一人で、か……。\n",
+      "ctrl_code": "fbffebfe000065ff3f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "中之条さん",
+      "text": "兄弟……そういえば昔、ダンゴにいたな。\n確か、やつらは……。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff40001600"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中之条さん",
+      "text": "……重ねてみるか。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0400fa001000ebfe000065ff41000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "中之条",
+      "text": "大福くんの頭の上に大福くんが……\n上がお兄さんでしょうか。\n",
+      "ctrl_code": "fbffc0ff03006d011000ebfe000065ff42001900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ウェボシー",
+      "text": "ふらふらしてる……\nあ、お兄さん落ちた。\n",
+      "ctrl_code": "fbffc0ff0400f6001000ebfe000065ff43000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中之条",
+      "text": "……捕まるでしょうか？\n",
+      "ctrl_code": "fbffc0ff03006f011000ebfe000065ff44001900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ウェボシー",
+      "text": "……捕まったよ。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff5e013502ff0090ff350290ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff45000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中之条",
+      "text": "……ほんとだ。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c8ff6f01fb00ff0090fffb0090ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fffb001000ebfe000065ff46000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "中之条",
+      "text": "お詫びってわけじゃないんですけど……\n飲み物、おごらせてもらえませんか。\n",
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff47001900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ウェボシー",
+      "text": "うん、ありがとう。\n大工カフェでも行ってみる？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff48001900"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "ウェボシー",
+      "text": "（……あれ？　これってデート？）\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5601080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

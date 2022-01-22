@@ -1,0 +1,350 @@
+{
+  "UNK": "766f6963655f6e6f745f657869737400",
+  "id": 16,
+  "total": 38,
+  "ptrs": 176,
+  "extra": 4,
+  "ctrl_code": "4c00000064000000de0e00007c000000a80000003a0f0000c000000032040000320600006a0f00004a06000048090000b80b00005a0e0000bc0f0000720e0000a60e0000c20e0000d60e0000fcffc1ffffff1000bcff6d01ff0067ff0100fcfff9ff0800e3fe0000beff6d011000e2fe0100e4fe12005fff02000000e2fe0000beff6e011000e3fe0100fdffbeff6f011000fdffbeff70011000fdffbeff71011000fdff7fff0100e3fe0000beff6d011000e2fe0100e4fe01005fff05000100e3fe0000e2fe0000beff72011000eeff",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "",
+      "text": "「はじめる」を選ぶと、\n三人勝ち抜きのゲームが始まります。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "",
+      "text": "相手の点数を０にするか、五戦の結果で点数が\n上回ることができれば勝ち抜きになります。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "",
+      "text": "プレイヤーが勝利すると負けたキャラは退出、\n次のキャラが登場します。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "",
+      "text": "プレイヤーが負けた場合、三回まで\nコンティニューをすることができます。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "",
+      "text": "ランダムで選ばれた二人に勝利すると、選んだ\nキャラにあわせた最後の相手が登場します。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "",
+      "text": "最後の相手に勝利することができると\nゲームクリアになります。\n",
+      "ctrl_code": "fbffbeff73011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "",
+      "text": "ゲームをクリアすると、選んだキャラにあわせた\n花札を入手することができます。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "",
+      "text": "最終戦を高得点で勝利できると、通常と異なる\n花札を入手できるので頑張ってみてください。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "",
+      "text": "入手した花札は「日常（非実在花札）」の\n花札アルバムで閲覧することができます。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "",
+      "text": "アルバムに登録される札は「日常（宇宙人）」\n本編とは別扱いになるのでご注意ください。\n",
+      "ctrl_code": "fdffedfffcfffcff7fff0400e3fe0000e2fe0000beff74011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "",
+      "text": "「スコアアタック」を選ぶと、\nひたすら勝負を続けるゲームが始まります。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "",
+      "text": "一戦ごと、相手を上回った点数にしたがって、\n獲得スコアに加算が行われます。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "",
+      "text": "プレイヤーが勝利すると負けたキャラは退出、\n次のキャラが登場します。\n",
+      "ctrl_code": "fbffbeff75011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "",
+      "text": "相手に敗北すると、\nゲームオーバーになります。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "",
+      "text": "ゲームオーバーになるとハイスコア画面に移り、\nそこまでの獲得スコアが登録されます。\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "",
+      "text": "相手に負けないようにしながら、ひたすら\n勝負を行って高得点を目指してください。\n",
+      "ctrl_code": "fdffedfffcfffcff7fff0400e3fe0000beff6d011000e2fe0100e4fe01005fff09000200e3fe0000e2fe0000beff76011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "",
+      "text": "基本ルールの設定について\n　役の点数や特別な配点ルールの設定を\n　行うことができます\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "",
+      "text": "「得点」の設定\n　役の配点を変更できます\n　Ａが高めに設定されています\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "",
+      "text": "「化札」の設定\n　ありを選ぶと菊に杯をカス札と数えます\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "",
+      "text": "「７文以上」の設定\n　７文以上で勝負した場合、\n　２倍を選んでいると得点が２倍になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "",
+      "text": "「倍返し」の設定\n　こいこいされた側が勝負をした場合、\n　２倍を選んでいると得点が２倍になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "",
+      "text": "「分け配点」の設定\n　ありを選ぶと、引き分け時の配点について\n　設定が可能になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "",
+      "text": "「親子」の設定\n　親権（親）　　引き分け時に親へ配点\n　つかず（子）　引き分け時に子へ配点\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "",
+      "text": "「つかず」の設定\n　条件ありを選ぶと、つかずの成立が\n　こいこいされていない場合に限定されます\n",
+      "ctrl_code": "fdffedfffcfffcff7fff0800e3fe0000e2fe0000beff77011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "",
+      "text": "手役の設定について\n　最初に配られた手札の組み合わせで\n　出来る役の設定を行うことができます\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "",
+      "text": "「手役設定」の設定\n　ありを選ぶと、総かす〜Ｗ手四までの\n　個別設定が可能になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "",
+      "text": "「手役設定・総かす」の設定\n　ありを選ぶと\n　総かすの役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "",
+      "text": "「手役設定・三々二」の設定\n　ありを選ぶと\n　三々二の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "",
+      "text": "「手役設定・喰付」の設定\n　ありを選ぶと\n　喰付の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "",
+      "text": "「手役設定・手四」の設定\n　ありを選ぶと\n　手四の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "",
+      "text": "「手役設定・Ｗ手四」の設定\n　ありを選ぶと\n　Ｗ手四の役が有効になります\n",
+      "ctrl_code": "fdffedfffcfffcff7fff0800e3fe0000e2fe0000beff78011000eeff"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "",
+      "text": "出来役の設定について\n　獲得できた札の組み合わせで\n　出来る役の設定を行うことができます\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "",
+      "text": "「出来役設定」の設定\n　ありを選ぶと、花見酒、月見酒の\n　個別設定が可能になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "",
+      "text": "「出来役設定・花見酒」の設定\n　ありを選ぶと\n　花見酒の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "",
+      "text": "「出来役設定・月見酒」の設定\n　ありを選ぶと\n　月見酒の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "",
+      "text": "「猪鹿雁」の設定\n　ありを選ぶとローカルルールの\n　猪鹿雁の役が有効になります\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "",
+      "text": "「猪鹿雁・猪鹿蝶」の設定\n　猪鹿雁を有効にしたときに、\n　猪鹿蝶を残すか残さないかを選べます\n",
+      "ctrl_code": "fbff"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "",
+      "text": "「猪鹿蝶＋」の設定\n　ありを選ぶと猪鹿蝶成立後、\n　役以外の種札１枚ごとに＋１文になります\n",
+      "ctrl_code": "fdffedfffcfffcff7fff0800e3fe0000beff6d011000e2fe0100e4fe01005fff0e000300e3fe0100e2fe0000beff79011000fdffbeff7a011000fdffbeff7b011000fdffbeff7c011000fdffbeff7d011000fdff7fff0d00e3fe0100e2fe0000beff7e011000fdffbeff7f011000fdff7fff0d00e3fe0100e2fe0000beff80011000fdff7fff0d00f7ff0800fcffffff"
+    }
+  ],
+  "extra_section": [
+    {
+      "id": 2,
+      "total": 4,
+      "contents": [
+        {
+          "text": "画面と操作について",
+          "ctrl_code": "ffff00000300"
+        },
+        {
+          "text": "ゲームモードについて",
+          "ctrl_code": "ffff00000400"
+        },
+        {
+          "text": "ルール設定について",
+          "ctrl_code": "ffff00000800"
+        },
+        {
+          "text": "役について",
+          "ctrl_code": "ffff00000d00ffff"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "total": 2,
+      "contents": [
+        {
+          "text": "ノーマルモード",
+          "ctrl_code": "ffff00000600"
+        },
+        {
+          "text": "スコアアタックモード",
+          "ctrl_code": "ffff00000700ffff"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "total": 3,
+      "contents": [
+        {
+          "text": "基本ルールの設定について",
+          "ctrl_code": "ffff00000a00"
+        },
+        {
+          "text": "手役の設定について",
+          "ctrl_code": "ffff00000b00"
+        },
+        {
+          "text": "出来役の設定について",
+          "ctrl_code": "ffff00000c00ffff"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "total": 3,
+      "contents": [
+        {
+          "text": "出来役について",
+          "ctrl_code": "ffff00000f00"
+        },
+        {
+          "text": "手役について",
+          "ctrl_code": "ffff00001000"
+        },
+        {
+          "text": "そのほか",
+          "ctrl_code": "ffff00001100ffff"
+        }
+      ]
+    }
+  ]
+}

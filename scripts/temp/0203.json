@@ -1,0 +1,304 @@
+{
+  "UNK": "e526",
+  "id": 16,
+  "total": 42,
+  "ptrs": 192,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffbf01ff0067ff0900fcfff9ff0800c1ff82011000ebfe000065ff00001c00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "イタコ",
+      "text": "……おや、もうこんな時間かいな。\nそろそろ戻らんとなあ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0102ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff01001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "イタコ",
+      "text": "だが、ここから恐山までは遠い。\n",
+      "ctrl_code": "fbffebfe000065ff02001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "イタコ",
+      "text": "どうやったら楽して帰れるか……むう。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbf01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff83011000ebfe0000adffffff65ff03001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "イタコ",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff04001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "イタコ",
+      "text": "とりあえず土産を買おう。\nそれから考えるとするか。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff00c1ff8201ff0090ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff82011000ebfe000065ff05001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "イタコ",
+      "text": "さて、何がええかの。\nできりゃ食べ物のほうがいいんじゃが……。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff06001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "イタコ",
+      "text": "……ん？　あそこで売っとるのは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff03004b001000ebfe000065ff07000200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ゆっこ",
+      "text": "甘いよー、安いよー、白いよー。大福だよー。\n",
+      "ctrl_code": "fdffedfffcfffcffc0ff04007c001000f4ff0500c0ff04007d001000f4ff0500c0ff04007c001000f4ff0500c0ff04007d001000f4ff0500c0ff04007c001000ebfe0000adffffff65ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "？？？（みお）",
+      "text": "………………。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff09001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "イタコ",
+      "text": "ほう……大福か。\nそういや最近とんと食べてないの。\n",
+      "ctrl_code": "fdffedfffcfffcffc1ff7c001000f4ff0500c1ff7d001000f4ff0500c1ff7c001000ebfe000065ff0a001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "イタコ",
+      "text": "……しかし、さっきから踊っている\nあの変な着ぐるみは何じゃろ？\n",
+      "ctrl_code": "fbffebfe000065ff0b001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "イタコ",
+      "text": "……まあええ。\nとりあえず一包み買って帰るとしようか。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800edffc8ff510082011000c1ff51001000ebfe000065ff0c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ゆっこ",
+      "text": "いらっしゃいませー。\nおいくつ包みましょうか？\n",
+      "ctrl_code": "fbffc1ff84011000ebfe000065ff0d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "イタコ",
+      "text": "そうじゃのう……５個は少ないし……\nかといって１０個は多すぎるし……。\n",
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff7e00f8001000c1fff8001000ebfe000065ff0e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条",
+      "text": "長野原さん、交代の時間だよ。\n",
+      "ctrl_code": "fbffc1ff7c001000ebfe000065ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "？？？（みお）",
+      "text": "ほんと！？　ありがと！　もう限界だったんだ。\n",
+      "ctrl_code": "fbff66ff78000000c1ff70001000ebfe000065ff10000300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みお",
+      "text": "ふう……あー、暑かった。\n",
+      "ctrl_code": "fbffc1fff7001000ebfe000065ff11000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条",
+      "text": "ごめんね。向こうで休んでいいよ。\n冷たいお茶があるからさ。\n",
+      "ctrl_code": "fbff67ffffffedffc1ffffff1000c1ff85011000ebfe000065ff12001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "イタコ",
+      "text": "あ……あいつは料金を踏み倒した小僧……！\nここで会ったが百年目っ！！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff00c0ff0400f600ff0090ffffff90ffffff67ff110071ff000063ffffff90ffffffedfffaff04000000f9ff080066ff2e0000001fff0300000000fe0000c0ff03008301ff001aff0300000078ff00001e0016ffffffc1ff85011000ebfe000065ff13001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "イタコ",
+      "text": "これ、そこのお兄さんっ！\n",
+      "ctrl_code": "fbffe8fe0200c1ff00011000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "text": "うああああああああああっ！？\nイ、イ、イタコのお婆さん！？\n",
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff15001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "イタコ",
+      "text": "料金。１万円です。\n延滞料金と出張料金で３万円となります。\n",
+      "ctrl_code": "fbffe8fe0200c1ffff001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中之条",
+      "text": "ちょっ！？　高すぎますよ！\n",
+      "ctrl_code": "fbffc1fffc001000ebfe000065ff17000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "中之条",
+      "text": "第一、マイクテスとか勘弁してくださいとか、\n前のあれは絶対に信じられません！\n",
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff18001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "イタコ",
+      "text": "しかし現実……真実です。\nそして料金も[{0D80}][{0D80}]払ってください。\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0102ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0d0071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条",
+      "text": "で、でも[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffba00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条",
+      "text": "僕は[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffbe00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "text": "断りますっ！\n",
+      "ctrl_code": "fbffebfe000065ff1c001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "イタコ",
+      "text": "くっ、逃げられたか！？\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffbc00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "イタコ",
+      "text": "……しかし、私も恐山のイタコ！\n何度もおめおめと逃がしてなるものか[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffbb00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff25000000f4ff3c00daff67fffffffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbc01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff83011000ebfe000065ff1e001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "イタコ",
+      "text": "はあ……逃げられたか。\n",
+      "ctrl_code": "fbffebfe000065ff1f002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "警察",
+      "text": "どうしました、お婆さん。逃げられたって……\nまさかひったくりですか！？\n",
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff20001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "イタコ",
+      "text": "あ、いや、料金が……。\n",
+      "ctrl_code": "fbffc1ff83011000ebfe0000adffffff65ff21001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "イタコ",
+      "text": "………………。\n",
+      "ctrl_code": "fbffc1ff84011000ebfe000065ff22001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "イタコ",
+      "text": "そうです、ひったくりです。\nでも、車なら追いつけるはずです。\n",
+      "ctrl_code": "fbffebfe000065ff23002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "警察",
+      "text": "車なら……分かりました、パトカーを回します。\nお婆さん、いっしょに乗ってもらえますか？\n",
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff24001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "イタコ",
+      "text": "ええ、もちろん。\nそれで犯人が逃げた先なのですが……。\n",
+      "ctrl_code": "fbffebfe000065ff25002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "警察",
+      "text": "どちらですか？\n駅の方ですか？　川のほうですか！？\n",
+      "ctrl_code": "fbffc1ff85011000ebfe000065ff26001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "イタコ",
+      "text": "いいえ、恐山です。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff27002b00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "警察",
+      "text": "了解！　恐山まで[{0D80}][{0D80}]って、恐山！？\n",
+      "ctrl_code": "fbffc1ff83011000ebfe0000adffffff65ff28001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "イタコ",
+      "text": "…………。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffef01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff29001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "イタコ",
+      "text": "恐山です。\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5901080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

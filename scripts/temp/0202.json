@@ -1,0 +1,234 @@
+{
+  "UNK": "6626",
+  "id": 16,
+  "total": 32,
+  "ptrs": 144,
+  "extra": 0,
+  "ctrl_code": "04000000fcffc1ffffff1000bcffb7d1ff0067ff0900fcfff9ff0800ebfe000065ff00001b00",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ジェントルマン",
+      "text": "ふう、よく覚えておらんが、\n今日も充実した１日だった気がするのう。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000065ff01001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ジェントルマン",
+      "text": "……さて、そろそろ帰るとするかの。\n",
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff02001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ジェントルマン",
+      "text": "……ん？\nあの青年……こんな所で……。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff6100ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff03000800"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "笹原",
+      "text": "こんな所で食事とは我ながら無作法だが……\n小腹が空いては帰宅はできんな。\n",
+      "ctrl_code": "fbffebfe000065ff04000800"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "笹原",
+      "text": "……む？　ナイフの切れ味が悪いな。\n今日、最後の一本があったはず、替えてくれ。\n",
+      "ctrl_code": "fbffebfe000065ff05002c00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "執事",
+      "text": "はい、こちらを。\n",
+      "ctrl_code": "fbffebfe000065ff06000800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "笹原",
+      "text": "うむ。\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff9a000000daffbcffb7d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff07000800"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "笹原",
+      "text": "おっと、ナイフを落としてしまったか。\n……少々がっつきすぎたようだ。\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000065ff08001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ジェントルマン",
+      "text": "育ち盛りの若者ならば仕方ないことでしょう。\n……ほら、ナイフに傷はありませんぞ。\n",
+      "ctrl_code": "fbffedffc8ffe7007f011000c1ffe7001000ebfe000065ff09000800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "笹原",
+      "text": "おお、これはこれはかたじけない。\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000065ff0a001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "ジェントルマン",
+      "text": "なんのなんの、この程度のことは。\n……それより少し。\n",
+      "ctrl_code": "fbffedffc0ff0400ffff1000c1ffe6001000ebfe000065ff0b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "笹原",
+      "text": "むむ？\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000065ff0c001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ジェントルマン",
+      "text": "これできれいになりましたぞ。\nお返ししましょう。\n",
+      "ctrl_code": "fbffc1ffe0001000ebfe000065ff0d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "笹原",
+      "text": "ナイフを洗って頂けるとは……\nいや、これは有難い。何と礼を言えば良いか。\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000065ff0e001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "ジェントルマン",
+      "text": "いえいえ。お気になさらずに。それでは[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffbeff30001000f6ff080067ff1200e8fe0200ebfe000065ff0f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みさと",
+      "text": "信じられない！　何やってんのよ笹原！\n",
+      "ctrl_code": "fbffebfe000065ff10000800"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "笹原",
+      "text": "……何と言われても、私はこの御仁に\nナイフを拾ってもらっていたのだが。\n",
+      "ctrl_code": "fbffebfe000065ff11000400"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みさと",
+      "text": "それぐらい知ってるわよ！\n洗ってもらったことまで知ってるわよ！\n",
+      "ctrl_code": "fbffebfe000065ff12000800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "笹原",
+      "text": "ならば、なぜに……。\n",
+      "ctrl_code": "fbffe8fe0200ebfe000065ff13000400"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みさと",
+      "text": "私はただ、お礼も無しで帰すなんて\n恥ずかしくないのかって聞いてんの！\n",
+      "ctrl_code": "fbff66ff89000000ebfe000065ff14000800"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "笹原",
+      "text": "！　……そのとおりだ立花みさとよ。危うく\n笹原家長男としての名が廃るところであった。\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb7d1ff00c1fffeffff00c8ffe0007e01ff0090ff7e0190ffffff67ff0c0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ffe0001000ebfe000065ff15000800"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "笹原",
+      "text": "御仁、申し訳ないがせめてもの礼として、\n茶の一杯でも付き合って頂けないだろうか？\n",
+      "ctrl_code": "fbffc1ff7f011000ebfe000065ff16001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "ジェントルマン",
+      "text": "ふむ……ここで断るのはあなたと、\nそこの優しい娘さんに悪いですな。\n",
+      "ctrl_code": "fbffc0ff030089001000ebfe000065ff17000400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "みさと",
+      "text": "別に、私は優しくなんか……！\nただ、お年寄りを大切にしているだけよ！\n",
+      "ctrl_code": "fbffc1ff80011000ebfe000065ff18001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ジェントルマン",
+      "text": "ありがとう娘さん。\nあなたはきっと良き母になれるでしょう。\n",
+      "ctrl_code": "fbffe8fe0400c0ff030084001000ebfe000065ff19000400"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みさと",
+      "text": "ななななななな！？\n",
+      "ctrl_code": "fbff67ffffffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffbeff30001000f6ff080067ff1800e8fe0200ebfe000065ff1a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みさと",
+      "text": "な、何言ってるのよ！！\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb7d1ff00c1fffeffff00c1ff8a00ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff8a001000ebfe000065ff1b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みさと",
+      "text": "誰も笹原とサファイア婚まで迎えたいなんて\n思ってないんだからーっ！\n",
+      "ctrl_code": "fbffedfffcff66ff22000000c1ffffff1000daffedffc8ffe4007e011000adfffeffebfe0000aeff03008000aeff0400800065ff1c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "笹原＆ジェントルマン",
+      "text": "……………………。\n",
+      "ctrl_code": "fbffaeff03000000aeff04000000c1ff7e011000ebfe000065ff1d001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ジェントルマン",
+      "text": "女心は難しいですのお。\n……まるでわしの妻のようじゃ。\n",
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff1e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "笹原",
+      "text": "ほう？　下世話ながらもそれは興味深い。\n御仁がよろしければ、その話[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffead1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1f001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ジェントルマン",
+      "text": "ええ。\nお茶請け代わりにお話ししましょうか。\n",
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5801080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

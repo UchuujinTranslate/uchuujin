@@ -1,0 +1,234 @@
+{
+  "UNK": "0029",
+  "id": 16,
+  "total": 32,
+  "ptrs": 144,
+  "extra": 0,
+  "ctrl_code": "04000000fcfff3fef4fe5700c1ffffff1000bcffb701ff0067ff1100fcfff9ff0800e8fe0200c1ff67011000ebfe000065ff00001700",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "きよし",
+      "text": "ちょっ！？　どうしたんだよ！？\nバディ！　コバディ！　どこ行くんだ！？\n",
+      "ctrl_code": "fbffedffc8ff300132011000ebfe000065ff01000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "バディ",
+      "text": "ハッ！　ハッ！　ハッ！\n",
+      "ctrl_code": "fbffc1ff32011000ebfe000065ff02000f00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "コバディ",
+      "text": "ハッ、ハッ、ハッ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff67011000ebfe000065ff03001700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "きよし",
+      "text": "バディー！　コバディー！\n帰ってこーい！\n",
+      "ctrl_code": "fbffc1ff66011000ebfe0000adffffff65ff04001700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "きよし",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff64011000ebfe000065ff05001700"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "きよし",
+      "text": "……行っちゃった。\nこれで何度目だろ？\n",
+      "ctrl_code": "fbffc1ff66011000ebfe000065ff06001700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "きよし",
+      "text": "って、ほんと……何しに行ってるんだろ？\n",
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0300da011000ebfe000065ff07002500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "[{FF0A}]",
+      "text": "……どうする？\n番組以外に、何か手があるか？\n",
+      "ctrl_code": "fbffc0ff0400ec011000ebfe0000adffffff65ff08002600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "[{FF0B}]",
+      "text": "…………。\n",
+      "ctrl_code": "fbffe8fe0200c1ffe5011000ebfe000065ff09002500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "[{FF0A}]",
+      "text": "おい、答えろよ！？　何とかならないのか！？\n",
+      "ctrl_code": "fbffc1ffea011000ebfe000065ff0a002600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "[{FF0B}]",
+      "text": "知るかよ！\nこんなときアイツがいてくれたら……！\n",
+      "ctrl_code": "fbffedffc1ffffff1000c1ff09021000ebfe000065ff0b002800"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "？？？（８７番）",
+      "text": "……それはもしかして、俺のことか？\n",
+      "ctrl_code": "fbffe8fe0200edffc8ffef0109021000ebfe000065ff0c002600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF0B}]",
+      "text": "おまえは、策士の８７番！？\nスタジオ船にいたんじゃないのか？\n",
+      "ctrl_code": "fbffc1ff08021000ebfe000065ff0d002800"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "８７番",
+      "text": "仲間のピンチだぜ？\n策を講じるなら今だろ？\n",
+      "ctrl_code": "fbffc1ffe3011000ebfe000065ff0e002500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0A}]",
+      "text": "それでどうなんだ？\n姫を喜ばす方法は……。\n",
+      "ctrl_code": "fbffc1ff07021000ebfe000065ff0f002800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "８７番",
+      "text": "ジョークもだめ、クイズもだめ、一発芸もだめ、\nそして、番組も……だめ。\n",
+      "ctrl_code": "fbff66ff89000000c1ff08021000ebfe000065ff10002800"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "８７番",
+      "text": "なら残された手段はただ１つ！\n",
+      "ctrl_code": "fbffe8fe0200edffc8ffe701f3011000adfffeffebfe000065ff11002500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0A}]＆[{FF0B}]",
+      "text": "そ、それは……！？\n",
+      "ctrl_code": "fbff67ffffffedffc1ffffff1000c1ff0f021000ebfe000065ff12002800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "８７番",
+      "text": "アルパカの真似だろ。\n",
+      "ctrl_code": "fbffedffc1ffffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0401ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13001000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "スターラ姫",
+      "text": "似とらん。\n",
+      "ctrl_code": "fdffedfffcff66ff01000000beff05011000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff00c1ff1102ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff11021000fcff67ffffff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0300e3011000ebfe000065ff14002500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0A}]",
+      "text": "ああ……８７番までが……。\n",
+      "ctrl_code": "fbffe8fe0400c0ff0400f5011000ebfe000065ff15002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "text": "……俺だ……\nあいつが死んだのは……俺のせいだ！\n",
+      "ctrl_code": "fbffe8fe0200c1fff4011000ebfe000065ff16002600"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0B}]",
+      "text": "俺が呼ばなければ……！\n俺が頼んだりしなければ……ヤツは……！\n",
+      "ctrl_code": "fbffc1fffe011000ebfe000065ff17002700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0C}]",
+      "text": "……ん？　お、おい、みんな！\n",
+      "ctrl_code": "fbffe8fe0200edffc8ff300132011000ebfe000065ff18002500"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0A}]",
+      "text": "犬だ！　それも２匹いるぞ！\n",
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff19002600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0B}]",
+      "text": "励ましてくれるのか？\n……けど、俺は……。\n",
+      "ctrl_code": "fbffebfe000065ff1a002500"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0A}]",
+      "text": "なら、何とかしろ！　死んだみんなのために、\n姫を喜ばせてみろ！！\n",
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff00c8fff101db01ff0090ffdb0190ffffff67ff150071ff000063ffffff90ffffffedfff9ff0800c1fff1011000ebfe000065ff1b002600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF0B}]",
+      "text": "……わかったよ。俺、やってみる。\n死んだアイツラの分までがんばってみる！\n",
+      "ctrl_code": "fbffc1ffdc011000ebfe000065ff1c002500"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF0A}]",
+      "text": "その意気だ！　……で、何するんだ？\n",
+      "ctrl_code": "fbff67ffffffc1ffea011000ebfe000065ff1d002600"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF0B}]",
+      "text": "アルパカの真似、かな。\n",
+      "ctrl_code": "fdffedfffcfffcff67ffffff66ff05000000f3ff1aff0300000078ff10010a001aff04000000680010010a0016ffffffedffc1ffffff100066ff08000000faff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff30011000ebfe0000adffffff65ff1e000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "バディ",
+      "text": "…………。\n",
+      "ctrl_code": "fbffc1ff32011000ebfe0000adffffff65ff1f000f00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "コバディ",
+      "text": "…………。\n",
+      "ctrl_code": "fdffedfffcff66ff8a000000edffc8ff310133011000daffedfffcfff4ff780063ffffffbeff5d01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

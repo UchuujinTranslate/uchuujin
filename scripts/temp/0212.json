@@ -1,0 +1,234 @@
+{
+  "UNK": "d72a",
+  "id": 16,
+  "total": 28,
+  "ptrs": 128,
+  "extra": 1,
+  "ctrl_code": "2c0000004800000006010000e00c00000c010000a20100004c04000014090000300c0000820c0000d80c0000fcfffcffedffc1ffffff10007dff01000a007dff02000a007fff0100f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff040071ff000063ffffff90ffffffedfff9ff0800c1ff8f011000ebfe000065ff00002000",
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "おつき３",
+      "text": "さて、今度はアンテナセレクションについて\n説明をさせてもらうぞ。\n",
+      "ctrl_code": "fdff71ff04005fff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff01002000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "おつき３",
+      "text": "他に聞きたいことはあるか？\n",
+      "ctrl_code": "fdff73ff04007fff0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2d01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02002000"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "おつき３",
+      "text": "この左上にあるのが、\nルーレットの速度の情報だ。\n",
+      "ctrl_code": "fbffebfe000065ff03002000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "おつき３",
+      "text": "ルーレットが回転する速度は、実はアンテナが\n「機能するほど」速くなっていってしまう。\n",
+      "ctrl_code": "fbffebfe000065ff04002000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "おつき３",
+      "text": "つまり、人気のある地球人の番組や、\nそれまでの視聴率が高いほど速くなるわけだ。\n",
+      "ctrl_code": "fbffebfe000065ff05002000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "おつき３",
+      "text": "アンテナの仕様が原因だが、まあ、これも\n番組を盛り上げる演出の１つと理解してくれ。\n",
+      "ctrl_code": "fbffebfe000065ff06002000"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "おつき３",
+      "text": "評定の結果が悪かったり、\nアンテナが破損するとスピードは遅くなる。\n",
+      "ctrl_code": "fbffebfe000065ff07002000"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "おつき３",
+      "text": "しかし、我々の命がかかっていることを\nくれぐれも忘れないでくれ。\n",
+      "ctrl_code": "fbff7fff0400f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2601ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff08002000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "おつき３",
+      "text": "ＬＩＶＥが始まると、リモート状態に置かれた\nアンテナ装着者の意識は一気に低下する。\n",
+      "ctrl_code": "fbffebfe000065ff09002000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "おつき３",
+      "text": "そのため、彼らは無防備な状態になり、\n事故に巻き込まれやすくなってしまう。\n",
+      "ctrl_code": "fbffebfe000065ff0a002000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "おつき３",
+      "text": "コンピュータによると、ＬＩＶＥごとに\nいずれか１体が事故に遭う可能性がある。\n",
+      "ctrl_code": "fbffbeff30011000ebfe000065ff0b002000"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "おつき３",
+      "text": "その特定の１体の破損率を、\n画面に表示してあるというわけだ。\n",
+      "ctrl_code": "fbffebfe000065ff0c002000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "おつき３",
+      "text": "ルーレットでそのアンテナを選んでしまうと、\n破損率の割合で事故に遭うことになるだろう。\n",
+      "ctrl_code": "fbffebfe000065ff0d002000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "おつき３",
+      "text": "ちなみに破損率の情報が表示されない場合、\nどの装着者でもアンテナ破損は起きない。\n",
+      "ctrl_code": "fbffebfe000065ff0e002000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "おつき３",
+      "text": "情報が表示されていない場合は、\n安心してルーレットを止めてくれ。\n",
+      "ctrl_code": "fbffbeff30011000ebfe000065ff0f002000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "おつき３",
+      "text": "……おっとそうだ。\nひとつ、整備班から連絡が来ていたな。\n",
+      "ctrl_code": "fbffebfe000065ff10002000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "おつき３",
+      "text": "アンテナのことだが、装着者を酷使すると\nメンテが追いつかなくなってしまうそうだ。\n",
+      "ctrl_code": "fbffebfe000065ff11002000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "おつき３",
+      "text": "そのため、同じ装着者を続けて選ぶと、\n本来よりも破損率が上がりやすくなるらしい。\n",
+      "ctrl_code": "fbffebfe000065ff12002000"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "おつき３",
+      "text": "ルーレットで選んでしまった時は仕方ないが、\nなるべく気をつけてやってくれ。\n",
+      "ctrl_code": "fbff7fff0400f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3201ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13002000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "おつき３",
+      "text": "アンテナが破損した場合は、\nそこでＬＩＶＥ中継は中断されてしまう。\n",
+      "ctrl_code": "fbffebfe000065ff14002000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "おつき３",
+      "text": "ルーレットの速度が初期化されるという\nメリットもあるが[{0D80}][{0D80}]\n",
+      "ctrl_code": "fbffebfe000065ff15002000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "おつき３",
+      "text": "当然、視聴率や評価は厳しいことになる。\nただし、地球人の人気は変わらない。\n",
+      "ctrl_code": "fbffebfe000065ff16002000"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "おつき３",
+      "text": "そして、破損したアンテナの装着者は、\nアンテナ修理と休息のため一回休みになる。\n",
+      "ctrl_code": "fbffebfe000065ff17002000"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "おつき３",
+      "text": "それだけならまだいいが、番組担当チームの\n中継船も無事では済まないだろう。\n",
+      "ctrl_code": "fbffebfe000065ff18002000"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "おつき３",
+      "text": "中継船１隻には１０名の兵隊が搭乗している。\n船の被害だけに留まらないことは分かるな？\n",
+      "ctrl_code": "fbffebfe000065ff19002000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "おつき３",
+      "text": "彼らの命のためにも、経験と勘で\nアンテナを破損させないよう切り抜けてくれ。\n",
+      "ctrl_code": "fbff7fff0400ebfe000065ff1a002000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "おつき３",
+      "text": "そうか……。\n少し寂しい気もするが、仕方が無いな。\n",
+      "ctrl_code": "fbff7fff0900ebfe000065ff1b002000"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "おつき３",
+      "text": "それでは、\n今回もしっかり狙って決めてくれたまえ。\n",
+      "ctrl_code": "fdfff7ff0800fcfffffff7ff0800fcffffff"
+    }
+  ],
+  "extra_section": [
+    {
+      "id": 3,
+      "total": 5,
+      "contents": [
+        {
+          "text": "ルーレットの速度について",
+          "ctrl_code": "ffff00000500"
+        },
+        {
+          "text": "アンテナの破損率について",
+          "ctrl_code": "ffff00000600"
+        },
+        {
+          "text": "破損したらどうなる？",
+          "ctrl_code": "ffff00000700"
+        },
+        {
+          "text": "わかるので大丈夫",
+          "ctrl_code": "ffff040004000800"
+        },
+        {
+          "text": "もう大丈夫",
+          "ctrl_code": "ffff030004000900ffff"
+        }
+      ]
+    }
+  ]
+}
