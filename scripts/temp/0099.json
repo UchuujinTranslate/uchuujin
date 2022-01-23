@@ -1,0 +1,671 @@
+{
+  "UNK": "d613",
+  "id": 16,
+  "total": 72,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      670,
+      1658,
+      1662,
+      2516,
+      2542,
+      3836,
+      5120
+    ],
+    "ctrl_code": "fcffedfe080009000a0004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500c0ff030044011000ebfe000064ffffff1100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あ、部長。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0400eb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "おお、桜井くんか。\nこんなとこで奇遇だな。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "部室以外で会うのって珍しいですよね。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff44011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あ、部室といえば、\n今日の部活ってどうするんですか？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうって、別にいつも通りだけど？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あの……そろそろ\n囲碁サッカーの練習しませんか？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ffef001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "囲碁サッカーかー。\nだってオレぜんぜん知らないしな。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "オレが教えますよ。\nほら、丁度ボールと碁石も持ってますし。\n",
+      "text_len": 60,
+      "ctrl_code": "fbfffefe000001007fff0200c1ff44011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "試しにリフティングしてみてください。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1fff2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "普通のリフティングでいいのか？\nよーし。\n",
+      "text_len": 42,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffd800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "よっ、はっ……おおっと！！\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff4d011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あっ！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffc1ffffff1000edfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200c1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "キャンッ！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "うわわっ、大丈夫か！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300bb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "うお、こっちに飛んできたぞ！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff0400c4011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "これだから初心者は……次は上手くやれよ！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ffb9011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "ああ、空から祈っていようぜ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffbc011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "空から？\nま、俺たちは宇宙にいるけど……。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "って、そういうことかー！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030067ff1700f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffd600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ちょっと見ててくださいね。\nまずはこうしてリフティングをして……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbff05ffebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "で、リフティングから碁石。\nよっ……はっ。\n",
+      "text_len": 44,
+      "ctrl_code": "98ff0000effe070097fffbffbeffd7001000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ここまでは前にも見せましたよね？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ああ、その時はえーっと、\n一人ジャーマンだっけ。\n",
+      "text_len": 50,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff00c8ff4401ec00ff0090ffec0090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff030044011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "そう、あの時やったのは\nナダレ定石三連星なので一人ジャーマン。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ですけど、別に他のことしてもいいんですよ。\nとにかく基本はリフティングから碁石。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff45011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "で、そこから碁石とボールの特性を考えて\nどこで大技を出すかを考えるんです。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc0ff0400ec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ふーむ……。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c1fff2001000ebfe000065ff05000900"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なるほど、\nそれで他にはどんな事に注意するんだ？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff06001100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あ、はい！\nあとは小技からの連続というのもあって……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff030045011000ebfe000065ff07001100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "と、基本はこんな感じですね。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc0ff0400f1001000ebfe000065ff08000900"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なるほど。ありがとう、勉強になったよ。\n囲碁サッカーって面白そうだな！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff09001100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "でしょ！？\nこんなに奥深いスポーツありませんよ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff0a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "オレもちょっと練習してみようかな。\n桜井くん、教えてくれるか？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff0b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はいっ、もちろんです！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff0c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ちょっとした技ぐらいは\n出せるようになりたいし。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff0d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "部長、運動神経いいみたいですし\nすぐできますよ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbff66ff13000000c1ffeb001000ebfe000065ff0e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そうか？\nあ、休み時間終わりだな。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff0f001100"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ホントですね。\nそれじゃ、また部活の時間に！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff10000900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "おう！　そうだ、桜井くん！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff11001100"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "なんですか？\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff12000900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "今日は関口も入れてゲームやろうぜ！\n",
+      "text_len": 36,
+      "ctrl_code": "fbff66ff7c000000ebfe000065ff13001100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ええーーーーーっ！！？\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fff1001000ebfe000065ff14000900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ちょっとオレもやってみていいかな？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff15001100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はい、いいですよ。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffd800ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff16000900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "まずはリフティングだっけ？\nよ……っと。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000065ff17001100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "そのままボールをキープして、\nそこに碁石っ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000065ff18000900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "おぉっ！？\nよっ、はっ……あぁっ！！\n",
+      "text_len": 38,
+      "ctrl_code": "98ff0000effe050097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff0300ef001000ebfe000065ff19000900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "意外と難しいな、\n碁石が入るとリフティングが続かないし。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc0ff040044011000ebfe000065ff1a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "最初はそんな感じですよ。\nここからゆっくり慣れていけばいいんです。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff1b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そうだなぁ、たまには悪くないか。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff1c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "１年半くらい練習すれば\n試合に出られるようになると思いますよ。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ffef001000ebfe000065ff1d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "……１年半か。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff1e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はい、部長ならそれくらいあれば十分……。\n",
+      "text_len": 42,
+      "ctrl_code": "fbff67ffffffeefe04000400c1ffec001000ebfe000065ff1f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "その頃にはオレ、卒業前だぞ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffeefe02000400c1ff4d011000ebfe0000adffffff65ff20001100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffef001000ebfe0000adffffff65ff21000900"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22001100"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "す、すみません。\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffeb001000ebfe000065ff23000900"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なあ、桜井くん。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff24001100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はい、なんですか？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff25000900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "これ、碁石のかわりに\nリバーシでやっちゃダメなのか？\n",
+      "text_len": 54,
+      "ctrl_code": "fbff67ffffffb3ff0300e8fe020066ff7c000000c1ff4d011000ebfe000065ff26001100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "！！！！！？\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000b2ff97fffbff67ff0f00eefe0f000400c1fff2001000ebfe000065ff27000900"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ほら、似たような白黒だしさ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffe8fe0200c1ff49011000ebfe000065ff28001100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "ぶ、部長ッ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffeefe03000400e8fe0200c1fff0001000ebfe000065ff29000900"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "もがっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff48011000ebfe0000adffffff65ff2a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff2b001100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……良かった、誰にも聞かれてない。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ffef001000ebfe000065ff2c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "きゅ、急にどうしたんだ！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff46011000ebfe000065ff2d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "いいですか？\nリバーシの話はダメです。\n",
+      "text_len": 40,
+      "ctrl_code": "98ff0000effe0a00eefe0100040097fffbffc1ff49011000ebfe000065ff2e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "先輩はビギナーだから仕方ないですけど、\n経験者に聞かれたら大変ですからね。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1fff0001000ebfe0100adffffff65ff2f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "（な、なんでだ？）\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff30001100"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "誰も聞いてなくてよかった……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff31000900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "（碁石は良くて、リバーシはダメなのか……）\n",
+      "text_len": 44,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

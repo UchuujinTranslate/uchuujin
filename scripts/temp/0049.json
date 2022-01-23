@@ -1,0 +1,671 @@
+{
+  "UNK": "fd02",
+  "id": 16,
+  "total": 72,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1730,
+      2470,
+      2474,
+      3164,
+      3190,
+      3896,
+      4766
+    ],
+    "ctrl_code": "fcffedfe01000200060004ff03ff0300c1ffffff1000bcff00f0ff0067ff0800fcfff9ff0800eefe00000500c1ff29001000ebfe000064ffffff0100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "さーて、まずは誰に話を聞こうかな？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "誰に聞いても答えは一緒だと思うけど。\nぷぷぷ。阪本の驚く顔が楽しみ♪\n",
+      "text_len": 70,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030033001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ、おねえさん、ちょっといい？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff04006a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "はい？　……わ〜、白衣着てる〜！\n可愛い〜。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ねえねえ、なんで白衣着てるの？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えへへ、それはね、\nはかせがはかせだからだよ。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "博士なんだ〜。\nこんなに可愛いのに〜。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えへへへ。\nはかせ可愛い？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "可愛い〜。\nこのまま連れてっちゃいたいくらい♪\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えへへへ。\nはかせ、連れてかれちゃう。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff31001000ebfe0000adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ffffff66ff7b000000e8fe0300c1ff30001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（あっ！？　はかせ誘拐されちゃう！）\n",
+      "text_len": 38,
+      "ctrl_code": "98ff0000effe030097fffbff67ff0e00c1ff2a001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（この人、悪い人かも……\n　早く逃げないと……）\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ねえねえ、はかせはここで何してるの？\n何かの研究なの？\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっ？　あ、そうだ。\nおねえさん、ネジは可愛いよね？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ネジ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そう、ネジ！\n可愛いよね！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff69011000ebfe0000adffffff64ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "あ〜。なのちゃんのこと？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっ！？　なののこと知ってるの！？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "うん、知ってる知ってる。\nあのネジ可愛いよね〜。\n",
+      "text_len": 50,
+      "ctrl_code": "fbff67ffffffc1ff37001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……………！\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff0800c1ff33001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（このおねえさんはいい人だ！！）\n",
+      "text_len": 34,
+      "ctrl_code": "fbfffefe020001007fff0200edffc1ffffff1000c1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "それは無いだろ……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedffc8ff260129001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ、阪本！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc0ff040069011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "えっ？　この猫喋るの！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん！　喋れるんだよ。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "すごいすごーーーい！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c1ffba011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "うわ、やめろ！\nそんなに撫でるんじゃない！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ffbe011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "まあまあ。\n猫なんだし撫でられても仕方ないだろ。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "そうじゃなくて！\n頭を撫でたりなんかしたら……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbff66ff0b000000c1ffbf011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ええっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "だからやめろと言ったのにー！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030066ffc4000000c1ff2f001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff05ffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "あははははは。お腹減ったんだ。\nもうお昼だもんね。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff2e001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん……はかせお腹すいた……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "じゃあ大工カフェにでも行く？\n一緒にご飯食べようよ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff29001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "でもはかせお金持ってないから……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff6a011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "それくらい私が[{0D88}]ってあげるよ。\nだから行こう行こう♪\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff33001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（やっぱりこのおねえさんはいい人だ！！）\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff2e001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（あっ、でも前になのが知らない人に\n　ついていっちゃダメって……）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff69011000ebfe000064ffffff1800"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ん？　どうしたの？\n何か他に食べたい物があるの？\n",
+      "text_len": 50,
+      "ctrl_code": "fdff7fff040002ff01ff0000960005003200fbfffa0000fffffe050006000700c1ff33001000ebfe000065ff05000100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "オムライスが食べたい！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffeefe0e000400c1ff6a011000ebfe000065ff06001800"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "オムライスが好きなんだ。\nじゃあ別のところに行こうか。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "行こーー！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff08001800"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "じゃあオムライスの後に\n大工カフェでお茶しようか。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "しよーー！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff0a001800"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "あははは、可愛いー。\n本当に連れてっちゃいたいなー♪\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えへへへ。\nはかせ今度こそ連れてかれちゃう。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff2d001000ebfe0000adffffff65ff0c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe030066ff7c000000ebfe0100adffffff65ff0d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（誘拐されちゃう！！）\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2e001000ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっとね、はかせ、なのに知らない人に\nついていっちゃダメって言われてるから……。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff0f001800"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "うんうん、\n知らない人について行っちゃダメだぞ？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff2c001000ebfe000065ff10000100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん……だからおねえさんに\nついていくことはできないの。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff11001800"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "でも、私はなのちゃんを知ってるよ？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff13001800"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "だから私は知らない人じゃなくて\nなのちゃんが知ってる人だよ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0200c1ff2b001000ebfe000065ff14000100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そっか！　知らない人じゃない！\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000eefe0e000400effe070097fffbffc1ff69011000ebfe000065ff15001800"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "だからついていっても大丈夫だよ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff16000100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ついていく！\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17001800"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "それじゃあ行こっか♪\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe000065ff18000100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "行こーー！！\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2d001000ebfe0100adffffff65ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（ついていったらなのに怒られちゃうから\n　断らないと）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff2f001000ebfe000065ff1a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あのね、はかせはおうちにご飯があるから\nそっちを食べないといけないの。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff1b001800"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "そうなの？\nじゃあ軽く食べるだけにしようか。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff1c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff2f001000ebfe0100adffffff65ff1d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（……あれ？）\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe020097fffbffeefe1500040067ff1000c1ff2e001000ebfe000065ff1e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あ、あのね、でもね、会ったばかりなのに\nごちそうしてもらうのは悪いから……。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff1f001800"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "大丈夫。バイト代入ったばかりだから。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff20000100"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そっか！　じゃあ行こー！\n",
+      "text_len": 26,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff21000100"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（あれー！？）\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

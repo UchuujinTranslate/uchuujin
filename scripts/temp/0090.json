@@ -1,0 +1,815 @@
+{
+  "UNK": "2b08",
+  "id": 16,
+  "total": 88,
+  "ptrs": 368,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1400,
+      2712,
+      2716,
+      3650,
+      3676,
+      4786,
+      6140
+    ],
+    "ctrl_code": "fcffedfe080009000a0004ff03ff0300c1ffffff1000bcff9f01ff0067ff0900fcfff9ff0800eefe00000500c1ff5e001000ebfe000064ffffff0300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "えーっと、ゆっこがバナジューで、\n私は……なんにしようかな？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "うーん……\nオレンジって気分かな。\n",
+      "text_len": 36,
+      "ctrl_code": "fbff66ffba000000edffc1ffffff100067ffffffebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む？　貴様は……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc0ff030063001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff0c00e8fe0300c0ff0400e0001000c1ff64001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（さ、さ、さ、笹原先輩ーーーーー！！）\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffe7001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "近頃良く会うな。……おお、自販機と言えば、\n先日は貴重な金子をすまなかった。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え、あ、ハイっ！！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ふむ、やはり貴様もジュースを買うのか。\nなにを所望するのだ？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff6b001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え、えと……私は、オレンジを……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff02000000daffbeff2100ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffebfe0000adffffff64ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あれ？　あれ？　あれ？\n",
+      "text_len": 24,
+      "ctrl_code": "98ff010066ffbf00000097ffac0b6004110123002300d100d100d100230023000200fefffbff67ffffffc1ff65001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff1100e8fe0300c1ff69001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（またかー！！）\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffbffedffc8ff6900e6001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ふむ……この自販機……\n一時限りの戯れかと思ったが[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffe7001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "どうして、稀代の傾奇者と見える。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff64001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "えっ？　あっ、はいっ！！\n",
+      "text_len": 26,
+      "ctrl_code": "fbfffefe010001007fff0200c1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "止むを得ん、外の自販機に行こう。\n……ちと遠いが、帯同するか？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "えっ！？　は、はい！　喜んで！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff60001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（きゃ〜！\n　笹原先輩と並んで歩けるなんて〜！）\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcffedffc1ffffff1000fcff66ffb4000000daff66ffbd000000daffc1ffaf001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "……オレンジジュース？\nホットコーヒーを選んだのに……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "いや、これは冷たい物を飲むべきと言う\n運命なのかもしれん……。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ffb4001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "では、一気に[{0D80}][{0D80}]\n",
+      "text_len": 18,
+      "ctrl_code": "fbffe8fe0200c1ffb2001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "あづーーーーーーーーー！！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1d00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "（しまった！\n　思わずカップを放り投げて[{0D80}][{0D80}]）\n",
+      "text_len": 48,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800f4ff1e00beff1f001000f4ff1e00beff20001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffc1000000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ffb2001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "あづーーーーーーーーー！！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c1ffaf011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "あ。\nアンテナ、壊れた。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ホントだ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff63001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（けど……さすがにちょっとくやしいなぁ）\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff5f001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（私のお小遣いだって、\n　そんなに多いわけじゃないし……よし！）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "さ、笹原先輩！\n",
+      "text_len": 16,
+      "ctrl_code": "fbff05ffc1ffe6001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "先輩って、詩、得意なんですよね。\n一句詠んでくれませんか？\n",
+      "text_len": 60,
+      "ctrl_code": "fbffafff04000300c1ffe7001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ほう、貴様も風流を解すのか。\nよかろう。うーむ……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbff67ffffff66ff89000000c1ff62001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（今だ！！）\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff1600c1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "久方の[{0D80}][{0D80}]\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff62001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ジョイヤーッ！！！\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe090097fffbffedfffcff66ff41000000c1ffffff1000b3ff0300f4ff0400daffb2ffedffc8ff6200e7001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "じょいやー響ける春の日に[{0D80}][{0D80}]\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedfffcff66ff41000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200edffc8ff6900e7001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ヘヤッ！！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "かかとめりこみ[{0D80}][{0D80}]\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0200c1ff62001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "セアッ！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff41000000c1ffffff1000b3ff0300f4ff0400daffb2ffedffc8ff6200e0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "じゅーす賜わん〜。\n",
+      "text_len": 20,
+      "ctrl_code": "fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c1ff66001000ebfe0100adffffff65ff02000300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ここまでやっても出ないか……！）\n",
+      "text_len": 36,
+      "ctrl_code": "fbffafff04000000c1ffe6001000ebfe000065ff03000800"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "どうであった？\n我ながら良い出来だと思うのだが。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff04000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あ、あ〜、えっと……\nもう一句お願いしていいですか？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffafff04000300c1ffe7001000ebfe000065ff05000800"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ふふ、[{0DA0}]欲なやつめ。\nしかし、よかろう。では……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffe8fe0200c1ff62001000ebfe000065ff06000300"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ヘグラァッ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcff66ff41000000c1ffffff1000b3ff0300f4ff0400daffb2ff67ffffffafff04000000eefe02000400e8fe0200edffc8ff6200e5001000ebfe000065ff07000800"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff68001000ebfe000065ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………あっ。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff1000c1ffe6001000ebfe0000adffffff65ff09000800"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0400c1ff65001000ebfe000065ff0a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え、あ、あの……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ffe0001000ebfe000065ff0b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "自販機よ、金を返せと、殴り蹴る。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ffe1001000ebfe000065ff0c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "うむ、傑作だ！！\n貴様のおかげだ。感謝するぞ！！\n",
+      "text_len": 50,
+      "ctrl_code": "98ff0000effe090097fffbffc1ff61001000ebfe000065ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "へっ！？　は、はいっ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff63001000ebfe0100adffffff65ff0e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（せ、先輩が、\n　私の手を握って〜〜〜〜〜〜！！）\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff60001000ebfe0100adffffff65ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（わ、私、壊れちゃいそう〜〜〜〜〜〜♪）\n",
+      "text_len": 42,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff0b000000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff10000800"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ぬ？\n",
+      "text_len": 6,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff63001000ebfe000065ff11000300"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ど、どう……かな？\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffbc000000daffbeff2200ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800f4ff1e0066ffbd000000beff23001000daffeefe1300040067ff1500ebfe000065ff12000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あっ、やったー！　先輩、出ました！\nオレンジジュース出ましたよ！\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe070097fffbffebfe000065ff13000800"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ほう、これは[{0D81}]倖。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff030061001000ebfe000065ff14000300"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "んーー、美味しいです。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff0400e6001000ebfe000065ff15000800"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "では、私も失敬。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff16000300"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "〜〜〜〜〜〜〜〜〜〜！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffe1001000ebfe000065ff18000800"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "うむ、美味。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff60001000ebfe0100adffffff65ff19000300"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（か、か、間接キス〜〜〜〜〜〜〜〜！！）\n",
+      "text_len": 42,
+      "ctrl_code": "98ff0000effe090097fffbffc1ffe0001000ebfe000065ff1a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "おっと。あまり飲んでは悪いな。\nそら、返そう。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff1b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え、あ、はい、どうも……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff1c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "では、私はこれで。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff1d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あ、はい……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffbfff08001000c1ff65001000ebfe000065ff1e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "このコップ……ごくり、\n私……飲んでいいんだよね……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff63001000ebfe0000adffffff65ff1f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffff66ff6b000000effe0400e8fe0200c1ff65001000ebfe000065ff20000300"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "カップが！？\n……狙撃っ！？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff9c001000ebfe0000adffffff65ff21000400"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22000300"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……なぜ？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff67001000ebfe0100adffffff65ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（こ、これだけやれば、自販機だって\n　わかってくれるでしょ……）\n",
+      "text_len": 66,
+      "ctrl_code": "fbff67ffffff66ff8e000000c1ff64001000ebfe000065ff24000300"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あっ！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffafff04000000c1ffe6001000ebfe000065ff25000800"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む？　どうした。\nジュースが出たのか？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff26000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "まだですけど……\n動いてるから、たぶん……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2400ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800eefe03000400ebfe0000adffffff65ff27000300"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffebfe0000adffffff65ff28000800"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcff66ffbe000000beff25001000f4ff1e00dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800c0ff03005f001000ebfe0000adffffff65ff29000300"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0400e6001000ebfe0000adffffff65ff2a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff030067001000ebfe000065ff2b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………ごくん。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……オレンジジュースです。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffebfe000065ff2d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……良き哉。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

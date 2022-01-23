@@ -1,0 +1,662 @@
+{
+  "UNK": "f719",
+  "id": 16,
+  "total": 71,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      816,
+      1648,
+      1652,
+      2078,
+      2104,
+      3362,
+      4810
+    ],
+    "ctrl_code": "fcffedfe03000400070004ff03ff0300c1ffffff1000bcff9301ff0067ff0900fcfff9ff0800eefe00000500c1ff12011000ebfe000064ffffff0c00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ふう……昼食がすっかり遅くなってしまった。\nさて、もうひと頑張りするとしよう。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff16011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "しかし相生はまた宿題をやってこなかったが、\nどうすれば反省してくれるんだろうか……。\n",
+      "text_len": 86,
+      "ctrl_code": "fbffc1ff14011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "やはり一度じっくりと説教を……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "あっ、高崎先生！！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedffc8ff170157011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "安中！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe0200c1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "大変なんですけど！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ということは、また中之条か！！\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe020097fffbff67ffffffe8fe0200c1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "それが今回は桜井先生が行方不明なんですけど！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe020066ff7c000000c1ff1c011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ええーーーっ！！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe060097fffbff67ff1100c1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "すぐ来て欲しいんですけど！\n",
+      "text_len": 28,
+      "ctrl_code": "fbfffefe020001007fff0200c1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "わかった、すぐに行くぞ！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "あっ、先生そっちじゃないんですけど！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "っていうかそっちには猫がいるんですけど！！\n",
+      "text_len": 44,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c1ff2501ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "うおぉぉっ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300e9011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "なあ、いいニュースと悪いニュースがある。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc0ff0400f9011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "……いいニュースから頼む。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffeb011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "猫はバリアのおかげで無事だ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1fff8011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "……悪いニュースは？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1fff5011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "アンテナを守るのを忘れてた。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "……なるほど。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "わかった！　桜井先生の危機と聞いたら\nこうしてはいられん！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff1e011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "行くぞ安中！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "あっ、先生！\n",
+      "text_len": 14,
+      "ctrl_code": "fbff05ffc1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "何だ安中！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff59011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "桜井先生の居場所に心当たりないんですけど！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffe8fe020066ff7c000000c1ff17011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！！？\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff57011000ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "高崎先生、知ってるんですか！？\n",
+      "text_len": 32,
+      "ctrl_code": "fdff7fff040002ff01ff0000960005003200fbfffa0000fffffe050006000700c1ff18011000ebfe0000adffffff65ff06000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffc1ff14011000ebfe000065ff07000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "いいか、よく聞け。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff56011000ebfe000065ff08001400"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "はい！\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff1800e8fe0200c1ff15011000ebfe000065ff09000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "桜井先生の居場所は……知らん！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffeefe02000400e8fe0200c1ff59011000ebfe000065ff0a001400"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "ええーーーっ！！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe020097fffbffe8fe0200c1ff21011000ebfe000065ff0b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "そうだ！！　ダウジングしろ！！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff0c001400"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "やってみます。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0200c1ff17011000ebfe000065ff0d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ええーーーっ！！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0200c1ff1c011000ebfe000065ff0e000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ま、待て！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0200c1ff59011000ebfe000065ff0f001400"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "ええーーーっ！！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff1a011000ebfe000065ff10000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "手がかりが無いからって何だ！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffe8fe0200c1ff21011000ebfe000065ff11000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "教育者として人が行方不明なら何が何でも探す！\nそれが……その、教育者だ！！\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff12001400"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "でも、何か今桜井先生が歩いてたんですけど。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffeefe03000400e8fe0200c1ff17011000ebfe000065ff13000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ええーーーーっ！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff56011000ebfe000065ff14001400"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "私の勘違い……だったみたいなんですけど。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff18011000ebfe0000adffffff65ff15000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff58011000ebfe0000adffffff65ff16001400"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "安中、職員室まで来なさい。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffebfe000065ff18001400"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "ハイ。\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff16011000ebfe000065ff19000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ヒント無しか……。\nこれは地道に聞き込むしか……そうだ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffeefe19000400e8fe0200c1ff1a011000ebfe000065ff1a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "安中、中之条を呼んできてくれ！\n失[{0DA2}]といえばアイツだ！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffe8fe0200c1ff59011000ebfe000065ff1b001400"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "いってきます！\n",
+      "text_len": 16,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c0ff03001801ff0090ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff0400f6001000ebfe000065ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "何ですか先生。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff12011000ebfe000065ff1d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "中之条、桜井先生が失[{0DA2}]した。\nお前、居場所を知ってるんじゃないか？\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff8001000ebfe000065ff1e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あ、ハイ。知ってますけど。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0300c1ff17011000ebfe0100adffffff65ff1f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "（ええーーーっ！！？\n　勢いで言ったのに知ってるのかよ！）\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff20000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "今こっちに来る時、すれ違いました。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffeefe03000400c1ff1c011000ebfe000065ff21000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc0ff040057011000ebfe000065ff22001400"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "……あ、そういえば見たような気が。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff58011000ebfe000065ff23001400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "ご、ごめんなさいっ！\n私の勘違いだったみたいです！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff1e011000ebfe000065ff24000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "……気にするな安中。\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff25000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "（そうさ、安中も悪気があったわけじゃない。\n　むしろ桜井先生を心配した結果だ）\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe0100adffffff65ff26000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "（それを怒れるはずがない。\n　それが教師ってもんだろ？）\n",
+      "text_len": 58,
+      "ctrl_code": "98ff0000effe070097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff27000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……あのー、呼ばれたのってそれだけ？\n",
+      "text_len": 38,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff1a011000ebfe000065ff28000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "……知らん！！\nだが、１つだけわかることがある。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff59011000ebfe000065ff29001400"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "な、何ですか？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffeefe19000400c1ff14011000ebfe000065ff2a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "桜井先生の居場所を見つける手がかりだ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff2b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "今日の昼休み、\nオレは桜井先生と話をしていたんだが……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200c1ff1c011000ebfe000065ff2c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "たしか、そう！\n桜井先生は早上がりだと言っていた！\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe070097fffbffc1ff59011000ebfe000065ff2d001400"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "た、高崎先生っ。\n",
+      "text_len": 18,
+      "ctrl_code": "fbff67ffffffc1ff57011000ebfe000065ff2e001400"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "それって、桜井先生は家に帰っちゃってるって\n意味に聞こえるんですけど。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffeefe0200040066ff81000000c1ff18011000ebfe0000adffffff65ff2f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff58011000ebfe0000adffffff65ff30001400"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff4000ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff31001400"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "あっ、高崎せんせーーーーっ！？\n",
+      "text_len": 32,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

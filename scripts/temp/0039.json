@@ -1,0 +1,788 @@
+{
+  "UNK": "ab15",
+  "id": 16,
+  "total": 85,
+  "ptrs": 368,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      742,
+      1656,
+      1660,
+      4382,
+      4408,
+      5694,
+      6182
+    ],
+    "ctrl_code": "fcffedfe03000400070004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500c1fffa001000ebfe000064ffffff0a00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "いつになったら、この髪が元に戻るんだ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffff001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "今はまだ誰にもバレていないけど……\nこのまま治らなければ、いつかきっと……。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "こんな時こそ科学の出番だが……\n勉強不足な僕には手も足も出ない症状だ……。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……ん？　なんだここ？\n東雲研究所？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1fffa001000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ！　モヒカンだ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1fffe001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbff67ff0a00edffc8fffe002b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは、モヒカンだ！\n初めて見た！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ffff001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（なんだこの子……\n　もしかしてこの研究所の子？）\n",
+      "text_len": 52,
+      "ctrl_code": "fbfffefe000001007fff0200edffc1ffffff1000c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わっ！　犬だ！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0400c0ff04002c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "助けて！　噛まれちゃう！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc0ff0300f7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ？　ああ、大丈夫だよ。\n犬はこうやって頭を撫でれば[{0D80}][{0D80}]\n",
+      "text_len": 60,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff0300bb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "うわあっ！　アンテナがピンチだ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff0400c5011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "耐えてくれ……耐えてくれーっ！！\nええい、もっと頑丈に作っておけよっ！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "し、仕方ないだろ、予算が足りなかったんだ！\n文句があるなら姫にでも言ってくれ！\n",
+      "text_len": 80,
+      "ctrl_code": "fbffe8fe0200c1ffc7011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "くそーっ！\n姫のばかーーーーっ！！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "ええっ！？\nまだ、壊れていなかったはずだぞ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……あ、姫のとこに回線つながってた。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "speaker_len": 6,
+      "text": "姫のばかーーーーっ！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ねえお嬢ちゃん、ここ、研究所だよね？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん。はかせの研究所だよ。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "その博士は今どこにいるの？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせがはかせだよ。\n",
+      "text_len": 22,
+      "ctrl_code": "fbff67ffffffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ？　お嬢ちゃんが博士！？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん！\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff1000c1ffff001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（この歳で博士……？\n　信じられない……）\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（いや、だが、天才に年齢は関係ない。\n　小さくても天才なんだ、この子は）\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "じゃあ博士、お願いなんですけど……\nこの髪の毛、見てくれますか？\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "モヒカン！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1fffd001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "そう。だけどモヒカンの部分だけ\n幽霊になってるんです。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "さわってもいい！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ？　あ、い、いいですけど、\nでも、今は髪の毛が幽霊になってて[{0D80}][{0D80}]\n",
+      "text_len": 70,
+      "ctrl_code": "fdffedfffcff1aff04000000f0ff00001e0016ffffffe8fe0200c1ff2b001000adff0500ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あはははは！\n",
+      "text_len": 14,
+      "ctrl_code": "98ff010066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff640154012d01750109000000df00fa001201f200f500f9001a010900feff98ff000066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97fffbffe8fe0200c1ff00011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "触れてるーーー！？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe030097fffbffc1fffd001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（ど、どういうことだ？\n　僕は触れなかったのに……）\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ちょ、ちょっとスイマセン。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff00001aff04000000680000003c0016ffffff97fffbffc1fffa001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……触れた。あっ……\nでもまた触れなくなった。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（どういうことだ……？\n　何か条件があるのか……？）\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ハッ！？　そ、そうか！　科学の力で\n幽霊になった髪に触ったんですね！？\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff2d001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なにそれ？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff00011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "違ったーーー！？\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffbffc1fffb001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（うう……触れたり触れなかったりなんて\n　ハッキリしない幽霊だ……）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1fffd001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "くっ……だけど博士、博士ならきっと\n科学の力でこの髪の毛を治せますよね？\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff29001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "できるよ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff00011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe080097fffbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ちょっと待ってて！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "は、はいっ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0400ffff1000daffc1fff8001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（博士はすでに治し方がわかっているのか！？\n　やっぱりこの子は天才だ！！）\n",
+      "text_len": 76,
+      "ctrl_code": "fbff05ffc0ff04002b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はい！　この薬を頭につけて。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "うん！\n",
+      "text_len": 8,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffc9000000daffbeff7a00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffc9000000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（これで治るんだ……\n　科学が勝利する瞬間だ……！！）\n",
+      "text_len": 56,
+      "ctrl_code": "fbff67ffffffbeff7a000400beff7900040066ff7b000000f5ff0800beff7e001000dafff6ff0800e8fe0200ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe020097fffbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あはははははははは！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbff66ff7c000000e8fe0200ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700eefe0300040067ff0f00ebfe000065ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははははは！\nモヒカン３つ！　あははは！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffebfe000065ff08000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff2b001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ププーー！　カットパインが３つになった！\nプププププ！　美味しそう！！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff0a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe000065ff0b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "は……。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffeefe01000400ebfe000065ff0c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……んん？\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7e00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "生えたーーーー！！！\n横からも髪が生えたーー！！！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffeefe13000400ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffebfe000065ff0f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは！\n生えた生えた！　ニョキニョキ生えた！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff10000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "うおおおおおお！\n僕の毛根は死んでなかったんだーー！！\n",
+      "text_len": 56,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff001ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff11000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あはははははは！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "うおおおおおおおお！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff26011000ebfe0000adffffff65ff13000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "……これ、止めた方がいいのか？\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1500ebfe0100adffffff65ff15000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（か、髪が、生えた……\n　もう生えないと思われた場所に……）\n",
+      "text_len": 62,
+      "ctrl_code": "fbffebfe0100adffffff65ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（僕の死んだ毛根にさえも効くなんて\n　博士の発明した育毛剤はなんてすごいんだ）\n",
+      "text_len": 80,
+      "ctrl_code": "98ff0000effe070097fffbffeefe01000400ebfe0100adffffff65ff17000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（だが……だが、しかし……！！）\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe0100adffffff65ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（新しい２つも触れない……！！\n　傷口が拡がっただけだ……）\n",
+      "text_len": 62,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000ebfe000065ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは！　変な髪型！\nカットパインが３つも刺さってる！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff2b001000ebfe000065ff1b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あはははははは！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffeefe06000400ebfe000065ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe0100adffffff65ff1d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（なんてことだ……調査対象に目もくれず、\n　モヒカンで遊ぶだなんて……！！）\n",
+      "text_len": 78,
+      "ctrl_code": "fbffebfe0100adffffff65ff1e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（だが、仕方ない。この子は確かに天才だけど\n　まだまだ精神的に未熟。責められない）\n",
+      "text_len": 84,
+      "ctrl_code": "fbffebfe0100adffffff65ff1f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（責めるべくは自分の身に起こったことを\n　自分で対処できない僕だ！）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffebfe0100adffffff65ff20000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（こうなったら、自分一人で何とかしなくては！\n　さようなら、はかせ！）\n",
+      "text_len": 72,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff21000100"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははははは！　はあ、はぁ……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff22000100"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はぁ……面白かった！\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff23000100"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "でもどっか行っちゃった。\nせっかく治してあげようと思ったのに。\n",
+      "text_len": 64,
+      "ctrl_code": "98ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

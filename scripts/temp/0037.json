@@ -1,0 +1,644 @@
+{
+  "UNK": "5615",
+  "id": 16,
+  "total": 69,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      580,
+      1520,
+      1524,
+      2536,
+      2562,
+      3740,
+      5032
+    ],
+    "ctrl_code": "fcffedfe01000200060004ff03ff0300c1ffffff1000bcff9301ff0067ff0600fcfff9ff0800eefe00000500ebfe000064ffffff0a00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "結局、学校に来てしまった……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（髪型は元のモヒカンに戻せたから良いが、\n　相変わらず幽霊になったままだ）\n",
+      "text_len": 76,
+      "ctrl_code": "98ff0000effe000097fffbffc1fffd001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（こんなことになってるなんて、\n　誰にも気付かれるわけにはいかない）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1fff6001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（なあに、今日は運良く半日だ。\n　午前の授業を耐えれば、すぐに終わり）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1fff7001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（それまでの間、誰にもモヒカンのことを\n　気付かれなければ良いだけさ！）\n",
+      "text_len": 74,
+      "ctrl_code": "fbfffefe000001007fff0200c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8fffb0030011000c1fffb001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ん？　あれ、犬が入り込んで[{0D80}][{0D80}]\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffff66ff7b000000e8fe0200c1fffe001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff0f00c1fffb001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（こ、この犬……モヒカンを見ている！？\n　もしかしたら動物にはわかるのかも……）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff00011000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（！？　まずい、このまま見つめられていたら、\n　他のみんなにも気付かれてしまう……！！）\n",
+      "text_len": 90,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c0ff0300f6011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "うおっ！？　いきなりなんだ！？\nこっちに向かってきたぞ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc0ff0400fb011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "に、逃げろ！\nこのままでは犬が捕まってしまう！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1fff0011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "ああっ、ダメだ！\n逃げても追いかけてくるぞ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1fff3011000ebfe000065ff03002600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "あああっ、捕まった！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002700"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "アンテナも壊れたーーっ！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あ、あの、中之条くん……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc8fff60011011000c1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……あっ、桜井先生。\nおはようございます。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あっ、はい、おはようございます。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "どうかしましたか？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff11011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "え、えっと……\nその髪型のことなんですけど……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbff67ffffffe8fe0200c1fffe001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbff67ff1000c1ff08011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "前に、髪についての事情は\n聞かせてもらいましたけど……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff0a011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "で、でも、やっぱり今のままでは\n風紀的にアレなので……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff11011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "その……髪の毛は立たせないように\nしてもらえると……その……。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ffff001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（くっ……桜井先生の意見はもっともだ……\n　理由はどうあれ、僕は風紀を乱している）\n",
+      "text_len": 84,
+      "ctrl_code": "fbff05ffe8fe0300c1fffd001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（しかし！　しかし今は！\n　下ろしたくても触ることすらできない！）\n",
+      "text_len": 68,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あ、そうです。\nどうせなら、かわいい髪型にしてみませんか？\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe080097fffdff7fff040002ff01fffbfffa00000096000500320000fffffe05000600070067ffffffe8fe0200c1fffb001000ebfe000065ff05000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "チューリップとかですか！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe020066ff7c000000c1ff0c011000ebfe000065ff06000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe020097fffbffeefe0f00040067ff1100e8fe0200c1fffd001000ebfe000065ff07000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "チューリップだけは勘弁してください！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff08000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "え、あ、スイマセン！\nそれなら、チューリップはなしでいいですよ！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffe8fe0200c1fff9001000ebfe000065ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "他の花も嫌です！\n助けてください！\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff11011000ebfe000065ff0a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ハ、ハイ！\n花全般、なしでいいです！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffe8fe0200c1fffb001000ebfe000065ff0b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "じゃあ、この髪型でもいいですか！？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ffff001000ebfe0100adffffff65ff0c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（そう、冷静に考えてみると、\n　別のどんな髪型でも今はダメなんだ……）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1fffd001000ebfe0100adffffff65ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（なんとかして……なんとかして、\n　この状況を回避しなければ！）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff0e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "えっ？\nこの髪型でもって……そ、それは……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0200c1fffc001000ebfe000065ff0f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "いいですか！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0400c1ff0c011000ebfe000065ff10000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ひ！？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffe8fe0200c1ff11011000ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "きょ、許可します！\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe0900eefe0200040097fffbffc1ffff001000ebfe000065ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "よかった！\n……あれ？\n",
+      "text_len": 24,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あれ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400c1fffa001000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "か、かわいい髪型……ですか？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff15000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "はいっ。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1fffb001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "た、例えばどんな……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff17000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "そうですね……あ、あの、長さを知りたいので\nとりあえず、一度崩してもらえますか？\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ffff001000ebfe0100adffffff65ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（くっ、まずい、今の僕の髪が\n　さわれないことを知られては……！）\n",
+      "text_len": 68,
+      "ctrl_code": "fbff67ffffffeefe19000400c1fffd001000ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff1200c1ff0b011000ebfe000065ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……あ、あの、中之条くん？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe0400c1fffa001000ebfe000065ff1b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……じ、実は、僕、５円ハゲが……！\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff08011000ebfe000065ff1c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200c1fffd001000ebfe000065ff1d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "６円でもいいんです！\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff0c011000ebfe000065ff1e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……あがった！！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1fffa001000ebfe000065ff1f000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "だから、下ろしたくないんです。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff07011000ebfe0000adffffff65ff20000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……６円なら、しかたありませんね。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe070097fffbffc1fff7001000ebfe000065ff22000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ありがとうございます、先生っ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff00c1ff4000ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff40001000ebfe0000adffffff65ff23000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24000200"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……どうして？\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fffa001000ebfe000065ff25000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "かわいい髪型……？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff26000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "はいっ！　かわいい髪型なら、\nきっと風紀を乱すことはないと思います。\n",
+      "text_len": 70,
+      "ctrl_code": "98ff0000eefe11000400effe070097fffbffc1ffff001000ebfe000065ff27000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……でも、桜井先生。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff28000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………？\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffc1fffa001000ebfe000065ff29000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "男子がかわいい髪型にしても、\nあまり、かわいくないと思いますが……。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffeefe02000400c1ff0d011000ebfe0000adffffff65ff2a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe020097fffbff67ff1400c1ffff001000ebfe0000adffffff65ff2b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff2c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あー……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……ごめんなさい。\n",
+      "text_len": 20,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

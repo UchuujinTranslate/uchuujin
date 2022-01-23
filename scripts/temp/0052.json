@@ -1,0 +1,797 @@
+{
+  "UNK": "f10e",
+  "id": 16,
+  "total": 86,
+  "ptrs": 368,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1040,
+      2834,
+      2838,
+      3316,
+      3342,
+      4574,
+      5466
+    ],
+    "ctrl_code": "fcffedfe00000000000004ff03ff0300c1ffffff1000bcff9301ff0067ff0600fcfff9ff0800eefe00000500c1ff45001000ebfe000064ffffff0200"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あっ、麻衣ちゃん。\nスラマッパギ！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "スラマッマラム。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffc8ff3800ca001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えへへ。そうやって返してくれるのは\n麻衣ちゃんだけだよー。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff45001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ありがとね。今日はそのお礼をこめて\n麻衣ちゃんにプレゼントがありまーす！\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ffd0001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "プレゼント？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff3e001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "そう！　そのプレゼントとは……\nじゃじゃーん！　弥[{0DA8}]菩薩ー！\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe070097fffbffc1ffd1001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ありがと[{0D80}][{0D80}]\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ffffffc9ff5102100066ff7d000000c1ffd2001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1200c9ffffff1000edffc8ff3800d2001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "いやー、昨日店でたまたま見つけてさー。\n麻衣ちゃん喜ぶかなーと思って買っちゃった。\n",
+      "text_len": 84,
+      "ctrl_code": "fbffc1ffcc001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……あれ？　麻衣ちゃん？\n嬉しくないの？　弥[{0DA8}]菩薩だよ？\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ffd4001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "嬉しいことは嬉しい。\nでもその弥[{0DA8}]菩薩、銅製だから。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff40001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えっ？　違いがあるの！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbfffefe010001007fff0200c1ffcd001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "あっ。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffd200b3001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……あげる。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c1ffa6011000ebfe000065ff00002100"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "うおお！　マジかよ！\nもらっていいのか！？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc8ffa601bc011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "いや、お前にじゃなくてこのオッサンに\nあげたんだろ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffaa011000ebfe000065ff02002100"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "あっ。\nそ、そうだよな……それじゃ断らせるよ。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffedfffcff66ffb4000000daffc1ffbd011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……なあ、そんなに欲しかったのか？\nと言うかさ、そんな趣味があったのか？\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ffa6011000ebfe000065ff04002100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "ちょっとな。\n地球のことを勉強してたら見つけてさ……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffbc011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "じゃあ銅製と木製の違いがわかるのか？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff9e011000ebfe000065ff06002100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "いや、そこまで通じゃない。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffa0011000ebfe000065ff07002100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "だから今度、\n勉強のために地球に行こうと思うんだ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ffbd011000ebfe000065ff08002300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "えっ？　地球に？\nでも、勝手に降りるわけにはいかないだろ。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ffa6011000ebfe000065ff09002100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "抜け出すんだよ。\nなーに最悪、姫にバレなきゃなんとかなるさ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc1ffffff100066ff00000000c1ff75021000ebfe0000adffffff65ff0a001000"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffa00175021000ebfe000065ff0b002100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "いやー楽しみだなー。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedffc8ffa001c5011000ebfe000065ff0c002300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "お、おまえ……う、うしろ……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedffc8ffa00175021000ebfe000065ff0d002100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "……あっ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff040075021000ebfe000065ff0e001000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "お土産を忘れるなよ。\n",
+      "text_len": 22,
+      "ctrl_code": "fdffedfffcff66ff04000000daff1aff0300000078ff10010a0016ffffffedffc0ff0300ffff100066ff07000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1001ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0f002100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "行ってきまーーーーす！！\n",
+      "text_len": 26,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ffc8011000ebfe000065ff10002300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "あいつ、無茶な計画するから……\nでも俺たちはあいつのことずっと忘れな[{0D80}][{0D80}]！\n",
+      "text_len": 76,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff11002300"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……えっ！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ffcc001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "違う。似ているようで全然違う。\n",
+      "text_len": 32,
+      "ctrl_code": "fbff05ffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "へ、へぇー、奥が深いんだね。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffd2001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "うん。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff3b001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "この菩薩はお気に召さなかったかー。\n今度から買う時は木製にするよ。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff3e001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "銅製の弥[{0DA8}]菩薩には麻衣ちゃんを\n[{0D83}]らせるだけのみろくが無かったみたいだし！\n",
+      "text_len": 76,
+      "ctrl_code": "98ff0000effe010097fffbff67ffffffc1ffd4001000ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "なーんちゃって〜……。\n",
+      "text_len": 24,
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3700ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800eefe02000400edfffcff66ff4b000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff12000200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ワーオ！！！\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13000200"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "〜〜〜〜〜〜〜〜〜〜〜っ！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff14000200"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うううう……\nツッコミが厳しいよ麻衣ちゃん！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffebfe000065ff15000700"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "仏罰。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffebfe000065ff16000200"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "仏罰じゃないじゃん。\n思いっきり私怨じゃん。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000065ff17000700"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ツッコミ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff18000200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ハードだよ！\nもっとソフトに突っ込んでよ！\n",
+      "text_len": 44,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff03003b001000ebfe000065ff19000200"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "もう……銅製だから頭にごわぁんってなって\nすごい痛いんだからね。\n",
+      "text_len": 66,
+      "ctrl_code": "fbff67ffffffc0ff0400cc001000ebfe000065ff1a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "木製なら……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff44001000ebfe000065ff1b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff1400c1ffd4001000ebfe000065ff1c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "木製なら、そんなに痛くなかった。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffeefe02000400c1ff3c001000ebfe0000adffffff65ff1d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe070097fffbffc1ffca001000ebfe0000adffffff65ff1e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……いいね、木製。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffebfe000065ff20000700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "うん。\n",
+      "text_len": 8,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0f00040067ff1000c1ffd2001000ebfe0000adffffff65ff21000700"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3b001000ebfe0000adffffff65ff22000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff23000200"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あ〜っと……銅製もギャグも\nお気に召さなかったかな？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff38001000ebfe000065ff24000200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あははは、ごめんね。\n銅製は私が持って帰るから。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffca001000ebfe000065ff25000700"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……ゆっこ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff3800ca001000ebfe000065ff26000200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ん？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff27000700"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "銅製には銅製の良さがある。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe0700eefe1100040097fffbffc1ff40001000ebfe0000adffffff65ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff65ff29000700"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff2a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "木製がいいんじゃないの？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff2b000700"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "それはそれ。これはこれ。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff44001000ebfe0000adffffff65ff2c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff65ff2d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "いる？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffebfe000065ff2f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "いる。\n",
+      "text_len": 8,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffca001000ebfe000065ff30000700"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "魅力が無いわけじゃない。\n銅製は銅製で良さがある。\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe0700eefe1100040097fffbffc1ff42001000ebfe0000adffffff65ff31000200"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff40001000ebfe000065ff32000200"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……そうなんだ。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff33000700"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "そう。私は木製の方が好みなだけ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff34000200"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "そ、そっか……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff65ff35000700"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe0000adffffff65ff36000200"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff40001000ebfe000065ff37000200"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……ま、まあ、\n麻衣ちゃんの気持ちもわかるけどね。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff3e001000ebfe000065ff38000200"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "いきなり銅製の弥[{0DA8}]菩薩渡されても\nどうせいっちゅーんじゃって思うよね！\n",
+      "text_len": 72,
+      "ctrl_code": "98ff0000effe010097fffbffc1ffd0001000ebfe000065ff39000700"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "そう？\n飾ればいいと思うけど。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffeefe03000400e8fe020067ffffff66ff7c000000c1ff40001000ebfe000065ff3a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff1400c1ff40001000ebfe0000adffffff65ff3b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daffeffe0300c1ffca001000ebfe0000adffffff65ff3c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff3d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……飾ろう。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

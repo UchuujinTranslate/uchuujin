@@ -1,0 +1,833 @@
+{
+  "UNK": "1e1e",
+  "id": 16,
+  "total": 90,
+  "ptrs": 384,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1104,
+      2080,
+      2084,
+      2740,
+      2766,
+      4342,
+      5680
+    ],
+    "ctrl_code": "fcffedfe03000400070004ff03ff0300c1ffffff1000bcfff301ff0067ff0900fcfff9ff0800eefe00000500c1ff4e011000ebfe000064ffffff1200"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "やっとお昼……。\n何だかもう１日分、動いた気がする……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "でも、何とか部長は戻ってこれたし、\n一安心かな。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff4f011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部室でご飯食べて、\nお昼からはゆっくりしたいな。\n",
+      "text_len": 50,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcffae01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0300eb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "関口遅いぞー。\n待ちくたびれたじゃないか。\n",
+      "text_len": 44,
+      "ctrl_code": "fbff66ff7c000000e8fe0200c0ff040050011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbff67ff1000c1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部長、どうしてここに？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうしてって昼メシに決まってるだろ。\nもう腹ペコで死にそうだよ！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "先に食べてれば良かったじゃないですか。\n別に約束なんてしてませんし。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ffeb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いやー、何か今日は関口と食いたい気分でさ。\n邪魔だったか？\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe080097fffbffc1ff51011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "え……っと、別に邪魔ではないですけど。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffe8fe0200c1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "じゃあ早速メシにしようぜ！\nもう腹減って死にそうなんだよ。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "……はい。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfffefe010001007fff0200faff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffae01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "さーて、食うぞー！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc0ff040050011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "あっ……！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0300eb001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうした関口。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "私のお弁当が無いんです。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "関口のお弁当が？\n……もしかして、アレか？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "むしゃむしゃむしゃ……\nうぅむ、美味だ。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………アレです。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c0ff030033021000ebfe000065ff00002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "おい、何やってんだ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc0ff04000a021000ebfe000065ff01002800"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "仕方ないだろ。アンテナのオッサンが\n空腹で倒れそうだったんだよ。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff2c021000ebfe000065ff02002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "でも、他人の弁当を食わせたのはマズいって！\n怒られるぞ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff0f021000ebfe000065ff03002800"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "なーに、オッサンは校長だぜ？\n相手は生徒だし、大丈夫だって。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002800"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "うそ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300faff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffae01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "さーて、今日は何かなー？\n",
+      "text_len": 26,
+      "ctrl_code": "fbff05ffedffc8fff1004f011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "相変わらず豪華ですよね、部長のお弁当。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "んー、そうか？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1fff2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "関口の弁当こそ、うまそうだぞ？\nなんていうか、いかにもお弁当って感じ。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "そうですか？\n確かに今日は彩りよくできたと思いますけど。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "え、関口コレ自分で作ったの？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff51011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "そうですけど。\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0200c1fff2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "マジで！？\n関口、ちょっとおかず交換しようぜ！？\n",
+      "text_len": 50,
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700c1ff4e011000ebfe000065ff05001200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "どれがいいですか？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff06000900"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "んじゃ玉子焼きもーらい。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff07000900"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "んぐ、むぐむぐ……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff08001200"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "どうですか？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffeefe02000400e8fe0200c1fff1001000ebfe000065ff09000900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "お、うまい！\nすっげえうまいんだけどコレ！！\n",
+      "text_len": 46,
+      "ctrl_code": "98ff0000effe090097fffbffc1ff4f011000ebfe000065ff0a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "良かった、実は自信作なんです。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff0b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なるほど、うまいわけだ。\nでもアレだよな[{0D80}][{0D80}]\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff0c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "弁当に甘い玉子焼きって珍しいよな。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff0d001200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "しょっぱい方が邪道です。\n",
+      "text_len": 26,
+      "ctrl_code": "98ff0000effe020097fffbff67ff1100c1fff2001000ebfe000065ff0e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いやいや、米食うんだから\nしょっぱい味の方が普通だろ。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff0f001200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "お米は甘いものでも美味しく食べられます。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff10000900"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いや、ソレは変だろ。\nここは部長として譲らないぞ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff11001200"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "私も譲りません。\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe080097fffbffeefe05000400e8fe0200c1fff5001000ebfe000065ff12000900"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "しょっぱい方が普通だって！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff13001200"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "甘い方です。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0200c1fff3001000ebfe000065ff14000900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "しょっぱい！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff15001200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "甘い。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ffef001000ebfe000065ff16000900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "くっ、強情だな……。\n玉子焼きといえばソース味が基本なのに！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffeefe03000400c1ff50011000ebfe000065ff17001200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "え……？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0200c1fff1001000ebfe000065ff18000900"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "よし、今度オレが作って持ってきてやる！\nそれを食えば関口も考えが変わるはずだ！\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff19001200"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部長、ちょっと待[{0D80}][{0D80}]\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "その日が楽しみだぜ！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffebfe0100adffffff65ff1b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "（ダメだ……これは、逃げられなさそう）\n",
+      "text_len": 40,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4e011000ebfe000065ff1c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "いいですよ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff1d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "お、じゃあハンバーグもーらい。\n",
+      "text_len": 32,
+      "ctrl_code": "fbff67ffffffeefe0300040066ff7e000000e8fe0200c1fff4001000ebfe000065ff1e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "んぐ……ッッッ！！！？\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff50011000ebfe000065ff1f001200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "どう、ですか？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff0e00eefe04000400e8fe0400c1fff5001000ebfe000065ff20000900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "……な、なんていうんだ？\nオリジナリティ溢れてるというか。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ffef001000ebfe000065ff21000900"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "げふっ！　あー、えーっと……\nこの味はちょっと真似できないな。\n",
+      "text_len": 64,
+      "ctrl_code": "98ff0000effe060097fffbffc1ffed001000ebfe000065ff22000900"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "噛むと生や……生々しい肉汁が出てきて。\nう、うん……うまいよ。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff4f011000ebfe000065ff23001200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "良かった。\n実はハンバーグは少し不安だったんです。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff24001200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "そんなにおいしいなら\n私もハンバーグから……。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1fff5001000ebfe000065ff25000900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "あーっと！\nちょっと待て関口！！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200c1ffeb001000ebfe000065ff26000900"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "悪いんだがコレはオレのものだ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff27001200"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部長……？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1fff3001000ebfe000065ff28000900"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "気に入った！　だから全部くれ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff29001200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "それはいいですけど、\nそんなに気に入ったんですか？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffe8fe0200c1fff5001000ebfe000065ff2a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ああ、こんなの食ったことないぜ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbff67ffffffc1ff4f011000ebfe000065ff2b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "でしたら、また作ってきます。\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe080097fffbffe8fe020066ff7c000000c1fff4001000ebfe000065ff2c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "！！！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "……よ、よろしく。\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff4e011000ebfe000065ff2e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "ダメです。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffeefe14000400c1fff2001000ebfe000065ff2f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "えー、ちょっとぐらいいいじゃん。\n",
+      "text_len": 34,
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff4e011000ebfe000065ff30001200"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "自分用に作ってきたお弁当ですから。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff31000900"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうしてもか？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff32001200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "ダメです。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffef001000ebfe000065ff33000900"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "……ちえー。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff34000900"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "まあいいや、\nしょうがないから自分の弁当でも食うかな。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff35000900"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "今日も惣菜〜、明日は仕出し〜。\n薄味仕立ての親の愛〜っと。\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff4e011000ebfe000065ff36001200"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部長。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff37000900"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "んー？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff51011000ebfe000065ff38001200"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "また今度、改めて部長用に作るのは\n大丈夫なんですけど。\n",
+      "text_len": 56,
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200c1fff2001000ebfe000065ff39000900"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "マジで！？\n頼むよ！　是非頼む！！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff4f011000ebfe000065ff3a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "わかりました。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff3b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いやー、まさかの逆転ホームランだよ。\nそれにしてももったいぶるじゃないか。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1fff4001000ebfe000065ff3c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "はっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff3d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "別料金！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff3e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "違います。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

@@ -1,0 +1,1049 @@
+{
+  "UNK": "3907",
+  "id": 16,
+  "total": 114,
+  "ptrs": 480,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      2504,
+      3580,
+      3584,
+      5004,
+      5030,
+      7144,
+      8486
+    ],
+    "ctrl_code": "fcffedfe01000200060004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe0000050066ff13000000daffc1ff66001000ebfe000064ffffff0300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はぁ……やっと帰れる……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff44021000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（すぐに郵便局行って\n　この原稿を送らなきゃ……）\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff64001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（……っと、その前に、\n　念のため中を確認しとこっと）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff5e001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（…………よし。周りに誰もいない。\n　今の内に……１……４……８……）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff6a001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……ん？\n数え間違えたかな。もう一回……。\n",
+      "text_len": 44,
+      "ctrl_code": "fbff67ffffffc1ff63001000ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff7c000000c1ff65001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff1100e8fe0300c1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（なーーーーーーいっ！！）\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff65001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（いや違う、正確には、\n　足りなーーーーーーーいっ！！）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（やっぱりあれだ！\n　ゆっことぶつかった時！！）\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff65001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（くっ、タイムリミットは！？\n　ううっ！？　あと数時間しかない！）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff69001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ええい、悔やんでいる間も惜しい！\n　今からでも探し出してやる！）\n",
+      "text_len": 68,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あっ、長野原さん。\nちょっと相談があるんですけど[{0D80}][{0D80}]\n",
+      "text_len": 54,
+      "ctrl_code": "fbffedffc8ff65000d011000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "えーっ！？　すみません、\nいま急いでるんで今度にしてください！！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff07011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あの、お時間は取らせませんから……\nちょっとだけお願いします。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff66001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "うぅ〜……な、なんですか？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "はい、実は……あれのことなんですけど。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff64001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あれ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8a00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7b000000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！！！！？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe080097fffbff67ff1400ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "長野原さんの絵がとても素敵だったので、\n生活指導の垂れ幕に使わせてもらったんです。\n",
+      "text_len": 84,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff04000d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "美術部の子が描いてくれたんです。\n元の絵そっくりで良くできてますよね。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc0ff030066001000ebfe0000adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff11011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "？？？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（終わった……\n　私の平穏な学園生活が崩れていく……）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff6c001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………ん？\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（あそこに引っかかってるの、\n　私の原稿だ！！）\n",
+      "text_len": 50,
+      "ctrl_code": "fbfffefe010001007fff020066ffc7000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あっ！？　こっちに落ちてくる！！\nやった、そのまま[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff68001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff1800e8fe0200c1ff69001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "見るなーーーーーー！！\n",
+      "text_len": 24,
+      "ctrl_code": "fdffedfffcff1aff0300000000fe00000a0016ffffffedffc1ffffff1000c1ffb3001000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200c1ffb2001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c0ff030027021000ebfe000065ff00002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "見えた！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc0ff040014021000ebfe000065ff01002800"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "えっ、嘘！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff27021000ebfe000065ff02002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "マジだ！\nほんの一瞬だけどな。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff13021000ebfe000065ff03002800"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "くっそおおおお！\n俺、全く見えなかったぁああ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff0c021000ebfe000065ff04002800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "お、おい、教えてくれよ。\nどんなのが見えたんだ？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff27021000ebfe000065ff05002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "それが……なんかモヒカンのやつが\n服を脱いでる絵だったんだけどさ。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff13021000ebfe000065ff06002800"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "…………えっ？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff26021000ebfe000065ff07002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe0000adffffff65ff08002800"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "[{FF0D}]＆[{FF0F}]",
+      "speaker_len": 6,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030066ffc7000000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ああっ！！　飛ぶ！！\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edffc8ff65000b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "えっ？　な、何がですか？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（あっ、堪えた！　まだ飛ばされずに\n　ポスターにくっついてる！）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff6a001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あれなら……屋上に行けば……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff0d011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "屋上？　屋上がどうかしたんですか？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff5f001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ごめんなさい！！\n私、行きます！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffc1ff0c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "きゃ！　長野原さん！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "飛ぶ……屋上……逝く……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbff67ffffff66ff7b000000e8fe0200c1ff0c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa201ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はぁ、はぁ……！\nげ、原稿は…………！？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あっ！！　良かった〜、\nまだ風に飛ばされてなかった！\n",
+      "text_len": 54,
+      "ctrl_code": "fbff05ffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "回収回収っと。……あっ！\nこのシーン一番重要なとこじゃん！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "見られたら一番ヤバいシーンだよ……\nホントに危なかった……。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "さて、誰かに見られる前に\nさっさと退散を[{0D80}][{0D80}]\n",
+      "text_len": 46,
+      "ctrl_code": "fbffedffc1ffffff1000edfffcff67ffffff66ff1e000000daffe8fe0200c1ff0c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "長野原さん！　待って！　早まらないで！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffe8fe0200c1ff1a011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "こら、長野原！　馬鹿な真似はやめろ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffe8fe0300c1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ワオーーーー！？）\n",
+      "text_len": 22,
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700eefe0900040067ff0f00e8fe0200c1ff1a011000ebfe000065ff09000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "飛び降りなんてバカなこと考えるな！\n今すぐこっちに来るんだ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc8ff68001a011000ebfe0100adffffff65ff0a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（えええっ！？　飛び降り！？\n　何でそんなことになってるの！？）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff14011000ebfe000065ff0b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "その遺書も先生に渡すんだ！　さあ早く！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\nい、いや、これは遺書じゃ[{0D80}][{0D80}]\n",
+      "text_len": 36,
+      "ctrl_code": "fbffe8fe0200c1ff15011000ebfe000065ff0d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "わかってる！　お前の気持ちはわかっている！\nだから早まるんじゃない！\n",
+      "text_len": 70,
+      "ctrl_code": "fbffe8fe0300c1ff68001000ebfe0100adffffff65ff0e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（わかってなーーーーい！！）\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff65001000ebfe0100adffffff65ff0f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（飛び降りなんかしないよ！\n　というか原稿見られたら飛び降りるよ！）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff1a011000ebfe000065ff10000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "長野原！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff04000c011000ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "長野原さん！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff12000300"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff66001000ebfe0100adffffff65ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（原稿を見られるわけには……！\n　だけど逃げるには無理が……）\n",
+      "text_len": 64,
+      "ctrl_code": "fbff67ff1600c1ff6c001000ebfe0100adffffff65ff14000300"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ハッ！？　そ、そうか！\n　道はまだ１つだけある！！）\n",
+      "text_len": 56,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8a00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff65ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（あの垂れ幕……あれをカンフーアクション\n　みたいに裂きながら降りれば[{0D80}][{0D80}]）\n",
+      "text_len": 78,
+      "ctrl_code": "fbffebfe0100adffffff65ff16000300"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（そう、垂れ幕を抹消できて、脱出も出来る。\n　……まさに一石二鳥だよ！）\n",
+      "text_len": 74,
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa201ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "うおおおおおおおお！！\n",
+      "text_len": 24,
+      "ctrl_code": "fbff66ff9d000000e8fe0200edffc8ff0c0117011000adfffeffebfe000065ff18000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "桜井先生＆高崎先生",
+      "speaker_len": 18,
+      "text": "！！！！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff100067ffffff66ff9e000000ebfe000065ff19000300"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え、絡まった！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbff66ff7c000000e8fe0200edffc8ff0c0117011000adfffeffebfe000065ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "桜井先生＆高崎先生",
+      "speaker_len": 18,
+      "text": "宙づり！？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8c00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ff0b0090ffffffedfff9ff0800ebfe000065ff1b003200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "男子生徒（男子生徒１）",
+      "speaker_len": 22,
+      "text": "おい、あそこに誰かぶら下がってるぞ。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000065ff1c003100"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "男子生徒（男子生徒２）",
+      "speaker_len": 22,
+      "text": "本当だ、何してるんだ？\nっていうか、あんな所に垂れ幕あったのか。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff1d003200"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "男子生徒（男子生徒１）",
+      "speaker_len": 22,
+      "text": "そういやそうだな、今まで知らなかったけど。\n……へぇ、誰が描いたんだろうな。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffebfe0100adffffff65ff1e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（い、一石二鳥どころか……\n　恥ずかしさのダブルパンチだよ……）\n",
+      "text_len": 66,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe09000400c1ff65001000ebfe0100adffffff65ff1f000300"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ま、まだ何か用が！？\n　もう勘弁してほしいんだけど！）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200edffc8ff65001a011000ebfe000065ff20000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "長野原！　飛び降りなんて\nバカなことはやめろ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff68001000ebfe000065ff21000300"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "は、はい！？　と、飛び降り！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff14011000ebfe000065ff22000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "そうだ！　こんなことで死ぬなんて\n馬鹿げているぞ！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff63001000ebfe0000adffffff65ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff65001000ebfe0100adffffff65ff24000300"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（よくわからないけど、飛び降りるために\n　屋上に来たって思われてる？）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff25000300"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ち、違います。飛び降りじゃなくて\n無くした原稿を取りに来ただけですよ。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff26000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "げ、原稿……？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff61001000ebfe000065ff27000300"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はい。\nだから心配しないでください。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc0ff040007011000ebfe000065ff28000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "そ、そうだったんですか……。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff29000300"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はい。\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff110066ffc7000000c1ff64001000ebfe000065ff2a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]あっ！　原稿！！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc0ff040012011000ebfe000065ff2b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "おっと。危ないぞ長野原。\nしっかり掴んでおかないと[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbff67ffffffe8fe020066ff7c000000c1ff17011000ebfe000065ff2c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！！！？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe040097fffbffe8fe020066ff7b000000c1ff68001000ebfe000065ff2d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！！！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff07011000ebfe000065ff2e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff2f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "わーっ！　面白そうですねー！\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 98,
+      "speaker": "みお＆高崎先生",
+      "speaker_len": 14,
+      "text": "！！！？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400edffc8ff680010011000ebfe000065ff31000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 99,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ごめんなさい！\n私が勝手なことしちゃったから……！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc0ff040015011000ebfe000065ff32000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 100,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "桜井先生も反省してるんだ！\n許してあげてくれ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff63001000ebfe0000adffffff65ff33000300"
+    },
+    {
+      "magic": 65520,
+      "id": 101,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff34000300"
+    },
+    {
+      "magic": 65520,
+      "id": 102,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……えっ？　何がですか？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc0ff04000c011000ebfe000065ff35000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 103,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "？？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc0ff040014011000ebfe000065ff36000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 104,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "えっ？　飛び降りは……？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff37000300"
+    },
+    {
+      "magic": 65520,
+      "id": 105,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "飛び降り？　誰がするんですか？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff18011000ebfe000065ff38000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 106,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc0ff04000c011000ebfe000065ff39000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 107,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff3a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 108,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………？？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc0ff040011011000ebfe0000adffffff65ff3b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 109,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff040008011000ebfe000065ff3c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 110,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "勘違い……ですか？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff3d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 111,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………多分。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff040011011000ebfe0000adffffff65ff3e000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 112,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff3f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 113,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "お騒がせ……しました……。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}
