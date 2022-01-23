@@ -1,0 +1,303 @@
+{
+  "UNK": "c30a",
+  "id": 16,
+  "total": 32,
+  "ptrs": 144,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffd401ff0067ff0b00fcfff9ff0800c0ff03008f001000ebfe000065ff00000400"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、そう言えばウェボシー。\n今日、例のモヒカンに会ったわよ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc0ff040071011000ebfe000065ff01001900"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おっ、会ったんだ。どうだった？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff90001000ebfe000065ff02000400"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "なんかさ、普通に良いヤツだった。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff8f001000ebfe000065ff03000400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "私、あいつなら良いと思うけどな。\nワルじゃないってよくわかったし。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc0ff040079011000ebfe000065ff04001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "笹原よりもー？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff98001000ebfe000065ff05000400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "冗談！　良いヤツ度で比べたら、\n笹原なんか話になんないわよ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc0ff040072011000ebfe000065ff06001900"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ははは、笹原かわいそー。\nあいつだって十分優しいと思うけどな。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff92001000ebfe000065ff07000400"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "フン！　どこがよあんな奴！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff7a011000ebfe000065ff08001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "あははー、じゃあみさととウェボシー、\nお互い相手を交換すればいいんじゃない？\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff79011000ebfe000065ff09001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "みさとはモヒカンに乗り換えて、\nウェボシーは笹原にすんの。良いでしょ！\n",
+      "text_len": 72,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3200ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ふぇ〜……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffb5000000c1ff96001000ebfe000065ff0b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "まったく……\n……あれ？　電話鳴ってる。誰から[{0D80}][{0D80}]\n",
+      "text_len": 52,
+      "ctrl_code": "fbff67ffffffc1ff97001000ebfe000065ff0c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、これ……！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc1ffffff100067ff1200c0ff030072011000ebfe000065ff0d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "なになに、誰からなの？\n……おっ！　これはこれは〜。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc0ff04007a011000ebfe000065ff0e001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "どしたの〜？　……わ、笹原からじゃん！\nなーんだ、もうそういう関係だったんだー。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff71011000ebfe000065ff0f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ほら、どうしたの？\n早く出ないと切れちゃうよ？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff8e001000ebfe000065ff10000400"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あいつ……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc0ff030071011000ebfe000065ff11001900"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "？\n",
+      "text_len": 4,
+      "ctrl_code": "fbffc0ff040079011000ebfe000065ff12001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "？\n",
+      "text_len": 4,
+      "ctrl_code": "fbff66ff68000000e8fe0200c1ff94001000ebfe000065ff13000400"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "こんな時間に女の子に電話かけてくるなんて、\n何て非常識なのっ！！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2fff6ff0800ebfe000065ff14001900"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ぎゃっ！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2fff6ff0800ebfe000065ff15001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ふぇ〜。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2fff5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800c1ff92001000ebfe000065ff16000400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ……。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff71011000ebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "あーあ、携帯まで壊してやんの。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff91001000ebfe0000adffffff65ff18001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0000adffffff65ff19001900"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff04007a011000ebfe000065ff1a001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "よしよし、みさと、元気出して。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff030072011000ebfe000065ff1b001900"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "そうだぞ。明日はきっと上手くいくさ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff91001000ebfe000065ff1c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "うう…………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffec01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "笹原の、バカーーーーーー！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffebfe0100adffffff65ff1e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "ウェボシー＆フェっちゃん",
+      "speaker_len": 24,
+      "text": "（いや……バカはアンタだよ、みさと）\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4601080067ff0d00f4ff7800fdfff8ff080067ffffffdeff0000096002000000ffff74ff090074ff1a0074ff1b00bcfffd011000f9ff0800ebfe0000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "",
+      "speaker_len": 0,
+      "text": "笹原、ウェボシー、フェっちゃんを\nＬＩＶＥできるようになりました。\n",
+      "text_len": 68,
+      "ctrl_code": "fdffedfffcfff8ff0800dbff0000f7ff0800fcffffff"
+    }
+  ]
+}

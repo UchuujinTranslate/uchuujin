@@ -1,0 +1,195 @@
+{
+  "UNK": "6b03",
+  "id": 16,
+  "total": 20,
+  "ptrs": 96,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffc301ff0067ff0900fcfff9ff0800ebfe000065ff00000100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あーあ、せっかく\nいっぱいネジ作ったのに。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff01001800"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "あっ、小さいはかせ。\n今日は何してるのー？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc8ff32006a011000ebfe000065ff02000100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ、おねえさん！\n聞いて聞いて！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff03001800"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ん？　なにかあったの？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff2d001000ebfe000065ff04000100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせがネジ可愛いって言っても\nなのってば可愛くないって言うの！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff32001000ebfe000065ff05000100"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせがいっぱいネジプレゼントしても\n嫌がってるんだよ？\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff06001800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "あらら。本当に嫌いなんだね。\nあんなに似合ってるのに。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そうだよね。おねえさんもそう思うよね？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff08001800"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "うん。背中についたあのネジが\nなのちゃんのアイデンティティだし。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff32001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "アイデンティティ！\nあれを取るなんてダメだよね？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff0a001800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "うん、ダメだよね。\nなのちゃんには一生つけててもらいたいし。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "だよね！　やっぱりおねえさんも\nそう思うんだね！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff2b001000ebfe0100adffffff65ff0c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（ぷぷぷ。やっぱりなののセンスが\n　おかしいだけだ）\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff29001000ebfe0100adffffff65ff0d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（そうだ、おねえさんをなのに会わせて\n　説得してもらおう！）\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ねえおねえさん[{0D80}][{0D80}]\n",
+      "text_len": 20,
+      "ctrl_code": "fbff67ffffffc1ff69011000ebfe000065ff0f001800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "でも、なのちゃんの気持ちも\nわからなくはないかな。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff31001000ebfe000065ff10000100"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff1400c1ff6a011000ebfe000065ff11001800"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ネジは可愛いけど、\n自分の背中につくのは私も嫌だから♪\n",
+      "text_len": 56,
+      "ctrl_code": "fbffe8fe0200c1ff30001000ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff13000100"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4301080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

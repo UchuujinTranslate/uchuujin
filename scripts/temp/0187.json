@@ -1,0 +1,312 @@
+{
+  "UNK": "7011",
+  "id": 16,
+  "total": 33,
+  "ptrs": 160,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffb701ff0067ff0600fcfff9ff0800c1ffe1001000ebfe000065ff00000800"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "うむ、今日もまた良い天気ではないか。\nこうも快晴が続くと心まで晴れやかになるな。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff01000800"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "いやしかし、昨日は中々愉快な１日であった。\n本日もそうであれば良いのだが……。\n",
+      "text_len": 80,
+      "ctrl_code": "fbff67ffffffc1ff8b011000ebfe0000adffffff65ff02001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff0c00c1ffe6001000ebfe000065ff03000800"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "ん？　昨日の鹿とインコか……？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff04008e011000ebfe000065ff04001f00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "コジロウ",
+      "speaker_len": 8,
+      "text": "……！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc0ff0300e6001000ebfe000065ff05000800"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "待て、コジロウ。\n昨日とはまた様子が違う。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff04008b011000ebfe0000adffffff65ff06001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0300e0001000ebfe000065ff07000800"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む、頭を下げたのか？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff08001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff09000800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "肯定か。\n恐らく、昨日のことであろう？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffe0001000ebfe000065ff0a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "それについては水に流した。\n貴様たちもこれ以上気にする事は無い。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff8b011000ebfe000065ff0b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ffe1008e011000ebfe000065ff0c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "行くぞ、コジロウ。\nもう大丈夫だ。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc0ff04008b011000ebfe0000adffffff65ff0d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffa000ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]どうした？\nなぜ貴様たちが後ろをついてくる。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffebfe000065ff0f000800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "よもや、私の臣下になりたいのか？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe0000adffffff65ff10001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1700ebfe000065ff11000800"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "そうかそうか！\nなんと酔狂なヤツだ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000065ff12000800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "好きにするがいい。\nただしコジロウの下だ、いいな？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffebfe0000adffffff65ff13001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffa100ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14000800"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "よし、では行くとするか！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffbeffa2001000ebfe000065ff15000800"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "おお！？　力強いながらもこの乗り心地、\n……コジロウも、うかうかしておれんな。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe000065ff16001f00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "コジロウ",
+      "speaker_len": 8,
+      "text": "メェー！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffebfe000065ff17000800"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "はっはっは。では行かん、我らが学び舎へ！\nコジロウも共に[{0D80}][{0D80}]っ！？\n",
+      "text_len": 68,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff030084001000ebfe0000adffffff65ff18000400"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0400e7001000ebfe000065ff19000800"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "立花みさとではないか。\nこんな所で会うとは奇遇[{0D80}][{0D80}]\n",
+      "text_len": 52,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2fff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2f00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff6ff0800e8fe0200ebfe000065ff1a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ただブレーメンの音楽隊みたいだと\n思ってただけなんだからね！！\n",
+      "text_len": 64,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff8a001000ebfe000065ff1b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "べ、別に一緒に歩きたいなんて\n思ってないんだから！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffedfffcff66ff1c000000c1ffffff1000daffc1ffe4001000ebfe0000adffffff65ff1c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffe5001000ebfe000065ff1d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "はっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ffe1001000ebfe000065ff1e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………よし！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff1f000800"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "バズーカの　音色が響く　音楽隊\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff20000800"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……季語が無い。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4901080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

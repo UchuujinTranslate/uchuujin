@@ -1,0 +1,240 @@
+{
+  "UNK": "e41f",
+  "id": 16,
+  "total": 25,
+  "ptrs": 128,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcfff4fe2600c1ffffff1000bcffb301ff0067ff0b00fcfff9ff0800ebfe000065ff00001300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "……うーん。\n結局よくわからなかったな。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff52011000ebfe000065ff01001300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "探れば探るほどヘンな物、出てくるんだよな。\n",
+      "text_len": 44,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02001300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "つーか、腕が全部入るし。明らかに\n入らないはずの物とか入ってるし……。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff03001300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "前は少し物が隠せる程度だったのに……\nいつからこうなったんだ？\n",
+      "text_len": 64,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff52011000ebfe000065ff04001300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "……意外とアレだったりして？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff53011000ebfe000065ff05001300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "アフロの中、宇宙人の機械の誤動作で、\n謎の空間に繋がってたりしてさ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff52011000ebfe000065ff06001300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "そんで、その四次元っぽい空間にアクセスして\nそこの物体を取り出せるようになったんだ。\n",
+      "text_len": 86,
+      "ctrl_code": "fbffc1ff54011000ebfe000065ff07001300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]ハハッ、んなわけないよなー！\n俺、マンガに影響されすぎ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff52011000ebfe000065ff08001300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "さーて、変なこと考えてないで、\nさっさと帰るとすっか！\n",
+      "text_len": 56,
+      "ctrl_code": "fbff67ffffff66ff52000000c1ff55011000ebfe000065ff09001300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "！？\nな、何だ、この音！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff52000000daffbeff7600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a001300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "……うそ、オレの頭から！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedfffcff66ff52000000daffe8fe0200ebfe000065ff0b001300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "うわっ、くすぐってえ！\nやめろ、やめてくれって！\n",
+      "text_len": 50,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff4e000000daffbcffb301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe0100adffffff65ff0c001300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "（……何だ！？\n　な、何か出てきたーーっ！！）\n",
+      "text_len": 48,
+      "ctrl_code": "fbfff5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff4e000000daffbcffb301ff00c1fffeffff00c1ff1602ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800c1ff16021000ebfe000065ff0d002900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "３８番",
+      "speaker_len": 6,
+      "text": "……ふぅ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff52011000ebfe000065ff0e001300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "え？\n……人？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff1000c1ff16021000ebfe000065ff0f002900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "３８番",
+      "speaker_len": 6,
+      "text": "大気圏に突入した時には死を覚悟したが……\nこの下ネタの３８番、まさか助かるとは。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffedffc8ff520118021000ebfe000065ff10002900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "３８番",
+      "speaker_len": 6,
+      "text": "君、ありがとう。おかげで命拾いしたよ！\n落ち着いたら、お礼をさせてもらうぜ！\n",
+      "text_len": 78,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe0000adffffff65ff11001300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff12001300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "今、オレの頭から出たよな？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffebfe000065ff13001300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "え、何？\nマジで謎の空間と繋がってんの……？\n",
+      "text_len": 46,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff4d000000daffbeff7700ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14001300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "ちょ、ちょっと試しに……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff4e000000daffbcffb301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff15001300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]ネジだ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe000065ff16001300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "しかもこれ、中村先生が持ってたヤツじゃね？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff52011000ebfe0000adffffff65ff17001300"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffec01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff18001300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "田中",
+      "speaker_len": 4,
+      "text": "……ま、いいか！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5001080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

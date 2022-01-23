@@ -1,0 +1,222 @@
+{
+  "UNK": "a91c",
+  "id": 16,
+  "total": 23,
+  "ptrs": 112,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffae01ff0067ff0900fcfff9ff0800c0ff040045011000ebfe000065ff00001100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "こんにちはー。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff030019011000ebfe000065ff01000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "おー、桜井来たか。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc0ff0300eb001000ebfe000065ff02000900"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "今片付けるからちょっと待っててくれよ。\n丁度オレの勝ちで終わったとこなんだよ。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff03001100"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はいっ、わかりました！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff030016011000ebfe000065ff04000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "くそっ、次は勝ってやるからな！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff0400eb001000ebfe000065ff05000900"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そういや先生、今日は何の練習するんですか？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff19011000ebfe000065ff06000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "そうだな……そろそろ大工にも\n団体戦の簡単な技を教えないとなー。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff07000900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "やっと技か……長かったなぁ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffc8fff10049011000ebfe000065ff08001100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……とうとう部長も技の練習に入るんですね。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff09001100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "囲碁サッカー部がちゃんと動きだしたって\n感じで……オレ、ちょっと感動しました。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff49011000ebfe000065ff0a001100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "このまま行けば部長も試合に……\nいや、全国出場も夢じゃないですよ！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc0ff030012011000ebfe000065ff0b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "そうなったらオレは名監督か……悪くない！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc0ff0300f1001000ebfe000065ff0c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "はははっ、まあ気楽に頑張るかな。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff45011000ebfe000065ff0d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "はいっ、がんばりましょう！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc8ff450150011000ebfe000065ff0e001200"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "……あの、桜井くん。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff44011000ebfe000065ff0f001100"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "なんですか？\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ffffffc1ff4e011000ebfe000065ff10001200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "団体戦って、二人でいけるんですか？\n",
+      "text_len": 36,
+      "ctrl_code": "fbff66ff7c000000c1ff4d011000ebfe000065ff11001100"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "…………あああぁぁぁっ！！\n",
+      "text_len": 28,
+      "ctrl_code": "fbff67ff1400e8fe0200c1ff47011000ebfe000065ff12001100"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "団体戦二人じゃ出られないじゃないか！！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc8ff160147011000ebfe000065ff13000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "桜井、お前気づいてなかったのか？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff0300eb001000ebfe000065ff14000900"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "てっきり桜井くんが\n部員を見つけてくるもんだと。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff4b011000ebfe000065ff15001100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……試合直前に部員探しなんて。\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff16001100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "でも、でもオレはこんなことで\nくじけたりしませんからね！！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4e01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

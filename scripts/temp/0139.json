@@ -1,0 +1,815 @@
+{
+  "UNK": "fa08",
+  "id": 16,
+  "total": 88,
+  "ptrs": 368,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1026,
+      2242,
+      2246,
+      3508,
+      3534,
+      5426,
+      7158
+    ],
+    "ctrl_code": "fcffedfe0f001000110004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500c1ff61001000ebfe000064ffffff0300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "さーて、早く帰って\n次回作のネームでも考えよーっと。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff60001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（今度はどんなカップリングがいいかな？\n　むふふ……♪）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5e001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（次は今までとは\n　違うベクトルの作品にしてみるのもいいな）\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff5f001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（違うベクトル……うーん……）\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8100ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfff9ff0800ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（おっ、そうだ。たまには渋いオジサマとか\n　出してみてもいいかな？）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（うん、面白いな。次はその方向性で\n　行ってみようかな）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（でもオジサマ系は資料がないんだよね。\n　どこかにモデルでもいないかな……？）\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "オジサマ……オジサマ……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8200ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff7c000000e8fe0200ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "校長先生と教頭先生のカップリング！？\n教頭先生が攻め！\n",
+      "text_len": 56,
+      "ctrl_code": "98ff0000effe040097fffbfffefe010001007fff0200ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "？？？（教頭先生）",
+      "speaker_len": 18,
+      "text": "責める、か！\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5f001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "何だろ？\n今、誰かの声が……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff5e001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……ま、いいや。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffc1ffffff100067ff0e00c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "あの生徒の話はよくわからなかったが……\n校長を責める、か……それはぜひしてみたい。\n",
+      "text_len": 84,
+      "ctrl_code": "fbffc1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（徹底的に校長の責任を……責めて責めて、\n　校長の座から降ろしてみたい！）\n",
+      "text_len": 76,
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0200c1ffb2001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "ひっ！？　きょ、教頭先生……？　そ、その……\n私を攻めたいとは……ま、まさか？\n",
+      "text_len": 80,
+      "ctrl_code": "fbffedffc8ff5b01b2001000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c0ff0300f7011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "……攻めたい、と言ったな。\nまさか……本当に……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc0ff040001021000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "ああ……\n攻めと言ったら他にないだろ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1fff0011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "まさか、\nこのメガネの人があんな風に[{0D80}][{0D80}]\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff02021000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "……言うな。\nみなまで言うな……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1fff6011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "…………ああ。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff05002500"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "おまえたちの思考回路、腐りすぎだーっ！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030067ffffffe8fe0300ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（いやいやいやいやいやいや！\n　あり得ないから！　絶対ナイから！！）\n",
+      "text_len": 70,
+      "ctrl_code": "98ff0000effe0a0097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfff9ff0800c1ff67001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（ったく、なんて想像してるんだか……\n　これじゃもう末期症状だよ……）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff5e001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（まあでも、教頭はメガネだし……\n　美化して描けばそれなりに……？）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff6a001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（いや〜……それもちょっと\n　無理があるなぁ……）\n",
+      "text_len": 52,
+      "ctrl_code": "fbff67ffffffc1ff5f001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……ん？　あそこにいるのって教頭？\nこんなとこで何をして[{0D80}][{0D80}]\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8000ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7c000000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "えええーーー！？\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe090097fffbffe8fe030067ff0c00ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（なななな、なんで教頭が\n　校長の上に馬乗りになってるのーー！？）\n",
+      "text_len": 68,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "！？　だ、誰だ！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbff05ffc1ff63001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あっ、しまった……み、見つかった……。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc8ff63005d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "そ、その制服、うちの生徒……\nま、まさか、見ていたのか……！？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff68001000ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（そんなに慌ててるってことは……\n　見られちゃまずいことを校長に……！？）\n",
+      "text_len": 76,
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe03000400c1ff5b011000ebfe000065ff06001500"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "た、頼む……\nこのことは内緒にしてくれ……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0300c1ff63001000ebfe0100adffffff65ff07000300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（内緒に！？　ってことは校長と教頭って、\n　やっぱりそういう関係なんだ〜〜！？）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff5d011000ebfe000065ff08001500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……このことが知れたら……\n私は……私は……っ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff63001000ebfe0100adffffff65ff09000300"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（バレたら教頭と校長は解任！）\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff0a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "このまま行けば……\nせっかくのチャンスなんだっ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff5f001000ebfe0100adffffff65ff0b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（でも、[{0D90}]のなくなった二人は\n　今まで以上に強い[{0D9C}]で結ばれて[{0D80}][{0D80}]）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff68001000ebfe0100adffffff65ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（心も体も……\n　文字通り、結ばれるチャンスーーっ！？）\n",
+      "text_len": 58,
+      "ctrl_code": "98ff0000effe090097fffbffc1ff63001000ebfe0100adffffff65ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（すごい、こんな身近に\n　オジサン同士のカップリングが………！！）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff66001000ebfe0100adffffff65ff0e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（でも……でも……！！）\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5d011000ebfe000065ff0f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "頼む！　絶対に誰にも言わないでくれ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff5f001000ebfe000065ff10000300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "い、言いませんっ！\n誰にも言いません！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff11001500"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "約束……できるな……？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff69001000ebfe000065ff12000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "は、はいっ！　もう絶対！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff60001000ebfe000065ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "校長と教頭がランデブーだなんて、\n死んでもいいませんっ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff14001500"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……なに？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff61001000ebfe000065ff15000300"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "じゃ、じゃあ、失礼しますっ！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedfffcff66ff1c000000c0ff0300ffff1000daff67ffffffc1ff5a011000ebfe000065ff16001500"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……ランデブー？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb8001000ebfe000065ff17000500"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "……はっ！？\n教頭先生、私に心臓マッサージを！？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0300c1ff5b011000ebfe0100adffffff65ff18001500"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（……し、しまった、せっかくのチャンスが！）\n",
+      "text_len": 46,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff63001000ebfe000065ff19000300"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はぁ……はぁ……\nあるんだ！　ホントにあるんだ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff66001000ebfe000065ff1a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "でも……でも、なんていうか……！\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "リアルだとキモーーーイ！！\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00e8fe0200c1ff5d011000ebfe000065ff1c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "違う！　誤解だ！　今回は私じゃないぞ！\nここに来たらすでに校長が倒れてたんだ！\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff64001000ebfe000065ff1d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あ、そ、そうだったんですか……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff63001000ebfe0100adffffff65ff1e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（でも、今回は、って……\n　じゃあ普段はどうなのよ……）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff1f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "あー、ごほん。\nそれでだね、キミ……。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff20000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "は、はい……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff21001500"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "校長が息をしとらんようなんだ。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff22001500"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "心臓マッサージは試してみたのだが……\nすまんが、人工呼吸をしてもらえるかね。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff64001000ebfe000065ff23000300"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……え？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe060097fffbffeefe09000400c1ff5b011000ebfe000065ff24001500"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ほれ、早くせんと校長が死んでしまうぞ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff25000300"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "い、いや、そういうのはやっぱり、\n経験豊富な教頭先生の方が！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0300c1ff62001000ebfe0100adffffff65ff26000300"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（何が悲しくてこんなオッサンに\n　人工呼吸しなきゃダメなのよ！）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff27001500"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "何を言う。\n男同士ではどうも都合が悪いだろう。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff63001000ebfe000065ff28000300"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "それはまぁ……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbff67ffffffc1ff5e001000ebfe0000adffffff65ff29000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1000c1ff5f001000ebfe000065ff2a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "いや、男同士も、それはそれでアリ……\nと言うか、私的には全然ＯＫですけど。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff2b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "何をいってるんだ。\nこういうのは最低限男女でやるべきだ。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff65001000ebfe000065ff2c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "いやいや！\n人命救助に男も女もないですから！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff2d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "いやいや、\n人命救助の経験も立派な教育だよ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff6a001000ebfe000065ff2e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "いやいや、\n謹んで辞退しますってば！\n",
+      "text_len": 38,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff2f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "いやいやキミが！\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0200ebfe000065ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "いやいや教頭先生が！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe0000adffffff65ff31000500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1800eefe0a000400e8fe0200c1ff66001000ebfe000065ff32000300"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "み、見てません！　何も見てませーーん！\n",
+      "text_len": 40,
+      "ctrl_code": "fbff66ff220000001aff0300000000fe00000a0016ffffffedffc1ffffff1000c1ff5a011000ebfe000065ff33001500"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "逃げた……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff34001500"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "生徒が、私から……逃げた……\n私が一体何をしたのと言うのだ……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5a011000ebfe0000adffffff65ff35001500"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1400c1ff5b011000ebfe000065ff36001500"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "逃げられたと言えば……\n小学生の時[{0D80}][{0D80}]\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff37001500"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "鬼ごっこの鬼……なかなかタッチできなくて\n１ヶ月以上みんなに逃げられ続けた……。\n",
+      "text_len": 82,
+      "ctrl_code": "98ff0000effe000097fffbffc1ff5a011000ebfe0000adffffff65ff38001500"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff39001500"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "タッチと言えばあれは７年前……。\n",
+      "text_len": 34,
+      "ctrl_code": "98ff0000effe010097fffbffebfe0000adffffff65ff3a000500"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edffc1ffffff1000ebfe000065ff3b002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "ナレーターお姉さん",
+      "speaker_len": 18,
+      "text": "その時、大きな川がはっきり見えました。後日、\n校長先生はそう真剣に語ったと言います。\n",
+      "text_len": 86,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}
