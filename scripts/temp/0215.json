@@ -1,0 +1,753 @@
+{
+  "UNK": "ae28",
+  "id": 16,
+  "total": 82,
+  "ptrs": 352,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffe701ff0067ff0b00fcfff9ff0800ebfe000065ff00000000"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "なの＆はかせ",
+      "speaker_len": 12,
+      "text": "ご馳走様でしたー。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff00c1ff0000ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff00001000ebfe000065ff01000000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "お洗濯はもう終わってるから……\n洗い物しよっと。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc8ff000029001000ebfe000065ff02000100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせは研究しよっと。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff09001000ebfe000065ff03000000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "待ってください。\n後ろに隠したお菓子を置いていってください。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0400c1ff2f001000ebfe000065ff04000100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そ、そんなのないもん。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffafff03000300c1ff09001000ebfe000065ff05000000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あります。\nさ、早く。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff2e001000ebfe000065ff06000100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うう……なのの意地悪ー……。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffc1ffffff1000afff03000000c1ff25011000ebfe000065ff07000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "朝からあいつらは何やってるんだか。\n……ま、いつもと同じか。\n",
+      "text_len": 62,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800f4ff3c00bcff05021000f4ff3c00bcff02021000ebfe000065ff08000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ふあぁー。\nそろそろお昼か[{0D80}][{0D80}]\n",
+      "text_len": 32,
+      "ctrl_code": "fbff67ffffffedfffcff66ffc2000000daffebfe000065ff09000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "[{0D80}][{0D80}]ん、なんだ？\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0502ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "雨か……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff2e011000ebfe000065ff0b000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "……って、おい、娘！\n洗濯物を干したんじゃないのか！？\n",
+      "text_len": 56,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff65ff0c000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff040025011000ebfe000065ff0d000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "おーい、娘！　どこだー！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffebfe000065ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "台所ですよー。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0200c1ff26011000ebfe000065ff0f000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "雨が降ってるぞー！\n洗濯物、濡れちまうぞ！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffebfe000065ff10000000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "でも、今は手が泡だらけで……\nはかせー！　お願いしまーす！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000065ff11000100"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "だめー！　今、研究中ー！　手が離せない！\n阪本やってー！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200c0ff03002d011000ebfe000065ff12000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "猫にできるか！\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0502ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "どっちでもいい！\n早くしないと洗濯物が濡れちまうぞ！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffebfe000065ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせー！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff15000100"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "阪本ー！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff16000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "できるかー！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff17002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "ナレーターお姉さん",
+      "speaker_len": 18,
+      "text": "そして結局……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0502ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800f4ff3c00bcff02021000f4ff3c00bcffff011000ebfe000065ff18000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "通り雨だったが[{0D80}][{0D80}]\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0400ebfe000065ff19000000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……洗濯物……全滅してました……\n一緒に干しておいたお布団も……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffebfe000065ff1a000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "[{0D80}][{0D80}]結構な降りだったからな。\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc601ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c0ff040030001000ebfe000065ff1b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うそ！？　どうやって寝るの！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff030005001000ebfe000065ff1c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "毛布に包まって寝るしかないですね……。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000065ff1d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なんで洗濯物入れなかったの！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffe8fe0200c1ff09001000ebfe000065ff1e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "だって洗い物してたんですよ！？\n手が泡だらけだったんです！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffe8fe0200c1ff34001000ebfe000065ff1f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせだってそうだもん！\n研究中だったんだもん！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff08001000ebfe000065ff20000000"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……ポテチの研究、ですか？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe0400c1ff2f001000ebfe000065ff21000100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ドキ。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff0f001000ebfe000065ff22000000"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "口の周りにポテチのカスがついてますよ？\n本当に研究してたんですか？\n",
+      "text_len": 68,
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000065ff23000100"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "きゅ、休憩中だったんだもん！\n仕方ないんだよ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffe8fe0200c1ff09001000ebfe000065ff24000000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "仕方なくないです！\n休憩中だったら入れてください！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffe8fe0200c1ff2d001000ebfe000065ff25000100"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "休憩中はお菓子食べるのが仕事だもの！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff25011000ebfe000065ff26000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "二人共落ち着け。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030005001000ebfe000065ff27000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "でも、はかせが……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc0ff04002e001000ebfe000065ff28000100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "でも、なのが……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff25011000ebfe000065ff29000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ケンカして洗濯物が乾くのか？\n違うだろ？　それに責任転嫁するな。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffe8fe0400edffc8ff05002e001000adfffeffebfe000065ff2a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "なの＆はかせ",
+      "speaker_len": 12,
+      "text": "はーい……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff1000c1ff2d011000ebfe000065ff2b000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "返事は「はい」だろ！\n気抜けた声を出すな！！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff1000edffc8ff090032001000adfffeffebfe000065ff2c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "なの＆はかせ",
+      "speaker_len": 12,
+      "text": "はいっ！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff2a011000ebfe000065ff2d000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "それでよし。\nやればできるのに、なんでやんないんだ？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff25011000ebfe000065ff2e000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "さっきだってそうだ。\n[{0D80}][{0D80}]娘。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedffc8ff040025011000c1ff04001000ebfe000065ff2f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "は、はい！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2a011000ebfe000065ff30000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "手が泡だらけでも、洗えばいいはずだ。\n……１０秒あればできるだろ？\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff05001000ebfe000065ff31000000"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はい……そうです……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff25011000ebfe000065ff32000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "次、ガキ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff250131001000c1ff31001000ebfe000065ff33000100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "は、はい！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2a011000ebfe000065ff34000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "他人に甘えんな。\nおまえの悪いくせだぞ？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff2e001000ebfe000065ff35000100"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "は、はーい……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff25011000ebfe000065ff36000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "それから、大人になりたいなら、\n自分勝手な解釈はやめたほうがいいぞ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff35001000ebfe000065ff37000100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……ごめんなさい。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff26011000ebfe000065ff38000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "あと、この際だから言わせてもらうが、\nおまえには色々と悪いところが[{0D80}][{0D80}]\n",
+      "text_len": 72,
+      "ctrl_code": "fbffe8fe0400c1ff2c001000ebfe000065ff39000100"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "う……う……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc1ffffff100067ffffffe8fe0200ebfe000065ff3a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "やめてくださーい！！\n",
+      "text_len": 22,
+      "ctrl_code": "fbff67ff0d00c1ff09001000ebfe000065ff3b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせは悪いとこばかりじゃないんです。\n良いとこだってあるんですよ！\n",
+      "text_len": 70,
+      "ctrl_code": "fbffebfe000065ff3c000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "は？　いや、そんなことはわかってるが……\nこれは説教だから[{0D80}][{0D80}]\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff3d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……なの？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff3e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせ、今日は私の毛布も使ってください。\n敷き布団みたいにすれば十分温かいですよ。\n",
+      "text_len": 84,
+      "ctrl_code": "fbffc1ff2e001000ebfe000065ff3f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "でも、なのが……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff01001000ebfe000065ff40000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "私は大丈夫です。\nロボットだから、寒さなんてへっちゃらです！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff41000100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なの……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2c001000ebfe000065ff42000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ごめんなさい……\nはかせが悪かったの……ごめんなさい！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff09001000ebfe000065ff43000000"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせだけじゃありません！\n私だって悪かったんです！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff2c001000ebfe000065ff44000100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なーのー！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff02001000ebfe000065ff45000000"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせー！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff02002c001000adfffeffebfe000065ff46000000"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "なの＆はかせ",
+      "speaker_len": 12,
+      "text": "うあーん！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff25011000ebfe000065ff47000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "[{0D80}][{0D80}]ふう。\nま、わかったならいいか。\n",
+      "text_len": 38,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0b0071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff48000000"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、はかせ、お昼は何がいいですか？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffebfe000065ff49000100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "オムライスー！\nあとハンバーグ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000065ff4a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "それじゃ今日は特別。\nレストランに行っちゃいましょうか！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffebfe000065ff4b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "やったー！　だからなの大好きー♪\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000065ff4c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "もう、はかせったら……えへへへ♪\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000065ff4d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "それじゃ阪本、出かけてくるね！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffebfe000065ff4e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "お留守番、お願いします。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffebfe000065ff4f000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "おう！\n仲良く行ってこいよ！\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff50000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "………………ん？\n",
+      "text_len": 18,
+      "ctrl_code": "fbff67ff1400ebfe000065ff51000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "なんで俺がメシ抜きなんだ？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5c01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

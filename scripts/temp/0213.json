@@ -1,0 +1,242 @@
+{
+  "UNK": "f32a",
+  "id": 16,
+  "total": 21,
+  "ptrs": 112,
+  "extra": 1,
+  "ptr2": {
+    "size": 40,
+    "total": 9,
+    "offsets": [
+      72,
+      424,
+      2426,
+      430,
+      618,
+      1780,
+      2252,
+      2318,
+      2418
+    ],
+    "ctrl_code": "fcfffcffedffc1ffffff10007dff010009007dff02000900f4fe2a007fff0100f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff040071ff000063ffffff90ffffffedfff9ff0800c1ffbc011000ebfe000065ff00002300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "さて、いよいよ最後の説明だ。\n心して聞いてくれ。\n",
+      "text_len": 50,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "それでは地球人たちの人気に関わる、\nルールの説明をさせてもらうぞ。\n",
+      "text_len": 68,
+      "ctrl_code": "fdff71ff05005fff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02002300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "地球人たちの人気に関わるルールで\n他に説明を聞きたいことはあるか？\n",
+      "text_len": 68,
+      "ctrl_code": "fdff73ff05007fff0200beff18011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "以前に説明した通り、ＬＩＶＥ中継によって\nメイン地球人の人気がアップする。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "ゲスト地球人もＬＩＶＥに登場することで、\n人気アップの可能性が生まれるのだが[{0D80}][{0D80}]\n",
+      "text_len": 82,
+      "ctrl_code": "fbffebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "ＬＩＶＥの情報部分をよく見て欲しい。\nゲストには赤、緑、青の３色の部分がある。\n",
+      "text_len": 80,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3601ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff06002300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "この３色の部分は投票が行われる際に、\nそれぞれの空気の下部分にも表示される。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffebfe000065ff07002300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "……気付いてくれたようだな。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffbeff37011000ebfe000065ff08002300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "そう、Ｇ・Ａ・Ｃ・Ｋ・Ｙシステムの\n「３つの空気」に対応しているわけだ。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffebfe000065ff09002300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "これは空気の効果で地球人たちの展開が\n変化するためだが[{0D80}][{0D80}]ともかく。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffebfe000065ff0a002300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "「人気の上がるゲストは投票で対象が変化する」\nこれは覚えておいてくれ。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff0b002300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "ちなみに、ゲストでアップする人気は、\nメインで出演する時よりも当然ながら低い。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe000065ff0c002300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "だが、ゲストの回数が多ければ、\n無視が出来ない結果になってくるぞ。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffebfe000065ff0d002300"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "プロデューサーとしてプッシュしたい地球人が\nいる場合、そのことも忘れないようにな。\n",
+      "text_len": 84,
+      "ctrl_code": "fbff7fff0400beff38011000ebfe000065ff0e002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "アンテナ装着者には、\nそれぞれが持つ個性がある。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffebfe000065ff0f002300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "例えば「阪本」を装着者に選んだ場合、\nメイン地球人のアップする人気が大きくなる。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffebfe000065ff10002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "「バディ」であればゲストの人気。「校長」で\nあれば投票の票数が上がりやすくなる。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffbeff3b011000ebfe000065ff11002300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "装着者の個性は投票中にも表示される。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000065ff12002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "装着者の個性効果によっては、その場でどう\nするかを考え直してもいいかもしれないな。\n",
+      "text_len": 84,
+      "ctrl_code": "fbff7fff0400ebfe000065ff13002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "最後の説明だったんだが……まあいい。\n",
+      "text_len": 38,
+      "ctrl_code": "fbff7fff0800ebfe000065ff14002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "４２番",
+      "speaker_len": 6,
+      "text": "これでもう伝えることは無いはずだ。\n全力でいい番組を作ってくれ！！\n",
+      "text_len": 68,
+      "ctrl_code": "fdfff7ff0800fcfffffff7ff0800fcffffff"
+    }
+  ],
+  "extra_section": [
+    {
+      "id": 3,
+      "total": 4,
+      "contents": [
+        {
+          "text": "ゲスト地球人の人気",
+          "text_len": 18,
+          "ctrl_code": "ffff00000500"
+        },
+        {
+          "text": "アンテナ装着者の個性",
+          "text_len": 20,
+          "ctrl_code": "ffff00000600"
+        },
+        {
+          "text": "わかるので大丈夫",
+          "text_len": 16,
+          "ctrl_code": "ffff040005000700"
+        },
+        {
+          "text": "もう大丈夫",
+          "text_len": 10,
+          "ctrl_code": "ffff030005000800ffff"
+        }
+      ]
+    }
+  ]
+}

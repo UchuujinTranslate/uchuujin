@@ -1,0 +1,306 @@
+{
+  "UNK": "6f2a",
+  "id": 16,
+  "total": 32,
+  "ptrs": 144,
+  "extra": 0,
+  "ptr2": {
+    "size": 12,
+    "total": 2,
+    "offsets": [
+      34,
+      3344
+    ],
+    "ctrl_code": "fcfffcffedffc1ffffff10007dff010002007fff0100f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff040071ff000063ffffff90ffffffedfff9ff0800c1ff8f011000ebfe000065ff00002000"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "ん、どうした？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff90011000ebfe000065ff01002000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "……なに？\n前任者の遺言はどうなったかって？\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff8f011000ebfe000065ff02002000"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "おつき２の遺言……ああ、あれか。\n地球の生命体にアンテナを付ける話だな？\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff90011000ebfe000065ff03002000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "それなら丁度よかった。\n今まさに取り付けていたところだ。ほら[{0D80}][{0D80}]\n",
+      "text_len": 66,
+      "ctrl_code": "fdffedfffcff67ffffffaaff0100ff00bcffab011000c1ffb200100067ff1600aaff00000000c1ffb2001000ebfe000065ff04000500"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "あ、あなたたちは何者ですか！？\n……が、学校の敷地に無断で[{0D80}][{0D80}]ひっ！？\n",
+      "text_len": 72,
+      "ctrl_code": "fdffedfffcfffcffedffc1ffffff1000bcfff9011000edfffcff66ff10000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe000065ff05000500"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "ひぎゃあああーっ！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe0000adffffff65ff06000500"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffbefff4001000ebfe000065ff07000500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "……コントロール電波……受信……\n受信……受信……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff00c1ff9601ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff96011000ebfe0000adffffff65ff08002000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff99011000ebfe000065ff09002000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "今見た事は気にするな。\nおそらく問題ない……はずだ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1501ff00c1fffeffff0090ffffff90ffffff90ffffff67ff040071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a002000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "さて、準備が終わったところで、\nアンテナについて説明させてもらおう。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffebfe000065ff0b002000"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "今回の計画では、今のアンテナを取り付けた\n生命体の力を借りてＬＩＶＥ中継を行う。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffebfe000065ff0c002000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "ちなみにアンテナの装着者は全部で三人だ。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000065ff0d002000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "君の元にも情報が行っていたと思うが[{0D80}][{0D80}]\nお、残りの二人も完了したらしいな。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffebfe000065ff0e002000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "それでは、あらためて見たまえ。\nこれが地球を代表する三人の生命体だ！\n",
+      "text_len": 70,
+      "ctrl_code": "fbffbeff2601100067ffffffebfe0000adffffff65ff0f002000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff0400ebfe000065ff10002000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "オ、オホン。この三人……いや三体が、\n地球の生命体を代表したアンテナ装着者だ。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffbeff27011000ebfe000065ff11002000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "この３つのうち、どのアンテナで放送するかは\n中継する地球人を選んだ後に決定される。\n",
+      "text_len": 84,
+      "ctrl_code": "fbffbeff28011000ebfe000065ff12002000"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "表示されている通り、装着者の差で効果にも\n差が生まれるが……それは後で説明する。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffebfe000065ff13002000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "まずはこのグラフ。この面積が大きいほど\n選びやすいアンテナだと覚えてくれ。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffebfe000065ff14002000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "ちなみにグラフは装着者のコンディションや\nＬＩＶＥ中継を行う場所で変化するぞ。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe000065ff15002000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "さて、ここまでは大丈夫だな？\nアンテナで重要なのはここからだぞ。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffbeff29011000ebfe000065ff16002000"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "グラフや情報を確認したらボタンを押す。\nそれでルーレット開始だ。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff17002000"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "好きに選んでも良いのだが、\nこれもまあ番組を盛り上げる演出の１つだ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffbeff2a011000ebfe000065ff18002000"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "ルーレットでは、まずグラフが\nシャッフルされる。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffbeff2b011000ebfe000065ff19002000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "シャッフルが終了すると、グラフの\n面積比にあわせたルーレットに変化するぞ。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffbeff2c011000ebfe000065ff1a002000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "そしていよいよアンテナ装着者の決定。\nルーレットのスタートだ。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffbeff2e011000ebfe000065ff1b002000"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "ルーレットが回り始めた後は、\nどのアンテナにするかを決めるだけ。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff1c002000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "この最終決定は、プロデューサーであるお前に\n行ってもらうぞ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffebfe000065ff1d002000"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "なーに、やり方は簡単だ。\n止めたい場所を狙って○ボタン！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffbeff2f011000ebfe000065ff1e002000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "これでアンテナ装着者が決まり、\nＬＩＶＥ中継がスタートする。\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff97011000ebfe000065ff1f002000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "……以上だ。\nではアンテナ装着者の決定に挑んでくれ！\n",
+      "text_len": 54,
+      "ctrl_code": "fdfff7ff0800fcfffffff7ff0800fcffffff"
+    }
+  ]
+}

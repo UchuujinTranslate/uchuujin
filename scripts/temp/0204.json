@@ -1,0 +1,357 @@
+{
+  "UNK": "7227",
+  "id": 16,
+  "total": 38,
+  "ptrs": 176,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffed01ff0067ff0a00fcfff9ff0800ebfe000065ff00001d00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "いらっしゃいませー。\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c1ff5e01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5e011000ebfe0000adffffff65ff01001600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0100adffffff65ff02001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "（あっ……この人は……）\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5e011000ebfe0000adffffff65ff03001600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0100adffffff65ff04001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "（きょ、今日は何だろう……\n　また大福が一番だって言いに来たの……？）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffedffc8ff5e0188011000c1ff86011000ebfe000065ff05001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "あの……ご注文はお決まりでしょうか？\n",
+      "text_len": 38,
+      "ctrl_code": "fbff67ffffffc1ff5e011000ebfe000065ff06001600"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……キミ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff7c000000e8fe0400c1ff89011000ebfe000065ff07001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "は、はいぃ！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff1100e8fe0200c1ff5f011000ebfe000065ff08001600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "頼む！\n何も言わずに私についてきてほしい！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffe8fe0200c1ff88011000ebfe000065ff09001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "えっ、えええーーー！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "気付いたのだ！　大福フェアには\nキミのような人材が必要だと！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff89011000ebfe000065ff0b001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "……へっ？　人材？　大福フェア？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff0c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "そうだ！　是非キミに\n大福くんの着ぐるみを被ってほしい！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff88011000ebfe000065ff0d001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "は、はぁ……ですが、\n私は今、ここでバイトをしていますし……。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "構わん。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe020066ff7c000000c1ff89011000ebfe000065ff0f001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0300c1ff88011000ebfe0100adffffff65ff10001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "（いや……ダメでしょ！）\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff11001600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "頼む！　一緒に来てくれ！\nお客を呼ぶためには、どうしても必要なんだ！\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff89011000ebfe0000adffffff65ff12001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff88011000ebfe0000adffffff65ff13001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff87011000ebfe000065ff14001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "……ご注文は以上でしょうか？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff15001600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "あ？\nああ、今、頼んだ通りだが……。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff86011000ebfe000065ff16001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "それでは、少々お待ち下さいませ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff17001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "お待たせいたしました。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffebfe000065ff18001600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "おお、来てくれる[{0D80}][{0D80}]！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffa300ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19001600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "い、いや、\n品物は注文してないのだが[{0D80}][{0D80}]\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000065ff1a001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "ご注文の品は、\nこちらでよろしいでしょうか？\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "[{0D80}][{0D80}]塩っ！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe000065ff1c001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "ありがとうございました。\nそれでは次にお待ちのお客様、どうぞ。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffebfe010065ff1d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（ど、どういう意味だ……？）\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1fffeffff00c1ff5f01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5f011000ebfe0100adffffff65ff1e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（はっ！　そうか私が邪魔な客……\n　塩を撒いて片付けたい客と言う意味か！）\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff61011000ebfe0100adffffff65ff1f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（い、いやまて、そんなはずはない！\n　塩を撒きたい相手に直接渡してどうする！）\n",
+      "text_len": 80,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff65ff20003100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "通行人男性",
+      "speaker_len": 10,
+      "text": "ねえ店員さん。このゴミって\nどうすればいいの？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffebfe000065ff21001d00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "玉村",
+      "speaker_len": 4,
+      "text": "あ、はい、返却口はあちらで。後片付けは\nセルフサービスでお願いしております。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff22001600"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……後片付けはセルフサービス？\n",
+      "text_len": 32,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff23000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……ねえ、父さん。\n塩なんかかけられて、一体どうしたの？\n",
+      "text_len": 58,
+      "ctrl_code": "fbffebfe000065ff24001600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "かけられてなどいない！\nセルフサービスだ！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffebfe000065ff25000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "？？？？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5a01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}
