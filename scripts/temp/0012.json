@@ -1,0 +1,824 @@
+{
+  "UNK": "cf06",
+  "id": 16,
+  "total": 89,
+  "ptrs": 384,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1112,
+      2008,
+      2012,
+      3088,
+      3114,
+      4160,
+      5412
+    ],
+    "ctrl_code": "fcffedfe00000000000004ff03ff0300c1ffffff1000bcffb701ff0067ff0600fcfff9ff0800eefe00000500ebfe000064ffffff0300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ふわ〜……眠い。\n原稿描いて徹夜なんて久しぶりだよ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "でも、無事に完成してよかった。\nホント今回はギリギリだったよ……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff60001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あとは帰りに出すだけ！\n忘れずに郵便局、寄らないと。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff67001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……それにしても、ねむ〜い……\n帰ったらソッコーでダウンかな。\n",
+      "text_len": 64,
+      "ctrl_code": "fbff66ffc4000000c1ff6b001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "うっ……そういや昨日の夜から\n何も食べてない気が……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff66001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "かなりグーペコだよ……\nなんか朝ご飯代わりになる物ないかな……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff61001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……おっ！　ラッキー、ポケットに\nチョコはっけーん。\n",
+      "text_len": 54,
+      "ctrl_code": "fbff67ffffffedffc1ffffff1000e8fe0200ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うおおおおおお！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff5f001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………ん？\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffc600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うおおおおおお！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "うおおおおおお！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffbcffb701100066ff7c000000e8fe0200c1ff68001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfffefe010001007fff0200edffc1ffffff1000e8fe020066ff7c000000c1ffaf001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff64ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "（校長先生！？\n　なんでこんなところに！）\n",
+      "text_len": 44,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffbcffb7011000edfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800c1ffb9011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "ぎゃー！！　アンテナが折れた！！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffedffc8ffb901c6011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "うわああっ！　アンテナどころか\n骨まで折れたような音がしたぞ！！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "容赦ねぇ……\nって、何に巻き込まれたんだよ！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ffc7011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "わからん。\nだが、怪我で済むオッサンはまだマシだ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ffc6011000ebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "なぜなら俺たちは\n怪我で済まない確率、１００％だからな！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200c1ffb9011000ebfe000065ff05002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300e8fe0200c1ff41001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "わ〜〜〜〜〜〜！？\nどいてどいてどいて〜〜〜〜〜〜！！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff65001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "な、なっ[{0D80}][{0D80}]！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "ゆっこ＆みお",
+      "speaker_len": 12,
+      "text": "ぎゃああああああ！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbff67ffffffc1ff66001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "痛たたたた……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbff67ff0a00edffc8ff66003b001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "いった〜……\nあ、みおちゃん、おはよー。\n",
+      "text_len": 42,
+      "ctrl_code": "fbff05ffe8fe0200c1ff69001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "痛烈だよ！\n朝の挨拶にしては過激すぎるよ！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff45001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えっ、今の？\nやだなー、今のは事故だよ、事故。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff5f001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "事故ぉ〜〜？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff3b001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "歩いてたら後ろからおばあさんと鹿が\n迫ってきたんだもん。私だってビックリだよ。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff67001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はぁ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3f001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ホ、ホントだからね？\n狙って体当たりしたわけじゃないから！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff67001000ebfe000064ffffff0300"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "はいはい。わかったから、拾うの手伝って。\nさっきのでカバンの中身出ちゃったよ。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff45001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あ、うん。でも、相手が鹿だと\n怒るに怒れないよねー。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff3e001000ebfe000064ffffff0200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "鹿が原因だけに\nこりゃもう、シカたねー！　ってね！\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe010097fffdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700eefe0500040067ff0f00e8fe0200c1ff69001000ebfe000065ff06000300"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "シカたなくねーよ！\n大激怒だよ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200c1ff40001000ebfe000065ff07000200"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff66001000ebfe000065ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "こっちは疲れと空腹と眠気で\n満身創[{0D96}]な状態なの。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff69001000ebfe000065ff09000300"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "なのにトドメを刺すかのように\nぶつかられたら怒って当たり前だよ！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff0a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "そ、そう？　相手は動物で、鹿だから。\n野生の本能に従ってるのかな〜とか……。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff3e001000ebfe000065ff0b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "だから、追いかけられたりするくらいは、\nシカたねー！　って思えるかな？\n",
+      "text_len": 72,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff100066ff7f000000c1ff69001000ebfe000065ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "思えないよ！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff69003f001000ebfe000065ff0d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ま、まあ、私はそう思うってだけで。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff67001000ebfe000065ff0e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ゆっこはシカたねーって\n駄[{0D91}]落言いたいだけじゃん！\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe030097fffbff67ffffff66ff7c000000e8fe0200c1ff41001000ebfe000065ff0f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff1400c1ff65001000ebfe000065ff10000300"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "え……\nまさか……本当に……？\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0400c1ff3f001000ebfe0000adffffff65ff11000200"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3f00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff12000200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff67001000ebfe000065ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "もう、なにそれ。\n相変わらずくっだらない。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff45001000ebfe000065ff14000200"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えへへへー。\n……あれ？　何か踏んだ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc1ffffff1000c9ff61021000ebfe000065ff15000200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うわー、もう、こんなとこに\nチョコ落としたの誰かなー。\n",
+      "text_len": 56,
+      "ctrl_code": "fbff67ffffffe8fe0200edffc1ffffff100066ff7c000000ebfe000065ff16000300"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbffc9ffffff100067ff1100eefe05000400e8fe0200c1ff69001000ebfe000065ff17000300"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "私だよ！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe0200c1ff40001000ebfe000065ff18000200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200edffc8ff690040001000ebfe000065ff19000300"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あんたにぶつかられて落としたんだよ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff1a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "えっ、そ、そうだったの？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff66001000ebfe000065ff1b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "昨日の夜から何も食べて無くて\n徹夜明けでへろへろな私の……。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff100066ff7f000000c1ff69001000ebfe000065ff1c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "私の命のチョコだよ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200edffc8ff66003f001000ebfe000065ff1e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "どうすんのさ！\nもうこれ食べられないよ！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff40001000ebfe0000adffffff65ff1f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff1000c1ff69001000ebfe000065ff20000300"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "どうすんのさ！！\n私にここで餓死しろって言うの！？\n",
+      "text_len": 52,
+      "ctrl_code": "fbff67ffffffedffc8ff69003b001000ebfe000065ff21000200"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……はい。パンあげる。\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe070097fffbffedffc1ffffff1000c1ff63001000ebfe0000adffffff65ff22000300"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3b001000ebfe0000adffffff65ff23000200"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24000300"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ありがとう。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff67001000ebfe000065ff25000300"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……はぁ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffff66ff81000000eefe0d000400c1ff3f001000ebfe000065ff26000200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あ、あれ……？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc1ffffff100067ff0e00c1ff40001000ebfe0100adffffff65ff27000200"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "（なに、この反応……ってか無反応……\n　ハズした？　もしかして私、ハズした！？）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff41001000ebfe0100adffffff65ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "（でもそんなことって……状況にぴったりの\n　完[{0D95}]なネタだったのに……！）\n",
+      "text_len": 74,
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff670041001000ebfe000065ff29000300"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "……見てないで、拾うの手伝ってよ。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff38001000ebfe000065ff2a000200"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "え、あ、う、うん……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff44001000ebfe0100adffffff65ff2b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "（どうしよう……このまま引き下がったんじゃ\n　私のプライドが許さない……）\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff3c001000ebfe0100adffffff65ff2c000200"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "（けど……伝家の宝刀は……\n　ムカデがムカッデくるは……っ！！）\n",
+      "text_len": 66,
+      "ctrl_code": "fbff67ffffffedffc8ff67003c001000ebfe000065ff2d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ね、ねえ、みおちゃん……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff67001000ebfe000065ff2e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ん？　なーに？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc1ffffff100067ff1600c1ff3f001000ebfe000065ff2f000200"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "イカはいかが？\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe000097fffbffedffc8ff6b003f001000ebfe0000adffffff65ff30000300"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff44001000ebfe000065ff31000200"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "こ、この鶏肉、取りに来る？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff63001000ebfe0000adffffff65ff32000300"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff3c001000ebfe000065ff33000200"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ヨウカンは、よう噛んで食べてね！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff65001000ebfe0000adffffff65ff34000300"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff3d001000ebfe000065ff35000200"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "もんじゃ焼きは、食べもんじゃー！！\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe010097fffbffedffc1ffffff1000c1ff67001000ebfe0000adffffff65ff36000300"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffff66ff2a000000edffc1ffffff1000daff66ff8a000000e8fe0400ebfe000065ff37000200"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff38000200"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ーーーーっ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

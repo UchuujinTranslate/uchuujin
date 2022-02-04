@@ -1,0 +1,680 @@
+{
+  "UNK": "120b",
+  "id": 16,
+  "total": 73,
+  "ptrs": 320,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1386,
+      2188,
+      2192,
+      2774,
+      2800,
+      4768,
+      6174
+    ],
+    "ctrl_code": "fcffedfe0a000b000c0004ff03ff0300c1ffffff1000bcffd2d1ff0067ff0900fcfff9ff0800eefe00000500c0ff040079011000ebfe000064ffffff1a00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ねー、いつも思うんだけどさー。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc0ff03008e001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "え？　何？\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcffbeff08011000f4ff1e00beff09011000f4ff1e00beff0a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "みさとの部屋って、\nあんま女の子っぽくないよねー。\n",
+      "text_len": 52,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1fffeffff00c8ff8e007a01ff0090ff7a0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff96001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ぐっ……！\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe020097fffbffc0ff040072011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "まあまあ、あんま言ってやるなよ。\nみさとは剣道一筋だからさー。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff94001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そうよ！　私は部活に青春賭けてるの！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff7a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "えー、どっちかって言うと\nみさとは笹原一筋じゃない？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffedfffcff66ff75000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ふぇ〜……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff95007b011000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "誰が一途な初体験か！！\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe030097fffbffc0ff040072011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "あははは。相変わらず、みさとは\n笹原のことになるとメチャクチャだなー。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc0ff040079011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ホントそうだよね……\n銃とか平気で撃っちゃうし。\n",
+      "text_len": 50,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0a01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "……あ、そう言えばこれも\n笹原がらみで持ってきてたよねー。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、そ、それは……！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おー、見たことあるぞ。\nってか部屋に置いてあるのかよ……。\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe070097fffbfffefe020001007fff0200f5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff57000000daffbcffd2d1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff6ff0800daff66ff6e000000daffc1ff7b011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "わああっ！\n……ビックリしたぁ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff74011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "な、なんか今、発射されたぞ……？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200edffc8ff930074011000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ちょっと、それ危ないから触んないで！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc0ff04007a011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "うん、危ないね。ここ置いとくよー。\n",
+      "text_len": 36,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ぎゃあああああああああああ！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ffe0011000ebfe000065ff00002500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "あ、アンテナ壊れた。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002600"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "……なあ。\nなんであんなところに隠れさせたんだよ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300e8fe0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff94001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ちょっとフェっちゃん！\nそれ危ないから触っちゃダメ！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffedffc8ff940079011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "えー、いいじゃんちょっとくらい。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff8e001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ダメだって！\n触るんならこっちの小さい方にして。\n",
+      "text_len": 50,
+      "ctrl_code": "98ff000066ff76000000c1ff7d011000effe080097fffbff67ff1000e8fe0200c0ff030074011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "小っさ！\n",
+      "text_len": 10,
+      "ctrl_code": "fbff05ffc1ff7d011000ebfe000064ffffff1a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "わーい、ありがと。ねえねえ、\nこれも弾がびゅーんって出るの？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc0ff03008e001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そりゃそうよ。\n小さくても本物だもん。\n",
+      "text_len": 40,
+      "ctrl_code": "fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700c1ff7d011000ebfe000065ff02001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ふーん、そうなんだ。\nおもしろそー。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffc8ff8e0071011000adfffeffebfe0000aeff03008000aeff0400800065ff03000400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みさと＆ウェボシー",
+      "speaker_len": 18,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffaeff03000000aeff04000000c1ffffff1000edfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ff66ff6e000000f6ff0800eefe03000400effe0400c0ff030074011000ebfe000065ff04001900"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "わっ！？　あっぶな〜。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff04007d011000ebfe000065ff05001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "あれあれ、ゴメ〜ン。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff73011000ebfe000065ff06001900"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ったく……\nその危ないの、さっさと脱いじゃいなよ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbff67ffffffc1ff7d011000ebfe000065ff07001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "うん、そうする〜。\n……あれ？　あれあれ？\n",
+      "text_len": 44,
+      "ctrl_code": "fdffedfffcff1aff04000000630000000a0016ffffff1aff040000006d0000000a0016ffffff1aff04000000630000000a0016ffffff1aff040000006d0000000a0016ffffff1aff04000000680000000a0016ffffffeefe12000400c1ff71011000ebfe000065ff08001900"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "なに、どうしたの？\n",
+      "text_len": 20,
+      "ctrl_code": "fbff67ff1600c1ff7d011000ebfe000065ff09001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "……とれなくなっちゃった。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe0a0097fffbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ff66ff70000000c1ff74011000f6ff0800e8fe0200ebfe000065ff0a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ひゃっ！！　ちょっと、ウソでしょ！？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc0ff040092001000ebfe000065ff0b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そ、そんなはずないんだけど……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ff66ff6e000000f6ff0800edffc1ffffff1000c1ff7d011000ebfe000065ff0c001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "だって〜ホントにとれないんだも〜ん。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ff66ff6e000000f6ff0800c1ff7d011000ebfe000065ff0d001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ウェボシー、とってよ〜！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffe8fe0200edffc8ff74017d011000ebfe000065ff0e001900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "わ〜〜〜〜〜！？\nこっちくんな〜〜〜〜〜〜〜！！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff93001000ebfe000065ff0f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "大変！　なんとかしなくちゃ！\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe080097fffbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1fffeffff00c0ff04007d01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe020066ff22000000ebfe000065ff10000400"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "フェっちゃん、止まって！！\n",
+      "text_len": 28,
+      "ctrl_code": "fdffedfffcff66ff730000001fff0300000000fe0000c1ffa200ff001aff0300000078ff00001e0016ffffffdaffeffe0900f8ff0800edffc1ffffff1000edfffcff67ffffffbcfff0d11000f9ff080066ff56000000f4ff3c00dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1fffeffff00c0ff0300a200ff0090ffffff90ffffff67ff150071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff11000400"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "大丈夫？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc0ff04007a011000ebfe000065ff12001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "やった、爆発のおかげで取れたよ！\n……あれ、ウェボシーどうしたの？\n",
+      "text_len": 68,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffead1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff13001900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "わ、わたしだけ……\n生身だったの……に……。\n",
+      "text_len": 46,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff79011000ebfe000065ff14001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "わー、なんか怖そう。\nここに置いとこっと。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc0ff030072011000ebfe000065ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "まあ、それが賢明だな。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff71011000ebfe000065ff16001900"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "にしても、なんでみさとはこれ被るんだ？\nそれも、笹原がらみの時だけ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffedffc8ff980071011000ebfe000065ff17000400"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "えっ！？　そ、それはその……\nいいじゃない別に！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc0ff04007a011000ebfe000065ff18001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "わー、なんか理由があるんだ。\n気になる気になるー！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc0ff040072011000ebfe000065ff19001900"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "照れるなよ〜。\nみさと、言っちゃえ言っちゃえ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff97001000ebfe000065ff1a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "その……これは……\n前に、笹原とちょっとね……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffeefe12000400c0ff04007a011000ebfe000065ff1b001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "えー、なになに？\n思い出の品、ってやつー？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff92001000ebfe000065ff1c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "なっ……！\nそ、そう言うんじゃないわよ……ただ……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc0ff040071011000ebfe000065ff1d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ただ？\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe080097fffbff67ff1200c1ff98001000ebfe000065ff1e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "〜〜〜〜〜〜〜〜！\n笹原が、演劇部で被ってたからっ！\n",
+      "text_len": 54,
+      "ctrl_code": "98ff0000eefe02000400effe090097fffbffc1ff92001000ebfe000065ff1f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "だから私もって思って……\nホントにそれだけなんだからっ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc0ff040079011000ebfe000065ff20001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ふぇ〜、そうなんだ〜！\nうちの演劇部って過激なんだね。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc0ff040073011000ebfe000065ff21001900"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "いや……みさと……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffead1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22001900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "それ、この砲台？　みたいのじゃなくて、\nクマみたいののことじゃね？\n",
+      "text_len": 68,
+      "ctrl_code": "fbffebfe0000adffffff65ff23000400"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff7d011000ebfe000065ff24001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "ねえねえ、似合う〜？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc0ff030073011000ebfe000065ff25001900"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "あーはいはい、似合う似合う。\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff72011000ebfe000065ff26001900"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "それでみさと、マジな話どうなの。\n笹原とはなんか進展あった？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc8ff920072011000ebfe000065ff27000400"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "なっ！？　なによ急に！\nどうしてそういう話になるの！！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc0ff04007d011000ebfe000065ff28001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "あー、私も聞きたい聞きたーい！\n",
+      "text_len": 32,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff72011000ebfe000065ff29001900"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "んじゃ、私はそろそろ帰るよ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff7d011000ebfe000065ff2a001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "あ、じゃあ私も帰る〜。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffeefe02000400c1ff8f001000ebfe000065ff2b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そう、じゃあまた学校でね。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc8ff8f0072011000ebfe000065ff2c001900"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おう、またな〜。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc0ff04007d011000ebfe000065ff2d001a00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "フェっちゃん",
+      "speaker_len": 12,
+      "text": "バイバーイ。\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000eefe03000400effe060097fffbffbfff1a001000c1ff8e001000ebfe0000adffffff65ff2e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffead1ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……あれ？\n",
+      "text_len": 12,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

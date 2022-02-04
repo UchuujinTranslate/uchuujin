@@ -1,0 +1,905 @@
+{
+  "UNK": "fd23",
+  "id": 16,
+  "total": 98,
+  "ptrs": 416,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1394,
+      2882,
+      2886,
+      4218,
+      4244,
+      6314,
+      7656
+    ],
+    "ctrl_code": "fcffedfe08000f00110004ff03ff0300c1ffffff1000bcff00f0ff0067ff0b00fcfff9ff0800eefe00000500c1ff30011000ebfe0000adffffff64ffffff0e00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcffedfffcff66ff22000000c1ffffff1000daff1fff0300000000020000c1ff6401ff001aff03000000f0ff00003c00c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あれ？　今、バディがいた気が……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbff16ffffffc1ff65011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "気のせいだよね。\nバディはうちにいるはずだし。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "……でも、最近バディは突然どこかに\n走り出したりするんだよな。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "前に見つけた時は……\n何か変なことしてたし……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffb5ff0300f5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5c00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800f4ff1e00f5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5d00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800f4ff1e00b4fff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff00c1ff6601ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "もしかしてこれから\nまたあんなことをしに行くつもりじゃ……。\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "それとも、全く別のことをするために\nどこかに行くところだったかも？\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff66011000ebfe0000adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "よし、行ってみよう！\n",
+      "text_len": 22,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "バディ、バディー。\nどこにいるんだー？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "見つからない……\n一体どこに行ったんだ？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あっ、あの人に聞いてみよう。\nすみませーん。\n",
+      "text_len": 46,
+      "ctrl_code": "fbfffefe010001007fff0200edffc8ffb30064011000c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あのー、さっきこの辺りに\n犬が走ってきませんでした？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "え？　犬ですか？\nう〜ん、見ていませんねぇ。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff65011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "そうですか……\nありがとうございました。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0100adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（次はあっちの方に行ってみようかな）\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedfffcfffaff0400000067fffffff8ff0800c1ffffff1000bcffba011000faff0300000067ff1000f9ff0800edffc0ff0300ffff10001fff0300000000020000c0ff0300640110001aff03000000f0ff00001e0016ffffff1fff0400000000020000c0ff0400b30010001aff04000000680000001e0016ffffffebfe0000adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff1aff0300000000fe00001e001aff0400000000fe00001e00faff04000000f8ff080016ffffffedffc1ffffff1000bcffba011000faff03000000f9ff0800edffc0ff0300ffff10001fff0300000000020000c0ff0300640110001aff03000000f0ff00001e0016ffffff1fff0400000000020000c0ff0400b30010001aff04000000680000001e0016ffffffebfe0000adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff1aff0300000078ff0000020016ffffffe8fe0300c1ff67011000ebfe0100adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（！？\n　なんで僕の後をついてきてるの！？）\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff66011000ebfe0100adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（ハッ！？　ま、まさか……！？）\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "……どうかしましたか？\n",
+      "text_len": 24,
+      "ctrl_code": "fbff67ff1200e8fe0200c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "う、う……うおおおおおお！！\n先手必勝ーーー！！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1800faff01000000f9ff0800e8fe0200c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "えええーー！？\nなんか急に襲ってきたーー！？\n",
+      "text_len": 46,
+      "ctrl_code": "fbffedffc8ffbb01bf011000c1ffbf011000ebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "こ、これはオヤジ狩りか！？\nこの子供、この歳でなんてワルなんだ！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ffb4011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "くそぉ！　もうダメだーー！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "speaker_len": 6,
+      "text": "うおあああああ！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あのー、さっきこの辺りに\n犬がいたはずなんだけど見ませんでした？\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "はい？　犬？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff820164011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "僕んちの犬なんですけど、さっきこっちに\n走っていったのが見えた気がして……。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "でも、消えちゃったみたいに\n姿が見えなくなって……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "はぁ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff65011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "もしかしたら、あれは幻だったのかも。\nだから本当に消えちゃって……なんて。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff82011000ebfe0000adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "声をかけてごめんなさい。\n僕、行きますね。\n",
+      "text_len": 44,
+      "ctrl_code": "fbff67ff1300c1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "あっ。待ちなさい。\n私はその犬のことを知ってますよ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff67011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "えっ？　本当！？\nバディはどこに！？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "今ここに、私たちの目の前にいます。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "え？　どこにもいないよ？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "それはこの犬が霊体だからです。\nあなたが心配であの世から見に来たそうです。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff67011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "……えっ？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "私はイタコをやっているので\nこの犬の霊を降ろし、話をさせましょう。\n",
+      "text_len": 68,
+      "ctrl_code": "98ff0000effe0a0097fffbff05ffc1ff66011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "な、何を言って[{0D80}][{0D80}]\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "うう……ご主人様と喋れる日が来るなんて\n夢のようだワン。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200c1ff67011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1200c1ff82011000ebfe000065ff04001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "元気にしてたワンか？\n風邪とか引いてないワンか？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffeefe15000400c1ff64011000ebfe000065ff05001700"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "いや、何してるの？　いくら僕が子供でも\nそんな小芝居に[{0DAA}]されないよ？\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff06001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "小芝居じゃないワン。イタコさんが霊の僕に\n体を貸して話をさせてくれてるんだワン。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff07001700"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ふーん。じゃあお前の名前は？\n本物なら言えるよね？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff08001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "もちろんだワン。\n僕の名前はバディだワン。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffe8fe0300c1ff66011000ebfe0100adffffff65ff09001700"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（くっ！　さっきちょっと言ったのを\n　しっかり覚えている！）\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff65011000ebfe000065ff0a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "そ、そうだ。もう１つ質問。\nうちで飼ってるもう１匹の名前は？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff82011000ebfe0000adffffff65ff0b001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff64011000ebfe000065ff0c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "本当にバディなら\nこれくらいわかるよね？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff0d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……カバディ。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff0e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "惜しい！　でも間違い！\n正解はコバディだよ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff0f001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "知ってるワン。だからさっき\nコバディって言ったワン。\n",
+      "text_len": 54,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff66011000ebfe000065ff10001700"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "えっ？　だって、今、カバディって[{0D80}][{0D80}]\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff11001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "聞き間違いだワン。\nコバディって言ったワン。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0200eefe15000400c1ff67011000ebfe000065ff12001700"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff84011000ebfe000065ff13001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "これで僕のこと、\nバディだって信じてくれたワン？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff66011000ebfe000065ff14001700"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "くっ……なんて汚い大人なんだ。\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe030097fffbffedffc1ffffff100067ff1000c1ff30011000ebfe0000adffffff65ff15000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff16001700"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あっ、バディ！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff17001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedffc8ff650130011000ebfe000065ff18001700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おまえ、どこ行ってたんだ。\n……でも、良い所に来てくれたよ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0200c1ff64011000ebfe000065ff19001700"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "イタコさん、これが本物のバディだ！\n小芝居だってバレた[{0D80}][{0D80}]\n",
+      "text_len": 60,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1fffeffff00c0ff04006401ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ffc7000000c1ff64011000ebfe0000adffffff65ff1a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff66011000ebfe000065ff1b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "消えた……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0200c1ff67011000ebfe000065ff1c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe000065ff1d001700"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "まさか、幽霊……？\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0e00c1ff82011000ebfe000065ff1e001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "お喋りできるようになって嬉しいワン。\nこのイタコさんに感謝だワン。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff64011000ebfe0000adffffff65ff1f001700"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff67011000ebfe0100adffffff65ff20001700"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（イタコ……聞いたことがある。\n　死んだ人の霊を呼ぶ人だっけ？）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffeefe15000400c1ff66011000ebfe0100adffffff65ff21001700"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（でもバディは死んでないし……\n　この人、何してるんだ？）\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff84011000ebfe000065ff22001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "今日はご主人様が心配で見に来たけど、\n立派に成長しててうれしいワン。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff23001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "僕はこれで安心して成仏できるワン。\nイタコさんに感謝するワン。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff64011000ebfe000065ff24001700"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あの、ちょっといい？\nその犬の霊だけど……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbff67ffffffc1ff83011000ebfe000065ff25001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "ああぁ……ふぅ。\n動物霊を降ろすのは疲れる。\n",
+      "text_len": 46,
+      "ctrl_code": "fbff67ff1100c1ff82011000ebfe000065ff26001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "犬と話ができたようで良かった。\nそれじゃあお代、５千円もらいます。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffe8fe0400c1ff67011000ebfe000065ff27001700"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "えっ！？　ごごごご、５千円！？\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe0a00e8fe020097fffbffc1ff66011000ebfe000065ff28001700"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "無理だよ！　というか、嫌だよ！\nどう見てもインチキじゃん！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff85011000ebfe000065ff29001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "ご主人様。インチキなんて言っちゃ駄目だワン。\nそれにお金を払わないのもよくないワン。\n",
+      "text_len": 86,
+      "ctrl_code": "fbffe8fe0200c1ff67011000ebfe000065ff2a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe060097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2b001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……５千円。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff2c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200eefe04000400c1ff66011000ebfe000065ff2d001700"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あの、何してるんですか？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff2e001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "ご主人様はイタコを知らないのかワン？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff64011000ebfe000065ff2f001700"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "一応、聞いたことはあるけど……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff30001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "僕は今このイタコさんの体を借りて\n話をしているんだワン。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff66011000ebfe000065ff31001700"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "はぁ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff32001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "僕は死んじゃったけど、ご主人様が心配で\nあの世から戻ってきたんだワン。\n",
+      "text_len": 72,
+      "ctrl_code": "fbff67ffffffc1ff64011000ebfe000065ff33001700"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "うちのバディはまだ生きてるよ？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffeefe02000400c1ff83011000ebfe0000adffffff65ff34001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff66011000ebfe0000adffffff65ff35001700"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff36001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……ケッ！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff37001700"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

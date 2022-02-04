@@ -1,0 +1,168 @@
+{
+  "UNK": "cb0f",
+  "id": 16,
+  "total": 17,
+  "ptrs": 96,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffec01ff0067ff0b00fcfff9ff0800ebfe000065ff00000700"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ふぅ。今日は疲れた……\n何度も金縛りになって体が痛い……。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000065ff01000700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "でもあの菩薩は供養されたから\nもう金縛りは起きない。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffebfe000065ff02000700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "銅製の菩薩は、ちょっと残念だけど。\n木製と並べてみたかった。\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff9b00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff03000700"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "でも、やっぱり木製はいい……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffebfe000065ff04000700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "銅製は無くても、木製がある。\nそれだけでいい。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffebfe000065ff05000700"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……寝よう。\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff06000700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "おやすみ……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe0000adffffff65ff07000700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff82000000c1ffd8001000ebfe000065ff08000700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "えっ？\n",
+      "text_len": 8,
+      "ctrl_code": "fbff67ff0e00c1ffd5001000ebfe000065ff09000700"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "か、金縛り……？　どうして[{0D80}][{0D80}]\n",
+      "text_len": 32,
+      "ctrl_code": "fbffe8fe0200c1ffda001000ebfe000065ff0a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffedffc8ff4f02d8001000ebfe000065ff0b000700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "木製が……\nこの感覚、あの時と同じ……。\n",
+      "text_len": 42,
+      "ctrl_code": "fdffedfffcff66ff70000000c0ff030050021000daffe8fe0200c1ffda001000ebfe000065ff0c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ffd5001000ebfe0000adffffff65ff0d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffdb001000ebfe000065ff0e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "変わり身か……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffdc001000ebfe000065ff0f000700"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "フフ……\n菩薩ながら天晴れ……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff82000000daffbcffec01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff10000700"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4801080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

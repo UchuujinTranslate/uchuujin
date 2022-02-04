@@ -1,0 +1,204 @@
+{
+  "UNK": "ba24",
+  "id": 16,
+  "total": 21,
+  "ptrs": 112,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffcfd1ff0067ff0b00fcfff9ff0800c8ffffffffff10001fff04000000f0ff0000c0ff04006d001000adff0500ebfe000065ff00000300"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ただいまー……って、\nあれ、お姉いないの？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc0ff040072001000adff0500ebfe000065ff01000300"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "おかしいな……\n今日は先に戻ってるって言ってたのに。\n",
+      "text_len": 54,
+      "ctrl_code": "fbff1fff0300000000fe0000c0ff03006a011000c0ff040072001000adff03001aff03000000f0ff0000200016ffffffebfe000065ff02001800"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "えいっ！\n",
+      "text_len": 10,
+      "ctrl_code": "98ff00001aff0300000078ff0000200016ffffff97fffbffe8fe0200c1ff770010001aff04000000680000002000ebfe000065ff03000300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "わ、なになに！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbff16ffffffedffc8ff6a0177001000ebfe000065ff04001800"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "みお、おかえりー。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff72001000ebfe000065ff05000300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "な、なんだ、お姉か……\nびっくりさせないでよ。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff06001800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "すごいねー。\n普通の人間にもちゃんとつけられるんだー。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff74001000ebfe000065ff07000300"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "へ？　なにが、って[{0D80}][{0D80}]\n",
+      "text_len": 24,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0b00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff7c000000e8fe0200ebfe000065ff08000300"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "なにこれー！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff1100ebfe000065ff09001800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "えへへー、可愛いでしょ。\nなのちゃんごっこー♪\n",
+      "text_len": 48,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0a000300"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "可愛くないよ！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe000065ff0b000300"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "てかこれなのちゃんのでしょ！\nどうしたのよ！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffebfe000065ff0c001800"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "うん、実はねー。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffcfd1ff00c1fffeffff00c8ff69016d00ff0090ff6d0090ffffff67ff0b0071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff6d001000ebfe000065ff0d000300"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "なるほどねぇ……\nまあ、普通なのちゃんに会えば気になるよね。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff0e001800"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "ね、今度うちに誘いなよ。\nはかせも一緒に。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff6a011000ebfe000065ff0f001800"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "私がおいしいお菓子作ってあげるからさ！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff72001000ebfe000065ff10000300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "あー……お菓子はやめといた方が……\nっていうかさ[{0D80}][{0D80}]\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff6d001000ebfe000065ff11000300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "そろそろこれ、外してくんない？\n重くて肩こっちゃうよ。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff69011000ebfe000065ff12001800"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "そう？　じゃあ、しょうがないね。\nんしょ……よいしょ……あれ？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff72001000ebfe000065ff13000300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "なに、どうしたの？\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffead1ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14001800"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "みお姉",
+      "speaker_len": 6,
+      "text": "……取れなくなっちゃった♪\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5501080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

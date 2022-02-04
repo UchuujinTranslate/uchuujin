@@ -1,0 +1,851 @@
+{
+  "UNK": "3a27",
+  "id": 16,
+  "total": 92,
+  "ptrs": 384,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1370,
+      2474,
+      2478,
+      3612,
+      3638,
+      4960,
+      6112
+    ],
+    "ctrl_code": "fcffedfe0e001000110004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500ebfe000064ffffff1c00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "あのモヒカンめ……どこに行きおった？\nこの中にいるのは間違いないんじゃが……。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……ん？　あれはこの学校の先生……？\nちょっと聞いてみようかの。\n",
+      "text_len": 66,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800edffc8ff5b0183011000c1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "あのぉ……もし、そこの人。\n",
+      "text_len": 28,
+      "ctrl_code": "fbff67ffffffe8fe0400c1ff5d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "はい！？　だだ、誰ですか！？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "いや……わたしは、\n通りすがりのイタコですが……。\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe060097fffbff67ff0e00c1ff83011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（この反応……変じゃな。\n　何か見られたくないものでも……？）\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff84011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "失礼ですが、あなたはここの先生ですかな？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff5d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "は、はい、私はこの学校の教頭ですが、\nな、何か問題でも？\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "な、何もないのなら……\nは、早くどこかに行ってください！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff82011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（ふむ……何やら怯えとる。\n　なら、モヒカンから徴収する前に[{0D80}][{0D80}]）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "教頭先生……ここだけの話なんですがね。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "は、はい……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff84011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "この学校、呪われてますぞ……。\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe0a0097fffbffe8fe0400c1ff5d011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "呪！？　なな、何を突然……\n私の学校に不吉なことを言わないでください！\n",
+      "text_len": 72,
+      "ctrl_code": "fbfffefe010001007fff0200edffc1ffffff1000e8fe0200c1ffb6001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "そうです！　私の学校のイメージを\n下げるようなことは言わないで欲しい！\n",
+      "text_len": 72,
+      "ctrl_code": "fbff67ff0f00e8fe0200edffc8ff5a01b6001000c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "いえ！　私の学校だ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ffad001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\nで、では、私たちの学校と言う事で……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffe8fe0200c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ここは私の学校だ！\nあなたは別の学校の校長になりなさい！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200c1ffb1001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff1800c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "もう回りくどいことは止めだ！\n力ずくで校長の席を譲ってもらう！\n",
+      "text_len": 64,
+      "ctrl_code": "fbffe8fe0400c1ffae001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "きょ、教頭先生！？　ま、待ってくださ[{0D80}][{0D80}]\n",
+      "text_len": 42,
+      "ctrl_code": "fbffedffc1ffffff1000bcffff011000e8fe0200ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "ぎゃあああああ！！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c1ffc9011000ebfe000065ff00002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "あーっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffc901b0011000c1ffb0011000ebfe000065ff01002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "やばい！　あのメガネ本気だ！\nこれじゃオッサンの命が危ない！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffd5011000ebfe000065ff02002400"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "待て、危ないのは俺たちもだっ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedffc8ffc901b3011000adfffeffebfe000065ff03002200"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF07}]＆[{FF08}]",
+      "speaker_len": 6,
+      "text": "……え？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF07}]＆[{FF08}]＆[{FF09}]",
+      "speaker_len": 10,
+      "text": "うあああああああああ！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "嘘じゃありません。ここに棲みついた悪霊が\n学校に呪いをかけているんです！\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "い、一体何を言っているんだ？\nバカバカしい……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff83011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "信じてください。\nそして……私に任せてください。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "任せる？　どういうことです？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff84011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "除霊です。\n私がここから悪霊を……んん？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ど、どうかしました？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff82011000ebfe000064ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "い、いえ……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff82011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（……って、この人が手に持ってるのは、\n　まさか……まさか……）\n",
+      "text_len": 66,
+      "ctrl_code": "fbff67ffffffc9ff56021000effe0600e8fe0300c1ff85011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（藁人形！？）\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc9ffffff100067ff0f00c1ff83011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（まさか……ヤバい人？\n　それとも本当に悪霊がいて……？）\n",
+      "text_len": 60,
+      "ctrl_code": "fbff05ffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "どうしました？　顔色が悪いようですが……\n体調が悪いんですか？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "それとも……これが気になりますか？\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff85011000ebfe0100adffffff64ffffff1c00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（よ、予感的中……！\n　エラいのに声をかけてしもうた……！）\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "おやぁ、汗をかかれてますねぇ。\n保健室に行きますか？\n",
+      "text_len": 54,
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe15000400c1ff82011000ebfe0100adffffff65ff05001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（保健室と言って、\n　本当はどこに連れて行くつもりだ……？）\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff83011000ebfe0100adffffff65ff06001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（油断すると命を持っていかれる……\n　料金どころの話じゃない……）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff82011000ebfe0100adffffff65ff07001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（だが、やられる訳には……\n　やられる訳にはいかんのじゃ！）\n",
+      "text_len": 62,
+      "ctrl_code": "fbff67ff1300e8fe0200c1ff85011000ebfe000065ff08001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "かぁぁぁあ！！\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200c1ff5b011000ebfe000065ff09001500"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff83011000ebfe000065ff0a001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "この悪霊め！　来るなら来い！\n成敗してくれるわ！！\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe090097fffbffc1ff5a011000ebfe000065ff0b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "失敬な！　わ、私は悪霊じゃない、校長だ！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff85011000ebfe000065ff0c001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "[{0DAA}]されんぞ！\nこれでもわたしはイタコの端く[{0D80}][{0D80}]\n",
+      "text_len": 48,
+      "ctrl_code": "fbff67ff1000eefe01000400c1ff82011000ebfe000065ff0d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……えっ？　今さっき教頭って……。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0400c1ff5d011000ebfe000065ff0e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "あっ！？　い、いやだから教頭だ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff84011000ebfe000065ff0f001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "でも今、校長って……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff10001500"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "こ、校長でもいいんだ！\nそれで、お前が成敗したいのは校長か！？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff11001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "いや、別に校長は[{0D80}][{0D80}]\n",
+      "text_len": 22,
+      "ctrl_code": "fbffe8fe0200c1ff5a011000ebfe000065ff12001500"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "だからどれなんだ！？\n校長か悪霊か藁人形か校長か！？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff83011000ebfe0000adffffff65ff13001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……………………。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff14001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "じゃあ、モヒカンで。\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00eefe0a000400c1ff83011000ebfe000065ff15001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "いえ、結構ですから。\nそれじゃこれで[{0D80}][{0D80}]\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff16001500"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ちょっと待ってください。\n具合の悪いお婆さんをほっとけないですから。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff85011000ebfe000065ff17001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "結構です！　具合は悪くないですから！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff18001500"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "でしたら、なぜ顔色が……？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff82011000ebfe000065ff19001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "そ、それは……んん！？　なんだこの匂い！？\nまさか悪霊の[{0D80}][{0D80}]！？\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff5a011000ebfe000065ff1a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "匂い？　……ああ、もしかしてこれですか？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc9ff56021000e8fe0400c1ff83011000ebfe000065ff1b001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "ぐっ……やはり藁人形……\n私を呪うつもりか！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc9ffffff1000c1ff5c011000ebfe000065ff1c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "は？　何を言っているのです。\nよく見なさい……ほら[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc9ff57021000e8fe0200c1ff85011000ebfe000065ff1d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "納豆！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff1e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ええ。国産大豆１００％、天然にがりのみ使用。\n……食べますか？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffeefe09000400c1ff82011000ebfe000065ff1f001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff84011000ebfe000065ff20001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "……タレとカラシは無いのか？\n",
+      "text_len": 30,
+      "ctrl_code": "fbff67ffffffeefe03000400c1ff5b011000ebfe000065ff21001500"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……あ。\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff6d00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff130071ff000063ffffff90ffffffedfff9ff080066ff7f000000e8fe0200ebfe000065ff22001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "呪われろ！\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00eefe0a000400c1ff82011000ebfe000065ff23001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "いや、結構ですから。では、これにて[{0D80}][{0D80}]\n",
+      "text_len": 40,
+      "ctrl_code": "fbffe8fe0400c1ff5b011000ebfe000065ff24001500"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ちょ、ちょっと待ってください！\nまだいいじゃないですか。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff25001500"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……いろいろと話したいことがあるんですよ。\nお付き合い願います。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffe8fe0300c1ff83011000ebfe0100adffffff65ff26001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "（ぐっ……やはり悪霊か。\n　正に絶体絶命……どうする！？）\n",
+      "text_len": 60,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff8c011000ebfe0000adffffff65ff27001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………………。\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe060097fffbffedffc1ffffff100067ff1600c0ff040085011000ebfe000065ff28001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "ッ！？　なぜ鹿！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0400c0ff03005d011000ebfe000065ff29001500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "コ、コイツ……校長のみならず私まで！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffc1ffffff100066ff46000000e8fe0200c1ff8c011000ebfe000065ff2a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ！　ッ！　ッ！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffeefe02000400ebfe000065ff2b001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "これは天啓！　鹿、頼む！\nコイツを……悪霊を何とかしてくれい！\n",
+      "text_len": 64,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff2c001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッッッッッッッ！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffebfe000065ff2d001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "おおおっ！　わかってくれたか！　恩に着るぞ！\n",
+      "text_len": 46,
+      "ctrl_code": "98ff0000effe080097fffbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800edfffcff66ff42000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff2e001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "あうっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0400c0ff040083011000ebfe000065ff2f001c00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "イタコ",
+      "speaker_len": 6,
+      "text": "な、なんで……？\n",
+      "text_len": 18,
+      "ctrl_code": "fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0300ffff1000effe030067ff1800eefe1a000400c0ff03005d011000ebfe000065ff30001500"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "し、鹿が人間の言葉をわかるはずない……\nそれに、この鹿は[{0D80}][{0D80}]\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedfffcff66ff42000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff31001500"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ギャアッ！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffe8fe0400c1ff5d011000ebfe000065ff32001500"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……人イコール……敵……だ……。\n",
+      "text_len": 34,
+      "ctrl_code": "fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000effe0300faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fff6001000ebfe000065ff33000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……あれ？　あんなところに鹿？\nそれだけじゃないぞ、何か足もとに[{0D80}][{0D80}]\n",
+      "text_len": 70,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5b00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff34000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "[{0D80}][{0D80}]教頭先生！？\nあっちには、イタコのお婆さんも！？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffebfe000065ff35000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "こ、こういうとき……こういうときは[{0D80}][{0D80}]！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe0000adffffff65ff36000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff37000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……警察、かな。\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

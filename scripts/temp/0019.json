@@ -1,0 +1,743 @@
+{
+  "UNK": "a909",
+  "id": 16,
+  "total": 80,
+  "ptrs": 336,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1966,
+      3390,
+      3394,
+      3852,
+      3878,
+      5126,
+      6152
+    ],
+    "ctrl_code": "fcffedfe01000200060004ff03ff0300c1ffffff1000bcff9301ff0067ff0800fcfff9ff0800eefe00000500c1ff81001000ebfe000064ffffff0400"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はぁ〜、お腹すいちゃった。\nはやく何か買ってこよう。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "え？　あれは……？\n",
+      "text_len": 20,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff0400e0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "待て、そこの御仁。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc0ff030001001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、はい。私ですか？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ffe7001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "うむ。おそらくそうだろう。\n今し方、これを落とさなかったか？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc9ff47021000e8fe0300c1ff02001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（あ〜〜〜〜っ！？　そ、それは、\n　私の手〜〜〜〜〜〜っ！！）\n",
+      "text_len": 64,
+      "ctrl_code": "98ff0000effe060097fffbffc9ffffff1000c1ffe6001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む？　人違いであったか？\n御仁の腕から落ちたように見えたのだが。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff00001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "え〜……えっと……その……\nた、確かに私の手です……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "そうか、ならば返そう。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff04001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、はい。すみません……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffe1001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "以後は気をつけよ。財布と手は\n落とすと厄介だからな。はっはっは。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff0a001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "は、はぁ……あの、あなたも\n手を落としたことがあるんですか？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ffe6001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "なにをぬかす。\n私が自分の手を落とすはずがあるまい。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff05001000ebfe0000adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff07001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、あの、とにかく、\nありがとうございましたっ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbff66ff1e000000faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff80001000ebfe0000adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff81001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ふーん、優しいところもあるじゃないの。\nあの子……いいなー。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff80001000ebfe0000adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff83001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "んっ！　えいっ！\nこのっ……なんで取れないのよー。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff88001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はぁ、どうして私の手、取れないんだろ。\nこれが取れれば、笹原に拾ってもらって……。\n",
+      "text_len": 84,
+      "ctrl_code": "fbffc1ff89001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "って、何考えてんのよ私！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe0200c1ff8a001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "『右手のお礼にお茶でもいかがですか？』\nとか、そんな展開あるわけないでしょ！！\n",
+      "text_len": 80,
+      "ctrl_code": "fbfffefe000001007fff020067ffffffc1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "……ワンッ！\n",
+      "text_len": 14,
+      "ctrl_code": "fdffedfffcffedffc1ffffff100066ff22000000edfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1100faff01000000f9ff0800c1fff6011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "ど、どうしたんだ！？\n急に犬が走り出したぞ！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1fffb011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "どういう事だ！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1fff7011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "わからん、こちらのコントロールを\n一切受け付けない！！\n",
+      "text_len": 56,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff030000001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……あれ？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff040030011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff00001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "どうされたんですか？　……手？\nええと、ううーん……お手、かな？\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "わん！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffbfff0e001000edfffcff66ff22000000c0ff0400ffff1000daffc1ff03001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ！？\n私の手をくわえて！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff02001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "そ、それ、プレゼントじゃありません！\n待ってください、返してくださーい！！\n",
+      "text_len": 76,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fff8011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "……あ、さっきの女の子のとこに来た。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1fff6011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "そうか、あの子、\n手が取れないって落ち込んでいたから……。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1fffb011000ebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "プレゼントってことか……優しいなあ。\nあ、おい、お前も慌ててないで見ろって。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ffe8011000ebfe000065ff06002500"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "慌てるに決まってるだろ！\nそいつが急いで走ったから、アンテナが[{0D80}][{0D80}]\n",
+      "text_len": 68,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff07002500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]やっぱりダメだったーー！！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff030067ff1000c1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……ん？　そこにいるのは立花みさとか。\n",
+      "text_len": 40,
+      "ctrl_code": "fbff05ffedffc8ff8400e0001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "うひゃう！？\nさ、笹原、あんた一体なにやってんのよ！！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffe6001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "はて、なに、と言われても……私は\n昼食を摂取するべく購買へと赴く最中だが。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ffe0001000ebfe000064ffffff0800"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "立花みさとこそ、ずっと自分の手を\n弄っているようだか、どうかしたのか？\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff8a001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "バッ……か、勘違いしないでよね！\n私は、私は……っ！！\n",
+      "text_len": 56,
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700edfffcff67ffffffedffc0ff0300ffff100066ff1e000000daffc0ff0400e6001000ebfe000065ff08000800"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "？\n",
+      "text_len": 4,
+      "ctrl_code": "fbff66ff1e000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3000ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800eefe02000400e8fe0200ebfe000065ff09000400"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "私はただ、手のパーツモデルを\n目指してるだけなんだからねっ！！\n",
+      "text_len": 64,
+      "ctrl_code": "fbff66ff5c000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff0400e4001000f4ff1e00edffc1ffffff1000c1ff84001000ebfe000065ff0a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "なっ！？　は、外れた！？\n",
+      "text_len": 26,
+      "ctrl_code": "fdffedfffcffedffc1ffffff100066ff5d000000daff66ffd7000000e8fe0200ebfe000065ff0b003200"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "男子生徒（男子生徒１）",
+      "speaker_len": 22,
+      "text": "うわーーー！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0c002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "女子生徒（女子生徒１）",
+      "speaker_len": 22,
+      "text": "きゃああーー！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffebfe000065ff0d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、ダメ、危な[{0D80}][{0D80}]\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0200c1ff06001000ebfe000065ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "＠！！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffedffc1ffffff1000f6ff0800ebfe0000adffffff65ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff30000000c1ff84001000ebfe000065ff10000400"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ちょ、だ、大丈夫！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe0000adffffff65ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c0ff030086001000ebfe000065ff12000400"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ちょっと笹原！\n無関係の女の子に当たっちゃったじゃない！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc0ff0400e0001000ebfe000065ff13000800"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "いやいや、それは立花みさとが\nミサイルを外したから[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff3000ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff14000400"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "外れたミサイルに自ら当たりに行く\n男気を見せなさいよ！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff15000800"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff8a001000ebfe000065ff16000400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ちょっと……その、部活の練習で、\n手を痛めちゃっただけよ！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff17000800"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む、それはいかんな。\n見せてみるがいい。\n",
+      "text_len": 42,
+      "ctrl_code": "fbff67ff0c00e8fe0200c1ff84001000ebfe000065ff18000400"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "え？　え？　ちょ、笹原……\nな、なに手を触ってるのよ！？\n",
+      "text_len": 58,
+      "ctrl_code": "fbffeefe02000400c1ffe0001000ebfe000065ff19000800"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "触らねば診察できぬであろう。\nふむ、これは……なるほど……。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0400c1ff89001000ebfe000065ff1a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ……あ……あぅ……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ffe2001000ebfe000065ff1b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "いかんな、これは。\n射撃ダコができておる。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff1c000800"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "婦女子にはふさわしくないタコだ。\nしばらくは射撃を控えるが良い。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff1d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "う……わ、わかったわよ……。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffe6001000ebfe000065ff1e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "では私はこれで失敬するぞ。\nランチが私を呼んでいるのでな。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff80001000ebfe000065ff1f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、う、うん……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff89001000ebfe0000adffffff65ff20000400"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff21000400"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……仕方ないわね。\nしばらくは地雷で勘弁してあげるわよ。\n",
+      "text_len": 58,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff8a001000ebfe000065ff22000400"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "〜〜〜〜〜〜〜〜〜〜っ！\n",
+      "text_len": 26,
+      "ctrl_code": "fbff67ff1800c1ff86001000ebfe000065ff23000400"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あんたなんか、あんたなんか……っ！\n",
+      "text_len": 36,
+      "ctrl_code": "98ff000066ff6000000097fffdffedfffcff66ff63000000c9ff62021000effe0600daffc1ff80001000ebfe0000adffffff65ff24000400"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffe6001000ebfe0000adffffff65ff25000800"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff26000400"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……って、あ、あれ？\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ffe0001000ebfe000065ff27000800"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……不発、のようだな。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc9ffffff1000c1ff87001000ebfe000065ff28000400"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "〜〜〜〜〜〜〜！！\n",
+      "text_len": 20,
+      "ctrl_code": "fdffedfffcff66ff62000000daff66ff65000000c9ff63021000c1ffe0001000ebfe0000adffffff65ff29000800"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff80001000ebfe0000adffffff65ff2a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2b000800"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……立花みさとよ、\n余計なことやもしれんが[{0D80}][{0D80}]\n",
+      "text_len": 48,
+      "ctrl_code": "fbffebfe000065ff2c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……余計なことなら、言わないで。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000065ff2d000800"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……ふむ、それもそうだな。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

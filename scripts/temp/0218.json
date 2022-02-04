@@ -1,0 +1,665 @@
+{
+  "UNK": "4929",
+  "id": 16,
+  "total": 72,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 8,
+    "total": 1,
+    "offsets": [
+      3110
+    ],
+    "ctrl_code": "fcfff3fec1ffffff1000bcffff01ff0067fffffffcfff9ff0800edffc1ffffff1000ebfe000065ff00002e00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "ナレーターお姉さん",
+      "speaker_len": 18,
+      "text": "かくして、\nレクリエーション大会から数週間後……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff0090ffffff90ffffff90ffffff67ff000071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c0ff030018021000ebfe000065ff01002900"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "やったぞ！　ノミネートされたぞ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff040007021000ebfe000065ff02002800"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "ノミネート？　それってアレか？\nカードをビニールでピタっとする[{0D80}][{0D80}]\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff17021000ebfe000065ff03002900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "それはラミネートだ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff0f021000ebfe000065ff04002800"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "だったら未来から来た人型ロボットだな？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff1c021000ebfe000065ff05002900"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "違う！\nそれはターミ……って、突っ込ませるなよ。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff09021000ebfe000065ff06002800"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "……ははは。　いや、すまんすまん。\nで、何がノミネートだって？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff16021000ebfe000065ff07002900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "この間のレクリエーション大会の放送だ。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff18021000ebfe000065ff08002900"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "スタジオ船の部隊のヤツらが俺たちの映像を\n大会にエントリーしたらしいんだ。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff07021000ebfe000065ff09002800"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "ふーん……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff17021000ebfe000065ff0a002900"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "えらくリアクション薄いな。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff0a021000ebfe000065ff0b002800"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "そうか？\n金一封とかあるわけじゃないし。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff16021000ebfe000065ff0c002900"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "あるぞ。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe0200c1ff14021000ebfe000065ff0d002800"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "マジか！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff18021000ebfe000065ff0e002900"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "ああ。\n優秀賞を取ったら賞金が出る。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff16021000ebfe000065ff0f002900"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "ちなみに俺たちの映像がノミネートされたのは、\nその優秀賞ってヤツだ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffe8fe0200edffc1ffffff1000ebfe000065ff10002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "兵隊たち",
+      "speaker_len": 8,
+      "text": "おおおおおおおおおおおおおおおお！！？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc8ff160209021000ebfe000065ff11002800"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "すげー！　俺たちすげー！　優秀賞だぞ！？\n賞金ばんざーい！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff16021000ebfe000065ff12002900"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "いや、まだ決まったわけじゃ……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200c1ff0b021000ebfe000065ff13002800"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "感動に水さすなよ！　友達無くすぞ！？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff17021000ebfe000065ff14002900"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "ンなこと言われても……\n決まるの明後日の最終審査だしなあ。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff09021000ebfe000065ff15002800"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "心配すんなって。マジ俺たちだって！\n別の星の映像なんて他の誰も撮ってないって。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff16021000ebfe000065ff16002900"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "そりゃまあそうだが……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc0ff04002e021000ebfe000065ff17002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "で、その最終審査なんだけどさ、\nみんなで来てくれって連絡あったんだけど。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffe8fe0200c1ff0f021000ebfe000065ff18002800"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "行くに決まってんだろ！\nよーし、今日は前祝いだ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff030025021000ebfe000065ff19002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "前祝い、お前も参加してくれるか？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff1f021000ebfe000065ff1a002900"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "……まあな。\n友達無くすぞ、なんて言われたくないしな。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffebfe000065ff1b002800"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]そうこなくっちゃ！　前祝いだ！\n優秀賞ばんざーい！！\n",
+      "text_len": 58,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff040071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe0000adffffff65ff1c003000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "司会",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]アルベルト記念映像大賞！\n只今より優秀賞を発表します！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffe8fe0400c1ffdb011000ebfe000065ff1d002500"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "き、緊張するな……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff10021000ebfe000065ff1e002800"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "あ、ああ……他のトコの映像、すごかったな。\nフェイ王国の秘宝に迫ったヤツとかさ。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ffd1011000ebfe000065ff1f002400"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "その１つ前の虫の生態もすごかったよな。\nなんで虫の体の中とか撮れるんだ？\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff17021000ebfe000065ff20002900"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "それに比べて、\n別の惑星の日常を垂れ流しって……どうだろ？\n",
+      "text_len": 60,
+      "ctrl_code": "fbffe8fe0400edffc8ff070216021000adfffeffebfe0000aeff03008000aeff0400800065ff21002800"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF0D}]＆[{FF0E}]",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffedffc1ffffff1000aeff03000000aeff04000000e8fe0200ebfe0000adffffff65ff22003000"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "司会",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]それでは発表します！\n本年度の優秀賞はこの方です！\n",
+      "text_len": 56,
+      "ctrl_code": "fdffedfffcff66ff88000000c1ff3a011000f4ff3c00dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7c000000ebfe000065ff23002200"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "兵隊たち",
+      "speaker_len": 8,
+      "text": "！！！！！！！！？\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800edff67ffffff63ffffffbcffffffff00bdffffffff00c1ffffffff00c2ffffffff00ecff0100fcfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff24003000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "司会",
+      "speaker_len": 4,
+      "text": "[{0D80}][{0D80}]それでは発表します！\n本年度の優秀賞はこの方です！\n",
+      "text_len": 56,
+      "ctrl_code": "fdffedfffcff66ff88000000c1ff3a011000f4ff3c00dafffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffb01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0400c1ff07021000ebfe000065ff25002800"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "ど、どういうことだ？\nなんで姫様が優秀賞なんだ！？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff1c021000ebfe000065ff26002900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]はっ！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff08021000ebfe000065ff27002800"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "ど、どうした？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc8ff1c0208021000ebfe000065ff28002900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "い、いや……わかったんだ。\nこの大会にノミネートされたものが……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff12021000ebfe000065ff29002800"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "でも“俺たちの映像”をノミネートしたって、\nスタジオ船のやつらが言ってたんだろ！？\n",
+      "text_len": 84,
+      "ctrl_code": "fbffe8fe0200c1ff1f021000ebfe000065ff2a002900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "そう、“俺たちの作った映像”じゃない。\n“俺たちの映像”なんだよ！\n",
+      "text_len": 68,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff0d021000ebfe000065ff2b002800"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "……まさかあの日、レクリエーション大会で\n番組を作るはめになった地獄の様子をか！？\n",
+      "text_len": 84,
+      "ctrl_code": "fbffc1ff08021000ebfe000065ff2c002800"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "でも、どうして姫様が！？\nわざわざ、ここに呼ばれる必要なんて……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffe8fe0400c1ff20021000ebfe000065ff2d002900"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "まさか……まさかこの展開は……\nまた“アレ”なのか……！？\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe080097fffbffc1ff0e021000ebfe000065ff2e002800"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "“アレ”？\n……まさか！！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc1ffffff100067ff1800c1ff41011000ebfe000065ff2f001000"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "今からレクリエーション大会、決勝戦を始める。\n……とっとと始めろ。\n",
+      "text_len": 68,
+      "ctrl_code": "98ff0000effe090097fffbffe8fe0200c1ff33021000ebfe000065ff30002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "うああああああああああああああ！！！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff2a021000ebfe000065ff31002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "もう嫌だ！　死にたくない！\nせっかく彼女ができたのにっ！！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ffb7011000ebfe000065ff32002200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "俺は明日、婚約だー！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ffc7011000ebfe000065ff33002300"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "なら俺は結納だ！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffcd011000ebfe000065ff34002400"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "俺、出産する！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff17021000ebfe000065ff35002900"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "とにかく逃げるぞ！　みんな、走れ！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffedfffcff66ff22000000c1ffffff1000daffc1ff3c011000ebfe000065ff36001000"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "……全員不合格だ。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff06000000daffbeffcd00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daff66ff09000000e8fe0200effe0300ebfe000065ff37002200"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "兵隊たち",
+      "speaker_len": 8,
+      "text": "やっぱりこの展開かああああああ！！\n",
+      "text_len": 36,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff1401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ff0a000000ebfe000065ff38002800"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "お願いだから、姫ええええええ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffebfe000065ff39002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "オチが落下ってのはああああああああ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000065ff3a002900"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "俺たちで最後にしてくれええええええええ！\n",
+      "text_len": 42,
+      "ctrl_code": "fdffedfffcfffcffbeffcf00100066ff0a000000f4ff1e00f3fff5ff0800bcfffd011000f6ff0800f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff07000000daffbeffdf00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff11000000dafffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff42001000ebfe000065ff3b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "のわっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff630018011000ebfe0000adffffff65ff3c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff38001000ebfe000065ff3d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "アンテナは……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbff67ff1000c1ff44001000ebfe000065ff3e000200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "……誰にも、立ってない。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff3f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "立ってるのはおまえだろ？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffcb001000ebfe000065ff40000700"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……ふっ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff040018011000ebfe000065ff41000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "居眠りが多いぞ？　夜、ちゃんと寝てるのか？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc0ff03003f001000ebfe000065ff42000200"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "は、はい……そのつもりですけど……。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff43000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "仕方のないヤツだなあ。\n眠気覚ましに廊下に立ってろ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff3b001000ebfe000065ff44000200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "はーい。\n",
+      "text_len": 10,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff3b001000ebfe0000adffffff65ff45000200"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fdffedfffcff67ffffff66ffeb000000daffc1ff40001000ebfe000065ff46000200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "え？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdf00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000065ff47000200"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "＠！！！！！！！！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5f01080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

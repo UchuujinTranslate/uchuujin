@@ -1,0 +1,671 @@
+{
+  "UNK": "0517",
+  "id": 16,
+  "total": 72,
+  "ptrs": 304,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1202,
+      2186,
+      2190,
+      3078,
+      3104,
+      4226,
+      5204
+    ],
+    "ctrl_code": "fcffedfe0f001000110004ff03ff0300c1ffffff1000bcff8701ff0067ff0900fcfff9ff0800eefe00000500c1fff7001000ebfe000064ffffff0a00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あっ、昨日はつぼみだったのに。\nきれいな花が咲いてる。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1fff8001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "世話をしてた甲斐があるなぁ。\nこの調子でもっと大きくなるんだぞ。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ffff001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ふぅ……しかし、暑いなぁ。\n花たちには多めに水あげないとな。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おっ、パンク少年。\n今日は花に水やりかい？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc8fff7006d011000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ？　……あ、こんにちは。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1fff6001000ebfe0100adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（この人は確か、２年の先輩だったっけ）\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "誰も水をあげないから。当番じゃないけど\nやるようにしてるんです。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おー、いいね。パンクな髪型してるくせに\n優しいところがあるじゃん。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff8001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あはは、この髪型は生まれつきですから。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "またまたー。そうやってギャップを出して\nポイントアップを狙ってるな？\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1fffa001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "そんな。本当のことを言ってるだけですって。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff6e011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "くー、にくいねー。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1fff7001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "いえ、だから……ん？\nあっ、先輩、蝶ですよ。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "お、ホントだ。\n",
+      "text_len": 16,
+      "ctrl_code": "fbfffefe010001007fff0200c1fff6001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あ、飛んだ。\n次はどこに……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffb3001000ebfe000064ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "おおっ、校長先生の頭に着地[{0D80}][{0D80}]\n",
+      "text_len": 32,
+      "ctrl_code": "fbff67ffffffedffc1ffffff100066ffdf000000ebfe0000adffffff64ffffff3000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "蝶",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe020066ff7c000000c1ff70011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "失敗っ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c0ff0300eb011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "ぎゃはははは！\nとまりたくても、とまれないじゃないか！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff00021000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "くっ、くくくく、いかん、\n面白すぎて仕事が手につかない！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1fff1011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "くく、は、早く蝶を追い払えって……\nじゃないと俺の腹筋が死ぬ……！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff9011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "オ、オッケー、グフッ、任せろ。\nこうやって手で払って……。\n",
+      "text_len": 60,
+      "ctrl_code": "fbff67ffffffedfffcff66ff0e000000daffc1fffe011000ebfe000065ff04002700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "…………あ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffff67ff1800ebfe000065ff05002600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "…………えっ？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe000065ff06002700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "…………ごめん。\nアンテナ、折っちゃった……。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff07002600"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "ばっかやろーーーー！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7f00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あっ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ブッ！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbff67ff1000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "あはははは！\n蝶が、蝶がモヒカンに止まった！\n",
+      "text_len": 46,
+      "ctrl_code": "98ff0000effe030097fffbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あはは……な、何でこんなとこに……\n花に止まれば甘い蜜が吸えるのに……。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ククク、もしかしたら\nモヒカンが甘いのかも。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あはは、そんなバカな。\n",
+      "text_len": 24,
+      "ctrl_code": "98ff0000effe020097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1fffeffff00c8fff6006d01ff0090ff6d0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff6d011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "どれどれー？　一本拝借。\n",
+      "text_len": 26,
+      "ctrl_code": "fbff05ffedfffcff1aff04000000f0ff00000a0016ffffff1aff04000000680000000a0016ffffffc1fffa001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "痛っ！？\n……せ、先輩！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbff67ffffffc1ff6f011000ebfe000064ffffff1900"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "うわっ！　ほんと甘い匂いがするよ！\nど、どういうこと！？\n",
+      "text_len": 58,
+      "ctrl_code": "fbff66ff7c000000e8fe0200c1ffff001000ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "えっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe060097fffdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff0e00eefe15000400c1fffb001000ebfe0100adffffff65ff08000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（甘い？　バカな……！\n　髪が甘いなんて、そんなこと……）\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1fffd001000ebfe0100adffffff65ff09000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（暑さで汗もかいているんだぞ？　しょっぱい\n　ならまだしも、甘いだなんて……）\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1fffa001000ebfe0100adffffff65ff0a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（いや、しかし、先輩は甘いと言っている。\n　こんなことで嘘をつくはずがない）\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1fffb001000ebfe0100adffffff65ff0b000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（だとすると……やはり甘いのか？\n　僕の髪は蝶が寄り付くくらい甘い……？）\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff00011000ebfe000065ff0c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff6e011000ebfe000065ff0d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "ほれほれ、試しに食べてみなよ。\n[{0D80}][{0D80}]って、そりゃ無理かー。\n",
+      "text_len": 60,
+      "ctrl_code": "fbff67ff1600e8fe0200c1fffb001000ebfe000065ff0e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "いえ、いただきます！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffe8fe0200eefe0e000400c1ff6f011000ebfe000065ff0f001900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "むしった！？\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe060097fffbffc1fffb001000ebfe0100adffffff65ff10000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（そう、原因追究のためには\n　何事もチャレンジしてみなければ！）\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe040097fffbffc1ff70011000ebfe000065ff11001900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "食べた！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff00011000ebfe000065ff12000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "これは！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "……マズッ！\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe020097fffbffebfe000065ff14001900"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "……匂いだけか。\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff6e011000ebfe000065ff15001900"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "うははは！　こりゃもう\nモヒカンじゃなくてカットパインだね！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffeefe04000400c1fffa001000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "そ、そんなバカな……\n甘いわけ……。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff17001900"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "いやいや、甘い匂いするって！\nこりゃ蝶も寄ってくるわけだ！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ffff001000ebfe000065ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "いやいや、そんなことあるわけ[{0D80}][{0D80}]\n",
+      "text_len": 34,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff8b011000ebfe0000adffffff65ff19001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0200ebfe000065ff1a000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "鹿！？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff8e011000ebfe0000adffffff65ff1b001f00"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "ヤギ",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1c000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ヤギ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffc8ff00016e011000ebfe000065ff1d001900"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "あははは、匂いに誘われて\n鹿とヤギがやってきたよ。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1fffa001000ebfe0000adffffff65ff1e000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1f001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ペロペロ……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe0000adffffff65ff20003000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "蝶",
+      "speaker_len": 2,
+      "text": "ちゅーちゅー……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffebfe000065ff21001f00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "ヤギ",
+      "speaker_len": 4,
+      "text": "ベロベロ……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe0100adffffff65ff22000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "（……今日の僕のモヒカンは、\n　一体、どうなっているんだ？）\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1fffa001000ebfe000065ff23000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "あ、甘い……？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff6d011000ebfe000065ff24001900"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "そっ、甘いの！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1fffb001000ebfe0000adffffff65ff25000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffc1fffd001000ebfe000065ff26000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "それ……多分、整髪料……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffeefe03000400c1ff70011000ebfe000065ff27001900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe0a0097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7f00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff28000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffbeff79001000ebfe000065ff29001900"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "……あ、逃げた。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2a001900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "ウェボシー",
+      "speaker_len": 10,
+      "text": "……なんであの蝶、とまったんだろ。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

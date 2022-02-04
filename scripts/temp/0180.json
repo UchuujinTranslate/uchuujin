@@ -1,0 +1,213 @@
+{
+  "UNK": "6401",
+  "id": 16,
+  "total": 22,
+  "ptrs": 112,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcff9301ff0067ff0600fcfff9ff0800afff03000300c1ff05001000ebfe000065ff00000000"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はぁ……\n結局ネジはついたままかぁ。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffafff03000000c1ff05001000ebfe000065ff01000000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ネジの無い普通の女の子になれる日は\nいつになったら来るんだろう……。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff38001000ebfe000065ff02000200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "おーい、なのちゃーん。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff5e001000ebfe000065ff03000300"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "おはよーなのちゃん。\n風邪は治ったの？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc8ff3a005e001000ebfe000065ff04000000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ、おはようございます。\n風邪はもう治りましたよ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff61001000ebfe000065ff05000300"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "そっか。良かった。\n心配してたんだよ。ね、ゆっこ？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc0ff030045001000ebfe000065ff06000200"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うんうん、なのちゃんが落ち込んでると\nこっちまで元気なくなっちゃうし。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff07000000"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "相生さん、長野原さん……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff00001000ebfe0100adffffff65ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（ネジはついたままだけど……でも、\n　私にはこんなに優しい友達がいる）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff01001000ebfe0100adffffff65ff09000000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（それだけでいいや。ネジがあっても、\n　私は普通の女の子なんだから）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff0a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ありがとうございます。\nまた、今日からよろしくお願いしますね。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffedffc8ff070045001000ebfe000065ff0b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うんうん、よろしく。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc0ff040061001000ebfe000065ff0c000300"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "よろしくね、なのちゃん。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff0e001000ebfe000065ff0d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はいっ！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff07001000ebfe0100adffffff65ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（ああ、これが友情というものなんだ。\n　なんて素晴らしいんだろう）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff0a001000ebfe0100adffffff65ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（でも私がロボットであることは秘密だから\n　少し後ろめたい気もするけど……）\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff03001000ebfe0100adffffff65ff10000000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（でも、こればっかりは教えられないから\n　許してください、相生さん、長野原さん）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffedffc8ff3a0061001000ebfe000065ff11000300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "なのちゃん、\nちゃんと修理してもらったみたいだね。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff3a001000ebfe000065ff12000200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "うんうん。直ってよかったよ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbff67ffffffebfe0000adffffff65ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800e8fe0400ebfe0000adffffff65ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff4201080067ff0d00f4ff7800fdfff8ff080067ffffffdeff0000026002000000ffff74ff020074ff180074ff1c00bcfffd011000f9ff0800ebfe0000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "",
+      "speaker_len": 0,
+      "text": "はかせ、きよし、ジェントルマンを\nＬＩＶＥできるようになりました。\n",
+      "text_len": 68,
+      "ctrl_code": "fdffedfffcfff8ff0800dbff0000f7ff0800fcffffff"
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "UNK": "6002",
+  "id": 16,
+  "total": 83,
+  "ptrs": 352,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1778,
+      2476,
+      2480,
+      2978,
+      3004,
+      4132,
+      5468
+    ],
+    "ctrl_code": "fcffedfe0f001000110004ff03ff0300c1ffffff1000bcffbad1ff0067ff0a00fcfff9ff0800eefe00000500ebfe000064ffffff0000"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "えっと、長野原さんの話だと\nこの辺りのはずなんだけど……。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "大福ー、大福ー。\n安くて丸くて白いよー。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff00001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ、大福フェア。\nこれが長野原さんが言っていた……。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffedffc8ff000060011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "お嬢ちゃん、大福はいらんかね？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff04001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、あの〜、私、長野原さんの代わりに\nバイトすることになった東雲ですけど……。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "なんだ、バイトだったのか。\nなら早速で悪いが働いてもらうぞ。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff08001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "は、はい。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff61011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "とりあえず着替えてきなさい。\nそのままでは大福のイメージが壊れる。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff04001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "？？\nは、はい、わかりました。\n",
+      "text_len": 32,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbad1ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff25001000ebfe0000adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe0a0097fffbffc1ff24001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、あの、この頭の被りものは一体……。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc8ff24005e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "大福くんだ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff25001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "大福くん？\n……あの、外しちゃダメなんですか？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff5f011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "駄目だ。あと喋るのも駄目だ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff27001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "喋るのもですか？\nそれじゃあどうやって接客をすれば[{0D80}][{0D80}]\n",
+      "text_len": 56,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "喋るな！\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbad1ff00c1fffeffff00c1ff2400ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff24001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "痛っ！\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff61011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "痛っ！\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff5e011000ebfe000064ffffff1600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "い、いいから喋らずに接客しなさい……。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff24001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（家に帰りたい……）\n",
+      "text_len": 22,
+      "ctrl_code": "fbfffefe010001007fff020067ffffff66ff7e000000c1ff24001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（……あれ？）\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff0f00c1ff8b011000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（わっ！？　し、鹿だ！！）\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff0300ae0010001fff0500000000020000c9ff8c01ff001aff05000000f0ff00001e0016ffffffedffc1ffffff1000c1ff27001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（あっ、鹿が校長先生に襲い掛かった！！）\n",
+      "text_len": 42,
+      "ctrl_code": "98ff0000effe040097fffbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ff1f021000ebfe000065ff00002900"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "し、鹿から、\n激しい攻撃を受けています！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff08021000ebfe000065ff01002800"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "なんだこの鹿は！？\nそんなことされたら……！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff24021000ebfe000065ff02002900"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0E}]",
+      "speaker_len": 2,
+      "text": "あぁっ！\n鹿の角、アンテナを直撃！！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff0a021000ebfe000065ff03002800"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0D}]",
+      "speaker_len": 2,
+      "text": "ということは？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff04002800"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF0D}]＆[{FF0E}]",
+      "speaker_len": 6,
+      "text": "ですよねー！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff24001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（でも初めてのバイトだし、\n　ちゃんと最後までやりきらなくちゃ）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe060097fffbff67ffffff66ff7e000000e8fe0300ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（えっ！？　し、鹿！？）\n",
+      "text_len": 26,
+      "ctrl_code": "fbff67ff0f00c1ff27001000ebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（ど、どうしてこんなところに鹿が！？）\n",
+      "text_len": 40,
+      "ctrl_code": "fbff05ffedffc8ff24008c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbff66ff460000001aff0400000000fe00000f0016ffffffedffc1ffffff1000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "わっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffebfe0100adffffff64ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（こ、この鹿、私を狙ってる！？）\n",
+      "text_len": 34,
+      "ctrl_code": "fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ff27001000ebfe0100adffffff65ff05000000"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（どうして私が狙われて？\n　い、いや、それよりも[{0D80}][{0D80}]）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffe8fe0200edffc8ff27008c011000ebfe000065ff06001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbff1aff0400000000fe00000f0016ffffffedffc1ffffff1000ebfe000065ff07000000"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "くっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffeefe09000400c1ff24001000ebfe0100adffffff65ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（ダメだ、このままじゃやられる。\n　戦わないと。でも一体どうすれば……）\n",
+      "text_len": 74,
+      "ctrl_code": "fbff67ffffffc1ff27001000ebfe000065ff09000000"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！？\nそうだ、私にはコレが！\n",
+      "text_len": 30,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0400ff00c1fffeffff0090ffffff90ffffff90ffffff67ff160071ff000063ffffff90ffffffedfff9ff0800effe0900ebfe000065ff0a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffebfe000065ff0b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ありがとうございます、はかせ。\nこれで、戦える……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbad1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff5f011000ebfe000065ff0c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "おい！　何をやってるんだ！\n大福のイメージを[{0D80}][{0D80}]\n",
+      "text_len": 50,
+      "ctrl_code": "fbff66ff6d000000ebfe000065ff0d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffe8fe0200c1ff61011000ebfe000065ff0e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "うおおおお！！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff24001000ebfe000065ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はぁ、はぁ、はぁ……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff04008c011000ebfe000065ff10001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc0ff030024001000ebfe000065ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff12002e00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "ナレーターお姉さん",
+      "speaker_len": 18,
+      "text": "さあ、命をかけた勝負の時間です。\n",
+      "text_len": 34,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff24001000ebfe0100adffffff65ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（あっ、そうだ、\n　きっと大福の被り物が怖いんだ）\n",
+      "text_len": 52,
+      "ctrl_code": "fbff67ff0a00c1ff01001000ebfe000065ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ほら、これで怖くないですよ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffedffc8ff01008b011000ebfe0000adffffff65ff15001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff07001000ebfe0100adffffff65ff16000000"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "（あっ、大人しくなった。\n　やっぱりこの被り物が怖かったんだ）\n",
+      "text_len": 64,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff5e011000ebfe000065ff17001600"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "こら、少し暑いくらいで脱ぐんじゃない。\nこれだから最近の若い者は……。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff18000000"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "えっ？　あ、違うんです、これは……。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff62011000ebfe000065ff19001600"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "いいから貸しなさい。\n全く……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbff67ffffffe8fe0200edffc8ff62018c011000ebfe000065ff1a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800edfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff1b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "ぐほっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffbffebfe000065ff1c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbad1ff00c1fffeffff00c1ff6201ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff62011000ebfe0000adffffff65ff1d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fdffedfffcff66ff30000000edffc0ff0300ffff1000c1ff06001000ebfe0000adffffff65ff1e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff1f001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fdffedfffcff66ff44000000edffc1ffffff1000daffc1ff64011000ebfe000065ff20001700"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "すみませーん、この大福いくらですか？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff04001000ebfe000065ff21000000"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "えっ？　あ〜……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22000000"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "無料でいいです。\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff24001000ebfe000065ff23000000"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あ、あの、すみません。\nそこの鹿が襲ってくるんですけど……。\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2e00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff24001600"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "だから喋るな！\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffbad1ff00c1fffeffff00c1ff2400ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff24001000ebfe000065ff25000000"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "痛っ！\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff61011000ebfe000065ff26001600"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "痛っ！\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff25001000ebfe000065ff27000000"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あの、\n",
+      "text_len": 8,
+      "ctrl_code": "98ff0000c1ff0400100097ff9905fe00ec002201f900e200f70017011901110161062101230023000200fefffbff67ffffffc1ff8b011000ebfe0000adffffff65ff28001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbff67ff1000edffc8ff04005e011000ebfe000065ff29001600"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "襲ってこないじゃないか。\n馬鹿言ってないでちゃんと接客しなさい。\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff24001000ebfe000065ff2a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "は、はい。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200edffc8ff24008c011000ebfe000065ff2b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbff1aff0400000000fe00000f0016ffffffedffc1ffffff1000edfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff2c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "＠！！！\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff2d001600"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff24001000ebfe0000adffffff65ff2e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000c1ff0200100097fffbffc1ff61011000ebfe0000adffffff65ff2f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff30001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………。\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff31000000"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "コレ、外してもいいですか？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffebfe000065ff32001600"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……駄目。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff33000000"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "UNK": "8d28",
+  "id": 16,
+  "total": 33,
+  "ptrs": 160,
+  "extra": 0,
+  "ptr2": {
+    "size": 64,
+    "total": 15,
+    "offsets": [
+      72,
+      82,
+      92,
+      110,
+      120,
+      138,
+      146,
+      282,
+      464,
+      646,
+      818,
+      1272,
+      3838,
+      3864,
+      3890
+    ],
+    "ctrl_code": "fcfff3fe7fff0100fbfe204e02007fff0400f9fe100003007fff0400f8ff0800edff67ffffff63ffffffefffdb00fafe5a0005007fff0600f8ff0800edff67ffffff63ffffffefffda00e6fe0c007fff0700c1ffffff1000bcffdf01ff0067ff0000fcfff9ff0800c0ff030027021000ebfe000065ff00002a00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "……なあ、",
+      "text_len": 10,
+      "ctrl_code": "09fffe00f800d5002b06d5000800feff9905fd00fa0601003f065209f60caa09fa001101f701de00f900d300f7002b06d5002201ef00db000200fefffbfffbfe983a0800fbfe102709007fff0a00edffc8ff2702cd011000c1ffcd011000ebfe000065ff01002400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "そうだな。これだけの視聴率であれば、\nランクＡ評価と言っても良いだろうな。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff2d021000ebfe000065ff02002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "おお、お前もそう思うか。\nこれなら[{0D80}][{0D80}]\n",
+      "text_len": 40,
+      "ctrl_code": "fbff7fff0b00edffc8ff2702cb011000c1ffcb011000ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "まあ、そうだな。エリア外でも評判あったし、\nランクＢぐらいはもらえるだろうな。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ff2d021000ebfe000065ff04002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "だよな。\nこれなら、とりあえず[{0D80}][{0D80}]\n",
+      "text_len": 36,
+      "ctrl_code": "fbff7fff0b00edffc8ff2702d4011000c1ffd4011000ebfe000065ff05002400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "うーん、そうだなあ。\n悪くはなかったから、ランクＣぐらいか？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff25021000ebfe000065ff06002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "あれ、そんなもんか？\nだけど、これならまだ[{0D80}][{0D80}]\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ffcc011000ebfe000065ff07002400"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "でも、結局は姫様次第だろ？\nあんまり考えないほうがいいんじゃないか？\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff27021000ebfe000065ff08002a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "[{FF0F}]",
+      "speaker_len": 2,
+      "text": "ははっ、それもそうだな。それじゃ、\n今日１日の最終報告に行くとするか！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ffd3011000ebfe000065ff09002400"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "ああ行こう！\n姫様に最高の結末を見せてやろうぜ！\n",
+      "text_len": 50,
+      "ctrl_code": "fdffedfffcfffcffedffc1ffffff100066ff12000000dafff8ff0800bcfffd011000f9ff080066ff05000000daff66ff08000000edfffcffe8fe0200ebfe000065ff0a002400"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "[{FF09}]＆[{FF0F}]",
+      "speaker_len": 6,
+      "text": "ああああああああーーーーっ！\n",
+      "text_len": 30,
+      "ctrl_code": "fdffedfffcfff8ff0800bcfffd011000f9ff0800f8ff0800edff67ffffff63ffffffbcffffffff00bdffffffff00c1ffffffff00c2ffffffff00ecff0100fcffe5fef7ff0800fcffffffc1ffffff1000bcffdf01ff0067ff0f00fcfff9ff0800ebfe000065ff0b001000"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "つまらん。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff06000000daffbeffce00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daff66ff09000000e8fe0200ebfe000065ff0c002100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF06}]",
+      "speaker_len": 2,
+      "text": "次の番組改変期に、ご期待くださーーいっ！\n",
+      "text_len": 42,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0301ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff02000000f9ff0800ebfe000065ff0d001000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "次。\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdc01ff00c1fffeffff00c8ffc301d201ff0090ffd20190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400c0ff0300c6011000ebfe000065ff0e002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "つ、次って言われても……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffc900ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0f002400"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "おいスタジオ船！　何とかしてくれ！\n",
+      "text_len": 36,
+      "ctrl_code": "fbffebfe000065ff10002500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "通信兵",
+      "speaker_len": 6,
+      "text": "そんなこと言われても……なあ？\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdc01ff00c1fffeffff00c8ffe301f801ff0090fff80190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1fff8011000ebfe000065ff11002700"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "スタジオ船の兵隊",
+      "speaker_len": 16,
+      "text": "ああ……\nでも、今のはイイとこいったと思ったんだが？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffdb011000ebfe000065ff12002500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "通信兵",
+      "speaker_len": 6,
+      "text": "一部だけなら、だろ？　全体を見て考えると……\n最終的には、あまり見せ場って無かったよな？\n",
+      "text_len": 90,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffc900ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13002700"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "スタジオ船の兵隊",
+      "speaker_len": 16,
+      "text": "……う。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffebfe000065ff14002500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "通信兵",
+      "speaker_len": 6,
+      "text": "そのせいか、途中から評判も微妙だったし、\nなんつーか雰囲気グダグダと言うか。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffebfe000065ff15002500"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "通信兵",
+      "speaker_len": 6,
+      "text": "あ、トリ２歩手前のお笑い番組みたいな空気が、\nそのままずーっと続く、みたいな？\n",
+      "text_len": 80,
+      "ctrl_code": "fbffebfe000065ff16002700"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "スタジオ船の兵隊",
+      "speaker_len": 16,
+      "text": "お、上手いこと言うな。\n座布団１枚！　いや２枚だ！\n",
+      "text_len": 52,
+      "ctrl_code": "fbff66ff00000000c9ff75021000ebfe000065ff17001000"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "いらん。\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff06000000daffbeffce00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daff66ff09000000e8fe0200ebfe000065ff18002500"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "通信兵",
+      "speaker_len": 6,
+      "text": "こっちにもついてたのかーーーーっ！\n",
+      "text_len": 36,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdf01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000065ff19002400"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]スタジオ船！？　おいスタジオ船！\nどうした、何があったんだ！？\n",
+      "text_len": 68,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdc01ff00c1fffeffff00c8ffc901cc01ff0090ffcc0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ffce011000ebfe000065ff1a002400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "……だめだ。\n連絡が取れん。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffc3011000ebfe000065ff1b002300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ちょっと待て！\nこっからどうすんだ！？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffcc011000ebfe000065ff1c002400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "……俺たちで何とかするしかない。\n番組の見せ場を作って、視聴率を上げるんだ。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ffc5011000ebfe000065ff1d002300"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……できるのか？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffc1ffffff1000c1ffad011000ebfe000065ff1e002200"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "っていうかさ、俺たち、次ってあるの？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffe8fe0400edffc8ffc601d5011000adfffeffebfe0000aeff03008000aeff0400800065ff1f002300"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF08}]＆[{FF09}]",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfff7fe0a00dc01f6fef5feaeff03000000aeff04000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff1401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff20001000"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "次。\n早くしろ。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800edff67ffffff63ffffffbcffffffff00bdffffffff00c1ffffffff00c2ffffffff00ecff0100fcfff8fe01000d00f8fe00000f00f8fe02000e00f8ff0800edff67ffffff63ffffffefffd900f7ff0800fcfffffff8ff0800edff67ffffff63ffffffefffd700f7ff0800fcfffffff8ff0800edff67ffffff63ffffffefffd800f7ff0800fcffffff"
+    }
+  ]
+}

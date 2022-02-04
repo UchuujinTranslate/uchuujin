@@ -1,0 +1,734 @@
+{
+  "UNK": "db03",
+  "id": 16,
+  "total": 79,
+  "ptrs": 336,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1010,
+      1682,
+      1686,
+      3070,
+      3096,
+      4188,
+      5710
+    ],
+    "ctrl_code": "fcffedfe100011000d0004ff03ff0300c1ffffff1000bcffc401ff0067ff0800fcfff9ff0800eefe00000500c1ff8b011000ebfe0000adffffff64ffffff1e00"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ、鹿だ！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff2b008b011000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わ〜、はかせ鹿見たの初めて〜。\n可愛い〜！\n",
+      "text_len": 44,
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff0f00e8fe0200c1ff2c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わっ！？　怒った！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbff1aff0400000000fe00000f0016ffffffedffc1ffffff1000effe0400e8fe0200ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "危ない！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "鹿が怒ってる……\nはかせが怒らせちゃった……。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff2c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わー！　助けてなのー！\n",
+      "text_len": 24,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff22000000daffbcffc401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はぁ、はぁ。ジャングルジムの上なら\n鹿は上って来れないぞ。\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe070097fffbffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ぷぷぷ。鹿、悔しそう。\nここにいる限りはかせの勝ちだもんね。\n",
+      "text_len": 62,
+      "ctrl_code": "fbfffefe020001007fff0200c1ff25011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "お、ガキ。何やってるんだ？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe0200c1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ！　阪本！　危ないーー！！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff26011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "危ない？　俺よりそんな高い所に登ってる\nガキの方が危な[{0D80}][{0D80}]\n",
+      "text_len": 60,
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！！！！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff2f011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ぎゃおーーー！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "アンテナ破損！！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "何でいきなり襲ってきた！？\nすげー[{0D9E}]に落ちないんだけど！？\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "野生動物だからだよ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "なるほど！　[{0D9E}]に落ちた！\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff30001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……あれ？　でもはかせがここを降りたら\nまた追われるんじゃ……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff30001000ebfe0100adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "（降りれない→ここにいるしかない→お腹が\n　すいた→それでもここから降りれない）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffe8fe0400c1ff2c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "はかせ、死んじゃうかもしれない……\nお腹がすいて死んじゃうかも……。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffe8fe0200c1ff32001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……鹿のバカ！\nあっち行って！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0400c1ff2c001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっち行かない……鹿を何とかしないと\nはかせここで死んじゃう……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbff67ff1600c1ff32001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……死なないもん！\n鹿を倒して帰るもん！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff2a001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ジャーンプ！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc1ffffff100066ffab000000daffe8fe0200c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff1000bcff00021000effe080066ff99000000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "これをこうして、あれをあーして……！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "出来た！　いっけー！\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff76000000daffbeffaa00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800effe0900ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "いけー！　鹿をやっつけちゃえ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbff05ffebfe0000adffffff64ffffff3200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff48000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff64ffffff3100"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff49000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc401ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff2d001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……あれ？\nなんで２匹で戦うの？\n",
+      "text_len": 34,
+      "ctrl_code": "fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700c1ff32001000ebfe000065ff04000100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "違うよ！　はかせは\n鹿を退治してほしかったんだよー！？\n",
+      "text_len": 56,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaa00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff05003200"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff48000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff06003100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff49000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff07000100"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe070097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff33001000ebfe000065ff08000100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "おぉー……\nカッコイイ……！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff09000100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは！　いけー！\nどっちも負けるなー！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffebfe0000adffffff65ff0a003200"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff48000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff0b003100"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff49000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1ff33001000ebfe000065ff0c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "すごいすごい！\nいいぞー！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff0d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff42000000f4ff3c00dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0002ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe05000400e8fe0200c1ff32001000ebfe000065ff0f000100"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "味方同士で戦うんじゃなくて、\n鹿を倒してほしいの！\n",
+      "text_len": 52,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaa00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff10003200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff48000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff11003100"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff49000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "むー！　言うこと聞かないと\n壊しちゃうよー！\n",
+      "text_len": 46,
+      "ctrl_code": "fbff67ff1600beffab001000effe0600ebfe0000adffffffadffffff65ff13003200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffbeffac00100066ff29000000ebfe0000adffffffadffffff65ff14003100"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff28000000ebfe000065ff15000100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっ……はかせ、狙われてる？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffe8fe0400ebfe000065ff16000100"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "違うよ？　はかせじゃなくて、\nこの鹿を倒してほしいの！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffebfe0000adffffff65ff17003200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff28000000ebfe0000adffffff65ff18003100"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0002ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800effe0400ebfe000065ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わーーーー！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffebfe000065ff1a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc401ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff03002e001000ebfe000065ff1b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "……あれ？　何も起こらない？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc0ff030030001000ebfe000065ff1c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あっ、鹿！\n助けてくれたの！？\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe090097fffbffc0ff04008b011000ebfe0000adffffff65ff1d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff1e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "鹿……ありがとう！\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff28000000daffbeffab00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff1f003200"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0002ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff20000100"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わーーー！？\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaa00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff21003200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "カブトムシ",
+      "speaker_len": 10,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff48000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff22003100"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "クワガタ",
+      "speaker_len": 8,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedfffcff66ff49000000c1ffffff1000b3ff0300f4ff0400daffb2ffeffe070066ff57000000ebfe000065ff23000100"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わっ！？　すごい戦い！\n",
+      "text_len": 24,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc401ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800eefe0900040066ffd7000000c1ff2e001000ebfe000065ff24000100"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わわっ、人が集まってきた……。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff36001000ebfe000065ff25000100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "は、はかせ知らないもん。\nこの二体が勝手にしてるだけだもん。\n",
+      "text_len": 62,
+      "ctrl_code": "fbff66ffaf000000c1ff30001000ebfe000065ff26000100"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わっ！？　おまわりさんまで来た！？\nど、どうしよう！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffeefe15000400c1ff2c001000ebfe000065ff27000100"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "こんなことしたのがはかせってバレたら……\n牢屋に入れられちゃう……！\n",
+      "text_len": 70,
+      "ctrl_code": "fbffe8fe0400c1ff2a001000ebfe000065ff28000100"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "う、うう……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff0002ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff29000100"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "逃げろーー！\n",
+      "text_len": 14,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

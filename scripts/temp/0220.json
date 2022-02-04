@@ -1,0 +1,789 @@
+{
+  "UNK": "e929",
+  "id": 16,
+  "total": 86,
+  "ptrs": 368,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffd801ff0067ff0e00fcfff9ff0800c1ffb6011000ebfe000065ff00002200"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "……い、以上です。これでお終いです。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff3c011000ebfe0000adffffff65ff01001000"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0400c1ffb6011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "あの……いかがでしょうか？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff3c011000ebfe0000adffffff65ff03001000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff0300bf011000ebfe000065ff04002300"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……やっぱり駄目みたいだな。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffd2011000ebfe000065ff05002400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "ちょっ！？　だったら俺たち……！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0400c1ffbe011000ebfe000065ff06002300"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "怖くない……怖くない。\nみんなとまた会えるんだからさ……。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffe8fe0200c1ffd0011000ebfe000065ff07002400"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "怖ぇえよ！　死にたくない！\n俺はまだ死にたくなああああああい！\n",
+      "text_len": 64,
+      "ctrl_code": "fbffe8fe0200c1ffe5011000ebfe000065ff08002500"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "うるさい！　黙ってろ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff3c011000ebfe0000adffffff65ff09001000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff3e011000ebfe000065ff0a001000"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "…………はあ……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffebfe0100adffffff65ff0b002200"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "（何だよこれ！？　拷問じゃん！\n　溜めんなよ！　落とすなら早くしろよ！）\n",
+      "text_len": 74,
+      "ctrl_code": "fbff67ffffffc1ff3a011000ebfe000065ff0c001000"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "………………い。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffb6011000ebfe000065ff0d002200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "……え？　あ、あの……今なんて？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff8f011000ebfe000065ff0e002000"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "姫様、申し訳ございません。\n今一度お言葉を……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff3a011000ebfe000065ff0f001000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "…………くはない。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff8f011000ebfe000065ff10002000"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "あ、あの……もう一度……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff3c011000ebfe000065ff11001000"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "だから、面白くなくはない……そう言った。\n",
+      "text_len": 42,
+      "ctrl_code": "fbff66ff89000000c1ffb3011000ebfe000065ff12002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "え？　そ、それって……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbff67ff1500c1ff91011000ebfe000065ff13002000"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "限りなく合格に近い言葉、だろ？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ffb5011000ebfe000065ff14002200"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "だったら……だったら俺は……俺たちは[{0D80}][{0D80}]！！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff34011000ebfe000065ff15001000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "ま、次に期待、だな。少しは精進しろ。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff91011000ebfe000065ff16002000"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "おつき３",
+      "speaker_len": 8,
+      "text": "と言うわけだ！　全員次回に向けて頑張れ！\n本日の大会は以上だ！\n",
+      "text_len": 64,
+      "ctrl_code": "fbff62ff1f00f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffcb00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff17002200"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "兵隊たち",
+      "speaker_len": 8,
+      "text": "やったーっ！！\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd801ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c0ff0300af011000ebfe000065ff18002200"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "俺たち……俺たち、助かったんだ！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff0400c8011000ebfe000065ff19002300"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ああ……みんなのおかげだ。\n死んでいったみんなが、俺たちを……！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ffad011000ebfe000065ff1a002200"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]ん？　この音は……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffc4011000ebfe000065ff1b002300"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "スタジオ船からの連絡だ！\nアイツらにも教えてやろうぜ。\n",
+      "text_len": 56,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffde01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ffe9011000ebfe000065ff1c002600"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]どうだ？　まだ生きてるか？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffebfe000065ff1d002200"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]もちろんだ。それにな、終わったぞ。\nレクリエーション大会はお終いだ。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ffeb011000ebfe000065ff1e002600"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "やったな！　……おめでとう。\nそれから……よく頑張ったな。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000065ff1f002200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "[{0D80}][{0D80}]お互いにな。礼を言うぞ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffe9011000ebfe000065ff20002600"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "なんの。大したことしてないさ。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ffea011000ebfe000065ff21002600"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "それよりもう、アンテナは用済みだな。\n消滅させておくか。\n",
+      "text_len": 58,
+      "ctrl_code": "fbff66ff02000000c1ffe9011000ebfe000065ff22002600"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "えーと……消滅は確かこのボタンを、と。\n",
+      "text_len": 40,
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff06021000ebfe000065ff23002700"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "ちょ、ちょっと待て！　違う！\nそれは新型のアンテナを追加するボタンだ！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1fff0011000ebfe000065ff24002600"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "新型！？\nそのアンテナの役目は[{0D80}][{0D80}]\n",
+      "text_len": 36,
+      "ctrl_code": "fbff66ff04000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffcc00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff080066ff07000000e8fe0200ebfe000065ff25002600"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "俺なんだー！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffbeff0c00100066ff76000000dafffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8b01ff00c1fffeffff00c1ff4200ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff42001000ebfe000065ff26000200"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "のわっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff630018011000adfffeffebfe0000aeff03008000aeff0400800065ff27000300"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みお＆高崎先生",
+      "speaker_len": 14,
+      "text": "……………………。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedffc1ffffff1000aeff03000000aeff04000000c1ff40001000ebfe0000adffffff65ff28000200"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1000edffc8ff18013b001000ebfe000065ff29000200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "廊下に立ってます。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff2a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "いや……いい。\n今はホームルームだし。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff3f001000ebfe000065ff2b000200"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "あ。\n",
+      "text_len": 6,
+      "ctrl_code": "fbff66ff13000000c1ff18011000ebfe000065ff2c000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "それじゃ今日はこれまでだ。\n相生、明日はちゃんと寝てくるんだぞ？\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff40001000ebfe000065ff2d000200"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "は、は〜い……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb201ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff04000000f9ff0800edffc8ff5e0043001000ebfe000065ff2e000300"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ふーん、そんな夢見たんだ。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc0ff04000a001000ebfe000065ff2f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "そ、そんなことありえませんよ！\n私の背中のこれは、あの……えーと……。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff38001000ebfe000065ff30000200"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "何？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff07001000ebfe000065ff31000000"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ア、アクセサリーです！\n無いとさびしいなーみたいな。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff3a001000ebfe000065ff32000200"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "ゆっこ",
+      "speaker_len": 6,
+      "text": "ロボ的に？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c1ff09001000ebfe000065ff33000000"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "だからアクセサリーですって！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc0ff04005e001000ebfe000065ff34000300"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "ロボ的な？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0400d0001000ebfe000065ff35000700"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……エネルギー漏れ？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffe8fe0200c1ff06001000ebfe000065ff36000000"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "うそ！？　またはかせが何か[{0D80}][{0D80}]！？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ffcb001000ebfe000065ff37000700"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……やっぱり。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff040061001000ebfe000065ff38000300"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みお",
+      "speaker_len": 4,
+      "text": "何も漏れてないよ。大変だね。ロボ的に。\n",
+      "text_len": 40,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc701ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff09001000ebfe000065ff39000000"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……ていうことがあったんです。\nはかせ、ネジ外してください！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc8ff090029001000ebfe000065ff3a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なんで？　可愛いよ？　ロボ的に。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffe8fe0200c1ff02001000ebfe000065ff3b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "可愛くありません！　それに\nそのロボ的にって言うのやめてください。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff2d001000ebfe000065ff3c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なんで？　ロボ的に？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff08001000ebfe000065ff3d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……それ以上言うと夕飯抜きですよ？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff32001000ebfe000065ff3e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "いーもーん。\nお腹空いたらジュース飲むもーん。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff05001000ebfe000065ff3f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "買い置きしてませんよ？\n",
+      "text_len": 24,
+      "ctrl_code": "fbff66ff03000000c1ff2b001000ebfe000065ff40000100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "へへーん、新発明♪\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff41000000"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff66ff02000000ebfe000065ff42000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そしてさらに。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffbeff07001000e8fe0200ebfe000065ff43000000"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "＠！！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffebfe000065ff44000100"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "えっへん。さらにいちごジュースが出ます。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000065ff45000000"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "そんな……そんな……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffbeff08001000ebfe000065ff46000100"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あ。もちろんもう片方からは\nロールケーキが出るよ。これでオッケー♪\n",
+      "text_len": 68,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff03001000ebfe000065ff47000000"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ＯＫじゃありません！\n元に戻してください！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff32001000ebfe000065ff48000100"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "や！？　だめ！　いちごジュースかけないで！\nもったいないー！\n",
+      "text_len": 62,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffca01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200ebfe000065ff49000000"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせ、何やってるんです！？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffebfe000065ff4a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "へへーんだ。こうすれば飲めるもーん。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000065ff4b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "もう！\nコップ持ってくるより、止めてくださいよー！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff2b011000ebfe000065ff4c000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "……ったく。何やってんだ？\nこれだからお子様は……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff25011000ebfe000065ff4d000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ん？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0200ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff98000000ebfe0000adffffff65ff4e000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff66ff98000000e8fe0400ebfe000065ff4f000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "……………………！\n",
+      "text_len": 20,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc701ff00c1fffeffff00c0ff03000300ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe02001fff0400000000020000c0ff040029011000adff0500ebfe000065ff50000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "イヤッハアアアアア！！\n",
+      "text_len": 24,
+      "ctrl_code": "98ff00001aff0400000078ff00000a0016ffffff1aff04000000f0ff00001e0016ffffff97fffbffe8fe0200c1ff02001000ebfe000065ff51000000"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "さ、阪本さん何するんですか！？\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff101ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff52000d00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "うあっ！　ああっ！　ヤッベ！　楽しい！\nロールケーキ最高ーっ！！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff53000100"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あはははははは！　ふふふ！\n楽しいなー♪\n",
+      "text_len": 42,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff54000000"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "楽しくありません！\n二人共いい加減にしてくださーい！！\n",
+      "text_len": 56,
+      "ctrl_code": "fdffedfffcff67ffffff66ff0f000000aaff0100ff00edffc1ffffff1000bcffd8011000aaff00000000c1ff3a011000ebfe000065ff55001000"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "スターラ姫",
+      "speaker_len": 10,
+      "text": "……ふむ。\n次も楽しめそうだな。\n",
+      "text_len": 34,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffb4000000daffbcfffd01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800edfffcfff4ff780063ffffffbeff6101080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

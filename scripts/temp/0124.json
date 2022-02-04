@@ -1,0 +1,833 @@
+{
+  "UNK": "b923",
+  "id": 16,
+  "total": 90,
+  "ptrs": 384,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      730,
+      1962,
+      1966,
+      2758,
+      2784,
+      5418,
+      6956
+    ],
+    "ctrl_code": "fcffedfe08000a000c0004ff03ff0300c1ffffff1000bcffea01ff0067fffffffcfff9ff0800eefe00000500ebfe000064ffffff1700"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ふぁあ〜……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd501ff00c1fffeffff0090ffffff90ffffff90ffffff67ff060071ff000063ffffff90ffffffedfff9ff0800c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "いつものことだけど、朝の散歩は\n早起きしないといけないのが辛いなぁ……。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffedffc8ff300132011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おはようバディ、コバディ。\nそれじゃ、散歩に行くぞ〜。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "……おや？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff7e0165011000c1ff65011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あっ、おじいちゃん。おはよ〜。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff7f011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "おはよう。ご飯は……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ご飯は後でね。\n先にバディたちと散歩に行ってくるよ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff80011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "ふむ。\n",
+      "text_len": 8,
+      "ctrl_code": "fbfffefe010001007fff020067ffffffedffc1ffffff1000edfffcff66ff1b000000daffebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あれ？　今、何か音が[{0D80}][{0D80}]\n",
+      "text_len": 26,
+      "ctrl_code": "fbff67ff0e00c1ffb3001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200edffc8ffb30067011000c1ff67011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "わっ！？　おじいちゃん！\n変な人がうちの中に！！\n",
+      "text_len": 50,
+      "ctrl_code": "fbff67ff1600edffc8ffb3007e011000c1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "…………！\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "やっちゃえ、じいちゃーん！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ffbb011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "げっ、見つかった！\n上手く隠れてたと思ったのに！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff65ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffbc01b8011000c1ffb8011000ebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "おい、早く逃げるように操作しろって！\nあのオッサンやられるぞ！\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ffbc011000ebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ああ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffffc1ffad011000ebfe000065ff04002200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "……どうした？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff0d00e8fe0400c1ffc1011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "いや、あの子供を見ていたら、\n昔飼ってたペットを思い出して……うう。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ffae011000ebfe000065ff06002200"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "お、おい、泣くなよ……いい大人だろ？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffe8fe0400c1ffc8011000ebfe000065ff07002300"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "そうだけど……まだ心は子供のつもりだよ。\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ffb0011000ebfe0100adffffff65ff08002200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "（うわぁ……こいつ、本気で言ってるよ。\n　いい歳こいて、子供のつもりだなんて[{0D80}][{0D80}]）\n",
+      "text_len": 84,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff09002200"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "……ええっ？　どうして俺まで、\n子供の頃の思い出が、走馬灯のように[{0D80}][{0D80}]\n",
+      "text_len": 72,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff64011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "そうだ、おじいちゃんも\n一緒に散歩に行こうよ。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff7e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "ふむ……。そうじゃな。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff65011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "やった！　じゃあ早く行こう！\nバディ、コバディ、行くぞ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff18000000daffbcffb701ff00c1fffeffff00c1ff8b01ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff8b011000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff05ffedffc8ff8b0164011000c1ff64011000ebfe0000adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbff66ff7c000000e8fe0300c1ff67011000ebfe0100adffffff64ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（鹿っ！？）\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc1ffffff100067ff0f00c0ff030067011000ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "お、おじいちゃん！？\n玄関の前に、何かいたよ！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc0ff04007e011000ebfe000064ffffff1b00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "これは羊と言って[{0D80}][{0D80}]\n",
+      "text_len": 22,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7300ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1700"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "鹿だよ！\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe030097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700edffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb000ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0a001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffeefe09000400ebfe000065ff0b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "わっ！？　怒った！\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0c001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbff66ff42000000e8fe0200ebfe000065ff0d001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff0e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おじいちゃん！？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffe8fe0400c1ff81011000ebfe000065ff0f001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "う……ううっ……。\n",
+      "text_len": 20,
+      "ctrl_code": "fdffedfffcff1aff05000000f0ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000effe0600e8fe0200ebfe000065ff10001700"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おじいちゃーーーーん！！\n",
+      "text_len": 26,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff11001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0400ebfe000065ff12001700"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "うう、今度は僕が狙われてる……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff13001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff14001700"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "うわっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe09000400c1ff67011000ebfe000065ff15001700"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "な、なんとかかわせた！\nでも、このままじゃ僕も……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbff67ff1600edffc8ff300132011000c1ff30011000ebfe0000adffffff65ff16000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff17001700"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "バディ！　コバディ！\nお前たち、僕を守ってくれるのか！？\n",
+      "text_len": 58,
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200c9ff65011000ebfe000065ff18001700"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "よし！　みんなでこの鹿を倒すぞ！\nそして、散歩に行くんだ！\n",
+      "text_len": 60,
+      "ctrl_code": "98ff0000effe090097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff19001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff1a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "行くぞ！\nうおおおおお！！\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff00c8ff30013201ff0090ff320190ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c9ff6401100066ff220000001aff0300000000fe00001e001aff04000000000200001e0016ffffffedffc0ff0400ffff1000edffc0ff0300ffff1000eefe0e000400ebfe000065ff1c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "……え！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000065ff1d001700"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ぐふっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800edffc0ff0400ffff1000edffc0ff0300ffff10001fff0300000000fe0000c0ff03003001ff001aff0300000078ff00003c001fff0400000000020000c0ff04003201ff001aff04000000680000003c0016ffffff67ff1400e8fe0400ebfe000065ff1e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "バ、バディ……コバディ……。\n",
+      "text_len": 30,
+      "ctrl_code": "fdffedfffcffedffc8ff310133011000f4ff1e00adfffeffebfe0000aeff03008000aeff0400800065ff1f000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "バディ＆コバディ",
+      "speaker_len": 16,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffaeff03000000aeff04000000e8fe0400ebfe0000adffffff65ff20001700"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………！！\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff21001700"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "……守ってよ。\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff00c1ff8b01ff0090ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff22001700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "誰かが飼ってる……わけじゃないよね？\n迷ってここまで来たのかな。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff23001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff030065011000ebfe000065ff24001700"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ねえ、おじいちゃん。\nこの鹿も、しばらくうちで飼っていい？\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc0ff04007f011000ebfe000065ff25001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "……ひろしが飼いたいなら、そうしなさい。\n",
+      "text_len": 42,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff7300ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff26001700"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "きよしね！　僕、名前、きよし！\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff65011000ebfe000065ff27001700"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "でも、それってつまり、いいんだよね？\nやったーー！！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff300132011000c9ff8b011000ebfe000065ff28001700"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "よーし。\nそれじゃ、みんなで散歩に行こう！\n",
+      "text_len": 44,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff29000e00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "バディ＆コバディ",
+      "speaker_len": 16,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fdffedfffcfffcff66ff220000001aff0300000000fe00001e001aff0400000000fe00003c0016ffffffeefe0f000400e8fe0200ebfe000065ff2a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あっ、バディ！　コバディ！\nどこに行くんだ！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffedffc1ffffff1000edffc8ff8b0166011000c1ff66011000ebfe000065ff2b001700"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "行っちゃった……。\nごめんね、みんなで散歩に行けなくて。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff2c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "仕方ないから、僕とおじいちゃんと\n一緒に散歩に行こうか。\n",
+      "text_len": 58,
+      "ctrl_code": "fbff67ffffffe8fe0200c1ff8c011000ebfe000065ff2d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fdffedfffcfffcff67ff140066ff220000001aff0300000000fe00001e0016ffffffedffc1ffffff1000eefe03000400c1ff67011000ebfe000065ff2e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "えっ！？　お、おい！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff66011000ebfe0000adffffff65ff2f001700"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff30001700"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "……そんなに嫌なのか、散歩。\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffb701ff00c1fffeffff00c1ff8b01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff8b011000ebfe0000adffffff65ff31001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc1ffffff1000c0ff040064011000ebfe000065ff32001700"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おじいちゃん、この鹿、どうしよう？\n警察に連絡した方がいいのかな？\n",
+      "text_len": 68,
+      "ctrl_code": "fbff67ffffff66ffce000000c0ff03007e011000ebfe0000adffffff65ff33001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc9ff55021000c0ff040067011000ebfe000065ff34001700"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あっ、それは！\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe070097fffbff67ff1000c1ff66011000ebfe0100adffffff65ff35001700"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（……どうして持ってるの？）\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff7f011000ebfe000065ff36001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "これは鹿せんべいじゃよ。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc0ff040064011000ebfe000065ff37001700"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "あ、うん……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff66011000ebfe0100adffffff65ff38001700"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（疑問は、そこじゃなかったんだけど……）\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc9ffffff1000edffc1ffffff1000c1ff8b011000ebfe000065ff39001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……パクリ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0300c0ff040067011000ebfe0100adffffff65ff3a001700"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "（食べた！？）\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff030080011000ebfe000065ff3b001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "ほっほっほ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff65011000ebfe000065ff3c001700"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "おじいちゃん、\n僕も鹿にせんべいをあげてみたい！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff7e011000ebfe000065ff3d001b00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "ジェントルマン",
+      "speaker_len": 14,
+      "text": "あげてごらん。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffc1ffffff1000c9ff55021000c0ff030065011000ebfe000065ff3e001700"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "ありがとう！\nほら、お食べ。鹿せんべいだぞ。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc9ffffff1000eefe01000400c0ff04008b011000ebfe0000adffffff65ff3f001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff40001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff41001700"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "えっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800edfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe0000adffffff65ff42001700"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff43001700"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "きよし",
+      "speaker_len": 6,
+      "text": "な、なん……で……？\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

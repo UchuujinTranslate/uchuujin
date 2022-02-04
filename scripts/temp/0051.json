@@ -1,0 +1,635 @@
+{
+  "UNK": "4503",
+  "id": 16,
+  "total": 68,
+  "ptrs": 288,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      862,
+      1596,
+      1600,
+      2714,
+      2740,
+      3364,
+      4636
+    ],
+    "ctrl_code": "fcffedfe05000500050004ff03ff0300c1ffffff1000bcffc6d1ff0067fffffffcfff9ff0800eefe00000500ebfe000064ffffff0100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ｚｚＺ……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffafff03000300c1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ん…………ふぁあ〜……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbff67ff0b00afff03000000c1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ん〜……\nよく寝た〜……。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせー、ただいまー。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff31001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あれ？　なの帰ってきた。\nもうそんな時間だったんだ。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff12001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ただいまはかせ。\nあっ、お昼寝してたんですか？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffedffc8ff2d0012001000ebfe0000adffffff64ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff1a001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……ん？　どうかしましたか？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ううん、ネジがあったら\n可愛いと思っただけ。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff1e001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "いや、それは無いですから。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ぷぷぷ。阪本と同じこと言ってる。\nでもちゃんとデータ取ったもんね。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff1a001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "データ？　何のことですか？\n",
+      "text_len": 28,
+      "ctrl_code": "fbfffefe000001007fff020067ffffffedffc1ffffff1000c1ff30011000ebfe0000adffffff64ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1000edffc8ff300116001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ！　はかせ、犬拾ってきたんですか！？\nダメですよ、うちには阪本さんが……。\n",
+      "text_len": 80,
+      "ctrl_code": "fbffe8fe0200c0ff040037001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "わっ！？　い、犬だ！？\nなのー！　助けてーー！！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc0ff040016001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "えっ？　え？　あ、はい。\n……違ったんですか。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c1ffad011000ebfe000065ff00002200"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "あー……抱きかかえられたら、\nアンテナ折れちまった。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe000065ff01002300"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "ま、こんなもんさ。\n今回の選びかたは失敗だったんだよ。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffebfe000065ff02002200"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF07}]",
+      "speaker_len": 2,
+      "text": "……だな。\nやっぱり、ルーレットは難しいな！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000065ff03002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "だな！\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff29001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "なのはネジを可愛くないって\n思ってるんだよね？\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff15001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "当たり前です。こんなのがついていて\n可愛いと思う人ははかせくらいです。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "残念でしたー！　はかせ以外にも\n可愛いって言った人いたもんねー！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffe8fe0200c1ff16001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "えっ！？　いたんですか？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "いたんです。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff17001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "と言うか、わざわざ聞きに行ったんですか？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff33001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "行ったんです。\nそしてはかせが正しいことが証明されました！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff1c001000ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "う、うーん……。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff2b001000ebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "だからネジは可愛いから\n自信持って、なの！\n",
+      "text_len": 44,
+      "ctrl_code": "fdffedfffcff67ffffffc9ff3702100066ff03000000daffc9ffffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1500ff00c1fffeffff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800f4ff1e00beff16001000f4ff1e00beff17001000f4ff1e00beff18001000f4ff1e00e8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff05ffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは！　いっぱい出てきた！\nあはははは！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ちょっ！？\n何してくれてるんですかはかせ！！\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe000064ffffff0100"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははは！　可愛いでしょ！\nあはははは！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0000"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "こんなの可愛いわけないじゃないですか！\n",
+      "text_len": 40,
+      "ctrl_code": "fdff7fff040002ff01fffbfffa00000096000500320000fffffe050006000700ebfe000065ff04000100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "ぷぷぷ！　だからそれはなののセンスが\nはかせたちより悪いからだよ！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffeefe05000400e8fe0200ebfe000065ff05000000"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ネジ１つならそうかもしれませんけど！\nこれを可愛いと思うのは異常です！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffebfe000065ff06000100"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "異常じゃないよ！\n可愛いじゃん！\n",
+      "text_len": 34,
+      "ctrl_code": "fbffebfe000065ff07000000"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "可愛い可愛くないの次元を\n超えちゃってるんですよ！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffebfe000065ff08000000"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "こんな姿で外出たら通報されますし、\nそもそも……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff09000000"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "そもそも、こんなにネジがあったら\n気持ち悪いです！\n",
+      "text_len": 52,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0a000100"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe000065ff0b000100"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そんなこと言わないで。はかせ、\nなののためにいっぱい用意したんだから。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffeefe04000400ebfe000065ff0c000000"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "その気持ちは嬉しいですけど\nなんでネジを用意するんですか？\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000065ff0d000100"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "可愛いからだよ？\nそれなのにダメなの？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffebfe000065ff0e000000"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "日頃からネジは嫌だと\n言っているじゃないですか。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff0f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "なのにこの仕打ちは嫌がらせ以外の\nなにものでもありませんよ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc6d1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0400c1ff2a001000ebfe0000adffffff65ff10000100"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff11000000"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "あっ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffeefe06000400c1ff2c001000ebfe000065ff12000100"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "嫌がらせなんてひどいよ。\nはかせ、なのに喜んでもらいたくて……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff13000000"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "はかせ……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc8ff2c0012001000ebfe000065ff14000000"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……想像してください。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff15000100"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "………？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff14001000ebfe000065ff16000000"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "ある日突然、体中からたくさんの\nネジが生えてくる光景を！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff30001000ebfe000065ff17000100"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ff17001000ebfe000065ff18000000"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "怖くないですか？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff19000100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "あははははははは！　面白い！\nはかせの腕からにゅってネジが！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0200c1ff18001000ebfe000065ff1a000000"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1b000000"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "……異常だ。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc6d1ff00c1fffeffff00c8ff29001b00ff0090ff1b0090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff29001000ebfe000065ff1c000100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "だってはかせ以外の人も\nネジが可愛いって言ったよ？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffeefe04000400c1ff17001000ebfe000065ff1d000000"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "そうかもしれませんけど、\nそれを聞いたのは今日なんですよね？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff33001000ebfe000065ff1e000100"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff1c001000ebfe000065ff1f000000"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "でも私はそれより前に\n改造されちゃってるじゃないですか。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff29001000ebfe000065ff20000100"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "うん。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff14001000ebfe000065ff21000000"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "何の確信も無く\n改造してるじゃないですか。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff2b001000ebfe000065ff22000100"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "そうです。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff18001000ebfe000065ff23000000"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "なんでしれっとしてるんですか！？\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffffd1ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24000100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "はかせ",
+      "speaker_len": 6,
+      "text": "だってネジ可愛いもん！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffe8fe0200ebfe000065ff25000000"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "なの",
+      "speaker_len": 4,
+      "text": "結局はかせ次第じゃないですか！\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

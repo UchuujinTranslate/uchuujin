@@ -1,0 +1,698 @@
+{
+  "UNK": "0410",
+  "id": 16,
+  "total": 75,
+  "ptrs": 320,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      804,
+      1870,
+      1874,
+      2100,
+      2126,
+      3532,
+      5008
+    ],
+    "ctrl_code": "fcffedfe080009000a0004ff03ff0300c1ffffff1000bcff00f0ff0067ff0a00fcfff9ff0800eefe00000500c1ffd0001000ebfe000064ffffff0700"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "喉渇いたな……\n自販機、それか大工カフェで……。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……あれ？\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffa600ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff0800effe0600ebfe0000adffffff64ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff1c011000ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ffce001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……壊れた？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ffd0001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "あっ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1000edffc1ffffff1000edfffcffedffc0ff0300ffff10001fff0300000000020000c0ff0300070110001aff0300000000fe00003c0016ffffff1fff0400000000020000c0ff0400140110001aff0400000000fe00001e00e8fe0200ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "fbff16ffffffedffc1ffffff1000c1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "桜井先生の後を追ってる？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffd0001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……なんだ、日常の風景だ。\n",
+      "text_len": 28,
+      "ctrl_code": "98ff0000effe020097fffbfffefe010001007fff0200c1ffce001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "あっ……。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff0f00c1ffb9001000ebfe0000adffffff64ffffff0500"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffd000b9001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……私を追いかけていた？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffcc001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "これは非日常の風景……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c0ff0300f6011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "げっ、バレちまった！\nに、逃げないと！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc0ff0400fb011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "待て！　逃げたら自分からつけ回してたと\n言っているようなもんだぞ！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff6011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "あっ、そうか！\nこういう時は逆に堂々としておくんだな！\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1fff9011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "そうだ、そして話しかけられても、\n偶然、目が合っただけだと言うんだ。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1fff1011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "その判断力、さすがだな！\nまるでストーキングの経験があるみたいだ。\n",
+      "text_len": 68,
+      "ctrl_code": "fbff67ffffffe8fe020066ff7c000000c1ff06021000ebfe000065ff05002700"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffc1ffea011000ebfe000065ff06002600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "……えっ？\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1400e8fe0400c1fffe011000ebfe000065ff07002700"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "な、なななな、なんのことだ？　あれは偶然！\n本当にいつも偶然だったんだよ！？\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ffec011000ebfe000065ff08002600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "お、お前……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff09002700"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "偶然なんだーー！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ffca001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "だけど……。\n",
+      "text_len": 14,
+      "ctrl_code": "fbff05ffc1ff17011000ebfe0000adffffff64ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000c1ff1301100097fffbffc1ffce001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……あれでは変質者。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ffd0001000ebfe000064ffffff0700"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "桜井先生もかわいそうに……。\n",
+      "text_len": 30,
+      "ctrl_code": "98ff0000effe030097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700eefe10000400c0ff0400ca001000ebfe000065ff0a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……先生。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200c0ff030017011000ebfe000065ff0b000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "うわあああ！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff0c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "何してるんですか？\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff1c011000ebfe000065ff0d000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "み、水上！？　こ、これは、あの、\nそう、今日の夕飯の材料を買いにだな！\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff0e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "あ、あんなところに桜井先生が。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff20011000ebfe000065ff0f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ドキッ！？　あ、ああ、本当だ、\n桜井先生がいるな。気付かなかった！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ffcb001000ebfe000065ff10000700"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "学校を出たら赤の他人……\nだから気付かなかったんですね。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff1c011000ebfe000065ff11000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "ち、ちち違う！　例え学校を出ても同僚だ！\n教職者として強い[{0D9C}]で結ばれていてだな！\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff12000700"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "変質者？\n",
+      "text_len": 10,
+      "ctrl_code": "98ff0000effe060097fffbffe8fe0200c1ff17011000ebfe000065ff13000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "なっ！？\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ffd4001000ebfe000065ff14000700"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "最近、ストーカーが出るらしいですよ。\n",
+      "text_len": 38,
+      "ctrl_code": "fbffeefe03000400c1ff1a011000ebfe000065ff15000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "なっ！？　だだだ、誰がだ！\n俺は偶然ここにいただけで[{0D80}][{0D80}]\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff16000700"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "先生。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff14011000ebfe000065ff17000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "な、なんだ……？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffcb001000ebfe000065ff18000700"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "スーパー、通り過ぎましたよ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff16011000ebfe000065ff19000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "う……。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff20011000ebfe000065ff1a000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "で、では俺はここで！\nストーカーに気をつけるんだぞ！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff1b000700"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "はい。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffedfffcff66ff22000000c0ff0300ffff1000daffc1ffd0001000ebfe0000adffffff65ff1c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff1d000700"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "いつ捕まるかな？\n",
+      "text_len": 18,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffca001000ebfe0000adffffff65ff1e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ff0d01ca001000ebfe000065ff1f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あら、水上さん。\n水上さんもお買い物？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ffd4001000ebfe000065ff20000700"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ボディガード？\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe030097fffbffeefe11000400c1ff0b011000ebfe000065ff21000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ボディガード……ですか？\nへー、誰のです？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff22000700"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "それは内緒。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff23000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あっ、そうですね。\nそれは言えませんよね。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc1ffffff100066ff89000000c0ff0300d1001000ebfe0000adffffff65ff24000700"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe020097fffbff66ff7c000000e8fe0200c0ff040017011000ebfe000065ff25000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffbff67ff1200edffc8ff0b01d1001000ebfe000065ff26000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "そうだ、水上さん。今日の夕飯なんですけど、\n何にするか迷ってるんです。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff27000700"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "カレー。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff28000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "カレー、ですか？　いいですねー。\n私も弟も好きなんですよー。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff29000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "今日はお肉が安い日ですから、\nカレーにしちゃいますね。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffd0001000ebfe000065ff2a000700"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ついでに防犯ブザーも。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff11011000ebfe000065ff2b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ぼ、防犯ブザー？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ffca001000ebfe000065ff2c000700"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "この辺りはストーカーが出るから。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff2d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……そ、そうなんですか！？\nじゃあ防犯ブザーも買います！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffedffc1ffffff100066ff89000000c0ff0300d1001000ebfe0000adffffff65ff2e000700"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe020097fffbff66ff7c000000e8fe0200c1ff17011000ebfe000065ff2f000c00"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "！！\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffbffedffc1ffffff1000c0ff0400cb001000ebfe000065ff30000700"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "フフフフ……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc0ff030011011000ebfe000065ff31000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……？　水上さん？\n",
+      "text_len": 20,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff32000700"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ククク……。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffca001000ebfe0000adffffff65ff33000700"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ffffff66ffb2000000c1ffd0001000ebfe0000adffffff65ff34000700"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff0e00c1ffca001000ebfe000065ff35000700"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "……あ、警察ですか？\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000eefe03000400effe060097fffbffc1ffd0001000ebfe000065ff36000700"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "商店街に、変質者が……\n女性を尾行してます。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ffca001000ebfe0000adffffff65ff37000700"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ffb4000000c1ffd0001000ebfe000065ff38000700"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "ふぅ。\n",
+      "text_len": 8,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff39000700"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "麻衣",
+      "speaker_len": 4,
+      "text": "明日の新聞が楽しみ。\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

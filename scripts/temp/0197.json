@@ -1,0 +1,249 @@
+{
+  "UNK": "d722",
+  "id": 16,
+  "total": 26,
+  "ptrs": 128,
+  "extra": 0,
+  "ptr2": {
+    "size": 4,
+    "total": 0,
+    "offsets": [],
+    "ctrl_code": "fcffc1ffffff1000bcffd501ff0067ff0b00fcfff9ff0800ebfe0000adffffff65ff00001600"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff0400f6001000ebfe000065ff01000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "父さん、買ってきたよ。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff03005e011000ebfe000065ff02001600"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "ああ。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1ff5e011000ebfe0100adffffff65ff03001600"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（……うちと大工カフェの差を\n　はっきりと知る必要がある）\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff5f011000ebfe0100adffffff65ff04001600"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（そのためには一度くらいは\n　商品を試さないといけない）\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff05001600"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "それで、何を買ってきてくれたんだ？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1fff7001000ebfe000065ff06000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "ヘイゼルキャラメルマキアートと\nケーキをいくつか買ってきたよ。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff07001600"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "ヘイゼルキャラメルマキアート？\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff61011000ebfe0100adffffff65ff08001600"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（わけがわからん……\n　なんだその長ったらしい名前は）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff09001600"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……名前通りキャラメルのいい匂いがするな。\n味も悪くはない……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff0a001600"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "さて、ケーキはと……\nな、何だこの目に痛い色合いは！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff0b001600"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……わけがわからん。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0c001600"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "これなら白くてシンプルな大福の方が\nよっぽど素晴らしいじゃないか。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff6001000ebfe000065ff0d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "父さん、とりあえず食べてみなよ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff5e011000ebfe000065ff0e001600"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "そうだな。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff5f011000ebfe000065ff0f001600"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "……うまい。\nだが、少し甘すぎるような……！？\n",
+      "text_len": 48,
+      "ctrl_code": "fbff67ff1300e8fe0200c1ff60011000ebfe000065ff10001600"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "いや、こ、これは……！\nコーヒーと絶妙なバランス！！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff61011000ebfe000065ff11001600"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "くっ、悔しいがこれはうまい。\nこれだけうまければ流行るのも……。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5f011000ebfe0100adffffff65ff12001600"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "（しまった！　自分は何を考えているんだ！\n　大福に対して失礼だと思わないか！！）\n",
+      "text_len": 82,
+      "ctrl_code": "fbffe8fe0400c1ff61011000ebfe000065ff13001600"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "くっ……！　私は、私は……！！\n",
+      "text_len": 32,
+      "ctrl_code": "fbff67ff1800edfffcff66ff4d000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1ff03011000ebfe000065ff14000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "と、父さん！？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffe8fe0200c1ff61011000ebfe000065ff15001600"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "すまない、この通りだ！\n許してくれ、大福の神よ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0200c1ff03011000ebfe000065ff16000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "父さん、やめてよ！　父さん！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffe8fe0200c1ff5f011000ebfe000065ff17001600"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "中之条さん",
+      "speaker_len": 10,
+      "text": "二度とケーキには！　悪魔の誘惑には乗らない！\nだから、だからお許しをっ！\n",
+      "text_len": 74,
+      "ctrl_code": "fbffedfffcff66ff4d000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1ff03011000ebfe0000adffffff65ff18000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffed01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………父さん。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcfff4ff780063ffffffbeff5301080067ff0d00f4ff7800fdfff8ff080067fffffff7ff0800fcffffff"
+    }
+  ]
+}

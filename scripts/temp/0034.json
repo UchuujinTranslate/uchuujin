@@ -1,0 +1,869 @@
+{
+  "UNK": "4513",
+  "id": 16,
+  "total": 94,
+  "ptrs": 400,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1128,
+      2436,
+      2440,
+      3250,
+      3276,
+      4840,
+      6140
+    ],
+    "ctrl_code": "fcffedfe03000400070004ff03ff0300c1ffffff1000bcff00f0ff0067ff0900fcfff9ff0800eefe00000500c0ff0300f1001000ebfe000064ffffff0900"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いやー、囲碁サッカーって中々楽しいな。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc0ff040045011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "そうでしょう？\nこれほど奥が深いスポーツ他にありませんよ！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff4e011000ebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8ffec0045011000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いやー、でも今日の練習は残念だった。\n盛り上がってきた所で下校時間なんてな。\n",
+      "text_len": 78,
+      "ctrl_code": "fbffc1ff47011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "オレも高崎先生に教わったこと、\nもっと試したかったんですけど……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1fff2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "お、桜井くん、あそこに公園があるぞ！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1ff4a011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……やります？\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ああ！\n関口もやるよな？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc0ff04004e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "私はいいです。\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe0a0097fffbffc1fff2001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そっか……じゃあ関口はマネージャーだな！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff50011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "それも嫌です。\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe0b0097fffbffc1fff1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "もー、そういうこと言うなって。\nとりあえずオレたちは練習してくから！\n",
+      "text_len": 70,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff170071ff000063ffffff90ffffffedfffaff04000000f9ff0800c0ff040044011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "とりあえずリフティングからやりましょうか。\n",
+      "text_len": 44,
+      "ctrl_code": "fbfffefe010001007fff020066ffa7000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffda00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "よっ、は……っ！\nここで碁石を……っと！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "よしっ、ここで高く上げて……！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffebfe0000adffffff64ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ここでシュート！！\n",
+      "text_len": 20,
+      "ctrl_code": "fdffedfffcff66ffa6000000fcffedffc1ffffff1000daffbcffff01100066ff61000000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あっ、危ない！！\n",
+      "text_len": 18,
+      "ctrl_code": "fbffedfffcff66ffa8000000c1ffffff1000b3ff0300f4ff0400daffb2ff66ff30000000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "だ、誰か、当たった！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5800ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff8a000000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "うわっ、校長先生ですよ！？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "だ、大丈夫ですか……？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c0ff0300f7011000ebfe000065ff00002600"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "アンテナが折れたー！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc0ff0400fb011000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "くそっ、あの球体はこの星の兵器なのか！？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ffef011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "いや、誰がどう見てもサッカーボールだろ！\nただの遊び道具だ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffc1fffb011000ebfe000065ff03002700"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "そんな、じゃあアンテナの\n強度に問題があったとでも！？\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1fff3011000ebfe000065ff04002600"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "どう考えてもそうだ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1fff1011000ebfe000065ff05002600"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "なんせ、ザ・ズボラと呼ばれる俺が\n組み立てたんだからな！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffebfe0100adffffff65ff06002700"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "（そんなヤツに任せるなよ……）\n",
+      "text_len": 32,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffda00ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffa7000000f4ff7800dafffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfffaff02000000f9ff0800c0ff0300f1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ふぅ……これくらいにしとこうか。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff040045011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "そうですね。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc1ffffff1000c1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "……お疲れ様です。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "何だ関口、待っててくれたのか？\n",
+      "text_len": 32,
+      "ctrl_code": "fbff05ffc0ff040051011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "これを。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffc0ff030045011000ebfe000064ffffff1100"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "あ、タオルとジュースだ。\nありがとうございます。\n",
+      "text_len": 50,
+      "ctrl_code": "98ff0000effe070097fffbffc1ff4e011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "部長も、どうぞ。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc0ff0300f1001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なんだ、用意いいじゃないか関口。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff4f011000ebfe000064ffffff1200"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "待ってる間、暇だったので。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffeb001000ebfe0000adffffff64ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ffec001000ebfe000064ffffff0900"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なあ、関口。\n",
+      "text_len": 14,
+      "ctrl_code": "fdff7fff040002ff01ff05003200fbfffa000000960000fffffe050006000700c1fff1001000ebfe000065ff07000900"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "やっぱりお前、マネージャー向いてるよ！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff08001200"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "……言うと思いました。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff09000900"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ってことはつまり、\n実はやる気満々だったんだな？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff0a001200"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "いえ、やる気は無いです。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ffee001000ebfe000065ff0b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なんだよそれー、変なヤツだなー。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc0ff04004d011000ebfe000065ff0c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……そうだ、部長！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff0d000900"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうした桜井くん。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff4a011000ebfe000065ff0e001100"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "だったら、これはどうですか？\n……ごにょごにょ。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0200c1fff1001000ebfe000065ff0f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "……なるほど、それだ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffeefe12000400c0ff040050011000ebfe000065ff10001200"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "嫌な予感がするので先に断ってもいいですか？\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff11000900"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いいから聞け。\n関口はマネージャーが嫌なんだよな？\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff12001200"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "いえ、マネージャーがと言うわけでは[{0D80}][{0D80}]\n",
+      "text_len": 40,
+      "ctrl_code": "fbff67ff1700e8fe0200c1fff1001000ebfe000065ff13000900"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "今日からお前は\n時定高校囲碁サッカー部の監督だ！！\n",
+      "text_len": 52,
+      "ctrl_code": "98ff0000effe070097fffbffc1ff50011000ebfe000065ff14001200"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "監督？\n",
+      "text_len": 8,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff15000900"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そう！　高崎先生はあくまで臨時顧問！\nつまりうちの部には監督が居ないんだ！\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc0ff030045011000ebfe000065ff16001100"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "そこで関口さんが監督になってくれれば\n全部解決するんですよ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffeefe11000400c1ff4e011000ebfe000065ff17001200"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "全然解決してないような……。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc0ff0300ec001000ebfe000065ff18000900"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "おいおい何言ってんだよ監督！\n明日、就任の挨拶をしてもらうからな！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc0ff040045011000ebfe000065ff19001100"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "これで必要な役職が全部揃いましたね！\n",
+      "text_len": 38,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff1a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ああ、これでうちの部も安泰だ！\n",
+      "text_len": 32,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff1b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fff1001000ebfe000065ff1c000900"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "やっぱマネージャーに向いてるよ。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff1d001200"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "なりませんから。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff1e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "わかってる！\nもうマネージャーになれとは言わないって。\n",
+      "text_len": 56,
+      "ctrl_code": "fbff67ffffffe8fe0200c1ffec001000ebfe000065ff1f000900"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "その代わり、\n俺にマネージャーのやり方を教えてくれ！\n",
+      "text_len": 54,
+      "ctrl_code": "fbffeefe0e000400e8fe020066ff7c000000c1ff50011000ebfe000065ff20001200"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "fbffe8fe0200c0ff04004d011000ebfe000065ff21001100"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "えぇっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbff67ff1000c1ffec001000ebfe000065ff22000900"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "部長兼マネージャーとか凄くないか？\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff23000900"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "ついでに囲碁サッカー自体もちょっとやるから\nなんとプレイングマネージャーだぞ！\n",
+      "text_len": 80,
+      "ctrl_code": "98ff0000effe070097fffbffc0ff040047011000ebfe000065ff24001100"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "え、えーっと……プレイングマネージャーって\nそういう意味でしたっけ？\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff50011000ebfe0000adffffff65ff25001200"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffedffc8fff20050011000ebfe000065ff26000900"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そうだろ？\nだから関口、俺にマネージャー道を……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff27001200"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "私がやります。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ffec001000ebfe000065ff28000900"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "いや、関口今やらないって。\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff29001200"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "私がやりますから。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffeefe03000400c1ffeb001000ebfe000065ff2a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そうか、ならお前に任せるよ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff2b000900"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "よーし、マネージャーも決まったことだし、\nそろそろ帰ろうぜ！\n",
+      "text_len": 62,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff2c001200"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "……はぁ。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe000065ff2d001100"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "……お疲れ様です。\n",
+      "text_len": 20,
+      "ctrl_code": "98ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1fff2001000ebfe000065ff2e000900"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "やっぱりマネージャー、やってくれないか？\n",
+      "text_len": 42,
+      "ctrl_code": "fbffeefe04000400c1ff4e011000ebfe000065ff2f001200"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "無理ですよ。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff30000900"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "そう言わずにさー。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff31001200"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "そう言われても……。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ffeb001000ebfe000065ff32000900"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "めんどくさい仕事押し付けないからさー。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff4e011000ebfe000065ff33001200"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "めんどくさいからってわけでは\nないんですが……やはりちょっと。\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1fff2001000ebfe000065ff34000900"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "どうしても？\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff50011000ebfe000065ff35001200"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "どうしてもです。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1fff1001000ebfe000065ff36000900"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "なってくれたら\n言うこと何でも聞くって言っても？\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff51011000ebfe0000adffffff65ff37001200"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe060097fffbffc1ff4e011000ebfe000065ff38001200"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "なりません。\n",
+      "text_len": 14,
+      "ctrl_code": "fbffedffc1ffffff1000e8fe0300c1ff4d011000ebfe0100adffffff65ff39001100"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "（今一瞬悩んだ！？）\n",
+      "text_len": 22,
+      "ctrl_code": "98ff0000effe030097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff3a000900"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "大工",
+      "speaker_len": 4,
+      "text": "それじゃしょうがないな！\nさ、帰ろうぜ！\n",
+      "text_len": 42,
+      "ctrl_code": "fbffebfe000065ff3b001200"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "関口",
+      "speaker_len": 4,
+      "text": "はい。\n",
+      "text_len": 8,
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff3c001100"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "桜井誠",
+      "speaker_len": 6,
+      "text": "（いいの！？）\n",
+      "text_len": 16,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

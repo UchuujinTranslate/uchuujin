@@ -1,0 +1,950 @@
+{
+  "UNK": "aa21",
+  "id": 16,
+  "total": 103,
+  "ptrs": 432,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      1964,
+      2966,
+      2970,
+      4212,
+      4238,
+      6232,
+      7690
+    ],
+    "ctrl_code": "fcffedfe05000500050004ff03ff0300c1ffffff1000bcff8801ff0067ff0900fcfff9ff0800eefe0000050066ff13000000daffebfe000064ffffff3100"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "男子生徒（男子生徒２）",
+      "speaker_len": 22,
+      "text": "教頭先生、さよーならー。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "はい、さようなら。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffebfe000064ffffff2d00"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "女子生徒（女子生徒２）",
+      "speaker_len": 22,
+      "text": "教頭先生、失礼しまーす。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "はい、お疲れ様。\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff5a011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "はあ……教頭。\n……教頭、か。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "なぜみんな、私を校長と呼んでくれん？\nなぜだ？　教頭だからとでも言うのか？\n",
+      "text_len": 76,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff5a011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……それはそうか。\n校長がいる限り私は今のまま……教頭だ。\n",
+      "text_len": 60,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "どうすればいい？\n校長をクビにするには……。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "さっきの臨時集会でも失敗したし……\n一体どうすれば？\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ff5b011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……………………。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……はあ…………わからん。\n集めた落ち葉でも捨てに行くか。\n",
+      "text_len": 60,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffac01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff080071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff6a02100066ffac000000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "おお、おお、燃えとる燃えとる。\n木の枝や枯葉はこうするに限るな。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……しかし、焚き火をすると\n気分が落ち着くのはどうしてだろう？\n",
+      "text_len": 64,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……はあ…………何だっていいか。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……ん？\nあそこにいるのは……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800effe060066ff7d000000ebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbff66ff7c000000e8fe0200ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "し、鹿！？　なぜ私の学校に鹿が！？\n",
+      "text_len": 36,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffac01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0f0071ff000063ffffff90ffffffedfff9ff0800e8fe0300c1ff5b011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（あ、鹿といえば、町内を[{0D8B}][{0D8A}]していると言う\n　野生動物の話が……そうか、アイツか！？）\n",
+      "text_len": 88,
+      "ctrl_code": "fbffc1ff5d011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（ならば、アイツは人を襲うはず！\n　は、早く逃げないと[{0D80}][{0D80}]）\n",
+      "text_len": 62,
+      "ctrl_code": "fbfffefe020001007fff0200edfffcff66ff22000000c0ff0400ffff1000daffebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "あーあ、逃げやがったか。\n意外と根性ないな。\n",
+      "text_len": 46,
+      "ctrl_code": "fbff67ffffffedffc8ff8b0125011000c1ff25011000ebfe0000adffffff64ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff180066ff46000000c1ff8b011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……ッ……ッ……ッ！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff2a011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "……お、おい、何だよ？\n俺は猫だぞ！？　関係ないだろ！？\n",
+      "text_len": 58,
+      "ctrl_code": "fbff66ff46000000e8fe0200c1ff8b011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ！　ッ！　ッ！　ッ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffe8fe0200c1ff2f011000ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "だから俺は[{0D80}][{0D80}]！\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッッッッッ！！！！！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedfffcff66ff42000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff0d00"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "阪本さん",
+      "speaker_len": 8,
+      "text": "ギャアアアアアアッ！？\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800c0ff0300e8011000ebfe000065ff00002500"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "[{FF0A}]",
+      "speaker_len": 2,
+      "text": "あーっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc0ff040001021000ebfe000065ff01002700"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "[{FF0C}]",
+      "speaker_len": 2,
+      "text": "まずい！　システムに影響が！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffef011000ebfe000065ff02002600"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "[{FF0B}]",
+      "speaker_len": 2,
+      "text": "は、早く対処しろっ！\nじゃないと[{0D80}][{0D80}]\n",
+      "text_len": 38,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffffe8fe0200ebfe000065ff03002500"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "[{FF0A}]＆[{FF0B}]＆[{FF0C}]",
+      "speaker_len": 10,
+      "text": "うあああああああああ！？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300c1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……おや？　あの鹿、どこか見ているな。\n",
+      "text_len": 40,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "あそこは確か……校長室のある辺りか？\n",
+      "text_len": 38,
+      "ctrl_code": "fbffebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "そういえば以前、校長が鹿を仕留めたはず……\nもしかして仲間の仇討ちに来たのか？\n",
+      "text_len": 80,
+      "ctrl_code": "fbff67ffffffebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……悪くない。\nあの鹿……利用させてもらおう。\n",
+      "text_len": 48,
+      "ctrl_code": "98ff0000effe080097fffbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "いや、人聞きが悪いな。\n互いの利益が合致したから手を組む、共闘だ。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff5c011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ぷっ……教頭が共闘か。\nふふふ……。\n",
+      "text_len": 38,
+      "ctrl_code": "98ff0000effe0b0097fffbffc1ff5b011000ebfe0000adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "そ、そんなことはどうでもいい！\nとにかくアイツを手なずけないと。\n",
+      "text_len": 66,
+      "ctrl_code": "fbffc1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……だが、鹿の手なずけ方なんて知らないし。\nうむむむ……餌付けでもするのか？\n",
+      "text_len": 78,
+      "ctrl_code": "fbffedffc1ffffff1000edfffcff1fff0400000000020000c0ff04008b01100066ff430000001aff04000000680000003c00daff16ffffffebfe0000adffffff64ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff05ffc0ff03005a011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "む？\n",
+      "text_len": 6,
+      "ctrl_code": "fbff67ff1600c1ff8c011000ebfe000064ffffff1e00"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ……ッ……ッ……ッ……！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe0200c1ff5b011000ebfe000064ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "な、なんだね、その雰囲気の悪い鼻息は？\nま、まさか、私を襲う気か！？\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ff5d011000ebfe0100adffffff64ffffff1500"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（マズい！　非常にマズい！\n　早く何とかしなければ……！！）\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe080097fffdff7fff040002ff01ff0000960005003200fbfffa0000fffffe050006000700eefe09000400c1ff5b011000ebfe0100adffffff65ff04001500"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（よ、よし、アイツを手なずけよう……！\n　でないと……殺られる……！）\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff5a011000ebfe0100adffffff65ff05001500"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（だが、どうすればいいんだ？\n　犬や猫と同じでいいのか？　いや待て……）\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff06001500"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "え、え〜と確か牛のあやし方は……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff07001500"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "べえ〜、べえべえべえべえ。\n良い子だな〜。べえ〜べえべえべえ。\n",
+      "text_len": 64,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff8b011000ebfe000065ff08001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………ッ……？\n",
+      "text_len": 18,
+      "ctrl_code": "fbffc1ff5c011000ebfe0100adffffff65ff09001500"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（おお、鹿にも効いてる！　これなら[{0D80}][{0D80}]）\n",
+      "text_len": 42,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff0a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "べえ〜、べえべえべえべえ。\n大丈夫ですよ、怖くないですからね〜。\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff8b011000ebfe0000adffffff65ff0b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff0c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "べえ〜べえ〜べえ〜べえべえべえ。\n私は怖くないですよ〜、優しいんですよ〜。\n",
+      "text_len": 76,
+      "ctrl_code": "fbffc1ff5b011000ebfe000065ff0d001500"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "だからほら、べえ〜べえべえべえ。\nこっちにおいで。撫で撫でしてあげるよ〜。\n",
+      "text_len": 76,
+      "ctrl_code": "fdffedfffcff1aff04000000540000003c0016ffffffc1ff8b011000ebfe0000adff040065ff0e001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "………………。\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ff1500e8fe0300c1ff5c011000ebfe0100adffffff65ff0f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（よし！　ぃよしっ！　大成功！\n　後は家に連れて帰ってなつかせるだけ！）\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff10001500"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "さ、さあ、こっちにおいで。\nここに隠れていれば……。\n",
+      "text_len": 54,
+      "ctrl_code": "fbff67ffffffc1ff8c0110001aff04000000680000000a0016ffffffebfe000065ff11001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ……ッ……ッ……ッ……！\n",
+      "text_len": 28,
+      "ctrl_code": "fbff67ff1800c1ff5d011000ebfe000065ff12001500"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "え？　ま、またなぜその鼻息が！？\nなんで怒ってるんだ！？\n",
+      "text_len": 58,
+      "ctrl_code": "fbff66ffac000000c1ff5a011000ebfe000065ff13001500"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……ん？　この音は？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc9ff6a02100066ffac000000eefe02000400e8fe0200c1ff5d011000ebfe000065ff14001500"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "しまった、火か！　動物は火を怖がる！\nこ、こ、興奮状態になっとる！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc9ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb300ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0300ebfe010065ff15001500"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（ええーーーーーーーっ！？）\n",
+      "text_len": 30,
+      "ctrl_code": "fbff66ff46000000e8fe0200ebfe000065ff16001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ！　ッ！　ッ！　ッ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffe8fe0400ebfe000065ff17001500"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ま、待ってくれ！　違う！　誤解だ！\n話せばわか[{0D80}][{0D80}]\n",
+      "text_len": 52,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff42000000daffbcfffa01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daffc1ff84021000e8fe0200ebfe000065ff18001500"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "うあああああああっ！！？\n",
+      "text_len": 26,
+      "ctrl_code": "98ff000066ff89000000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5b011000ebfe0100adffffff65ff19001500"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（……殺気立ってはだめだ。動物は気配を読む。\n　落ち着け……落ち着くんだ）\n",
+      "text_len": 76,
+      "ctrl_code": "fbffafff03000300eefe0b000400c1ff5b011000ebfe000065ff1a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "すー……はー……すー……はー……。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe070097fffbff66ff46000000c1ff8c011000ebfe000065ff1b001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……ッ……ッ……ッ……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff1c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "すー……はー……すー……はー……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff8b011000ebfe000065ff1d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "…………ッ………………？\n",
+      "text_len": 26,
+      "ctrl_code": "fbffafff03000000c1ff5c011000ebfe0100adffffff65ff1e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（……よし、向こうも落ち着いたぞ。\n　これで後は……後は………………）\n",
+      "text_len": 72,
+      "ctrl_code": "fbff67ffffffc1ff5a011000ebfe000065ff1f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "……どうしたらいいんだ？\n",
+      "text_len": 26,
+      "ctrl_code": "98ff0000effe0a0097fffbff67ff180063ff0300c1ff5d011000ebfe0100adffffff65ff20001500"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（しまった！　ノーアイデアだ！\n　どうすればいい！　どうしたら助かる！？）\n",
+      "text_len": 76,
+      "ctrl_code": "98ff0000effe030097fffbffe8fe0200c1ff5b011000ebfe000065ff21001500"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "そ、そうだ！　ワラ人形だ！\n鹿のワラ人形を作ればいい！\n",
+      "text_len": 56,
+      "ctrl_code": "fbff63ff0400eefe0b000400c1ff5d011000ebfe000065ff22001500"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "[{0D80}][{0D80}]だめだ！　材料は家だ！　うう……ああ！\nどうする？　人形は何で作ればいいんだーっ！\n",
+      "text_len": 88,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff8c011000ebfe000065ff23001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……ッ……ッ……ッ……。\n",
+      "text_len": 26,
+      "ctrl_code": "fbff63ffffffe8fe0200c1ff5b011000ebfe000065ff24001500"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "はっ！？　しまった！\n混乱して我を忘れて[{0D80}][{0D80}]！！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000065ff25001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッ！　ッ！　ッ！　ッ！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff5d011000ebfe000065ff26001500"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "待て！　誤解だ！　今の無し！\n落ち着け！　落ち着くんだ！\n",
+      "text_len": 58,
+      "ctrl_code": "fbffe8fe0200c1ff8c011000ebfe000065ff27001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "ッッッッッッッッッッッ！！\n",
+      "text_len": 28,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff42000000daffbcfffa01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daffc1ff84021000e8fe0200ebfe000065ff28001500"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "ぎゃああああーー！？\n",
+      "text_len": 22,
+      "ctrl_code": "98ff000066ff8900000097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffafff03000300eefe10000400c1ff5a011000ebfe0100adffffff65ff29001500"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（……目を合わせない。\n　そうしたら動物は襲ってこないはず……）\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe070097fffbffc1ff5b011000ebfe0100adffffff65ff2a001500"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（き、気づいて無いフリをするんだ。\n　冷静に、そしてごく自然に……）\n",
+      "text_len": 70,
+      "ctrl_code": "fbffafff03000000c1ff5c011000ebfe000065ff2b001500"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "さ、さーてゴミの片付けも終わったし、\n職員室に戻らないといかんな！\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff5a011000ebfe000065ff2c001500"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "特に怪しい者はいないし、絶対にいないし、\n動物なんているはずもないし見えないし。\n",
+      "text_len": 82,
+      "ctrl_code": "fbffc1ff8b011000ebfe000065ff2d001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "………………？\n",
+      "text_len": 16,
+      "ctrl_code": "fbff67ffffffc1ff5b011000ebfe0100adffffff65ff2e001500"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（……止まった。それに鼻息も落ち着いたぞ。\n　とりあえず今のうち[{0D80}][{0D80}]）\n",
+      "text_len": 72,
+      "ctrl_code": "98ff0000effe080097fffbff67ff1200c1ff5a011000ebfe000065ff2f001500"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "きょ、今日のおやつは何にしよう？\nき、昨日は大福だったから、今日は……。\n",
+      "text_len": 74,
+      "ctrl_code": "fbffc1ff5c011000ebfe000065ff30001500"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "よし、職員室に帰りながら決めよう。\nそうだ、それがいい。\n",
+      "text_len": 58,
+      "ctrl_code": "fbffc1ff8b011000ebfe0000adffffff65ff31001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……………………。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff5b011000ebfe0100adffffff65ff32001500"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（よし！　いける！　今なら逃げられる！\n　ゆっくりと……けれど速やかに[{0D80}][{0D80}]！）\n",
+      "text_len": 80,
+      "ctrl_code": "fbff67ffffffc0ff0400b3001000ebfe000065ff33000500"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "……おや？　教頭先生じゃないですか。\n落ち葉の焼却ですか？\n",
+      "text_len": 60,
+      "ctrl_code": "fbff66ff7b000000eefe02000400e8fe0400c1ff5d011000ebfe000065ff34001500"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "こ、校長……！？　なぜここに！？\n",
+      "text_len": 34,
+      "ctrl_code": "98ff0000effe060097fffbff67ff0f00c1ffb4001000ebfe000065ff35000500"
+    },
+    {
+      "magic": 65520,
+      "id": 97,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "私も落ち葉を焼きに来たんですよ。\nこれもお願いできますかな？\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc1ffffff1000beffb0001000ebfe000065ff36001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 98,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……ッ……ッ……ッ……ッ……！\n",
+      "text_len": 32,
+      "ctrl_code": "fbffbeffb4001000ebfe000065ff37000500"
+    },
+    {
+      "magic": 65520,
+      "id": 99,
+      "speaker": "校長先生",
+      "speaker_len": 8,
+      "text": "[{0D80}][{0D80}]ん？　……おまえは！！\nまさか、前に倒したアイツの……！\n",
+      "text_len": 62,
+      "ctrl_code": "fbffe8fe0300ebfe0100adffffff65ff38001500"
+    },
+    {
+      "magic": 65520,
+      "id": 100,
+      "speaker": "教頭先生",
+      "speaker_len": 8,
+      "text": "（今までの苦労が台無しだーー！）\n",
+      "text_len": 34,
+      "ctrl_code": "fdffedfffcffbeffb6001000ebfe000065ff39001e00"
+    },
+    {
+      "magic": 65520,
+      "id": 101,
+      "speaker": "鹿",
+      "speaker_len": 2,
+      "text": "……ッ……ッ……ッ……ッ……！\n",
+      "text_len": 32,
+      "ctrl_code": "98ff0000effe080097fffbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff42000000daffbcfffa01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800daffc1ff85021000e8fe0200ebfe000065ff3a000500"
+    },
+    {
+      "magic": 65520,
+      "id": 102,
+      "speaker": "校長先生＆教頭先生",
+      "speaker_len": 18,
+      "text": "ぎゃあああああああ！！！\n",
+      "text_len": 26,
+      "ctrl_code": "98ff000066ff89000000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}

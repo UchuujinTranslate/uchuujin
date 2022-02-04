@@ -1,0 +1,896 @@
+{
+  "UNK": "760b",
+  "id": 16,
+  "total": 97,
+  "ptrs": 416,
+  "extra": 0,
+  "ptr2": {
+    "size": 32,
+    "total": 7,
+    "offsets": [
+      994,
+      1966,
+      1970,
+      3336,
+      3362,
+      5026,
+      6660
+    ],
+    "ctrl_code": "fcffedfe0d000e000f0004ff03ff0300c1ffffff1000bcff9f01ff0067ff0900fcfff9ff0800eefe00000500c1ff88001000ebfe000064ffffff0400"
+  },
+  "contents": [
+    {
+      "magic": 65520,
+      "id": 0,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はぁ……笹原のヤツ、どこへ行ったのよ……。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffc1ff85001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 1,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "朝礼の時、アイツ、\nおじぎの角度が４２度しかなかったのよね。\n",
+      "text_len": 62,
+      "ctrl_code": "98ff0000effe010097fffbffc1ff88001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 2,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "学校の風紀のために、\nしっかり注意しとかないと！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff86001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 3,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "探しても見つからないなら、\n待ち伏せするまでよ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff80001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 4,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ここは演劇部の部室へ行くのに必ず通る道。\nここに地雷を仕掛けておけば……。\n",
+      "text_len": 76,
+      "ctrl_code": "fdffedfffcff66ff46000000daff66ff1c0000001aff0300000000fe00001e0016fffffffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff080066ff2a000000ebfe0100adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 5,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "（あ、来たわね……笹原、覚悟しなさい！）\n",
+      "text_len": 42,
+      "ctrl_code": "fbffedfffcff66ff58000000f5ffff00b3ff0300f4ff0400daffb2fff6ff0800e8fe0200ebfe000064ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 6,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "んぎゃあああああ！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff87001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 7,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………！？\n",
+      "text_len": 14,
+      "ctrl_code": "fbfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff5a00ff00c1fffeffff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 8,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffeffe0300fefe000001007fff0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff30011000ebfe000064ffffff0e00"
+    },
+    {
+      "magic": 65520,
+      "id": 9,
+      "speaker": "バディ",
+      "speaker_len": 6,
+      "text": "きゃんきゃんきゃん！\n",
+      "text_len": 22,
+      "ctrl_code": "fbffedfffcff66ff22000000c1ffffff1000daffc1ff81001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 10,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あっ！？\n……よかった、驚いて逃げただけみたい。\n",
+      "text_len": 50,
+      "ctrl_code": "fbffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c1ffce011000ebfe000065ff00002400"
+    },
+    {
+      "magic": 65520,
+      "id": 11,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "ふう、危ないところだったぜ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffcc011000ebfe000065ff01002400"
+    },
+    {
+      "magic": 65520,
+      "id": 12,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "だが、まだまだ甘いな人間よ。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ffcd011000ebfe000065ff02002400"
+    },
+    {
+      "magic": 65520,
+      "id": 13,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "そんなチンケな[{0D9D}]、\nオレ様が引っかかるわけないだろう。\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ffcb011000ebfe000065ff03002400"
+    },
+    {
+      "magic": 65520,
+      "id": 14,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "俺たち犬は危険が匂いでわかるのさ。\n今度はもう少し工夫するこったな。\n",
+      "text_len": 70,
+      "ctrl_code": "fbffc1ffcd011000ebfe000065ff04002400"
+    },
+    {
+      "magic": 65520,
+      "id": 15,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "はーっはっはっは！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedffc8ffcd01c5011000ebfe000065ff05002300"
+    },
+    {
+      "magic": 65520,
+      "id": 16,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……なあ、何やってるんだ？\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ffcb011000ebfe000065ff06002400"
+    },
+    {
+      "magic": 65520,
+      "id": 17,
+      "speaker": "[{FF09}]",
+      "speaker_len": 2,
+      "text": "ん？　ああ、\nちょっと犬の気持ちになってみた。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ffbc011000ebfe000065ff07002300"
+    },
+    {
+      "magic": 65520,
+      "id": 18,
+      "speaker": "[{FF08}]",
+      "speaker_len": 2,
+      "text": "……そうか。\n俺たちの気持ちは最悪だもんな。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffedffaaff0200ff0063ff0000c1ffffffff00fdfefcfeadffffff67ff1400ebfe000065ff08002300"
+    },
+    {
+      "magic": 65520,
+      "id": 19,
+      "speaker": "[{FF08}]＆[{FF09}]",
+      "speaker_len": 6,
+      "text": "はーっはっはっは！\n",
+      "text_len": 20,
+      "ctrl_code": "fbffedfffcfff5ff040067ffffff63ffffffaaff00000000fdfebdffffff1000c1ffffff1000c2ffffff1000bcff6201ff00dafff6ff0800eafee9fef7ff0800fcffffff7fff0300ebfe0100adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 20,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "（ど、ど、ど、ど、どうしよう……\n　関係ない人巻きこんじゃった……）\n",
+      "text_len": 70,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff85001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 21,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "と、とにかく手当てしなきゃ！\n保健室に行けば、何かあるはず！\n",
+      "text_len": 62,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 22,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "えっと……バンソウコウと塗り薬で\nたぶん大丈夫だよね……？\n",
+      "text_len": 60,
+      "ctrl_code": "fbff66ff59000000e8fe0200ebfe000064ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 23,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "わーっ！？\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe0200ebfe000064ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 24,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "うぎゃあああああ！？\n",
+      "text_len": 22,
+      "ctrl_code": "fbffc1ff84001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 25,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、あの声、まさか！\n",
+      "text_len": 22,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff22000000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800afff03000300c1ff59011000ebfe0000adffffff64ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 26,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcff66ff30000000edffc1ffffff1000afff03000000c1ff15011000ebfe0000adffffff64ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 27,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcff66ff30000000edffc1ffffff1000c1ff89001000ebfe0000adffffff64ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 28,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffbffc1ff85001000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 29,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……バ、バンソウコウと\n塗り薬で……その……手当て……。\n",
+      "text_len": 58,
+      "ctrl_code": "fbff66ff1c000000c1ff0b011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 30,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ど、どうしたんですか！？\nなにか、すごい音がしましたけど。\n",
+      "text_len": 60,
+      "ctrl_code": "fbff05ffedffc8ff89000b011000ebfe000064ffffff0400"
+    },
+    {
+      "magic": 65520,
+      "id": 31,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、桜井先生……！\nこ、これは、その……。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffedffc1ffffff1000ebfe0000adffffff64ffffff0a00"
+    },
+    {
+      "magic": 65520,
+      "id": 32,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0000adffffff64ffffff1400"
+    },
+    {
+      "magic": 65520,
+      "id": 33,
+      "speaker": "安中",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffebfe0000adffffff64ffffff0c00"
+    },
+    {
+      "magic": 65520,
+      "id": 34,
+      "speaker": "高崎先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffe8fe020066ff7c000000edffc8ff89000c011000ebfe000064ffffff0b00"
+    },
+    {
+      "magic": 65520,
+      "id": 35,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "！？\n",
+      "text_len": 6,
+      "ctrl_code": "98ff0000effe030097fffdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ff0f00eefe10000400c1ff11011000ebfe000065ff09000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 36,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あ、あの〜……立花さん……\nこ、これは一体？\n",
+      "text_len": 46,
+      "ctrl_code": "fbffc1ff85001000ebfe000065ff0a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 37,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "その、これは、さ、笹原の！！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff0b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 38,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "？　笹原くんがどうかしましたか？\n",
+      "text_len": 34,
+      "ctrl_code": "fbffc1ff89001000ebfe000065ff0c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 39,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ええと、その……。\n",
+      "text_len": 20,
+      "ctrl_code": "fbffc1ff0b011000ebfe000065ff0d000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 40,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "まさか……笹原くんがやらせたんですか？\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff0e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 41,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "えっ？　いや、違……。\n",
+      "text_len": 24,
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff0f000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 42,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "……わかりました。先生、今日こそは\nちゃんと怒っちゃいますねっ。\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe080097fffbffc1ff85001000ebfe000065ff10000400"
+    },
+    {
+      "magic": 65520,
+      "id": 43,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、いや、今のは違うんです。\nホントは私が[{0D80}][{0D80}]\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff0e011000ebfe000065ff11000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 44,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "それで、笹原くんは今どこに？\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff88001000ebfe000065ff12000400"
+    },
+    {
+      "magic": 65520,
+      "id": 45,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、えっと……\nあっち[{0D80}][{0D80}]\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff13000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 46,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "あっちですね。わかりました！\n",
+      "text_len": 30,
+      "ctrl_code": "fbffc1ff89001000ebfe000065ff14000400"
+    },
+    {
+      "magic": 65520,
+      "id": 47,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "[{0D80}][{0D80}]から来ると思っていたんですが……。\n",
+      "text_len": 40,
+      "ctrl_code": "98ff0000effe0a0097fffdffedfffcff66ff220000001aff0400000000fe00001e0016ffffffe8fe0200c1ff84001000ebfe000065ff15000400"
+    },
+    {
+      "magic": 65520,
+      "id": 48,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あっ、違いますっ！\n桜井先生、ま、待ってくださいっ！！\n",
+      "text_len": 56,
+      "ctrl_code": "fdffedfffcff66ff220000001aff0300000000fe00001e0016fffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff59000000daffeffe0600eefe03000400faff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff0f011000ebfe0000adffffff65ff16000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 49,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff100066ff2a0000001fff0400000000020000c0ff0400e600ff001aff04000000680000003c0016ffffffc1ffe6001000ebfe000065ff17000800"
+    },
+    {
+      "magic": 65520,
+      "id": 50,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "おや？　そこにいるのは立花みさとか？\nこんなところで何をしている。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffe8fe0400afff03000300edffc8ff8600e6001000ebfe000065ff18000400"
+    },
+    {
+      "magic": 65520,
+      "id": 51,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……遅い……わよ。\n",
+      "text_len": 20,
+      "ctrl_code": "fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19000800"
+    },
+    {
+      "magic": 65520,
+      "id": 52,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "……はて？\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff08011000ebfe000065ff1a000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 53,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "と、とにかく早く保健室へ……\n立花さん、手伝って！\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff1b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 54,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、は、はいっ！\n",
+      "text_len": 18,
+      "ctrl_code": "fbfffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff0f011000ebfe000065ff1c000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 55,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "うんしょ、うんしょ……\nやっぱり、私たち二人では大変ですね。\n",
+      "text_len": 62,
+      "ctrl_code": "fbffedffc8ff80000f011000ebfe000065ff1d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 56,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そうですね……誰かに助けを……。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffedffc1ffffff100067ff0c00c1ffe6001000ebfe000065ff1e000800"
+    },
+    {
+      "magic": 65520,
+      "id": 57,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む、なにやら取り込み中のようだな。\n",
+      "text_len": 36,
+      "ctrl_code": "98ff0000effe080097fffbffe8fe0200edffc8ff8600e6001000ebfe000065ff1f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 58,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "あ、笹原！　あんたねぇ[{0D80}][{0D80}]\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc0ff04000b011000ebfe000065ff20000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 59,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "笹原くん、いいところへ！\nちょっと手伝ってください。\n",
+      "text_len": 54,
+      "ctrl_code": "fbffc1ffe7001000ebfe000065ff21000800"
+    },
+    {
+      "magic": 65520,
+      "id": 60,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "承知した。\n私が一人請け負おう。\n",
+      "text_len": 34,
+      "ctrl_code": "fbffeefe0c000400c1ff07011000ebfe000065ff22000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 61,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "じゃあ、私と立花さんで\nもう一人背負いましょうね。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffedffc8ff800007011000ebfe000065ff23000400"
+    },
+    {
+      "magic": 65520,
+      "id": 62,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "え、あ、はいっ！\n",
+      "text_len": 18,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff9100ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 63,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "うんしょ、うんしょ。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe000065ff25000400"
+    },
+    {
+      "magic": 65520,
+      "id": 64,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "よいしょ、よいしょ。\n",
+      "text_len": 22,
+      "ctrl_code": "fbffebfe000065ff26000800"
+    },
+    {
+      "magic": 65520,
+      "id": 65,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "この私が肉体労働とはな。\nまあ、これも一興。\n",
+      "text_len": 46,
+      "ctrl_code": "fbffebfe0100adffffff65ff27000400"
+    },
+    {
+      "magic": 65520,
+      "id": 66,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "（笹原……なんだかんだで、\n　力あるんじゃない。さすが男の子……）\n",
+      "text_len": 68,
+      "ctrl_code": "fbffebfe0100adffffff65ff28000400"
+    },
+    {
+      "magic": 65520,
+      "id": 67,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "（こういうのも、なんか良いかも……\n　って、私何考えてるの！？）\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff29000400"
+    },
+    {
+      "magic": 65520,
+      "id": 68,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "笹原っ！　勘違いしないでよね！\nこれはただの人助けなんだからっ！\n",
+      "text_len": 66,
+      "ctrl_code": "fbffebfe000065ff2a000800"
+    },
+    {
+      "magic": 65520,
+      "id": 69,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "？　うむ。むろん心得ている。\n",
+      "text_len": 30,
+      "ctrl_code": "fbffebfe000065ff2b000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 70,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "ほらほら、保健室まであとちょっとですよ。\n頑張りましょう！\n",
+      "text_len": 60,
+      "ctrl_code": "fbffebfe000065ff2c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 71,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はーい。\n",
+      "text_len": 10,
+      "ctrl_code": "fbffb9ff030001009200e600eefe02000400ebfe0000adffffff65ff2d000a00"
+    },
+    {
+      "magic": 65520,
+      "id": 72,
+      "speaker": "中之条",
+      "speaker_len": 6,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000b8ffeffe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff89001000ebfe000065ff2e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 73,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "え〜っと……その、\n話せば長くなるんですけど……。\n",
+      "text_len": 52,
+      "ctrl_code": "fbffc1ff8a001000ebfe000065ff2f000400"
+    },
+    {
+      "magic": 65520,
+      "id": 74,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ようするに、その、私のせいで……\nすみませんっ！\n",
+      "text_len": 50,
+      "ctrl_code": "fbffc1ff08011000ebfe000065ff30000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 75,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "立花さん……。\n",
+      "text_len": 16,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff31000400"
+    },
+    {
+      "magic": 65520,
+      "id": 76,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "は、はいっ！\n",
+      "text_len": 14,
+      "ctrl_code": "fbffc1ff0d011000ebfe000065ff32000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 77,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "こんなことしちゃいけませんよ。\n次からは、気をつけてくださいね。\n",
+      "text_len": 66,
+      "ctrl_code": "98ff0000effe070097fffbffeefe13000400c1ff83001000ebfe000065ff33000400"
+    },
+    {
+      "magic": 65520,
+      "id": 78,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "は、はい！　ホントにすみませんでした！\n",
+      "text_len": 40,
+      "ctrl_code": "fbffc1ff09011000ebfe000065ff34000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 79,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "じゃあ先生急いでるから、\nこれで失礼しますね。\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff81001000ebfe000065ff35000400"
+    },
+    {
+      "magic": 65520,
+      "id": 80,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はい！　先生、さようなら！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffc1ff07011000ebfe000065ff36000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 81,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "気をつけて帰ってくださいね〜。\n",
+      "text_len": 32,
+      "ctrl_code": "fbffbfff04001000c1ff0d011000ebfe0100adffffff65ff37000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 82,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "（わー！　注意しちゃった！\n　ちゃんと注意できた〜♪）\n",
+      "text_len": 56,
+      "ctrl_code": "fbffc1ff09011000ebfe0100adffffff65ff38000b00"
+    },
+    {
+      "magic": 65520,
+      "id": 83,
+      "speaker": "桜井先生",
+      "speaker_len": 8,
+      "text": "（私もやればできるのよ！\n　そうよ、この調子で頑張ろうっと！）\n",
+      "text_len": 64,
+      "ctrl_code": "fbfffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff88001000ebfe000065ff39000400"
+    },
+    {
+      "magic": 65520,
+      "id": 84,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "はぁ……失敗しちゃったなぁ。\n笹原も来ないし、もう今日は諦めよっかな。\n",
+      "text_len": 72,
+      "ctrl_code": "fbffc1ff80001000ebfe000065ff3a000400"
+    },
+    {
+      "magic": 65520,
+      "id": 85,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "……え？　あれ？\nここって……まさか……。\n",
+      "text_len": 44,
+      "ctrl_code": "fbffeefe03000400c1ff66021000ebfe000065ff3b000400"
+    },
+    {
+      "magic": 65520,
+      "id": 86,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "どうしよう、\n自分で地雷原に入っちゃった……！\n",
+      "text_len": 48,
+      "ctrl_code": "fbffc1ff88001000ebfe000065ff3c000400"
+    },
+    {
+      "magic": 65520,
+      "id": 87,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "ど、どこへ埋めたんだっけ……\nどうしよう、あんまり覚えてない……。\n",
+      "text_len": 68,
+      "ctrl_code": "fbffc1ff89001000ebfe000065ff3d000400"
+    },
+    {
+      "magic": 65520,
+      "id": 88,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "こ、これじゃ一歩も動けないわ……。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffedffc1ffffff100066ff2a0000001fff0400000000020000c0ff0400e000ff001aff04000000680000003c0016ffffffc0ff030084001000ebfe000065ff3e000400"
+    },
+    {
+      "magic": 65520,
+      "id": 89,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "た、助かった！　笹原！\n",
+      "text_len": 24,
+      "ctrl_code": "fbffedffc8ff8400e6001000ebfe000065ff3f000800"
+    },
+    {
+      "magic": 65520,
+      "id": 90,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "む？　立花みさとか。どうしたのだ。\n",
+      "text_len": 36,
+      "ctrl_code": "fbffc1ff8a001000ebfe000065ff40000400"
+    },
+    {
+      "magic": 65520,
+      "id": 91,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "そ、その……\n地雷原に入っちゃって動けないの！\n",
+      "text_len": 48,
+      "ctrl_code": "98ff0000effe020097fffbffc1ff86001000ebfe000065ff41000400"
+    },
+    {
+      "magic": 65520,
+      "id": 92,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "自分で出られないこともないんだけど、\n仕方ないから、あんたに助けさせてあげる！\n",
+      "text_len": 80,
+      "ctrl_code": "fbffc1ffe4001000ebfe0000adffffff65ff42000800"
+    },
+    {
+      "magic": 65520,
+      "id": 93,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "fbffc1ff84001000ebfe000065ff43000400"
+    },
+    {
+      "magic": 65520,
+      "id": 94,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "か、勘違いしないでよねっ！\n",
+      "text_len": 28,
+      "ctrl_code": "fbffe8fe020066ff80000000c1ff8a001000ebfe000065ff44000400"
+    },
+    {
+      "magic": 65520,
+      "id": 95,
+      "speaker": "みさと",
+      "speaker_len": 6,
+      "text": "別に、あんたをはめてやろうと思って\n私が地雷埋めたわけじゃないんだからっ！！\n",
+      "text_len": 78,
+      "ctrl_code": "fbfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1fffeffff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff45000800"
+    },
+    {
+      "magic": 65520,
+      "id": 96,
+      "speaker": "笹原",
+      "speaker_len": 4,
+      "text": "…………。\n",
+      "text_len": 12,
+      "ctrl_code": "98ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff"
+    }
+  ]
+}
