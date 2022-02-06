@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2021-10-08 16:37+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2022-02-06 09:26+0000\n"
+"Last-Translator: gilang ramadhan <gil.unx@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
@@ -39,8 +39,9 @@ msgstr ""
 #: sc/0207:1 
 msgid "姫様を楽しませた者には金一封を与える。\nそれでは姫様、お言葉を。\n"
 msgstr ""
-"Those who succeed in entertaining the Princess will be rewarded.\n"
-"Well, let us hear from the Princess herself.\n"
+"Those who succeed in entertaining\n"
+"the Princess will be rewarded. Well,\n"
+"let us hear from the Princess herself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -88,7 +89,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:5 
 msgid "そ、それではさっそく……最初は９４番！\n"
-msgstr "R-right away! The first one is… No. 94！\n"
+msgstr ""
+"R-right away!\n"
+"The first one is… No. 94！\n"
 
 #  speaker 
 #  warnings: 0 
