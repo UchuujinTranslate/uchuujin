@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2022-02-06 09:26+0000\n"
+"PO-Revision-Date: 2022-02-08 06:26+0000\n"
 "Last-Translator: gilang ramadhan <gil.unx@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
@@ -210,8 +210,9 @@ msgstr "#38"
 #: sc/0207:16 
 msgid "ああ、オレだ。\nオレは……オレは通称、下ネタの３８番！\n"
 msgstr ""
-"Oh, it seems that I'm up. You see, my\n"
-"street name is…dirty joke comedian #38!\n"
+"Oh, it seems that I'm up.\n"
+"You see, mystreet name is…\n"
+"dirty joke comedian #38!\n"
 
 #  text 
 #  warnings: 1 
