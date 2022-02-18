@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:09+0000\n"
-"PO-Revision-Date: 2021-10-10 18:38+0000\n"
+"PO-Revision-Date: 2022-02-19 01:26+0000\n"
 "Last-Translator: P.M.c <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0149/en_US/>\n"
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0149:4 
 msgid "え―っと……どこ行った？\n"
-msgstr ""
+msgstr "Um,... Where did she go?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,8 @@ msgstr ""
 #: sc/0149:5 
 msgid "……あ、居た居た。\nあんなトコで何してるんだろ？\n"
 msgstr ""
+"Oh, there she is.\n"
+"What's she doing there?\n"
 
 #  speaker 
 #  warnings: 0 
