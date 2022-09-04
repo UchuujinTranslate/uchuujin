@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2021-11-29 19:41+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"PO-Revision-Date: 2022-09-05 15:24+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0069/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0069:0 
 msgid "よ―し関口、行くぞ―！\n"
-msgstr ""
+msgstr "Alright Sekiguchi, let's go!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +145,8 @@ msgstr ""
 #: sc/0069:10 
 msgid "……部長。体が動かなければ\n別にしゃべってもいいんじゃないですか？\n"
 msgstr ""
+"......President. As long as I don't\n"
+"move my body, I can talk, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +159,8 @@ msgstr ""
 #: sc/0069:11 
 msgid "いや、なんかしゃべったら\n動きそうじゃないか？\n"
 msgstr ""
+"Well, if when you're talking\n"
+"your mouth is still moving, no?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +185,8 @@ msgstr ""
 #: sc/0069:13 
 msgid "頭脳プレイか！！\nくそっ、してやられたぜ！\n"
 msgstr ""
+"Mind games, huh!?\n"
+"Dang, you got me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +198,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:14 
 msgid "（……あ、悪いことしちゃった）\n"
-msgstr ""
+msgstr "(......Ah, I shouldn't've said that)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +210,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:15 
 msgid "よ―し、今度こそ！\n"
-msgstr ""
+msgstr "Alright, I'll get you this time!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:16 
 msgid "いきますよ。\n"
-msgstr ""
+msgstr "I'll go now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +258,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:19 
 msgid "だ―るまさんが弌弌\n"
-msgstr ""
+msgstr "Green light... Green li——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:20 
 msgid "猫？\n"
-msgstr ""
+msgstr "A cat?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +283,8 @@ msgstr ""
 #: sc/0069:21 
 msgid "おい、関口、どうしたんだ急に振り返って。\n言い切る前に見るのは反則だぞ？\n"
 msgstr ""
+"Hey, Sekiguchi, why'd you turn around?\n"
+"You can't look until you've said \"red light\" first.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +296,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:22 
 msgid "その猫も参加してるんですか？\n"
-msgstr ""
+msgstr "Is that cat playing too?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:23 
 msgid "猫？　おおっ、猫だ！\n"
-msgstr ""
+msgstr "A cat? Oh, there's a cat!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +321,8 @@ msgstr ""
 #: sc/0069:24 
 msgid "かわいいですね。\n……あれ、なにか頭の上に現れた？\n"
 msgstr ""
+"Ah, it's cute.\n"
+"...Hey, is there something on its head?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +370,7 @@ msgstr "……………….\n"
 #  warnings: 1 
 #: sc/0069:29 
 msgid "その指摘、遅いって！！\n"
-msgstr ""
+msgstr "You could've told me sooner!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +407,8 @@ msgstr ""
 #: sc/0069:32 
 msgid "だ―るまさんが―こ―ろんだ。\n"
 msgstr ""
+"Green light... Green light...\n"
+"Red light!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:39 
 msgid "……トラック、乗ってっちゃった。\n"
-msgstr ""
+msgstr "......It jumped up on that truck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:40 
 msgid "部長だ……もしもし。\n"
-msgstr ""
+msgstr "Hey, this is Daiku.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,6 +517,8 @@ msgstr ""
 #: sc/0069:41 
 msgid "関口―、今から鬼ごっこやろうぜ！\nオレがタッチしたからお前が鬼な！！\n"
 msgstr ""
+"Sekiguchi—, let's play tag now!\n"
+"I touched you already, so you're it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +530,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:42 
 msgid "あの……部長。\n"
-msgstr ""
+msgstr "Um... President.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +543,8 @@ msgstr ""
 #: sc/0069:43 
 msgid "何だ？\n早く来ないとどんどん遠ざかるぞ―？\n"
 msgstr ""
+"What's up?\n"
+"You better come quick if you want to catch me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +556,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:44 
 msgid "そのトラック、どこ行きなんですか？\n"
-msgstr ""
+msgstr "That truck, where is it headed?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:47 
 msgid "部長、帰れなくなったらどうするんですか？\n"
-msgstr ""
+msgstr "President, what if it doesn't return?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:48 
 msgid "大丈夫だって。\n"
-msgstr ""
+msgstr "I told you, it'll be fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -601,6 +617,8 @@ msgstr ""
 #: sc/0069:49 
 msgid "その時はどっか適当なトコで降りて\nタクシ―乗るし。\n"
 msgstr ""
+"I'll jump off somewhere soft \n"
+"and call a cab to get back.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -625,6 +643,8 @@ msgstr ""
 #: sc/0069:51 
 msgid "ははっ、関口は心配性だな。\n乗ってる車が事故でも起こさない限り……。\n"
 msgstr ""
+"Heh, you're always such a worrier.\n"
+"I'll be fine as long as we don't crash......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +668,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:53 
 msgid "部長……？\n"
-msgstr "Club President……?\n"
+msgstr "President……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +692,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:55 
 msgid "（な、何がおきたの……！？）\n"
-msgstr ""
+msgstr "(Wh, what just happened......!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +716,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:57 
 msgid "わかりました、探しに行きます。\n"
-msgstr ""
+msgstr "Understood. I'll come search for you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +741,8 @@ msgstr ""
 #: sc/0069:59 
 msgid "それで、探すのはいいですけど、\n行き先を教えてもらえませんか？\n"
 msgstr ""
+"So, I know I have to look for myself,\n"
+"but could you say where you're headed?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +754,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:60 
 msgid "え、無理。\n"
-msgstr ""
+msgstr "Uh, I can't.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +779,8 @@ msgstr ""
 #: sc/0069:62 
 msgid "いや、だって知らないトラックだし。\n"
 msgstr ""
+"Well, ya' know, how am I supposed to\n"
+"know where the driver wants to go?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -768,7 +792,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:63 
 msgid "えぇ―……。\n"
-msgstr ""
+msgstr "Eeeh—......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -781,6 +805,8 @@ msgstr ""
 #: sc/0069:64 
 msgid "じゃあ、せめてどっち方面に行くとかは……。\n"
 msgstr ""
+"Well, can you at least\n"
+"tell me the general area?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -792,7 +818,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:65 
 msgid "あ、それも無理。\n"
-msgstr ""
+msgstr "Ah, can't do that either.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +830,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:66 
 msgid "それくらいは普通にできませんか？\n"
-msgstr ""
+msgstr "Shouldn't you be able to guess that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +843,8 @@ msgstr ""
 #: sc/0069:67 
 msgid "いや―、昨日\n携帯の充電するの忘れてたみたいでさ―。\n"
 msgstr ""
+"Well— it looks like yesterday\n"
+"I forgot to charge my phone, so—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +856,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:68 
 msgid "多分もうちょっとしたら切れると思うから！\n"
-msgstr ""
+msgstr "I think it's just about to die!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,6 +869,8 @@ msgstr ""
 #: sc/0069:69 
 msgid "あの、それってどうやって探せば？\n"
 msgstr ""
+"Uhm, if that happens, \n"
+"how should I keep looking for you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -853,6 +883,8 @@ msgstr ""
 #: sc/0069:70 
 msgid "弌弌気合で！　それじゃ、よろしくな！\n"
 msgstr ""
+"Uh— use your fighting spirit!\n"
+"Well then, best of luck!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -865,6 +897,8 @@ msgstr ""
 #: sc/0069:71 
 msgid "いくらなんでも無理……。\n"
 msgstr ""
+"No matter how you look at it,\n"
+"it's impossible......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,7 +910,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:72 
 msgid "部長。\n"
-msgstr "Club President.\n"
+msgstr "President.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +922,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:73 
 msgid "お―、早く捕まえにこいよ！\n"
-msgstr ""
+msgstr "Hey, hurry up and get me!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -901,6 +935,8 @@ msgstr ""
 #: sc/0069:74 
 msgid "そろそろ授業始まっちゃうんで、\n私、教室に戻りますね。\n"
 msgstr ""
+"Class is about to start, so\n"
+"I'm going to\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +960,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:76 
 msgid "え、マジで？\n"
-msgstr ""
+msgstr "Eh, seriously?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,6 +985,8 @@ msgstr ""
 #: sc/0069:78 
 msgid "え、オレ荷台に乗ってるんだけど？\n"
 msgstr ""
+"Even though I'm riding here,\n"
+"in the back of a random truck?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +999,8 @@ msgstr ""
 #: sc/0069:79 
 msgid "あと５分くらいで授業だから\n早く戻ってきた方がいいですよ。\n"
 msgstr ""
+"There's about five minutes left,\n"
+"so you should try to return quickly.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -972,7 +1012,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:80 
 msgid "捕まえにきてくれないの？\n"
-msgstr ""
+msgstr "You're not going to come get me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,7 +1024,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:81 
 msgid "授業、はじまっちゃいますから。\n"
-msgstr ""
+msgstr "I told you, class is about to start.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1008,7 +1048,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:83 
 msgid "特に謝っていただくことでは。\n"
-msgstr ""
+msgstr "You don't really need to apologize.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1021,6 +1061,8 @@ msgstr "Daiku"
 #: sc/0069:84 
 msgid "あ、ああ。\nとりあえず何とか戻るよ。\n"
 msgstr ""
+"Oh, okay.\n"
+"I guess I'll get back myself somehow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,4 +1074,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:85 
 msgid "ふふっ。\n"
-msgstr ""
+msgstr "Haha.\n"
