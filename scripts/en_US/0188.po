@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:17+0000\n"
-"PO-Revision-Date: 2021-09-04 15:37+0000\n"
+"PO-Revision-Date: 2022-09-05 15:24+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0188/en_US/>\n"
@@ -158,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0188:10 
 msgid "部長。\n"
-msgstr "Club President.\n"
+msgstr "President.\n"
 
 #  speaker 
 #  warnings: 0 
