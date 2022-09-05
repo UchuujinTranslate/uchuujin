@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2022-09-05 15:24+0000\n"
+"PO-Revision-Date: 2022-09-06 22:27+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0069/en_US/>\n"
@@ -97,6 +97,8 @@ msgstr ""
 #: sc/0069:6 
 msgid "（朝もやったのに、よっぽど\n　だるまさんがころんだ好きなのかな？）\n"
 msgstr ""
+"(We played this in the morning, too...\n"
+"Is he really that fond of this game?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -173,6 +175,8 @@ msgstr ""
 #: sc/0069:12 
 msgid "その通りですね。\n今動きました。\n"
 msgstr ""
+"Yes, that's correct.\n"
+"I was moving right now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -334,7 +338,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:25 
 msgid "よ―し、撫でてやれ。\n"
-msgstr ""
+msgstr "Alright, let's get down to petting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -347,6 +351,8 @@ msgstr ""
 #: sc/0069:26 
 msgid "あ、部長。\nその猫、頭の上に弌弌\n"
 msgstr ""
+"Oh, President.\n"
+"That cat seems to have—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -358,7 +364,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:27 
 msgid "弌弌何かあるみたいですよ。\n"
-msgstr ""
+msgstr "——something on the top of its head.\n"
 
 #  text 
 #  warnings: 1 
@@ -394,7 +400,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:31 
 msgid "（そろそろかな）\n"
-msgstr ""
+msgstr "(Any time now...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +426,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:33 
 msgid "だ―る―ま―さ―ん―が―……。\n"
-msgstr ""
+msgstr "Red light, Red light—......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +438,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:34 
 msgid "（ん、今肩叩かれた）\n"
-msgstr ""
+msgstr "(Hm? Someone just tapped my shoulder)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -445,6 +451,8 @@ msgstr ""
 #: sc/0069:35 
 msgid "（……あれ、無言？）\n"
 msgstr ""
+"(......Huh,\n"
+"why aren't they saying anything?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +464,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:36 
 msgid "部長、今触り弌弌\n"
-msgstr ""
+msgstr "President, you just——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -617,7 +625,7 @@ msgstr ""
 #: sc/0069:49 
 msgid "その時はどっか適当なトコで降りて\nタクシ―乗るし。\n"
 msgstr ""
-"I'll jump off somewhere soft \n"
+"I'll jump off somewhere soft\n"
 "and call a cab to get back.\n"
 
 #  speaker 
@@ -631,6 +639,8 @@ msgstr ""
 #: sc/0069:50 
 msgid "でも何か事故とかあったら……。\n"
 msgstr ""
+"But what if there's\n"
+"an accident or something……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -644,7 +654,7 @@ msgstr ""
 msgid "ははっ、関口は心配性だな。\n乗ってる車が事故でも起こさない限り……。\n"
 msgstr ""
 "Heh, you're always such a worrier.\n"
-"I'll be fine as long as we don't crash......\n"
+"I'll be fine as long as we don't crash……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -657,6 +667,8 @@ msgstr ""
 #: sc/0069:52 
 msgid "うおぉっ！？\n何だあんたら！　え、同乗者？\n"
 msgstr ""
+"What the!?\n"
+"Who are you guys! Wh, other passengers?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -681,6 +693,8 @@ msgstr ""
 #: sc/0069:54 
 msgid "え、ウソッ、マジで！？\nちょっと待って、サインを弌弌\n"
 msgstr ""
+"What, you're lying, seriously!?\n"
+"Wait a sec, can you sign——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -704,7 +718,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:56 
 msgid "弌弌はぁ。\n"
-msgstr ""
+msgstr "——Haaa.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -728,7 +742,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0069:58 
 msgid "お、さすが関口。話がわかるな！\n"
-msgstr ""
+msgstr "Oh, I knew you'd get it!\n"
 
 #  speaker 
 #  warnings: 0 
