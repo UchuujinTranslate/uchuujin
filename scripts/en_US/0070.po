@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2022-09-05 15:24+0000\n"
+"PO-Revision-Date: 2022-09-06 22:27+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0070/en_US/>\n"
@@ -84,7 +84,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:5 
 msgid "部長、どうしてここに？\n"
-msgstr ""
+msgstr "President, what are you doing here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +217,8 @@ msgstr ""
 #: sc/0070:16 
 msgid "関口のお弁当が？\n……もしかして、アレか？\n"
 msgstr ""
+"Your bento?\n"
+"……is that it, by any chance?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -229,6 +231,8 @@ msgstr "Principal"
 #: sc/0070:17 
 msgid "むしゃむしゃむしゃ……\nうぅむ、美味だ。\n"
 msgstr ""
+"Om nom nom nom……\n"
+"Mmm, that's good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -240,7 +244,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:18 
 msgid "…………アレです。\n"
-msgstr ""
+msgstr "…………It is.\n"
 
 #  text 
 #  warnings: 1 
