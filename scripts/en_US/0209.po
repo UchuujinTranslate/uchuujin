@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2021-10-11 20:37+0000\n"
-"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
+"PO-Revision-Date: 2022-09-08 01:27+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0209/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0209:0 
 msgid "ん、どうした？\n"
-msgstr ""
+msgstr "Hm, what's up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +109,8 @@ msgstr ""
 #: sc/0209:7 
 msgid "……コントロ―ル電波……受信……\n受信……受信……。\n"
 msgstr ""
+"……Control waves……receiving……\n"
+"receiving……receiving……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +135,8 @@ msgstr ""
 #: sc/0209:9 
 msgid "今見た事は気にするな。\nおそらく問題ない……はずだ。\n"
 msgstr ""
+"Don't worry about what you just say.\n"
+"It's nothing to worry about……probably.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +149,8 @@ msgstr ""
 #: sc/0209:10 
 msgid "さて、準備が終わったところで、\nアンテナについて説明させてもらおう。\n"
 msgstr ""
+"Now, with everything set up,\n"
+"I'll explain how the antennas work.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +175,8 @@ msgstr ""
 #: sc/0209:12 
 msgid "ちなみにアンテナの装着者は全部で三人だ。\n"
 msgstr ""
+"By the way,\n"
+"there are three antennas all together.\n"
 
 #  speaker 
 #  warnings: 0 
