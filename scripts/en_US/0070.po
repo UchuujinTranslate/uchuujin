@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2022-09-06 22:27+0000\n"
+"PO-Revision-Date: 2022-09-08 01:27+0000\n"
 "Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0070/en_US/>\n"
@@ -61,6 +61,8 @@ msgstr "Daiku"
 #: sc/0070:3 
 msgid "関口遅いぞ―。\n待ちくたびれたじゃないか。\n"
 msgstr ""
+"You're late—\n"
+"I just about quit waiting.\n"
 
 #  speaker 
 #  warnings: 0 
