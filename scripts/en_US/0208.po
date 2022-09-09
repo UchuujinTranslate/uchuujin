@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2021-10-17 03:37+0000\n"
-"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
+"PO-Revision-Date: 2022-09-10 19:27+0000\n"
+"Last-Translator: 466 <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0208/en_US/>\n"
 "Language: en_US\n"
@@ -281,6 +281,8 @@ msgstr ""
 #: sc/0208:23 
 msgid "君の役目は、姫を満足させるべく、今日１日\n合計８時間分の番組を放映することだ。\n"
 msgstr ""
+"Your job is to satisfy the princess by\n"
+"broadcasting a full 8-hour day of TV.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -293,6 +295,9 @@ msgstr ""
 #: sc/0208:24 
 msgid "この番組は、地球人のおもしろおかしい生態を\nＫＨＵＤ中継するというバラエティ番組だ。\n"
 msgstr ""
+"You'll be producing a livestreamed\n"
+"variety show, which will present \n"
+"the strange lives that earthlings live.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,6 +310,8 @@ msgstr ""
 #: sc/0208:25 
 msgid "まずは、中継の対象となる地球人を\n選ぶ必要がある。\n"
 msgstr ""
+"First, you'll have to decide\n"
+"which earthlings our show will follow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -353,6 +360,8 @@ msgstr ""
 #: sc/0208:29 
 msgid "どの地球人を選ぶかは君に一任されるが、\nよく考えて決めてくれ。\n"
 msgstr ""
+"Which earthlings we'll follow is all\n"
+"up to you, so choose carefully.\n"
 
 #  speaker 
 #  warnings: 3 
@@ -365,6 +374,8 @@ msgstr ""
 #: sc/0208:30 
 msgid "時定高校と呼ばれているエリアは、\nボタンを押すとその中に入ることもできる。\n"
 msgstr ""
+"You can also select and enter\n"
+"Tokisadame High School.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -389,6 +400,8 @@ msgstr ""
 #: sc/0208:32 
 msgid "……さて、次は\nスタ―ラ姫のつぶやきについてだ。\n"
 msgstr ""
+"……Now, the next thing is to \n"
+"explain Princess Starla's mutterings.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -401,6 +414,8 @@ msgstr ""
 #: sc/0208:33 
 msgid "姫様は番組をご覧になりながら、\n様なご意見をつぶやかれるだろう。\n"
 msgstr ""
+"As she watches, the princess will\n"
+"mutter what she thinks about your work.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -413,6 +428,9 @@ msgstr ""
 #: sc/0208:34 
 msgid "姫は宇宙を統べるお方だ。当然、お一人でも\n番組の視聴率に及ぼす影響は大きい。\n"
 msgstr ""
+"The princess rules all of outer space.\n"
+"Naturally, she'll influence our ratings\n"
+"quite a bit, just by herself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -425,6 +443,8 @@ msgstr ""
 #: sc/0208:35 
 msgid "姫のご要望にお応えすることができれば、\nかなりの視聴率アップが見込めるはずだ。\n"
 msgstr ""
+"If you follow the princess's demands,\n"
+"you can expect a strong ratings boost.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -437,6 +457,8 @@ msgstr ""
 #: sc/0208:36 
 msgid "視聴率があがれば、\n我の安全も確保されるわけだが……。\n"
 msgstr ""
+"And as long as our ratings are high,\n"
+"there's a chance we can breath easy……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -473,6 +495,8 @@ msgstr ""
 #: sc/0208:39 
 msgid "では、地球の日本時間、\n０９：００より放映開始だ。\n"
 msgstr ""
+"Well then, our broadcast starts \n"
+"at 9:00 Earth (Japan) time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -484,4 +508,4 @@ msgstr "Otsuki #3"
 #  warnings: 0 
 #: sc/0208:40 
 msgid "健闘を祈る！\n"
-msgstr ""
+msgstr "Good luck!\n"
