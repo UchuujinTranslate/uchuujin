@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2022-02-08 06:26+0000\n"
+"PO-Revision-Date: 2022-09-20 04:27+0000\n"
 "Last-Translator: gilang ramadhan <gil.unx@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
@@ -368,7 +368,9 @@ msgstr ""
 #  warnings: 4 
 #: sc/0207:32 
 msgid "笑撃地球まる見えテレビか！\n"
-msgstr "The Laugh Attack ☆ Great Earth TV show！\n"
+msgstr ""
+"The Laugh Attack ☆ \n"
+"Great Earth TV show!\n"
 
 #  text 
 #  warnings: 1 
@@ -417,8 +419,9 @@ msgstr "Signal corpsman"
 #: sc/0207:37 
 msgid "地球に降りている設置チ―ムに連絡！\n映像を早く、姫様の船へ送るんだ！\n"
 msgstr ""
-"Contact to the team that arrived on earth!\n"
-"Relay the broadcast to the ship ASAP!\n"
+"Contact to the team that arrived\n"
+"on earth! Relay the broadcast to\n"
+"the ship ASAP!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,8 +460,9 @@ msgstr "#97"
 #: sc/0207:40 
 msgid "これでどうだ？　あ、ちなみにオレ９７番。\nそんで目の前に映ってんのが弌弌\n"
 msgstr ""
-"How's this? Oh, by the way I'm #97, the\n"
-"cameraman, and the person you see is——\n"
+"How's this? Oh, by the way I'm #97,\n"
+"the cameraman, and the person\n"
+"you see is——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +544,8 @@ msgstr ""
 msgid "地球チ―ム！　ネタ披露はもういい！\nだからやめろ！　やめるんだ！\n"
 msgstr ""
 "Team Earth! I-it's already a good\n"
-"program! Stop the commentary! Stop it!\n"
+"program! Stop the commentary!\n"
+"Stop it!\n"
 
 #  speaker 
 #  warnings: 0 
