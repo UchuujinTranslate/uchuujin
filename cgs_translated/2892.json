@@ -1,0 +1,88 @@
+{
+    "ptr_offset": 1338720,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            },
+            {
+                "offset": 2048,
+                "size": 256
+            }
+        ],
+        "map": null,
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 2304,
+                "size": 2304,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    4336,
+                    5008,
+                    5632,
+                    10400
+                ],
+                "gzip_csizes": [
+                    4288,
+                    656,
+                    608,
+                    4752
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 14592,
+                "size": 14592,
+                "width": 256,
+                "height": 256,
+                "chunk": 2,
+                "chunk_offset": [
+                    16,
+                    7440,
+                    14032
+                ],
+                "gzip_csizes": [
+                    7408,
+                    6576
+                ],
+                "gzip_dsizes": [
+                    32768,
+                    32768
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 28928,
+                "size": 28928,
+                "width": 256,
+                "height": 160,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    5472
+                ],
+                "gzip_csizes": [
+                    5440
+                ],
+                "gzip_dsizes": [
+                    20480
+                ]
+            }
+        ]
+    }
+}
