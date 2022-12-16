@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2022-02-02 08:26+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2022-12-17 23:28+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0067/en_US/>\n"
 "Language: en_US\n"
@@ -172,7 +172,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:12 
 msgid "あ？\n"
-msgstr ""
+msgstr "Oh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -184,7 +184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:13 
 msgid "……折れた。\n"
-msgstr ""
+msgstr "......It broke.\n"
 
 #  text 
 #  warnings: 1 
