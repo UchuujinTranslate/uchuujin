@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:00+0000\n"
-"PO-Revision-Date: 2021-10-10 18:37+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"PO-Revision-Date: 2023-05-18 17:29+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0100/en_US/>\n"
 "Language: en_US\n"
@@ -95,8 +95,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:6 
+#, fuzzy
 msgid "面白いことって、たとえば何ですか？\n"
-msgstr ""
+msgstr "Give me an example of an interesting thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +181,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:13 
 msgid "……面白いです。\n"
-msgstr ""
+msgstr "……that’s interesting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -191,8 +192,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:14 
+#, fuzzy
 msgid "だろ？\n"
-msgstr ""
+msgstr "Is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -221,8 +223,9 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0100:17 
+#, fuzzy
 msgid "ヤバイ！　今すぐ猫を移動させるんだ！\n"
-msgstr ""
+msgstr "Oh no! Let’s make the cat move immediately!\n"
 
 #  text 
 #  warnings: 1 
@@ -234,7 +237,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0100:19 
 msgid "アンテナ折られた――！！\n"
-msgstr ""
+msgstr "The antenna broke—!!\n"
 
 #  text 
 #  warnings: 1 
@@ -335,8 +338,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:28 
+#, fuzzy
 msgid "知らん。\n"
-msgstr ""
+msgstr "I donno.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -407,8 +411,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:34 
+#, fuzzy
 msgid "あ、ほんとですね。\nすみません。\n"
 msgstr ""
+"Ah, it really is.\n"
+"Sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +439,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:36 
 msgid "いや……でもこれ、アリかもしれない。\n"
-msgstr ""
+msgstr "No way…… But that’s probably an ant.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -479,8 +486,11 @@ msgstr ""
 #  text 
 #  warnings: 2 
 #: sc/0100:40 
+#, fuzzy
 msgid "ル―ルは簡単！\n絶対にんで終わること！\n"
 msgstr ""
+"The rules are simple!\n"
+"Absolutely end it!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -503,8 +513,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:42 
+#, fuzzy
 msgid "どうだコレ？\n面白そうじゃないか！？\n"
 msgstr ""
+"How is this thing?\n"
+"Doesn’t it look interesting!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,6 +554,8 @@ msgstr ""
 #: sc/0100:45 
 msgid "よ―し決めた！　今日からここは\nおもしろしりとり研究会にしよう！\n"
 msgstr ""
+"Alright- it’s decided! \n"
+"From here on we will be the funny Shiritori research team!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +591,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:48 
 msgid "……近くの。\n"
-msgstr ""
+msgstr "\n"
 
 #  speaker 
 #  warnings: 0 
@@ -600,7 +615,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:50 
 msgid "焼きそばを。\n"
-msgstr ""
+msgstr "The Yakisoba.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +639,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:52 
 msgid "こぼしてた。\n"
-msgstr ""
+msgstr "Was spilling.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +651,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:53 
 msgid "完成！\n"
-msgstr ""
+msgstr "Complete!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -672,7 +687,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:56 
 msgid "ははははははははははっ！！\n"
-msgstr ""
+msgstr "Hahahahahahahahahahaa!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -696,7 +711,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:58 
 msgid "……部長、よくわかりましたね。\n"
-msgstr ""
+msgstr "……President, I understand well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -732,7 +747,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:61 
 msgid "あ、でも関口。これしりとりじゃないよな。\n"
-msgstr ""
+msgstr "Ah, but Sekiguchi. This is not Shiritori you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +771,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:63 
 msgid "……あ、そういえば。\n"
-msgstr ""
+msgstr "……ah, now that you mention it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +795,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0100:65 
 msgid "ユミコはどこだ！？\n"
-msgstr ""
+msgstr "Where is Yumiko!?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -815,8 +830,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0100:68 
+#, fuzzy
 msgid "へぇ。\n"
-msgstr ""
+msgstr "Huh.\n"
 
 #  speaker 
 #  warnings: 0 
