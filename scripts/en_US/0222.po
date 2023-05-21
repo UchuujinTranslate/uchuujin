@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2023-05-18 17:29+0000\n"
+"PO-Revision-Date: 2023-05-22 18:29+0000\n"
 "Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0222/en_US/>\n"
@@ -152,8 +152,11 @@ msgstr "Yuuko"
 #  text 
 #  warnings: 0 
 #: sc/0222:10 
+#, fuzzy
 msgid "や、やった……ついに、ついに\n麻衣ちゃんに勝てた―！\n"
 msgstr ""
+"You, you did it…… at last, at last\n"
+"Minakami won-!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -495,7 +498,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:38 
 msgid "ありませんっ！\n"
-msgstr ""
+msgstr "There isn’t!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -567,8 +570,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0222:44 
+#, fuzzy
 msgid "フェ―ッ負けちゃった―。\n"
-msgstr ""
+msgstr "Fe- lost-.\n"
 
 #  speaker 
 #  warnings: 0 
