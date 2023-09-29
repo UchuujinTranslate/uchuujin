@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2023-09-28 03:31+0000\n"
+"PO-Revision-Date: 2023-09-30 04:30+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0222/en_US/>\n"
@@ -90,8 +90,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0222:5 
+#, fuzzy
 msgid "しょ、勝負ついたんだから、\nはやく、あっちいって―！\n"
 msgstr ""
+"Well, I won,\n"
+"Hurry, go over there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -140,8 +143,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0222:9 
+#, fuzzy
 msgid "え？　うわわわわ――！\n何で寄ってくるの――！？\n"
 msgstr ""
+"Eh? Whaaaaat!\n"
+"Why is it coming here?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,6 +264,8 @@ msgstr "Sasahara"
 #: sc/0222:18 
 msgid "さすが立花みさと。\n見事であった！\n"
 msgstr ""
+"As one would expect from Misato Tachibana.\n"
+"It was magnificent!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -299,7 +307,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:22 
 msgid "ウェボシ―＆フェっちゃん"
-msgstr "Weboshi & Fe-chan"
+msgstr "Weboshi and Fe-chan"
 
 #  text 
 #  warnings: 0 
@@ -341,7 +349,7 @@ msgstr "Principal"
 #  warnings: 0 
 #: sc/0222:25 
 msgid "はっ！？\n"
-msgstr "Hah!?\n"
+msgstr "Huh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,7 +543,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:41 
 msgid "メメェ―。\n"
-msgstr "Mei.\n"
+msgstr "Mei Mei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,8 +554,11 @@ msgstr "Mai"
 #  text 
 #  warnings: 0 
 #: sc/0222:42 
+#, fuzzy
 msgid "ありがとう。\nそっちも大した腕前。\n"
 msgstr ""
+"Thanks.\n"
+"You're also very skilled.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,8 +569,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0222:43 
+#, fuzzy
 msgid "（……会話できてる！？）\n"
-msgstr ""
+msgstr "(......Can we have a conversation!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -585,6 +597,8 @@ msgstr ""
 #: sc/0222:45 
 msgid "なに、貴様も立花みさとの\n友人だけあって大したものよ。\n"
 msgstr ""
+"What? Thou art also a friend of Tachibana Misato? \n"
+"Thou must be quite something.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -597,6 +611,8 @@ msgstr ""
 #: sc/0222:46 
 msgid "えへへ。あ、そうだ。\nみさとと言えば、みさとが弌弌\n"
 msgstr ""
+"Ehehe. Ah, is that so?\n"
+"Speaking of Misato, Misato is...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,7 +624,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:47 
 msgid "って何を言い出してるのよ―！\n"
-msgstr ""
+msgstr "What were you going to say?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -620,7 +636,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:48 
 msgid "あ、みさと、見てたんだ！\n"
-msgstr ""
+msgstr "Oh, Misato, you saw that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -633,6 +649,8 @@ msgstr ""
 #: sc/0222:49 
 msgid "た、たまたまよ！\nそれより、もういいでしょ！\n"
 msgstr ""
+"I-It was an accident!\n"
+"Besides, that's enough!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -645,6 +663,8 @@ msgstr ""
 #: sc/0222:50 
 msgid "もういいって……あれれ？\n何の話してたんだっけ。\n"
 msgstr ""
+"That's enough..... huh?\n"
+"What were we talking about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -656,7 +676,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0222:51 
 msgid "……ま、いっか！\n"
-msgstr ""
+msgstr "...... Well, nevermind!\n"
 
 #  speaker 
 #  warnings: 0 
