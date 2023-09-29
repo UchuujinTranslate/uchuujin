@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:15+0000\n"
-"PO-Revision-Date: 2023-09-29 06:59+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"PO-Revision-Date: 2023-09-29 07:08+0000\n"
+"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0090/en_US/>\n"
 "Language: en_US\n"
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:4 
 msgid "（さ、さ、さ、笹原先輩―――――！！）\n"
-msgstr "(Sa, sa ,sa , Sasahara-senpai! !)\n"
+msgstr "(Sa-sa-sa-Sasahara-senpai!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,9 @@ msgstr ""
 #: sc/0090:5 
 msgid "近頃良く会うな。……おお、自販機と言えば、\n先日は貴重な金子をすまなかった。\n"
 msgstr ""
+"We've been meeting quite often lately. \n"
+"......Oh, speaking of vending machines, I am sorry I did not have enough "
+"precious coins the other day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +99,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:6 
 msgid "え、あ、ハイっ！！\n"
-msgstr ""
+msgstr "Wha- Ah- no problem!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -122,7 +125,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:8 
 msgid "え、えと……私は、オレンジを……。\n"
-msgstr ""
+msgstr "W-well...... I'll have orange.......\n"
 
 #  speaker 
 #  warnings: 0 
