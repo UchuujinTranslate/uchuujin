@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
+"PO-Revision-Date: 2023-09-30 04:30+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0161/en_US/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0161:14 
 msgid "す、すまん。\n"
-msgstr ""
+msgstr "S-Sorry.\n"
 
 #  text 
 #  warnings: 1 
@@ -198,7 +198,7 @@ msgstr "Princess Starla"
 #  warnings: 0 
 #: sc/0161:16 
 msgid "気付いたぞ。\n"
-msgstr ""
+msgstr "You noticed.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -216,7 +216,7 @@ msgstr ".........\n"
 #  warnings: 1 
 #: sc/0161:18 
 msgid "……ゴ、ゴメンネ？\n"
-msgstr ""
+msgstr "......I-I'm sorry?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -270,7 +270,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:24 
 msgid "……間違えた。\n"
-msgstr ""
+msgstr "......I made a mistake.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -294,7 +294,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:26 
 msgid "爆破ボタンだったか……。\n"
-msgstr ""
+msgstr "Was that the detonation button......?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -306,19 +306,20 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:27 
 msgid "ゴ、ゴメンネ？\n"
-msgstr ""
+msgstr "I-I am sorry?\n"
 
 #  speaker 
 #  warnings: 2 
 #: sc/0161:28 
 msgid "＆"
-msgstr "No.F5＆No.36"
+msgstr "＆"
 
 #  text 
 #  warnings: 2 
 #: sc/0161:28 
+#, fuzzy
 msgid "ダメ―――！！\n"
-msgstr ""
+msgstr "STOOOP!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,7 +331,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:29 
 msgid "あの男か……。\n"
-msgstr ""
+msgstr "That boy.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -342,7 +343,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:30 
 msgid "おい、貴様。\n"
-msgstr ""
+msgstr "Hey, you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,7 +1057,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0161:90 
 msgid "桜井誠"
-msgstr "Makoto Sakurai"
+msgstr "Makoto"
 
 #  text 
 #  warnings: 0 
