@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:15+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
+"PO-Revision-Date: 2023-09-29 06:59+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0090/en_US/>\n"
@@ -48,7 +48,7 @@ msgstr "Sasahara"
 #  warnings: 0 
 #: sc/0090:2 
 msgid "む？　貴様は……。\n"
-msgstr ""
+msgstr "Hmm? Thou art.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:4 
 msgid "（さ、さ、さ、笹原先輩―――――！！）\n"
-msgstr ""
+msgstr "(S-S-S-Sasahara Senpai!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +109,8 @@ msgstr ""
 #: sc/0090:7 
 msgid "ふむ、やはり貴様もジュ―スを買うのか。\nなにを所望するのだ？\n"
 msgstr ""
+"Hmm, thou art also buying juice, art thou?\n"
+"What is it thou desire?\n"
 
 #  speaker 
 #  warnings: 0 
