@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:12+0000\n"
-"PO-Revision-Date: 2023-09-28 03:31+0000\n"
+"PO-Revision-Date: 2023-12-07 17:17+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0197/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +84,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0197:5 
 msgid "それで、何を買ってきてくれたんだ？\n"
-msgstr ""
+msgstr "Well, what did you buy for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +96,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0197:6 
 msgid "ヘイゼルキャラメルマキア―トと\nケ―キをいくつか買ってきたよ。\n"
-msgstr ""
+msgstr "I bought a hazelnut caramel macchiato and some cake.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0197:7 
 msgid "ヘイゼルキャラメルマキア―ト？\n"
-msgstr ""
+msgstr "A hazel-caramel-macchiato?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -119,8 +119,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0197:8 
+#, fuzzy
 msgid "（わけがわからん……\n　なんだその長ったらしい名前は）\n"
 msgstr ""
+"(I don't understand.....\n"
+"What is that long name?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +136,8 @@ msgstr ""
 #: sc/0197:9 
 msgid "……名前通りキャラメルのいい匂いがするな。\n味も悪くはない……。\n"
 msgstr ""
+"......As the name suggests, it has a nice caramel smell.\n"
+"And the taste isn't bad either.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -143,8 +148,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0197:10 
+#, fuzzy
 msgid "さて、ケ―キはと……\nな、何だこの目に痛い色合いは！\n"
 msgstr ""
+"Now, the cake......\n"
+"Hey, what is this color? It hurts my eyes!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -156,7 +164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0197:11 
 msgid "……わけがわからん。\n"
-msgstr ""
+msgstr "......I don't get it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -205,6 +213,8 @@ msgstr ""
 #: sc/0197:15 
 msgid "……うまい。\nだが、少し甘すぎるような……！？\n"
 msgstr ""
+"...... Yum.\n"
+"But, it is a little to sweet......!?\n"
 
 #  speaker 
 #  warnings: 0 
