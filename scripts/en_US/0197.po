@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:12+0000\n"
-"PO-Revision-Date: 2023-12-07 17:17+0000\n"
+"PO-Revision-Date: 2023-12-11 03:16+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0197/en_US/>\n"
@@ -199,8 +199,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0197:14 
+#, fuzzy
 msgid "そうだな。\n"
-msgstr ""
+msgstr "I see.\n"
 
 #  speaker 
 #  warnings: 0 
