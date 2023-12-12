@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2023-12-12 06:44+0000\n"
+"PO-Revision-Date: 2023-12-12 07:28+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0050/en_US/>\n"
@@ -52,7 +52,7 @@ msgstr ""
 msgid "あっ、な、なのには内緒だよ？\nおねえさんに、ごちそうしてもらったの。\n"
 msgstr ""
 "Ah, d-don't tell Nano, okay?\n"
-"Big sis treated me to a feast.\n"
+"A lady treated me to a feast.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -150,7 +150,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0050:10 
 msgid "ご飯食べてました。\n"
-msgstr ""
+msgstr "I was eating.\n"
 
 #  speaker 
 #  warnings: 0 
