@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2023-12-11 03:16+0000\n"
+"PO-Revision-Date: 2023-12-12 01:56+0000\n"
 "Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0050/en_US/>\n"
@@ -221,8 +221,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0050:16 
+#, fuzzy
 msgid "わ―――！？　こっち来るな――！\n"
-msgstr ""
+msgstr "Whaaa-!? Come heeere!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +289,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0050:24 
 msgid "マジか……。\n"
-msgstr ""
+msgstr "Seriously.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +301,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0050:25 
 msgid "ふふふ―、はかせが正しかったでしょ？\n"
-msgstr "He he he... Hakase was right, wasn't she?\n"
+msgstr "Hehehe... Hakase was right, wasn't she?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -335,8 +336,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0050:28 
+#, fuzzy
 msgid "そいつ以外の人の意見は？\n"
-msgstr ""
+msgstr "What do you think about that other person?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -347,8 +349,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0050:29 
+#, fuzzy
 msgid "わかりません。\n"
-msgstr "I do not understand.\n"
+msgstr "I don't know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -685,6 +688,8 @@ msgstr ""
 #: sc/0050:57 
 msgid "大丈夫大丈夫。だってあのおねえさん、\nなのと知り合いだもん。\n"
 msgstr ""
+"It's fine, it's fine. \n"
+"After all, Nano has probably met that lady.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -755,8 +760,9 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0050:63 
+#, fuzzy
 msgid "さ―て、どんなのをつけようかな\n"
-msgstr ""
+msgstr "Well..., What kind should we take?\n"
 
 #  speaker 
 #  warnings: 0 
