@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:06+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2023-12-30 10:48+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0154/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Takasaki-sensei"
 #  warnings: 0 
 #: sc/0154:0 
 msgid "さてと、今日の夕飯は何にしようかな。\n"
-msgstr ""
+msgstr "Alright, I wonder what I'll have for dinner tonight.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0154:1 
 msgid "毎日毎日コンビニ弁当も飽きたし、\nたまには少しくらい奮発して……。\n"
 msgstr ""
+"I'm sick of the corner store bento I get everyday,\n"
+"Sometimes its tiring to even get through it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr "Voice (Nakanojou-san)"
 #  warnings: 0 
 #: sc/0154:2 
 msgid "ぐふぅっ！！\n"
-msgstr ""
+msgstr "Look out!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +74,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0154:4 
 msgid "（何だ今の苦しそうな声は！）\n"
-msgstr ""
+msgstr "Who is that yelling just now!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +87,8 @@ msgstr ""
 #: sc/0154:5 
 msgid "（なぜか誰も気にしてないが……。\n　何だ？　どういう事だ！？\n"
 msgstr ""
+"(For some reason no one cares...\n"
+"Why? What's that about!?)\n"
 
 #  speaker 
 #  warnings: 0 
