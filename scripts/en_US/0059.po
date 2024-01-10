@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:35+0000\n"
-"PO-Revision-Date: 2023-11-15 06:31+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2024-01-11 03:05+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0059/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -75,6 +75,8 @@ msgstr ""
 #: sc/0059:4 
 msgid "わかっているさ。\nあの鹿との決着はまだついていない。\n"
 msgstr ""
+"I understand.\n"
+"The despite with that deer still isn’t settled.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -165,14 +167,20 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0059:12 
+#, fuzzy
 msgid "こんな場所で偶然、動物にはねられるなんて、\n不運なオッサンだなぁ。\n"
 msgstr ""
+"In this sort of place by coincidence, to be jumped on by an animal,\n"
+"He must be an unlucky dude.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0059:13 
+#, fuzzy
 msgid "ほんと、こんな偶然でアンテナが\n壊れたりしたらと思うと、ヒヤヒヤするよ。\n"
 msgstr ""
+"Really, by this sort of accident the antenna\n"
+"When I think about when it breaks and stuff I get a chill down my spine.\n"
 
 #  text 
 #  warnings: 1 
@@ -184,8 +192,9 @@ msgstr "Hahaa, there’s no need so worry now?\n"
 #  text 
 #  warnings: 1 
 #: sc/0059:15 
+#, fuzzy
 msgid "お、どういう事だい？\n"
-msgstr ""
+msgstr "Oh, what is happening?\n"
 
 #  text 
 #  warnings: 1 
@@ -252,6 +261,8 @@ msgstr ""
 #: sc/0059:22 
 msgid "しかし、解せん。\n何故、鹿が人を襲う？\n"
 msgstr ""
+"However, I don’t get it.\n"
+"Why would a deer attack a person?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,12 +347,14 @@ msgstr ""
 #: sc/0059:29 
 msgid "そうです。\nですが、インコでは鹿と話せない。\n"
 msgstr ""
+"That’s right.\n"
+"However, you can’t speak to a deer through a parrot.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0059:30 
 msgid "謎のインコ"
-msgstr ""
+msgstr "Mysterious parrot"
 
 #  text 
 #  warnings: 0 
