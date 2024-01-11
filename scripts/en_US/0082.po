@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2024-01-11 03:05+0000\n"
+"PO-Revision-Date: 2024-01-11 04:04+0000\n"
 "Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0082/en_US/>\n"
@@ -415,6 +415,8 @@ msgstr ""
 #: sc/0082:33 
 msgid "え、そうなの！？\nちっちゃいのにすごいね〜。\n"
 msgstr ""
+"Eh, is that so!?\n"
+"Even though she's teeny-weeny, she's amazing~.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -425,8 +427,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0082:34 
+#, fuzzy
 msgid "えへへへ〜、はかせスゴイの。\nもっと褒めて褒めて〜。\n"
 msgstr ""
+"Ehehehe~, Hakase's amazing huh.\n"
+"Praise more, praise~.\n"
 
 #  speaker 
 #  warnings: 0 
