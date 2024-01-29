@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:00+0000\n"
-"PO-Revision-Date: 2021-10-10 18:38+0000\n"
-"Last-Translator: P.M.c <zackboy366@gmail.com>\n"
+"PO-Revision-Date: 2024-01-29 10:07+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0164/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +84,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:5 
 msgid "あ、教頭先生。こんにちは。\n"
-msgstr ""
+msgstr "Ah, vice principal. Hello.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +168,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:12 
 msgid "もしよければ少し教えてくれないかい？\n"
-msgstr ""
+msgstr "If you would like, could you teach me a little?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:13 
 msgid "はいっ、喜んで。\n"
-msgstr ""
+msgstr "Alright, with pleasure.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +193,8 @@ msgstr ""
 #: sc/0164:14 
 msgid "まずはサッカ―みたいにボ―ルを\nリフティングするんですよ。\n"
 msgstr ""
+"First like it is soccer, with the ball\n"
+"Do kick-ups.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +206,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:15 
 msgid "ふむ、こうかね……よっと。\n"
-msgstr ""
+msgstr "Hmm, like this I wonder...... uhhh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +218,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:16 
 msgid "あ、お上手ですね。\n"
-msgstr ""
+msgstr "Ah, Amazing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -264,7 +266,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:20 
 msgid "こ、校長先生―！！\n"
-msgstr ""
+msgstr "P, principal—!!\n"
 
 #  text 
 #  warnings: 1 
@@ -287,8 +289,9 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0164:23 
+#, fuzzy
 msgid "この眼鏡のオッサン、最低だ―！！\n"
-msgstr ""
+msgstr "This glasses old man, the worst―!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +351,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:28 
 msgid "（わ、藁人形！？）\n"
-msgstr ""
+msgstr "(Wah, a straw doll!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -372,7 +375,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:30 
 msgid "は、はい……お上手です。\n"
-msgstr ""
+msgstr "Y, yes...... amazing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +411,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:33 
 msgid "（ど、どうしよう……）\n"
-msgstr ""
+msgstr "(W-What should I do......)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -419,8 +422,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0164:34 
+#, fuzzy
 msgid "（これは正直に言うべきだよな？）\n"
-msgstr ""
+msgstr "(Should I honestly say this?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -432,7 +436,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:35 
 msgid "せ、先生！！\n"
-msgstr ""
+msgstr "T, teacher!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:37 
 msgid "落とし物です！！\n"
-msgstr ""
+msgstr "You dropped something!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +520,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:42 
 msgid "ははははっ、驚いたかい？\n"
-msgstr ""
+msgstr "Hahahahahaa, were you surprised?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +532,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:43 
 msgid "はい、びっくりしちゃいましたよ。\n"
-msgstr ""
+msgstr "Yeah, I was completely taken aback.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +748,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:61 
 msgid "ありがとう、面白かったよ。\n"
-msgstr ""
+msgstr "Thank you, that was enjoyable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +760,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:62 
 msgid "いえ……。\n"
-msgstr ""
+msgstr "No.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,7 +952,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:78 
 msgid "もちろんです。\n"
-msgstr ""
+msgstr "Of course.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -960,7 +964,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:79 
 msgid "それじゃあ。\n"
-msgstr ""
+msgstr "Well then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -971,8 +975,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0164:80 
+#, fuzzy
 msgid "……結局気づいてないし。\n"
-msgstr ""
+msgstr "......In the end he didn't notice it and stuff.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -984,7 +989,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0164:81 
 msgid "藁人形、どうしようかな……。\n"
-msgstr ""
+msgstr "straw doll, what should I do I wonder.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1007,5 +1012,6 @@ msgstr "Makoto Sakurai"
 #  text 
 #  warnings: 0 
 #: sc/0164:83 
+#, fuzzy
 msgid "納豆だコレ……。\n"
-msgstr ""
+msgstr "It's fermented soybeans this is.......\n"
