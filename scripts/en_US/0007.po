@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:22+0000\n"
-"PO-Revision-Date: 2024-01-29 10:07+0000\n"
+"PO-Revision-Date: 2024-01-30 20:03+0000\n"
 "Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0007/en_US/>\n"
@@ -575,10 +575,8 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:45 
-#, fuzzy
 msgid "廊下に立ってろうか。\n"
-msgstr ""
-"[HALLWAY PUN, that means stand in the hallway] said by Takasaki sensei\n"
+msgstr "In this class it's my way or the hallway.\n"
 
 #  speaker 
 #  warnings: 0 
