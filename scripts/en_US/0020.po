@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2024-02-26 06:00+0000\n"
+"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0020/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,7 +25,7 @@ msgstr ""
 #: sc/0020:0 
 msgid "あぁ……お腹すいた……\nけっきょくお昼、食べ損ねちゃったもんなぁ。\n"
 msgstr ""
-"Aaah…… I'm hungry……\n"
+"Aah…… I'm hungry……\n"
 "And in the end, I missed lunch too.\n"
 
 #  speaker 
@@ -40,7 +40,7 @@ msgstr ""
 msgid "購買、なんか売れ残ってるといいけど……。\n"
 msgstr ""
 "Though, I hope there's some leftover\n"
-"food on sale I could purchase…….\n"
+"food on sale that I could purchase…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -64,7 +64,7 @@ msgstr "Sasahara"
 #  warnings: 0 
 #: sc/0020:3 
 msgid "む、これはいつぞやの。\n"
-msgstr "Hrm, oh, it's you from the other day.\n"
+msgstr "Hm, oh, it's you from the other day.\n"
 
 #  speaker 
 #  warnings: 0 
