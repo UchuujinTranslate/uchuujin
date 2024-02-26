@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2024-01-30 20:03+0000\n"
+"PO-Revision-Date: 2024-02-26 06:00+0000\n"
 "Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0017/en_US/>\n"
@@ -942,10 +942,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0017:74 
-#, fuzzy
 msgid "身体もふるえているではないか。\n一体どうしたというのだ。\n"
 msgstr ""
-"Your body seem to be trembling. \n"
+"Your body seem to be trembling.\n"
 "What could be the matter.\n"
 
 #  speaker 
