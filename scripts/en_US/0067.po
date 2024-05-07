@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2024-05-08 05:19+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0067/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -76,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:4 
 msgid "ま、桜井の熱意に負けて……な。\n"
-msgstr ""
+msgstr "Well, I lost to Sakurai's enthusiasm...... yeah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -87,8 +87,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:5 
+#, fuzzy
 msgid "（……それ以外の要素もあった気がするけど）\n"
 msgstr ""
+"(......Even though I noticed there are also other factors than just that)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -124,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:8 
 msgid "誰か置いた覚えあるか？\n"
-msgstr ""
+msgstr "Do you have any recollection on who put it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -136,7 +138,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:9 
 msgid "いえ、無いです。\n"
-msgstr ""
+msgstr "No, none.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -148,7 +150,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:10 
 msgid "オレも無いですよ。\n"
-msgstr ""
+msgstr "I don't either.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -195,8 +197,11 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0067:15 
+#, fuzzy
 msgid "他人のものは大事に扱えって、\nお母さんから習っただろ―！？\n"
 msgstr ""
+"Handle other peoples things carefully,\n"
+"Your mom taught you that—!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -207,8 +212,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:16 
+#, fuzzy
 msgid "お、トランプあるじゃないか。\nなあ、ちょっとだけ遊ばないか？\n"
 msgstr ""
+"Oh, Don't you have playing cards?\n"
+"Well, should we play a little?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -220,7 +228,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:17 
 msgid "いいですね―、何やります？\n"
-msgstr ""
+msgstr "It is fine isn't it—, what should we play?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -231,8 +239,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:18 
+#, fuzzy
 msgid "そうだな―、大富豪とかどうだ？\n先生結構強いぞ。\n"
 msgstr ""
+"That's it—,  how is something like President?\n"
+"Sensei is pretty good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -244,7 +255,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:19 
 msgid "お、負けませんよ！？\n"
-msgstr ""
+msgstr "Oh, I won't lose!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -257,6 +268,8 @@ msgstr ""
 #: sc/0067:20 
 msgid "先生ちょっと待ってくださいよ。\n囲碁サッカ―の練習は……？\n"
 msgstr ""
+"Sensei, wait a second please.\n"
+"What about Go Soccer practice......?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -279,8 +292,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:22 
+#, fuzzy
 msgid "そうそう、ちゃんと終わったら練習するよ。\n"
-msgstr ""
+msgstr "Right, when we finish we really should practice.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -292,7 +306,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:23 
 msgid "え―……。\n"
-msgstr ""
+msgstr "Eh—.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -304,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:24 
 msgid "いや、練習しましょうよ！\n"
-msgstr ""
+msgstr "No, lets practice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -316,7 +330,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:25 
 msgid "だから終わったらやるって。\n"
-msgstr ""
+msgstr "So I say when we finish lets do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -377,6 +391,8 @@ msgstr ""
 #: sc/0067:30 
 msgid "ありがとうございます！\n……明日から？\n"
 msgstr ""
+"Thank you very much!\n"
+"......from tomorrow?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -388,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:31 
 msgid "ああ、今日はトランプだ！\n"
-msgstr ""
+msgstr "Aah. today is cards!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -399,8 +415,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:32 
+#, fuzzy
 msgid "（ぜんぜんわかってない！！）\n"
-msgstr ""
+msgstr "(Completely doesn't get it!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +489,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:38 
 msgid "（やっぱダメかも……）\n"
-msgstr ""
+msgstr "(As I though, it is probably hopeless......)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -484,7 +501,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:39 
 msgid "（……しょうがないなぁ）\n"
-msgstr ""
+msgstr "(......it is what it is isn't it)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -497,6 +514,8 @@ msgstr ""
 #: sc/0067:40 
 msgid "わかりました。\nそれじゃ、ちょっとだけ。\n"
 msgstr ""
+"Got it.\n"
+"So then, only a little.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -508,7 +527,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:41 
 msgid "終わったら囲碁サッカ―の練習ですよ！？\n"
-msgstr ""
+msgstr "When we are done, then Go Soccer practice!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -520,7 +539,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:42 
 msgid "わかってるって桜井。\n"
-msgstr ""
+msgstr "I said I got it, Sakurai.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -628,7 +647,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:51 
 msgid "運が良かったです。\n"
-msgstr ""
+msgstr "I was in luck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -663,8 +682,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0067:54 
+#, fuzzy
 msgid "丁度いいタイミングだな。\nそれじゃ、気をつけて帰るんだぞ。\n"
 msgstr ""
+"It is good timing isn't it.\n"
+"So then, be careful going home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -701,6 +723,8 @@ msgstr ""
 #: sc/0067:57 
 msgid "それじゃ、オレも帰りますね。\nお疲れ様でし……。\n"
 msgstr ""
+"Well then, I am going to head home.\n"
+"Thanks for your hard work toda.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -712,7 +736,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:58 
 msgid "あ―――――――っ！！\n"
-msgstr ""
+msgstr "A————————h!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -748,7 +772,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:61 
 msgid "高崎先生。\n"
-msgstr ""
+msgstr "Takasaki-sensei.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -760,7 +784,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:62 
 msgid "ん？　どうした桜井。\n"
-msgstr ""
+msgstr "Hm? What's up Sakurai.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -796,7 +820,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0067:65 
 msgid "ん？　どうしたんですか先生？\n"
-msgstr ""
+msgstr "Hm? What is happened Sensei?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -880,7 +904,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0067:72 
 msgid "……は、はあ。\n"
-msgstr ""
+msgstr "......Ha, haa.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -893,6 +917,8 @@ msgstr "Makoto Sakurai"
 #: sc/0067:73 
 msgid "そうですよね先生！\nさ、練習しましょうか！！\n"
 msgstr ""
+"That is right Sensei!\n"
+"Well, Shall we practice!!\n"
 
 #  speaker 
 #  warnings: 0 
