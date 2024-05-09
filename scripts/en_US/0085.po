@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2023-09-28 03:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0085/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,7 +25,7 @@ msgstr "Sakurai Sensei"
 #: sc/0085:0 
 msgid "それでは小テストを始めます。\nどうぞっ。\n"
 msgstr ""
-"Ok let's begin the quiz test. \n"
+"Ok, let's begin the test. \n"
 "Here you go.\n"
 
 #  speaker 
@@ -63,8 +63,8 @@ msgstr ""
 #: sc/0085:3 
 msgid "テレビでもエアコンでもないし……\nこのボタン、何のボタンだったっけ？\n"
 msgstr ""
-"It was not for the TV or the AC……\n"
-"What was this button for now again?\n"
+"It's not for the TV or the AC……\n"
+"What was this button for again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +155,8 @@ msgstr "Woow, this person seem so nice.\n"
 #: sc/0085:11 
 msgid "ああ、こういう優しそうな人は、\n体罰とか絶対しないよな―。\n"
 msgstr ""
-"Ahh, I'm sure a person as kind as this would never inflict physical violence "
-"to anyone\n"
+"Ahh, I'm sure a person as this kind \n"
+"could never hurt anyone.\n"
 
 #  text 
 #  warnings: 1 
@@ -221,8 +221,8 @@ msgstr ""
 #: sc/0085:17 
 msgid "（な、なんで腕からロ―ルケ―キが！？\n　どうしてこのタイミングで！？）\n"
 msgstr ""
-"(W-Why is there a rollcake in my forearm!?\n"
-"And why in this timing!?)\n"
+"(W-Why is there a rollcake in my \n"
+"forearm!? And why right now!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -235,7 +235,8 @@ msgstr ""
 #: sc/0085:18 
 msgid "（と言うか、またロ―ルケ―キが入ってる！\n　いつの間に補充を！？）\n"
 msgstr ""
-"(Or perhaps I should say, why is there a rollcake in my forearm AGAIN!\n"
+"(Or perhaps I should ask why there's a \n"
+"rollcake in my forearm AGAIN!\n"
 "When did it get restocked!?)\n"
 
 #  speaker 
@@ -248,7 +249,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:19 
 msgid "（と、とにかく、\n　見られる前にしまわないと！）\n"
-msgstr "(A- Anyway, I'll hide it before anyone sees!)\n"
+msgstr ""
+"(A- Anyway, I'll hide it before anyone \n"
+"sees!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -260,7 +263,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:20 
 msgid "（ふぅ……これで良し）\n"
-msgstr "(Sigh......this should do it)\n"
+msgstr "(Sigh......this should do it.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,7 +287,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:22 
 msgid "（良くなかった！！）\n"
-msgstr "(Nope it wasn't!!)\n"
+msgstr "(No good!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -296,7 +299,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:23 
 msgid "（ま、まさか、今のを先生に見られて……）\n"
-msgstr "(D- Did perhaps Miss Sakurai see it...)\n"
+msgstr "(D-Did perhaps Miss Sakurai see...?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -331,11 +334,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0085:26 
-#, fuzzy
 msgid "（まだいた！\n　見てしまった人が、まだいた―！！）\n"
 msgstr ""
 "(Oh no!\n"
-"There were still someone who saw it--!!)\n"
+"Someone still saw it--!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -361,7 +363,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:28 
 msgid "（と、とんでもない物をみてしまった！）\n"
-msgstr "(I- I just saw something unthinkable right now!)\n"
+msgstr "(I- I just saw something unthinkable!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -375,7 +377,7 @@ msgstr ""
 msgid "（僕の目の錯覚だろうか？\n　でも、さっきは確かに……）\n"
 msgstr ""
 "(Could I be hallucinating?\n"
-"No,  I'm certain what I saw.....)\n"
+"No, I know what I saw.....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -387,7 +389,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:30 
 msgid "（どうすれば……どうすれば……）\n"
-msgstr "(What should I do..... What should I do.....)\n"
+msgstr "(What should I do....What should I do...?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -399,7 +401,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:31 
 msgid "（………………）\n"
-msgstr "(..............)\n"
+msgstr "(............)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -425,7 +427,7 @@ msgstr ""
 msgid "はっ、はい！！\nどうしましたか、中之条くん。\n"
 msgstr ""
 "Y-Yes!!\n"
-"What's the matter Nakanojou-kun.\n"
+"What's the matter, Nakanojou-kun?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,8 +466,8 @@ msgstr ""
 #: sc/0085:36 
 msgid "（ど……どうしよ―！\n　わたしがロボットだってバレちゃう！）\n"
 msgstr ""
-"(W- What should I do-!\n"
-"People will find out that I'm a robot now!)\n"
+"(W- What should I do-! People will\n"
+"find out that I'm a robot now!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -477,7 +479,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:37 
 msgid "それは……本当ですか？\n"
-msgstr "Is that.....true?\n"
+msgstr "Is that...true?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -515,7 +517,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:40 
 msgid "弌弌テストを！\n"
-msgstr "--test answer!!\n"
+msgstr "--test!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -527,7 +529,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:41 
 msgid "って、テスト？\n"
-msgstr "T-Test answer?\n"
+msgstr "T-Test?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,8 +542,8 @@ msgstr ""
 #: sc/0085:42 
 msgid "はい、見たのはテストです。\n……カンニングです。\n"
 msgstr ""
-"Yes, what I saw was her test. \n"
-".....And I know that's cheating.\n"
+"Yes, I saw was her test. \n"
+"...And I know that's cheating.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,8 +596,9 @@ msgstr ""
 #: sc/0085:46 
 msgid "でも、中之条くん。今はテスト中ですから、\nえっと……先生と廊下でお話ししましょう。\n"
 msgstr ""
-"But Nakanojou-kun, the test is still in progress. Uh…… Let's have a talk in "
-"the hallway.\n"
+"But Nakanojou-kun, the test is still in\n"
+"progress. Uh…… Let's have a talk in the \n"
+"hallway.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,7 +622,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:48 
 msgid "（弌弌うん、これでよかったんだ）\n"
-msgstr "(——Ah, it was fine this way)\n"
+msgstr "(——Ah, better to pretend I didn't see it.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,7 +634,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:49 
 msgid "（これでよかったんですよね弌弌）\n"
-msgstr "(It really was fine this way——)\n"
+msgstr "(It really is better to pretend——)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,8 +671,9 @@ msgstr "Nakamura-sensei"
 #: sc/0085:52 
 msgid "東雲なのが出てくると思ったら、\nまさか、こんなことになるとは弌弌。\n"
 msgstr ""
-"I thought that Shinonome would be the one to come out of that door, but to "
-"believe it woud end up to this——\n"
+"I thought that Shinonome would be the\n"
+"one to come out of that door, but to think it\n"
+"would turn out like this——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -719,7 +723,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:56 
 msgid "えっと、私は何を……。\n"
-msgstr "Wait, ehm what did I....\n"
+msgstr "Wait, where was I....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,7 +773,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:60 
 msgid "テスト、受けようっと。\n"
-msgstr "Let me finish the test then.\n"
+msgstr "I'll just finish the test.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -796,7 +800,8 @@ msgstr ""
 #: sc/0085:62 
 msgid "（でも、二人の視線が気になって、\n　テストなんて受けられません！！）\n"
 msgstr ""
-"(But I'm too bothered by the gaze from those two. I can't continue on!!\n"
+"(But I'm too bothered by how they're \n"
+"staring. I can't stay focused!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -820,7 +825,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:64 
 msgid "（あっ、そうだ）\n"
-msgstr "(Ah, yeah I know)\n"
+msgstr "(Oh, I know!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -856,7 +861,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:67 
 msgid "えっとですね……。\n"
-msgstr "Well I'm just wondering....\n"
+msgstr "Well I'm just wondering...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +887,7 @@ msgstr ""
 msgid "！？\nす、好きですけど……。\n"
 msgstr ""
 "!?\n"
-"I- I do actually.....\n"
+"I-I love them.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -962,7 +967,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:75 
 msgid "……頑張ってください。\n"
-msgstr ".....Good luck.\n"
+msgstr "...Good luck.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -987,8 +992,8 @@ msgstr ""
 #: sc/0085:77 
 msgid "（秘密を守る為とは言え、\n　賄賂を渡すことになるなんて……）\n"
 msgstr ""
-"Even if I did it to protect a secret, \n"
-"I ended up bribing my teacher for  it....)\n"
+"Even if I did it to protect a secret,\n"
+"I ended up bribing my teacher...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1001,8 +1006,8 @@ msgstr ""
 #: sc/0085:78 
 msgid "（ごめんなさい、はかせ……\n　私は悪い子です……）\n"
 msgstr ""
-"(Sorry,  Hakase.....\n"
-"I have been a naughty child....)\n"
+"(Sorry, Hakase.....\n"
+"I have been a bad robot...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1015,8 +1020,8 @@ msgstr ""
 #: sc/0085:79 
 msgid "あれ〜？　ロ―ルケ―キどこに置いたっけ？\n阪本知ってる〜？\n"
 msgstr ""
-"Huh~ Now where did I put the rollcake again?\n"
-"Sakamoto do you know~?\n"
+"Huh~ Now where did I put the rollcake\n"
+"again? Sakamoto, do you know~?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1029,7 +1034,8 @@ msgstr "Sakamoto-san"
 #: sc/0085:80 
 msgid "それなら、またおまえが悪さをして、\n娘の腕の中にしまってただろ？\n"
 msgstr ""
-"Well, you were up to mischief as usual and put it in her forearm, remember?\n"
+"Well, you were up to mischief as usual \n"
+"and put it in her forearm, remember?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1055,7 +1061,9 @@ msgstr "Narrator"
 #  warnings: 0 
 #: sc/0085:82 
 msgid "その後、事情が判明して、\nお説教の時間が準備されたと言います。\n"
-msgstr "Thereafter, Nano found out and Hakase had her fair share of scolding.\n"
+msgstr ""
+"Thereafter, Nano found out and Hakase\n"
+"had her fair share of scolding.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,8 +1076,9 @@ msgstr ""
 #: sc/0085:83 
 msgid "（あ、でも下手に騒ぐと\n　みんなに広がる気がする……）\n"
 msgstr ""
-"(Ah, but if I akwardly make up a fuss, I have a feeling it will only attract "
-"more eyes....)\n"
+"(Ah, but if I awkwardly make up a fuss,\n"
+"I have a feeling it will only attract\n"
+"more attention...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1082,8 +1091,8 @@ msgstr ""
 #: sc/0085:84 
 msgid "（もうロ―ルケ―キはしまったんだから\n　普通にしてればいいんだ）\n"
 msgstr ""
-"(The rollcake is back in the arm again so I just have to act like usual now)"
-"\n"
+"(The rollcake is back in my arm, so I\n"
+"just have to act like usual now.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1096,8 +1105,8 @@ msgstr ""
 #: sc/0085:85 
 msgid "（だって腕からロ―ルケ―キが\n　出てくるなんて誰も信じないし！）\n"
 msgstr ""
-"(Because no one would ever believe that a rollcake came out of an arm to "
-"begin with!)\n"
+"(No one would ever believe that a cake\n"
+"could come out of an arm to begin with!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1109,7 +1118,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:86 
 msgid "（そうとわかればテストの続きをしようっと）\n"
-msgstr "(Now that I know that, let's continue on with the test.)\n"
+msgstr ""
+"(Now that I know that, I'll continue on\n"
+"with the test.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1121,7 +1132,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:87 
 msgid "あ、あ、あの、東雲さん……。\n"
-msgstr "E- E- Excuse me Nano but....\n"
+msgstr "E- E- Excuse me Nano, but....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1146,7 +1157,8 @@ msgstr ""
 #: sc/0085:89 
 msgid "あの、その……ロ―ルケ―キは腕の中じゃ\nなくて、ちゃんとした入れ物に……。\n"
 msgstr ""
-"Well uhm.....I don't think you should store rollcakes in your arms.......\n"
+"Well uhm...I don't think you should store\n"
+"rollcakes in your arms......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1159,7 +1171,8 @@ msgstr ""
 #: sc/0085:90 
 msgid "またまた〜。腕にロ―ルケ―キが\n入るわけないじゃないですか。\n"
 msgstr ""
-"Yeah right~ there's no way a rollcake could ever fit inside an arm though.\n"
+"Yeah right~ there's no way a rollcake \n"
+"could ever fit inside an arm, though.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1171,7 +1184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:91 
 msgid "ええ？　あ、でも、あの……。\n"
-msgstr "Ehh? Ah, well but.....\n"
+msgstr "Ehh? Ah, well but...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1207,7 +1220,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0085:94 
 msgid "……あれ？\n"
-msgstr ".....What is that?\n"
+msgstr "...What?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1219,7 +1232,7 @@ msgstr "All Classmates"
 #  warnings: 0 
 #: sc/0085:95 
 msgid "……………………。\n"
-msgstr "…………………….\n"
+msgstr "........\n"
 
 #  speaker 
 #  warnings: 0 
