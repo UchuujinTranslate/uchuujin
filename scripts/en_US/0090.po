@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:15+0000\n"
-"PO-Revision-Date: 2023-09-30 04:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0090/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Mio"
 #: sc/0090:0 
 msgid "え―っと、ゆっこがバナジュ―で、\n私は……なんにしようかな？\n"
 msgstr ""
+"Um, Yukko will have banana juice,\n"
+"I will... what should i get?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0090:1 
 msgid "う―ん……\nオレンジって気分かな。\n"
 msgstr ""
+"Hmm.....\n"
+"I feel like orange juice\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,6 +202,8 @@ msgstr ""
 #: sc/0090:14 
 msgid "ふむ……この自販機……\n一時限りの戯れかと思ったが弌弌\n"
 msgstr ""
+"Hmm... This vending machine.....\n"
+"I thought this would be a one-off prank but...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,6 +216,8 @@ msgstr ""
 #: sc/0090:15 
 msgid "どうして、稀代の傾奇者と見える。\n"
 msgstr ""
+"Why, is he seen as a rare\n"
+"eccentric.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -221,7 +229,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:16 
 msgid "えっ？　あっ、はいっ！！\n"
-msgstr ""
+msgstr "Ehh? Ahh, Yes!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -234,6 +242,8 @@ msgstr ""
 #: sc/0090:17 
 msgid "止むを得ん、外の自販機に行こう。\n……ちと遠いが、帯同するか？\n"
 msgstr ""
+"Now i have to go to the vending machine outside.\n"
+".....It's a little far, should i come with?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -245,7 +255,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:18 
 msgid "えっ！？　は、はい！　喜んで！\n"
-msgstr ""
+msgstr "Ehh!? Y-Yes! with pleasure!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,6 +268,8 @@ msgstr ""
 #: sc/0090:19 
 msgid "（きゃ〜！\n　笹原先輩と並んで歩けるなんて〜！）\n"
 msgstr ""
+"(Kyaa~!\n"
+"I can walk next to Sasahara senpai~!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -282,6 +294,8 @@ msgstr ""
 #: sc/0090:21 
 msgid "……オレンジジュ―ス？\nホットコ―ヒ―を選んだのに……。\n"
 msgstr ""
+"......Orange juice?\n"
+"I got hot coffee......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,6 +308,8 @@ msgstr ""
 #: sc/0090:22 
 msgid "いや、これは冷たい物を飲むべきと言う\n運命なのかもしれん……。\n"
 msgstr ""
+"No way! this means you should drink something cold\n"
+"maybe it was fate.......\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,7 +321,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:23 
 msgid "では、一気に弌弌\n"
-msgstr ""
+msgstr "So, one at a time\n"
 
 #  speaker 
 #  warnings: 0 
@@ -330,6 +346,8 @@ msgstr ""
 #: sc/0090:25 
 msgid "（しまった！\n　思わずカップを放り投げて弌弌）\n"
 msgstr ""
+"(Damn it!\n"
+"I threw away the cup because of instinct)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -353,19 +371,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:27 
 msgid "あづ―――――――――！！！\n"
-msgstr ""
+msgstr "Too hot!!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0090:28 
 msgid "あ。\nアンテナ、壊れた。\n"
 msgstr ""
+"Ah.\n"
+"The antenna, it's broken.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0090:29 
 msgid "ホントだ。\n"
-msgstr ""
+msgstr "It's true.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -377,7 +397,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:30 
 msgid "（けど……さすがにちょっとくやしいなぁ）\n"
-msgstr ""
+msgstr "(But... it's a little disappointing)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -390,6 +410,8 @@ msgstr ""
 #: sc/0090:31 
 msgid "（私のお小遣いだって、\n　そんなに多いわけじゃないし……よし！）\n"
 msgstr ""
+"(I don't have a lot of pocket money either\n"
+"Uhh....Okay!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -401,7 +423,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:32 
 msgid "さ、笹原先輩！\n"
-msgstr ""
+msgstr "S-Sasahara senpai!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -426,6 +448,8 @@ msgstr ""
 #: sc/0090:34 
 msgid "先輩って、詩、得意なんですよね。\n一句詠んでくれませんか？\n"
 msgstr ""
+"Senpai, you're good at poetry right?\n"
+"Why don't you write a haiku for me?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -437,7 +461,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:35 
 msgid "ほう、貴様も風流を解すのか。\nよかろう。う―む……。\n"
-msgstr ""
+msgstr "Oh, so you also understand the elegant arts. Alright. Hmmm.....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -449,7 +473,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0090:36 
 msgid "（今だ！！）\n"
-msgstr ""
+msgstr "(Now!!)\n"
 
 #  speaker 
 #  warnings: 0 
