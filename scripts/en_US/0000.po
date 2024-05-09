@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2024-01-29 10:07+0000\n"
-"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0000/en_US/>\n"
 "Language: en_US\n"
@@ -139,8 +139,9 @@ msgstr ""
 #: sc/0000:9 
 msgid "なののネジをパワ―アップさせたから\n新しい機能を試すところだったの。\n"
 msgstr ""
-"I have upgraded your key, so I was just\n"
-"about to try out some of its new features.\n"
+"I upgraded your key, so I was just \n"
+"about to try out some of its new \n"
+"features.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -207,8 +208,8 @@ msgstr ""
 #: sc/0000:14 
 msgid "一番なくしてほしいネジを\nパワ―アップされても困るんですよ―。\n"
 msgstr ""
-"Upgrading the key I want to\n"
-"get rid of wont be of any help—.\n"
+"There's no point in upgrading this key\n"
+"when I don't even want it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,8 +314,8 @@ msgstr ""
 #: sc/0000:26 
 msgid "改造は許しますから\nせめてネジを取ってください。\n"
 msgstr ""
-"Fine, I'll let you do modifications on me \n"
-"if you just remove the key.\n"
+"Fine, I'll let you do modifications on\n"
+" me if you just remove the key.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -449,8 +450,8 @@ msgstr ""
 #: sc/0000:36 
 msgid "いいもん！\nなぜなら、お菓子がいっぱいあるから―！\n"
 msgstr ""
-"Fine! I'll just have\n"
-"snacks for breakfast.\n"
+"Fine! I'll just have snacks for \n"
+"breakfast.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -537,8 +538,8 @@ msgstr ""
 #: sc/0000:43 
 msgid "（何、普通に朝ご飯作ったの、私！？）\n"
 msgstr ""
-"(Wait, how did I end up\n"
-"cooking breakfast like usual!?)\n"
+"(Wait, how did I end up cooking \n"
+"breakfast like usual!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -682,9 +683,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:54 
 msgid "……本当ですか？\n私、いらない子じゃないんですか？\n"
-msgstr ""
-"……Really?\n"
-"I'm not replaceable, am I?\n"
+msgstr "……Really? I'm not replaceable, am I?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -871,8 +870,8 @@ msgstr ""
 #: sc/0000:68 
 msgid "……仕方ないですね。それじゃあ、\n一回だけ新機能を試してもいいですから。\n"
 msgstr ""
-"…Then I guess I have no choice. You can\n"
-"test this function out just this once.\n"
+"…I guess I have no choice. You can\n"
+" test this function out just this once.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -884,7 +883,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:69 
 msgid "はかせお腹減った……。\n"
-msgstr "My tummy is hungry…….\n"
+msgstr "My tummy is hungry……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -962,9 +961,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:75 
 msgid "それじゃあはかせ、早くネジを弌弌\n"
-msgstr ""
-"Now then, Hakase, will\n"
-"you take off the key?\n"
+msgstr "Now, Hakase, hurry and take off the key!\n"
 
 #  speaker 
 #  warnings: 0 
