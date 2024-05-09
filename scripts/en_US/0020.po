@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2024-02-26 06:00+0000\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
 "Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0020/en_US/>\n"
@@ -814,10 +814,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0020:67 
-#, fuzzy
 msgid "ほう、ひと目でわかってもらえたか。\nさすがは立花みさと。\n"
 msgstr ""
-"Ah, glad you understood how it is at first sight. \n"
+"Ah, glad you understood how it is at first sight.\n"
 "As expected of you, Misato Tachibana.\n"
 
 #  speaker 
