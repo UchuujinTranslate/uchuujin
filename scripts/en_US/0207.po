@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2022-09-20 04:27+0000\n"
-"Last-Translator: gilang ramadhan <gil.unx@gmail.com>\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -191,13 +191,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:14 
 msgid "次。３８番。\n"
-msgstr "Next. No. 38\n"
+msgstr "Next. No. 38.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:15 
 msgid "お、おい！　確か３８番は……。\n"
-msgstr "W-wait... isn't No. 38...\n"
+msgstr "W-wait... isn't No. 38...?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -211,7 +211,7 @@ msgstr "#38"
 msgid "ああ、オレだ。\nオレは……オレは通称、下ネタの３８番！\n"
 msgstr ""
 "Oh, it seems that I'm up.\n"
-"You see, mystreet name is…\n"
+"You see, my street name is…\n"
 "dirty joke comedian #38!\n"
 
 #  text 
@@ -219,7 +219,7 @@ msgstr ""
 #: sc/0207:17 
 msgid "下……や、やめろっ！\n消される！　絶対に消されちまう！\n"
 msgstr ""
-"Dirty... S-shut! You'll die!\n"
+"Dirty...? D-don't! You'll die!\n"
 "You'll be absolutely erased!\n"
 
 #  speaker 
@@ -259,7 +259,7 @@ msgstr ""
 #: sc/0207:20 
 msgid "……よし。\nそれじゃまず、俺の育てている芋の話を弌弌\n"
 msgstr ""
-"...Aight. Well then, why don't I first\n"
+"...Alright. Well then, why don't I first\n"
 "talk about my potato farm--\n"
 
 #  speaker 
@@ -368,9 +368,7 @@ msgstr ""
 #  warnings: 4 
 #: sc/0207:32 
 msgid "笑撃地球まる見えテレビか！\n"
-msgstr ""
-"The Laugh Attack ☆ \n"
-"Great Earth TV show!\n"
+msgstr "You can see the entire world on that show!\n"
 
 #  text 
 #  warnings: 1 
@@ -393,14 +391,14 @@ msgstr ""
 #: sc/0207:35 
 msgid "スタジオ船に交渉して放映を前倒しさせろ！\nオレたちの命がかかってるんだ！\n"
 msgstr ""
-"Get in contact with the studio and make\n"
-"it air! Our lives are at stake!\n"
+"Get in contact with the studio and get\n"
+"it on air! Our lives are at stake!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0207:36 
 msgid "スタジオ船の兵隊"
-msgstr "Soldier of the studio"
+msgstr "Studio Soldier"
 
 #  text 
 #  warnings: 0 
@@ -412,7 +410,7 @@ msgstr "Quickly! The situation is urgent!\n"
 #  warnings: 0 
 #: sc/0207:37 
 msgid "通信兵"
-msgstr "Signal corpsman"
+msgstr "Signal Corpsman"
 
 #  text 
 #  warnings: 0 
@@ -487,6 +485,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0207:42 
+#, fuzzy
 msgid "俺たちのエ―ス、通称セクハラの９番！\n金一封でるよ〜、こりゃ。\n"
 msgstr ""
 "Our ace reporter, the perverted #9!\n"
@@ -631,7 +630,7 @@ msgstr "Mio & Takasaki"
 #  warnings: 0 
 #: sc/0207:53 
 msgid "……………………。\n"
-msgstr ".........\n"
+msgstr "........\n"
 
 #  speaker 
 #  warnings: 0 
