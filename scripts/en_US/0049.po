@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2022-12-17 23:28+0000\n"
-"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
+"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0049/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #  speaker 
 #  warnings: 0 
@@ -149,6 +149,8 @@ msgstr ""
 #: sc/0049:9 
 msgid "可愛い〜。\nこのまま連れてっちゃいたいくらい\n"
 msgstr ""
+"Cute~.\n"
+"I want to take her home with me\n"
 
 #  speaker 
 #  warnings: 0 
@@ -161,6 +163,8 @@ msgstr ""
 #: sc/0049:10 
 msgid "えへへへ。\nはかせ、連れてかれちゃう。\n"
 msgstr ""
+"Ehehehe.\n"
+"I'm going to be taken away.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -212,6 +216,8 @@ msgstr ""
 #: sc/0049:14 
 msgid "ねえねえ、はかせはここで何してるの？\n何かの研究なの？\n"
 msgstr ""
+"Hey hey, what are you doing, professor?\n"
+"Are you researching something?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -275,7 +281,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:19 
 msgid "あ〜。なのちゃんのこと？\n"
-msgstr ""
+msgstr "Ahh. Are you talking about Nano?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -287,7 +293,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0049:20 
 msgid "えっ！？　なののこと知ってるの！？\n"
-msgstr ""
+msgstr "Ehh!? You know about nano?\n"
 
 #  speaker 
 #  warnings: 0 
