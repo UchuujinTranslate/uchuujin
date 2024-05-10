@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:23+0000\n"
 "PO-Revision-Date: 2024-05-10 16:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0023/en_US/>\n"
 "Language: en_US\n"
@@ -1232,6 +1232,8 @@ msgstr ""
 #: sc/0023:96 
 msgid "手助けはいらぬということか。\nさすがは立花みさと。\n"
 msgstr ""
+"You don't need any help?\n"
+"As expected from Misato Tachibana\n"
 
 #  speaker 
 #  warnings: 0 
