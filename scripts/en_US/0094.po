@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"PO-Revision-Date: 2024-05-17 20:19+0000\n"
 "Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0094/en_US/>\n"
@@ -931,7 +931,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0094:71 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr "…………\n"
 
 #  speaker 
 #  warnings: 0 
