@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:12+0000\n"
-"PO-Revision-Date: 2024-05-10 16:19+0000\n"
+"PO-Revision-Date: 2024-05-17 20:19+0000\n"
 "Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0074/en_US/>\n"
@@ -66,7 +66,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:3 
 msgid "（えええええええ――っ！？）\n"
-msgstr "(HUUUUUUUUUHHHHH!?)\n"
+msgstr "(EEEEEEEEEHHHHH!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,7 +79,7 @@ msgstr ""
 #: sc/0074:4 
 msgid "な、何あれ……。\n凄い山があるんですけど！！\n"
 msgstr ""
-"W-What's this…….\n"
+"W-What's this……?\n"
 "Uh, there's a gigantic mountain here!!\n"
 
 #  speaker 
@@ -225,6 +225,8 @@ msgstr ""
 #: sc/0074:18 
 msgid "し、失礼します！\nあの、高崎先生いらっしゃいますか？\n"
 msgstr ""
+"E-excuse me!\n"
+"I-Is Takasaki-sensei Here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -249,6 +251,8 @@ msgstr ""
 #: sc/0074:20 
 msgid "そ、そうなんですか……\nありがとうございました。\n"
 msgstr ""
+"I-Is that so...\n"
+"Thank you very much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -259,8 +263,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0074:21 
+#, fuzzy
 msgid "はぁっ、はぁっ……どうしよう。\n一周してきたけど、どこにも居ない……。\n"
 msgstr ""
+"Haa...Ha....What should I do? I've looked everywhere, but I can't seem to "
+"find him...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -285,6 +292,8 @@ msgstr ""
 #: sc/0074:23 
 msgid "どうしよう、このままじゃ中之条くんが！\n中之条くんが授業に遅刻しちゃうんですけど！\n"
 msgstr ""
+"What should I do? If this keeps up,\n"
+"Nakanojo-kun will be late for class!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -296,7 +305,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:24 
 msgid "しかも、私も遅刻しちゃうんですけど！\n"
-msgstr ""
+msgstr "And, I'll be late too!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -716,7 +725,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:59 
 msgid "…………。\n"
-msgstr "………….\n"
+msgstr "…………\n"
 
 #  speaker 
 #  warnings: 0 
