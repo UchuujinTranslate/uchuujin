@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:12+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
+"PO-Revision-Date: 2024-05-20 17:19+0000\n"
 "Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0074/en_US/>\n"
@@ -238,7 +238,7 @@ msgstr "Teacher"
 #  warnings: 0 
 #: sc/0074:19 
 msgid "高崎先生？　……いないみたいだねえ。\n"
-msgstr "Mr. Takasaki? Seems like he's not here.\n"
+msgstr "Takasaki-sensei? Seems like he's not here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -279,7 +279,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0074:22 
 msgid "いつも高崎先生が助けてくれるのに……。\n"
-msgstr "Mr. Takasaki always helps me though…….\n"
+msgstr "Takasaki-sensei always helps me though…\n"
 
 #  speaker 
 #  warnings: 0 
