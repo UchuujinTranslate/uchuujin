@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2024-07-08 17:17+0000\n"
+"Last-Translator: Alex Sherk <drpolpol78@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0128/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr ""
 #: sc/0128:0 
 msgid "困った……というより、しまったのう。\nここはどこなんじゃろう？\n"
 msgstr ""
+"This.....is a problem, damn it.\n"
+"where is this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0128:1 
 msgid "どうやら学校のようじゃが、\nきよしの小学校ではなさそうじゃ……。\n"
 msgstr ""
+"This seems lime a school.\n"
+"It doesnt seem to be Kiyoshi's primary school\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +52,7 @@ msgstr "Nano"
 #  warnings: 0 
 #: sc/0128:2 
 msgid "あの、もしかして……。\n"
-msgstr ""
+msgstr "Um, maybe....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0128:3 
 msgid "ん？　おや、お嬢さん、また会いましたな。\n"
-msgstr ""
+msgstr "Hm? Hello, young lady, we meet again.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +77,8 @@ msgstr ""
 #: sc/0128:4 
 msgid "は、はい！\nこの前はお世話になりました！\n"
 msgstr ""
+"Y-Yes!\n"
+"Thanks for your help earlier!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +91,8 @@ msgstr ""
 #: sc/0128:5 
 msgid "なぁに、紳士として\n当然のことをしたまでじゃ。\n"
 msgstr ""
+"Well, as a gentleman\n"
+"I did what was expected of me\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0128:6 
 msgid "それよりお嬢さん、\nここは一体どこなんじゃろうか？\n"
 msgstr ""
+"Anyway, young lady\n"
+"where on earth are we?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +118,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0128:7 
 msgid "はい？　ここは時定高校ですけど……？\n"
-msgstr ""
+msgstr "Yes? This is tokisadame highschool, but......?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +131,8 @@ msgstr ""
 #: sc/0128:8 
 msgid "いや、ちょっと迷い込んでしまってのう。\n出口まで案内してもらえんじゃろうか？\n"
 msgstr ""
+"No, im a little lost.\n"
+"Could you please show me the exit?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +145,8 @@ msgstr ""
 #: sc/0128:9 
 msgid "あっ、そうだったんですか。\nじゃあ、こちらにどうぞ。\n"
 msgstr ""
+"Ahh, is that so?\n"
+"Then, follow me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +158,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0128:10 
 msgid "わ―――！？\n"
-msgstr ""
+msgstr "Waaa!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +183,8 @@ msgstr ""
 #: sc/0128:12 
 msgid "うう……\nなんでこんなところに落とし穴が……？\n"
 msgstr ""
+"Oohh.....\n"
+"Why is there a pitfall here....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +196,7 @@ msgstr "Nakamura-sensei"
 #  warnings: 0 
 #: sc/0128:13 
 msgid "よし！　東雲なの捕獲作戦成功！\n"
-msgstr ""
+msgstr "Alright! The operation to capture Nano Shinonome was a success!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -191,8 +207,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0128:14 
+#, fuzzy
 msgid "うわ―っ！？\n"
-msgstr ""
+msgstr "Woww!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +234,8 @@ msgstr "Ms. Nakamura"
 #: sc/0128:16 
 msgid "し、しまった……！\n保険でいくつか掘ってたんだった……！\n"
 msgstr ""
+"D-Damn it......!\n"
+"I dug up some for insurance.....!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +247,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0128:17 
 msgid "……………………！？\n"
-msgstr ""
+msgstr "……………………！？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +260,8 @@ msgstr ""
 #: sc/0128:18 
 msgid "今度はこっちのお嬢さんまで落とし穴に……\n一体、この学校はどうなっとるんじゃ。\n"
 msgstr ""
+"Now the young lady has fallen into the pitfall too......\n"
+"What on earth is happening at this school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,6 +274,8 @@ msgstr ""
 #: sc/0128:19 
 msgid "……いいや、それよりも助けを呼びにいかねば。\nじゃが、下手に動けば落ちてしまう……。\n"
 msgstr ""
+"......N-no, i need to call for help instead.\n"
+"However, if i don't watch my step, i'll fall.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,6 +300,8 @@ msgstr "Gentleman"
 #: sc/0128:21 
 msgid "おお……バディ！\n助けに来てくれたのか？\n"
 msgstr ""
+"Ohh.....Buddy!\n"
+"Did you come to help?\n"
 
 #  speaker 
 #  warnings: 15 
