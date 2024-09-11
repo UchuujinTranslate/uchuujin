@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2018-09-19 01:01+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
-"Language-Team: English (United States) <https://weblate.lolc.at/projects/"
-"uchuujin/script-0213/en_US/>\n"
+"PO-Revision-Date: 2024-09-12 17:24+0000\n"
+"Last-Translator: FelipePlayzYT <eduardodelphinodepaula@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.colebob9.net/"
+"projects/uchuujin/script-0213/en_US/>\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "#42"
 #: sc/0213:0 
 msgid "さて、いよいよ最後の説明だ。\n心して聞いてくれ。\n"
 msgstr ""
+"Now, it's time for the final explanation.\n"
+"Listen with an open mind.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0213:1 
 msgid "それでは地球人たちの人気に関わる、\nル―ルの説明をさせてもらうぞ。\n"
 msgstr ""
+"Now, let me explain the rules,\n"
+"Let me explain the rules.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0213:2 
 msgid "地球人たちの人気に関わるル―ルで\n他に説明を聞きたいことはあるか？\n"
 msgstr ""
+"In the rules concerning the popularity of the people of the earth.\n"
+"Is there anything else you would like to explain?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0213:3 
 msgid "以前に説明した通り、ＫＨＵＤ中継によって\nメイン地球人の人気がアップする。\n"
 msgstr ""
+"As previously explained, the KHUD relay will\n"
+"increase the popularity of the main earthlings.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +81,8 @@ msgstr ""
 #: sc/0213:4 
 msgid "ゲスト地球人もＫＨＵＤに登場することで、\n人気アップの可能性が生まれるのだが弌弌\n"
 msgstr ""
+"By having guest earthlings also appear on KHUD,\n"
+"the possibility of increasing the popularity of KHUD.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +95,8 @@ msgstr ""
 #: sc/0213:5 
 msgid "ＫＨＵＤの情報部分をよく見て欲しい。\nゲストには赤、緑、青の３色の部分がある。\n"
 msgstr ""
+"I want you to look closely at the information section of the KHUD.\n"
+"The guest has three colored portions: red, green, and blue.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +109,8 @@ msgstr ""
 #: sc/0213:6 
 msgid "この３色の部分は投票が行われる際に、\nそれぞれの空気の下部分にも表示される。\n"
 msgstr ""
+"These three colored areas are when the voting takes place,\n"
+"also appear in the lower portion of each air.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +122,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0213:7 
 msgid "……気付いてくれたようだな。\n"
-msgstr ""
+msgstr "I see you noticed.......\n"
 
 #  speaker 
 #  warnings: 2 
@@ -121,6 +135,8 @@ msgstr ""
 #: sc/0213:8 
 msgid "そう、Ｆ・９・Ｂ・Ｊ・Ｘシステムの\n３つの空気に対応しているわけだ。\n"
 msgstr ""
+"Yes, the F, 9, B, J, and X systems.\n"
+"So we are dealing with three airs.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +149,9 @@ msgstr ""
 #: sc/0213:9 
 msgid "これは空気の効果で地球人たちの展開が\n変化するためだが弌弌ともかく。\n"
 msgstr ""
+"This is due to the effect of the air on the development of the earthlings.\n"
+"This is because of the effect of the air on the development of the "
+"earthlings, but in any case.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -145,6 +164,9 @@ msgstr ""
 #: sc/0213:10 
 msgid "人気の上がるゲストは投票で対象が変化する\nこれは覚えておいてくれ。\n"
 msgstr ""
+"Guests who increase in popularity are subject to change in the voting "
+"process.\n"
+"Remember this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +179,8 @@ msgstr ""
 #: sc/0213:11 
 msgid "ちなみに、ゲストでアップする人気は、\nメインで出演する時よりも当然ながら低い。\n"
 msgstr ""
+"By the way, the popularity of guest appearances up,\n"
+"naturally lower than when appearing in the main course.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +193,8 @@ msgstr ""
 #: sc/0213:12 
 msgid "だが、ゲストの回数が多ければ、\n無視が出来ない結果になってくるぞ。\n"
 msgstr ""
+"But if you guest too often,\n"
+"You're going to get results you can't ignore.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +207,9 @@ msgstr ""
 #: sc/0213:13 
 msgid "プロデュ―サ―としてプッシュしたい地球人が\nいる場合、そのことも忘れないようにな。\n"
 msgstr ""
+"If there is an earthling you want to push as a producer\n"
+"If there are people on earth who want to push you as a producer, don't "
+"forget that, too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,6 +222,8 @@ msgstr ""
 #: sc/0213:14 
 msgid "アンテナ装着者には、\nそれぞれが持つ個性がある。\n"
 msgstr ""
+"For antenna wearers,\n"
+"Each has its own unique personality.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -205,6 +236,8 @@ msgstr ""
 #: sc/0213:15 
 msgid "例えば阪本を装着者に選んだ場合、\nメイン地球人のアップする人気が大きくなる。\n"
 msgstr ""
+"For example, if you choose Sakamoto as the wearer,\n"
+"the popularity of the main earthling's upswing will be greater.\n"
 
 #  speaker 
 #  warnings: 4 
@@ -217,6 +250,9 @@ msgstr ""
 #: sc/0213:16 
 msgid "バディであればゲストの人気。校長で\nあれば投票の票数が上がりやすくなる。\n"
 msgstr ""
+"Popularity of guests if they are buddies. If you are a principal\n"
+"If you are the principal, it is easier to increase the number of votes in "
+"the polls.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +264,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0213:17 
 msgid "装着者の個性は投票中にも表示される。\n"
-msgstr ""
+msgstr "The wearer's personality is also displayed during the voting process.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,6 +277,9 @@ msgstr ""
 #: sc/0213:18 
 msgid "装着者の個性効果によっては、その場でどう\nするかを考え直してもいいかもしれないな。\n"
 msgstr ""
+"Depending on the personality effects of the wearer, I'm not sure what to do "
+"on the spot.\n"
+"I might reconsider what to do on the spot.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +291,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0213:19 
 msgid "最後の説明だったんだが……まあいい。\n"
-msgstr ""
+msgstr "That was the last explanation I had. ...... Well, okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,3 +304,5 @@ msgstr ""
 #: sc/0213:20 
 msgid "これでもう伝えることは無いはずだ。\n全力でいい番組を作ってくれ！！\n"
 msgstr ""
+"Now there should be nothing more to tell.\n"
+"Give it your all and make a good show!!\n"
