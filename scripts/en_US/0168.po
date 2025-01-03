@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:18+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-04 00:24+0000\n"
+"Last-Translator: ruuku RUUKU <mr.meme.com.09@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0168/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +48,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:2 
 msgid "何だよ水上、どこの国の挨拶だ？\n"
-msgstr ""
+msgstr "What was that Minakami, which country is that greeting from?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:3 
 msgid "……南ベラル―シの方言で、こんばんは。\n"
-msgstr ""
+msgstr "......In the southern Belarusian dialect it means good evening.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:4 
 msgid "マジで？　水上変わった言葉知ってんだな。\n"
-msgstr ""
+msgstr "Really? Minakami you sure do know a lot of unusual words.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,8 @@ msgstr ""
 #: sc/0168:5 
 msgid "冗談。\n本当はインドネシア語。\n"
 msgstr ""
+"It was a joke.\n"
+"It's actually Indonesian.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +111,8 @@ msgstr ""
 #: sc/0168:7 
 msgid "あそこ。\nスカ―フをして、アンテナをつけた猫が。\n"
 msgstr ""
+"Over there.\n"
+"The cat wearing a scarf and with an antenna attached.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -119,8 +123,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0168:8 
+#, fuzzy
 msgid "おいおい、水上〜。\nさすがにその冗談はバレバレだって。\n"
 msgstr ""
+"Wait a minute Minakami~.\n"
+"As expected that joke is quite obvious.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +139,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:9 
 msgid "今度は本当。ほら。\n"
-msgstr ""
+msgstr "This time it's real. Look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -144,7 +151,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:10 
 msgid "うわっ、マジだ！\n"
-msgstr ""
+msgstr "What on earth, for real!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +162,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0168:11 
+#, fuzzy
 msgid "……そしてこのアンテナは簡単に折れる。\n"
-msgstr ""
+msgstr "......And then this antenna simply snapped.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +188,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:13 
 msgid "ほら。\n"
-msgstr ""
+msgstr "Look.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -198,7 +206,7 @@ msgstr "Huh?\n"
 #  warnings: 1 
 #: sc/0168:15 
 msgid "……は、ははっ、折られちゃったよ。\n"
-msgstr ""
+msgstr "......Ha, hahaa, it got broken.\n"
 
 #  text 
 #  warnings: 1 
@@ -242,7 +250,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:20 
 msgid "ところで次の授業なんだっけ？\n"
-msgstr ""
+msgstr "By the way, what is the next class?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -255,6 +263,8 @@ msgstr ""
 #: sc/0168:21 
 msgid "え―っと、なんか中村がまた倒れたとかで\n自習って聞いたぜ。\n"
 msgstr ""
+"Uhmm, I heard something about that Nakamura collapsed again\n"
+"so I heard it's self-study.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -267,6 +277,8 @@ msgstr ""
 #: sc/0168:22 
 msgid "へぇ、大変だね。\nところで次の授業なんだっけ。\n"
 msgstr ""
+"Huh, that's terrible.\n"
+"By the way, what is the next class?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -290,7 +302,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0168:24 
 msgid "……田中ァァァッ！\n"
-msgstr ""
+msgstr "......Tanakaaaa!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -410,8 +422,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0168:34 
+#, fuzzy
 msgid "謝って済む問題か！\nむしろ謝れ！　麻衣ちゃんに謝れ！！\n"
 msgstr ""
+"Is it a problem of apologizing enough?!\n"
+"Or rather, apologize! Apologize to Mio!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -422,8 +437,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0168:35 
+#, fuzzy
 msgid "ゴ、ゴメン水上。\n"
-msgstr ""
+msgstr "So- sorry Minakami.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -435,7 +451,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0168:36 
 msgid "別に構わない。\n"
-msgstr ""
+msgstr "I don't mind.\n"
 
 #  speaker 
 #  warnings: 0 
