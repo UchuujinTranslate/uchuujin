@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:03+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-06 20:24+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0147/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Daiku"
 #: sc/0147:0 
 msgid "は―、体育の後はノドかわくな―。\nこんな時はコ―ラ一気飲みに限るよ。\n"
 msgstr ""
+"Phew, gym class made me thirsty.\n"
+"In times like these, all I need is to chug some cola.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0147:1 
 msgid "え―っと、次の授業は数学だったな。\nあ―、そういや宿題出てたっけ。\n"
 msgstr ""
+"Let's see, math class is next, right?\n"
+"Speaking of which, we had homework.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0147:2 
 msgid "……あれ？\nうちの部のポスタ―が新しくなってる。\n"
 msgstr ""
+"...Huh?\n"
+"Someone put up a new poster for our club.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,8 @@ msgstr ""
 #: sc/0147:3 
 msgid "関口が新しいの用意してくれたのか？\n今度聞いとくか。\n"
 msgstr ""
+"Did Sekiguchi make a new one?\n"
+"I'll ask her when I see her.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +80,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0147:4 
 msgid "さ―て、コ―ラコ―ラ。\n"
-msgstr ""
+msgstr "Now, let's get a cola.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +92,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0147:5 
 msgid "く……っ、まさかコ―ラが売り切れてるとは。\n"
-msgstr ""
+msgstr "Ugh... I didn't know all the cola was sold out.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +105,8 @@ msgstr ""
 #: sc/0147:6 
 msgid "この悔しさは後で面白ト―クとして\n関口に伝えて……あれ？\n"
 msgstr ""
+"I can have a fun chat about this annoying situation with \n"
+"Sekiguchi later... Huh?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,6 +119,8 @@ msgstr ""
 #: sc/0147:7 
 msgid "あんな所に猫が……\nポスタ―を見てるぞ。\n"
 msgstr ""
+"The cat from earlier.....\n"
+"Is looking at the poster.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,6 +133,8 @@ msgstr ""
 #: sc/0147:8 
 msgid "はっ、まさか！！\nポスタ―を爪でビリビリにする気か！？\n"
 msgstr ""
+"Woah, no way!\n"
+"He's going to rip the poster with his claws!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,37 +146,37 @@ msgstr ""
 #  warnings: 0 
 #: sc/0147:9 
 msgid "させるかっ！！\n"
-msgstr ""
+msgstr "I won't let that happen!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:10 
 msgid "タ―ゲット、こちらへ高速で接近中！！\n"
-msgstr ""
+msgstr "I'm going to get you at high speed!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:11 
 msgid "撤退急げ！！\n"
-msgstr ""
+msgstr "Hurry up and scram!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:12 
 msgid "駄目です、間に合いません！！\n"
-msgstr ""
+msgstr "No, I couldn't get him in time!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:13 
 msgid "くそっ、やられる！？\n"
-msgstr ""
+msgstr "Crap, I've been beaten!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:14 
 msgid "いや……これは！！\n"
-msgstr ""
+msgstr "No.... this is-!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -175,24 +189,26 @@ msgstr ""
 #: sc/0147:15 
 msgid "ほら、こんなトコに居ちゃ駄目だぞ。\n先生たちに見つかる前に逃げるんだ―。\n"
 msgstr ""
+"Come on, you're not allowed here.\n"
+"You need to leave before the teachers catch you.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:16 
 msgid "タ―ゲット、外へ逃がしてくれました。\n"
-msgstr ""
+msgstr "I'll let you go free.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:17 
 msgid "……何だ、いいやつじゃないか。\n"
-msgstr ""
+msgstr "Wow, what a nice guy.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0147:18 
 msgid "取り越し苦労でしたね。\n"
-msgstr ""
+msgstr "Sorry to worry you like that.\n"
 
 #  text 
 #  warnings: 1 
