@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:04+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-06 20:24+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0148/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0148:0 
 msgid "今日も疲れたよな―、関口。\n"
-msgstr ""
+msgstr "I'm exhausted today, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0148:1 
 msgid "って今日は歯医者で先に帰ったんだっけ。\nつい、居ないヤツに話しかけちゃったよ―。\n"
 msgstr ""
+"I just came back from the dentist earlier today.\n"
+"And just now, I was talking to someone that wasn't even there.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +488,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:41 
 msgid "大工……。\n"
-msgstr ""
+msgstr "Daiku...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -546,7 +548,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0148:46 
 msgid "なんですか部長。\n"
-msgstr ""
+msgstr "What is it, Prez?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +560,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:47 
 msgid "うわっ、マジで出た。\n"
-msgstr ""
+msgstr "Woah, you appeared.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -570,7 +572,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:48 
 msgid "呼ばれましたから。\n"
-msgstr ""
+msgstr "Because you called me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -583,6 +585,8 @@ msgstr ""
 #: sc/0148:49 
 msgid "え―っと、じゃあ遊ぼう！\nそこの鹿とヤギに乗ってレ―スだ！\n"
 msgstr ""
+"Hmm, let's play!\n"
+"Let's have a race riding on those goats over there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,6 +611,8 @@ msgstr ""
 #: sc/0148:51 
 msgid "あっはっは。\n楽しいなぁ関口―。\n"
 msgstr ""
+"Hahaha.\n"
+"This is fun, Sekiguchi\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +624,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:52 
 msgid "そうですね、すごく楽しいです。\n"
-msgstr ""
+msgstr "That's true. This is really fun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -631,6 +637,8 @@ msgstr ""
 #: sc/0148:53 
 msgid "なんかアレだな。\n夢なんだけどデ―トしてるみたいだな。\n"
 msgstr ""
+"I don't know what's going on.\n"
+"Even though I'm dreaming, it feels like a date.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +650,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:54 
 msgid "そうですね。デ―トですね。\n"
-msgstr ""
+msgstr "That's right. It's a date.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -655,6 +663,8 @@ msgstr ""
 #: sc/0148:55 
 msgid "むにゃむにゃ……まあ夢だし……\n何でもアリだし……むにゃ……。\n"
 msgstr ""
+"Mngh.. well, it was a dream....\n"
+"Anything is possible... mngh...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -679,6 +689,8 @@ msgstr ""
 #: sc/0148:57 
 msgid "（ゆ、夢でデ―ト……！\n　夢ならなんでもアリ…………！！）\n"
 msgstr ""
+"(A date in your dream...!\n"
+"Anything can happen in a dream....!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -691,6 +703,8 @@ msgstr ""
 #: sc/0148:58 
 msgid "（その方法があった……！\n　夢なら桜井先生とデ―トしても良い……！）\n"
 msgstr ""
+"(So there's a way...\n"
+"If I'm dreaming, I can go on a date with Sakurai-sensei...!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -703,6 +717,8 @@ msgstr ""
 #: sc/0148:59 
 msgid "おまえら！　授業は自習だ！\n先生は寝るぞ！！\n"
 msgstr ""
+"Class! Today's lesson is self-study!\n"
+"I'm going to sleep!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -726,7 +742,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:61 
 msgid "なるほど、新しい店員さんだな。\n"
-msgstr ""
+msgstr "I see, you're a new employee.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +754,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:62 
 msgid "すみませ―ん、注文お願いします。\n"
-msgstr ""
+msgstr "Excuse me, I'd like to order.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -762,7 +778,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:64 
 msgid "あの、注文。\n"
-msgstr ""
+msgstr "Um, my order.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -774,7 +790,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:65 
 msgid "なんだよ、愛想悪い店員だなぁ。\n"
-msgstr ""
+msgstr "What an unfriendly employee.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -786,7 +802,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:66 
 msgid "すみません、注文お願いします。\n"
-msgstr ""
+msgstr "Excuse me, I would like to order.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -811,6 +827,8 @@ msgstr ""
 #: sc/0148:68 
 msgid "こっちもかよ！\nも―、あんな店員雇うなよ……。\n"
 msgstr ""
+"Again!\n"
+"Man, stop hiring people like this...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -822,7 +840,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:69 
 msgid "しょうがない、自分で亞れるか。\n"
-msgstr ""
+msgstr "It's no use, I guess I have to do it myself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -834,7 +852,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:70 
 msgid "大工、注文していいか？\n"
-msgstr ""
+msgstr "Daiku, would you like to order?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -847,6 +865,8 @@ msgstr ""
 #: sc/0148:71 
 msgid "あ、先生。今店員いないんだけど……\nま、いっか。じゃあ先生、何がほしいの？\n"
 msgstr ""
+"Ah, sensei. Just now there was no server here...\n"
+"Well, whatever. Hey sensei, what would you like?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +878,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:72 
 msgid "コ―ヒ―とキノコと仄のキッシュを２つ。\n"
-msgstr ""
+msgstr "A coffee and two mushroom quiches.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +890,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:73 
 msgid "は―い。え―と、８００円です。\n"
-msgstr ""
+msgstr "Okay. that'll be 800 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +902,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:74 
 msgid "いただき！！\n"
-msgstr ""
+msgstr "I'll be taking this!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -895,6 +915,8 @@ msgstr ""
 #: sc/0148:75 
 msgid "あっ！　お金まだだよ！\n高崎先生！　無銭飲食だよ！\n"
 msgstr ""
+"Hey! You haven't paid yet!\n"
+"Takasaki-sensei! You can't just dine and dash!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +928,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0148:76 
 msgid "ひで―……教師のくせに……。\n"
-msgstr ""
+msgstr "For a teacher, that was pretty bad...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,7 +940,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0148:77 
 msgid "お、おい、大工……何を言って弌弌\n"
-msgstr ""
+msgstr "Hey, Daiku, what are you talking about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -930,7 +952,7 @@ msgstr "Male student #2"
 #  warnings: 0 
 #: sc/0148:78 
 msgid "……マジ……かよ。\n"
-msgstr ""
+msgstr "Seriously...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -942,7 +964,7 @@ msgstr "Female student #1"
 #  warnings: 0 
 #: sc/0148:79 
 msgid "高崎先生、無銭飲食したんだ……。\n"
-msgstr ""
+msgstr "Takasaki-sensei, you dined and dashed...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +976,7 @@ msgstr "All Classmates"
 #  warnings: 0 
 #: sc/0148:80 
 msgid "サイテ―。\n"
-msgstr ""
+msgstr "That's awful.\n"
 
 #  speaker 
 #  warnings: 0 
