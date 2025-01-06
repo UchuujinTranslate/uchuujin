@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2023-09-30 04:30+0000\n"
-"Last-Translator: Charles Jackson Hiter <jackson.hiter@gmail.com>\n"
+"PO-Revision-Date: 2025-01-07 21:24+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0070/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Sekiguchi"
 #: sc/0070:0 
 msgid "やっとお昼……。\n何だかもう１日分、動いた気がする……。\n"
 msgstr ""
+"Finally it's lunch time....\n"
+"I feel like I've done a day's worth of exercise.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0070:1 
 msgid "でも、何とか部長は戻ってこれたし、\n一安心かな。\n"
 msgstr ""
+"But Prez was able to come back,\n"
+"so that's a relief.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +53,8 @@ msgstr ""
 #: sc/0070:2 
 msgid "部室でご飯食べて、\nお昼からはゆっくりしたいな。\n"
 msgstr ""
+"I want to eat lunch in the clubroom\n"
+"and just relax this afternoon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -99,6 +105,8 @@ msgstr ""
 #: sc/0070:6 
 msgid "どうしてって昼メシに決まってるだろ。\nもう腹ペコで死にそうだよ！\n"
 msgstr ""
+"Why, because it's lunch, of course!\n"
+"I'm starving to death!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -111,6 +119,8 @@ msgstr ""
 #: sc/0070:7 
 msgid "先に食べてれば良かったじゃないですか。\n別に約束なんてしてませんし。\n"
 msgstr ""
+"You should have eaten earlier.\n"
+"It's not like we made plans for lunch.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -123,6 +133,8 @@ msgstr ""
 #: sc/0070:8 
 msgid "いや―、何か今日は関口と食いたい気分でさ。\n邪魔だったか？\n"
 msgstr ""
+"Well, I felt like eating with you today.\n"
+"If it doesn't bother you?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -134,7 +146,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:9 
 msgid "え……っと、別に邪魔ではないですけど。\n"
-msgstr ""
+msgstr "Um... It's not that it would bother me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -147,6 +159,8 @@ msgstr ""
 #: sc/0070:10 
 msgid "じゃあ早速メシにしようぜ！\nもう腹減って死にそうなんだよ。\n"
 msgstr ""
+"Then let's hurry up and eat!\n"
+"I'm already dying of hunger.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -206,7 +220,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:15 
 msgid "私のお弁当が無いんです。\n"
-msgstr ""
+msgstr "My lunch is gone.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -252,7 +266,7 @@ msgstr "…………It is.\n"
 #  warnings: 1 
 #: sc/0070:19 
 msgid "おい、何やってんだ！\n"
-msgstr ""
+msgstr "Hey, what are you doing!\n"
 
 #  text 
 #  warnings: 1 
@@ -300,7 +314,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:25 
 msgid "相変わらず豪華ですよね、部長のお弁当。\n"
-msgstr ""
+msgstr "Prez, your lunch looks fancy as ever.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +326,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:26 
 msgid "ん―、そうか？\n"
-msgstr ""
+msgstr "Hmm, really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,6 +339,8 @@ msgstr ""
 #: sc/0070:27 
 msgid "関口の弁当こそ、うまそうだぞ？\nなんていうか、いかにもお弁当って感じ。\n"
 msgstr ""
+"Doesn't your lunch look pretty good too?\n"
+"I mean, it really has that bento feel.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -337,6 +353,8 @@ msgstr ""
 #: sc/0070:28 
 msgid "そうですか？\n確かに今日は彩りよくできたと思いますけど。\n"
 msgstr ""
+"Really?\n"
+"Well, I do think I did a good job with the colors today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -348,7 +366,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:29 
 msgid "え、関口コレ自分で作ったの？\n"
-msgstr ""
+msgstr "Wait, did you make it yourself?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -360,7 +378,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:30 
 msgid "そうですけど。\n"
-msgstr ""
+msgstr "I did.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,6 +391,8 @@ msgstr ""
 #: sc/0070:31 
 msgid "マジで！？\n関口、ちょっとおかず交換しようぜ！？\n"
 msgstr ""
+"Seriously!?\n"
+"Sekiguchi, can we trade some side dishes!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -384,7 +404,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:32 
 msgid "どれがいいですか？\n"
-msgstr ""
+msgstr "Which one would you like?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -396,7 +416,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:33 
 msgid "んじゃ玉子焼きも―らい。\n"
-msgstr ""
+msgstr "I'll take a rolled omelette.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -408,7 +428,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:34 
 msgid "んぐ、むぐむぐ……。\n"
-msgstr ""
+msgstr "Ng, mugu mugu....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -420,7 +440,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:35 
 msgid "どうですか？\n"
-msgstr ""
+msgstr "What do you think?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -433,6 +453,8 @@ msgstr ""
 #: sc/0070:36 
 msgid "お、うまい！\nすっげえうまいんだけどコレ！！\n"
 msgstr ""
+"Woah, it's good!\n"
+"This is really tasty!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +466,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:37 
 msgid "良かった、実は自信作なんです。\n"
-msgstr ""
+msgstr "I'm glad, because that's actually my specialty.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,6 +479,8 @@ msgstr ""
 #: sc/0070:38 
 msgid "なるほど、うまいわけだ。\nでもアレだよな弌弌\n"
 msgstr ""
+"I see, that's why it's so good.\n"
+"But there's just one thing\n"
 
 #  speaker 
 #  warnings: 0 
@@ -468,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:39 
 msgid "弁当に甘い玉子焼きって珍しいよな。\n"
-msgstr ""
+msgstr "It's rare to put a sweet omelette in a bento box.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +504,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:40 
 msgid "しょっぱい方が邪道です。\n"
-msgstr ""
+msgstr "Making them salty is the wrong way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -493,6 +517,8 @@ msgstr ""
 #: sc/0070:41 
 msgid "いやいや、米食うんだから\nしょっぱい味の方が普通だろ。\n"
 msgstr ""
+"No, no, you eat it with rice,\n"
+"so a salty taste is normal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -504,7 +530,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:42 
 msgid "お米は甘いものでも美味しく食べられます。\n"
-msgstr ""
+msgstr "Rice can also taste good with sweet things.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,6 +543,8 @@ msgstr ""
 #: sc/0070:43 
 msgid "いや、ソレは変だろ。\nここは部長として譲らないぞ。\n"
 msgstr ""
+"No, that's weird.\n"
+"As president, I'm not backing down on this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +556,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:44 
 msgid "私も譲りません。\n"
-msgstr ""
+msgstr "I'm also not backing down.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +568,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:45 
 msgid "しょっぱい方が普通だって！\n"
-msgstr ""
+msgstr "I said the salty way is more normal!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -552,7 +580,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:46 
 msgid "甘い方です。\n"
-msgstr ""
+msgstr "No, sweet is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:47 
 msgid "しょっぱい！\n"
-msgstr ""
+msgstr "Salty!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -576,7 +604,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:48 
 msgid "甘い。\n"
-msgstr ""
+msgstr "Sweet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,6 +617,8 @@ msgstr ""
 #: sc/0070:49 
 msgid "くっ、強情だな……。\n玉子焼きといえばソ―ス味が基本なのに！\n"
 msgstr ""
+"Agh, you're stubborn....\n"
+"When it comes to omelettes, sauce is essential!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +643,8 @@ msgstr ""
 #: sc/0070:51 
 msgid "よし、今度オレが作って持ってきてやる！\nそれを食えば関口も考えが変わるはずだ！\n"
 msgstr ""
+"Okay, next time I'll make it and bring it!\n"
+"I'm sure you'll change your mind if you try it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +656,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:52 
 msgid "部長、ちょっと待弌弌\n"
-msgstr ""
+msgstr "Prez, wait-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -636,7 +668,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:53 
 msgid "その日が楽しみだぜ！！\n"
-msgstr ""
+msgstr "I'm looking forward to it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +680,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:54 
 msgid "（ダメだ……これは、逃げられなさそう）\n"
-msgstr ""
+msgstr "(Crap... I can't get out of this now)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:56 
 msgid "お、じゃあハンバ―グも―らい。\n"
-msgstr ""
+msgstr "I'll take some of your hamburger steak.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -709,6 +741,8 @@ msgstr ""
 #: sc/0070:59 
 msgid "……な、なんていうんだ？\nオリジナリティ溢れてるというか。\n"
 msgstr ""
+"W-what can I say?\n"
+"I guess it's full of originality.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -721,6 +755,8 @@ msgstr ""
 #: sc/0070:60 
 msgid "げふっ！　あ―、え―っと……\nこの味はちょっと真似できないな。\n"
 msgstr ""
+"Geugh! Um, well...\n"
+"This flavour is unlike any other.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -733,6 +769,8 @@ msgstr ""
 #: sc/0070:61 
 msgid "噛むと生や……生しい肉汁が出てきて。\nう、うん……うまいよ。\n"
 msgstr ""
+"With every bite you can taste... raw meat juice.\n"
+"Y-yeah, it's so tasty.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -745,6 +783,8 @@ msgstr ""
 #: sc/0070:62 
 msgid "良かった。\n実はハンバ―グは少し不安だったんです。\n"
 msgstr ""
+"I'm glad.\n"
+"Actually, I was a little nervous about making hamburger steak.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -757,6 +797,8 @@ msgstr ""
 #: sc/0070:63 
 msgid "そんなにおいしいなら\n私もハンバ―グから……。\n"
 msgstr ""
+"If it's that good,\n"
+"I'll also have some....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -769,6 +811,8 @@ msgstr ""
 #: sc/0070:64 
 msgid "あ―っと！\nちょっと待て関口！！\n"
 msgstr ""
+"Wait!\n"
+"Hold on, Sekiguchi!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +824,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:65 
 msgid "悪いんだがコレはオレのものだ！\n"
-msgstr ""
+msgstr "Sorry, but I'll be having the rest!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -804,7 +848,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:67 
 msgid "気に入った！　だから全部くれ！\n"
-msgstr ""
+msgstr "I really liked it! Let me have the rest!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -817,6 +861,8 @@ msgstr ""
 #: sc/0070:68 
 msgid "それはいいですけど、\nそんなに気に入ったんですか？\n"
 msgstr ""
+"That's alright but do you \n"
+"really like it that much?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -828,7 +874,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:69 
 msgid "ああ、こんなの食ったことないぜ！\n"
-msgstr ""
+msgstr "Yeah, I've never tasted anything like it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -840,7 +886,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:70 
 msgid "でしたら、また作ってきます。\n"
-msgstr ""
+msgstr "In that case, I'll make it again next time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -864,7 +910,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:72 
 msgid "……よ、よろしく。\n"
-msgstr ""
+msgstr "....Can't wait.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -888,7 +934,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:74 
 msgid "え―、ちょっとぐらいいいじゃん。\n"
-msgstr ""
+msgstr "Whaat, just let me have a little.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -900,7 +946,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:75 
 msgid "自分用に作ってきたお弁当ですから。\n"
-msgstr ""
+msgstr "I made it for myself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -912,7 +958,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:76 
 msgid "どうしてもか？\n"
-msgstr ""
+msgstr "Why not?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -924,7 +970,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:77 
 msgid "ダメです。\n"
-msgstr ""
+msgstr "No.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -936,7 +982,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:78 
 msgid "……ちえ―。\n"
-msgstr ""
+msgstr "Tch.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -949,6 +995,8 @@ msgstr ""
 #: sc/0070:79 
 msgid "まあいいや、\nしょうがないから自分の弁当でも食うかな。\n"
 msgstr ""
+"Oh well,\n"
+"I guess I'll just eat my own then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -961,6 +1009,8 @@ msgstr ""
 #: sc/0070:80 
 msgid "今日も惣菜〜、明日は仕出し〜。\n薄味仕立ての親の愛〜っと。\n"
 msgstr ""
+"Prepared food today~, side dish tomorrow~.\n"
+"Lightly seasoned and filled with a parent's love~.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -997,6 +1047,8 @@ msgstr ""
 #: sc/0070:83 
 msgid "また今度、改めて部長用に作るのは\n大丈夫なんですけど。\n"
 msgstr ""
+"Next time, I can make one\n"
+"for you if you want.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1009,6 +1061,8 @@ msgstr ""
 #: sc/0070:84 
 msgid "マジで！？\n頼むよ！　是非頼む！！\n"
 msgstr ""
+"Really!?\n"
+"I'd love that! Absolutely!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1033,6 +1087,8 @@ msgstr ""
 #: sc/0070:86 
 msgid "いや―、まさかの逆転ホ―ムランだよ。\nそれにしてももったいぶるじゃないか。\n"
 msgstr ""
+"Well, I changed your mind in the end.\n"
+"There was no need for all that fuss.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1056,7 +1112,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0070:88 
 msgid "別料金！？\n"
-msgstr ""
+msgstr "Extra charge!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1068,4 +1124,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0070:89 
 msgid "違います。\n"
-msgstr ""
+msgstr "That's not it.\n"
