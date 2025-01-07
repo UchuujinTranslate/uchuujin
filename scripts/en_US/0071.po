@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-07 21:25+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0071/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -25,6 +25,8 @@ msgstr "Daiku"
 #: sc/0071:0 
 msgid "よ―し、練習開始だ！\nまずはリフティングから！\n"
 msgstr ""
+"Alright, let's start practicing!\n"
+"Let's start with lifting!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +51,8 @@ msgstr "Sekiguchi"
 #: sc/0071:2 
 msgid "（部長の方が初心者なのに。\n　なんか不思議な感じ）\n"
 msgstr ""
+"(But Prez is a beginner.\n"
+"This is a little strange)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +65,8 @@ msgstr ""
 #: sc/0071:3 
 msgid "おっと！\n悪い関口、ボ―ル取ってくれ。\n"
 msgstr ""
+"Oops!\n"
+"Sorry Sekiguchi, can you pass the ball?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:5 
 msgid "サンキュ―。\n"
-msgstr ""
+msgstr "Thanks.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +103,8 @@ msgstr ""
 #: sc/0071:6 
 msgid "（ううん初心者なのによりも、むしろ部長が\n　真面目に練習しているのが不思議かも……）\n"
 msgstr ""
+"(No, even more than him being a beginner,\n"
+"it's weird Prez taking this so seriously...)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +116,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:7 
 msgid "なあ桜井くん、ちょっといいか？\n"
-msgstr ""
+msgstr "Hey Sakurai, can you help me here?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -120,7 +128,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:8 
 msgid "はい、何ですか？\n"
-msgstr ""
+msgstr "Sure, what is it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +141,8 @@ msgstr ""
 #: sc/0071:9 
 msgid "碁石を出すタイミングがつかめなくてさ。\n何かコツとかあるかい？\n"
 msgstr ""
+"I can't get the timing right throwing the Go stones.\n"
+"Any tips?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +167,8 @@ msgstr ""
 #: sc/0071:11 
 msgid "こうです。こうやって高さを保ちながら\n胸ポケットから碁石を出して……。\n"
 msgstr ""
+"Like this. Keep the ball high like this,\n"
+"and take the stones out of your pocket...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -168,7 +180,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:12 
 msgid "こうして……こうか！\n"
-msgstr ""
+msgstr "Like... like this!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +192,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:13 
 msgid "そうです、そうしてそこから！\n"
-msgstr ""
+msgstr "Yep, just like that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +324,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:26 
 msgid "お―い関口。\n"
-msgstr ""
+msgstr "Hey, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -336,7 +348,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:28 
 msgid "大丈夫か？\n"
-msgstr ""
+msgstr "Are you alright?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +456,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:37 
 msgid "うおっ！？　凄い熱だぞ、関口！！\n"
-msgstr ""
+msgstr "Woah!? You have a really high fever, Sekiguchi!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -469,6 +481,8 @@ msgstr ""
 #: sc/0071:39 
 msgid "何でこんなになるまでほっといたんだ！\n桜井くん！　保健の先生呼んできてくれ！！\n"
 msgstr ""
+"Why did you let it get this bad?\n"
+"Sakurai! Bring the school nurse!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +494,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:40 
 msgid "はいっ！\n"
-msgstr "Yeah!\n"
+msgstr "Okay!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,6 +543,8 @@ msgstr ""
 #: sc/0071:44 
 msgid "うおぉっ、また熱が！\n保健の先生じゃない、救急車だ！！\n"
 msgstr ""
+"Woah, your fever is back!\n"
+"Don't just bring the nurse, call an ambulance!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -540,7 +556,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:45 
 msgid "（えぇっ！？）\n"
-msgstr ""
+msgstr "(Huh!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -624,7 +640,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:52 
 msgid "（顔、近い……）\n"
-msgstr ""
+msgstr "(His face is so close....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -648,7 +664,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:54 
 msgid "一応保健室行くか？\n"
-msgstr ""
+msgstr "Should we go to the nurse's office just in case?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -660,7 +676,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:55 
 msgid "多分大丈夫です。\n"
-msgstr ""
+msgstr "It's really okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -672,7 +688,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:56 
 msgid "本当に？\n"
-msgstr ""
+msgstr "You sure?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -684,7 +700,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:57 
 msgid "大丈夫です。\n"
-msgstr ""
+msgstr "I'm fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -744,7 +760,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:62 
 msgid "……桜井くん？\n"
-msgstr ""
+msgstr "...Sakurai?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -816,7 +832,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0071:68 
 msgid "部長っ、大丈夫ですか！？\n"
-msgstr ""
+msgstr "President, are you okay?!\n"
 
 #  speaker 
 #  warnings: 0 
