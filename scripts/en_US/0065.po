@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-07 21:24+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0065/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -626,7 +626,7 @@ msgstr ""
 msgid "だから隠さなくっていいですって。\nそうだ！　コレ部長と二人で見ててください。\n"
 msgstr ""
 "So you don't need to hid your true feelings!\n"
-"Here! Watch this with Makoto!\n"
+"Here! Watch this with Prez!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -747,6 +747,8 @@ msgstr ""
 #: sc/0065:59 
 msgid "誰にも言いませんよ、\n関口さんが部長のこと……。もごっ！？\n"
 msgstr ""
+"I won't tell anyone that\n"
+"you have feelings for- Mmgh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -758,7 +760,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0065:60 
 msgid "弌弌部長が戻ってきたらどうするんですか？\n"
-msgstr ""
+msgstr "What if he comes back?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -807,6 +809,8 @@ msgstr ""
 #: sc/0065:64 
 msgid "いや―、同じ部活の仲間ですし、\nそんな事で仲悪くなるの嫌じゃないですか。\n"
 msgstr ""
+"Well, we're clubmates after all,\n"
+"I wouldn't want to get on your bad side about something like that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -855,6 +859,8 @@ msgstr ""
 #: sc/0065:68 
 msgid "大丈夫、誰にも言いません。\nこれでおあいこですから。\n"
 msgstr ""
+"Don't worry, I won't tell anyone.\n"
+"That makes us even.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -878,7 +884,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0065:70 
 msgid "それに、元有名な話ですから。\n"
-msgstr ""
+msgstr "Besides, everyone already knew that.\n"
 
 #  speaker 
 #  warnings: 0 
