@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:00+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-01-07 21:25+0000\n"
+"Last-Translator: january 30 <bbzmfyvnxqukrztoyb@poplk.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0100/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -24,7 +24,7 @@ msgstr "Daiku"
 #  warnings: 0 
 #: sc/0100:0 
 msgid "ん―、暇だなぁ。\n"
-msgstr ""
+msgstr "Hmmm, I'm bored.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0100:1 
 msgid "桜井くんは用事を済ませているらしいし、\n……二人っきりじゃな―。\n"
 msgstr ""
+"Apparently Sakurai had errands to run,\n"
+"....Now it's just us two.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0100:3 
 msgid "な―関口―。\nなんか面白いことないか―？\n"
 msgstr ""
+"Hey, Sekiguchi.\n"
+"Anything fun you got in mind?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0100:5 
 msgid "関口―、反応ぐらいしてくれよ―。\n"
-msgstr ""
+msgstr "Sekiguchi, at least give me a response.\n"
 
 #  speaker 
 #  warnings: 0 
