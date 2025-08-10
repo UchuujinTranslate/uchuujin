@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2025-08-11 05:25+0000\n"
+"Last-Translator: Jazyzamp <jazyzamp@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0186/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -23,8 +23,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0186:0 
+#, fuzzy
 msgid "ふぅ。今日は疲れた……\n何度も金縛りになって体が痛い……。\n"
 msgstr ""
+"Whew. I'm exhausted today......\n"
+"I kept getting sleep paralysis and my body hurts......\n"
 
 #  speaker 
 #  warnings: 0 
