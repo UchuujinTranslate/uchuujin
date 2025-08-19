@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:21+0000\n"
 "PO-Revision-Date: 2025-08-20 12:25+0000\n"
-"Last-Translator: \"P.M.c\" <zackboy366@gmail.com>\n"
+"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0120/en_US/>\n"
 "Language: en_US\n"
@@ -72,7 +72,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0120:4 
 msgid "実はさ、今日アレがあるらしいんだよ。\n"
-msgstr ""
+msgstr "Actually, it seems like something is happening today.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +85,8 @@ msgstr ""
 #: sc/0120:5 
 msgid "アレ？　……ああ、持ち物検査か！\n"
 msgstr ""
+"What thing?\n"
+"...Oh, a baggage inspection?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,6 +99,8 @@ msgstr ""
 #: sc/0120:6 
 msgid "その通り！\nだからいつものヤツ、頼むぜ！？\n"
 msgstr ""
+"Yep! Let's do the usual.\n"
+"We're counting on you!\n"
 
 #  speaker 
 #  warnings: 0 
