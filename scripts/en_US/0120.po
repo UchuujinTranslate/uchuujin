@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:21+0000\n"
-"PO-Revision-Date: 2025-08-19 11:27+0000\n"
+"PO-Revision-Date: 2025-08-20 12:25+0000\n"
 "Last-Translator: \"P.M.c\" <zackboy366@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0120/en_US/>\n"
@@ -60,7 +60,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0120:3 
 msgid "おおっ！？　な、何だよお前ら！\n"
-msgstr ""
+msgstr "Oh ! ? What the heck, guys !\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0120:7 
 msgid "まかせとけっ！\n"
-msgstr ""
+msgstr "Leave it to me!\n"
 
 #  speaker 
 #  warnings: 0 
