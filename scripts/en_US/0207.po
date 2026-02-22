@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2024-05-10 16:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2026-02-23 14:51+0000\n"
+"Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -26,7 +26,7 @@ msgstr "Otsuki #2"
 msgid "只今より、映画鑑賞会の予定を急佚変更し\n船内レクリエ―ション大会を開催する！\n"
 msgstr ""
 "In lieu of the canceled film festival,\n"
-"we'll have an cabin recreation event!\n"
+"we'll hold a cabin recreation event!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -91,7 +91,7 @@ msgstr ""
 msgid "そ、それではさっそく……最初は９４番！\n"
 msgstr ""
 "R-right away!\n"
-"The first one is… No. 94！\n"
+"First up is… No. 94！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,7 +109,7 @@ msgstr "Sir！#94, reporting！\n"
 #  warnings: 1 
 #: sc/0207:7 
 msgid "アイツは確かダジャレだっけ？\n"
-msgstr "He was the guy who tells puns, right?\n"
+msgstr "He's the pun guy, right?\n"
 
 #  text 
 #  warnings: 1 
@@ -117,7 +117,7 @@ msgstr "He was the guy who tells puns, right?\n"
 msgid "ああ、通称ダジャレの９４番。\n金一封でたな、こりゃ。\n"
 msgstr ""
 "Yep, that's #94, the comedian.\n"
-"He's totally the winner.\n"
+"He's got this in the bag.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -210,9 +210,9 @@ msgstr "#38"
 #: sc/0207:16 
 msgid "ああ、オレだ。\nオレは……オレは通称、下ネタの３８番！\n"
 msgstr ""
-"Oh, it seems that I'm up.\n"
-"You see, my street name is…\n"
-"dirty joke comedian #38!\n"
+"Oh, guess it's my turn.\n"
+"You see, most people call me…\n"
+"Dirty Joke Comedian #38!\n"
 
 #  text 
 #  warnings: 1 
@@ -291,7 +291,7 @@ msgstr "OOOOooooough!\n"
 #: sc/0207:23 
 msgid "ヤバイ……生半可な芸では……\nオレたち全員、姫に弌弌\n"
 msgstr ""
-"Crap…… I can't do this dumb act……\n"
+"Crap…… We don't have any talent……\n"
 "Is it really our fate to——\n"
 
 #  text 
@@ -368,7 +368,9 @@ msgstr ""
 #  warnings: 4 
 #: sc/0207:32 
 msgid "笑撃地球まる見えテレビか！\n"
-msgstr "You can see the entire world on that show!\n"
+msgstr ""
+"You can see all the funny stuff\n"
+"in the world on that show!\n"
 
 #  text 
 #  warnings: 1 
@@ -391,14 +393,14 @@ msgstr ""
 #: sc/0207:35 
 msgid "スタジオ船に交渉して放映を前倒しさせろ！\nオレたちの命がかかってるんだ！\n"
 msgstr ""
-"Get in contact with the studio and get\n"
+"Contact the studio ship and get\n"
 "it on air! Our lives are at stake!\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0207:36 
 msgid "スタジオ船の兵隊"
-msgstr "Studio Soldier"
+msgstr "Studio Ship Soldier"
 
 #  text 
 #  warnings: 0 
@@ -417,9 +419,9 @@ msgstr "Signal Corpsman"
 #: sc/0207:37 
 msgid "地球に降りている設置チ―ムに連絡！\n映像を早く、姫様の船へ送るんだ！\n"
 msgstr ""
-"Contact to the team that arrived\n"
-"on earth! Relay the broadcast to\n"
-"the ship ASAP!\n"
+"Contact the team back on\n"
+"Earth! Relay the broadcast to\n"
+"the Princess's ship ASAP!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -485,11 +487,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0207:42 
-#, fuzzy
 msgid "俺たちのエ―ス、通称セクハラの９番！\n金一封でるよ〜、こりゃ。\n"
 msgstr ""
 "Our ace reporter, the perverted #9!\n"
-"Gonna get bonus~ Take a look.\n"
+"This is gonna be gold~ Take a look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -542,9 +543,8 @@ msgstr ""
 #: sc/0207:46 
 msgid "地球チ―ム！　ネタ披露はもういい！\nだからやめろ！　やめるんだ！\n"
 msgstr ""
-"Team Earth! I-it's already a good\n"
-"program! Stop the commentary!\n"
-"Stop it!\n"
+"Team Earth! We already tried this!\n"
+"Stop! Please stop!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -557,8 +557,8 @@ msgstr ""
 #: sc/0207:47 
 msgid "それより、地球人にアンテナを付けるんだ！\nそれがオレの弌弌それがオレの弌弌！\n"
 msgstr ""
-"But rather, keep the antenna affixed\n"
-"on the Earthlings! That's…that's my—\n"
+"Instead, please show us the\n"
+"Earthlings! That's…that's my—\n"
 
 #  speaker 
 #  warnings: 0 
