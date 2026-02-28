@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2026-02-23 14:51+0000\n"
+"PO-Revision-Date: 2026-03-01 01:25+0000\n"
 "Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0207/en_US/>\n"
@@ -557,8 +557,9 @@ msgstr ""
 #: sc/0207:47 
 msgid "それより、地球人にアンテナを付けるんだ！\nそれがオレの弌弌それがオレの弌弌！\n"
 msgstr ""
-"Instead, please show us the\n"
-"Earthlings! That's…that's my—\n"
+"Instead, please point the\n"
+"antenna at the earthlings!\n"
+"That's…that's my final—\n"
 
 #  speaker 
 #  warnings: 0 
