@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2024-09-12 17:24+0000\n"
-"Last-Translator: FelipePlayzYT <eduardodelphinodepaula@gmail.com>\n"
+"PO-Revision-Date: 2026-03-08 17:25+0000\n"
+"Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0213/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -67,7 +67,7 @@ msgstr ""
 #: sc/0213:3 
 msgid "以前に説明した通り、ＫＨＵＤ中継によって\nメイン地球人の人気がアップする。\n"
 msgstr ""
-"As previously explained, the KHUD relay will\n"
+"As previously explained, the LIVE relay will\n"
 "increase the popularity of the main earthlings.\n"
 
 #  speaker 
@@ -81,8 +81,8 @@ msgstr ""
 #: sc/0213:4 
 msgid "ゲスト地球人もＫＨＵＤに登場することで、\n人気アップの可能性が生まれるのだが弌弌\n"
 msgstr ""
-"By having guest earthlings also appear on KHUD,\n"
-"the possibility of increasing the popularity of KHUD.\n"
+"Guest earthlings appearing on the LIVE\n"
+"could boost its popularity, but...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -95,8 +95,9 @@ msgstr ""
 #: sc/0213:5 
 msgid "ＫＨＵＤの情報部分をよく見て欲しい。\nゲストには赤、緑、青の３色の部分がある。\n"
 msgstr ""
-"I want you to look closely at the information section of the KHUD.\n"
-"The guest has three colored portions: red, green, and blue.\n"
+"I want you to look closely at the information\n"
+"section of the LIVE. There are three colored\n"
+"portions for guests: red, green, and blue.\n"
 
 #  speaker 
 #  warnings: 0 
