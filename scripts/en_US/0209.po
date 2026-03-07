@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:37+0000\n"
-"PO-Revision-Date: 2022-09-08 01:27+0000\n"
-"Last-Translator: 466 <jonathandds123@gmail.com>\n"
+"PO-Revision-Date: 2026-03-08 17:25+0000\n"
+"Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0209/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +37,9 @@ msgstr ""
 #: sc/0209:1 
 msgid "……なに？\n前任者の遺言はどうなったかって？\n"
 msgstr ""
+"...What?\n"
+"You want to know more about what\n"
+"my predecessor was talking about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +52,9 @@ msgstr ""
 #: sc/0209:2 
 msgid "おつき２の遺言……ああ、あれか。\n地球の生命体にアンテナを付ける話だな？\n"
 msgstr ""
+"Otsuki #2... Ah, right.\n"
+"He wanted us to stream the\n"
+"earthlings, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +67,9 @@ msgstr ""
 #: sc/0209:3 
 msgid "それなら丁度よかった。\n今まさに取り付けていたところだ。ほら弌弌\n"
 msgstr ""
+"You've got perfect timing then,\n"
+"I was just setting that up.\n"
+"Look, here it is.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +82,9 @@ msgstr "Principal"
 #: sc/0209:4 
 msgid "あ、あなたたちは何者ですか！？\n……が、学校の敷地に無断で弌弌ひっ！？\n"
 msgstr ""
+"Hey, who are you guys?!\n"
+"...You, are you on school\n"
+"grounds without permission?!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +96,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0209:5 
 msgid "ひぎゃあああ―っ！？\n"
-msgstr ""
+msgstr "Gyaaaahh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,8 +121,8 @@ msgstr ""
 #: sc/0209:7 
 msgid "……コントロ―ル電波……受信……\n受信……受信……。\n"
 msgstr ""
-"……Control waves……receiving……\n"
-"receiving……receiving……\n"
+"...Control signal...receiving...\n"
+"...receiving...receiving...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,8 +147,8 @@ msgstr ""
 #: sc/0209:9 
 msgid "今見た事は気にするな。\nおそらく問題ない……はずだ。\n"
 msgstr ""
-"Don't worry about what you just say.\n"
-"It's nothing to worry about……probably.\n"
+"Don't worry about what you just saw.\n"
+"I'm sure it's fine...probably.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -163,6 +175,9 @@ msgstr ""
 #: sc/0209:11 
 msgid "今回の計画では、今のアンテナを取り付けた\n生命体の力を借りてＫＨＵＤ中継を行う。\n"
 msgstr ""
+"Our plan is to use the power of the\n"
+"lifeforms currently wearing the\n"
+"antennas to broadcast LIVE.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -175,8 +190,8 @@ msgstr ""
 #: sc/0209:12 
 msgid "ちなみにアンテナの装着者は全部で三人だ。\n"
 msgstr ""
-"By the way,\n"
-"there are three antennas all together.\n"
+"By the way, there are three people\n"
+"wearing antennas in total.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -189,6 +204,8 @@ msgstr ""
 #: sc/0209:13 
 msgid "君の元にも情報が行っていたと思うが弌弌\nお、残りの二人も完了したらしいな。\n"
 msgstr ""
+"I believe you've already been informed, but...\n"
+"Oh, it seems the other two have finished as well.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -201,6 +218,8 @@ msgstr ""
 #: sc/0209:14 
 msgid "それでは、あらためて見たまえ。\nこれが地球を代表する三人の生命体だ！\n"
 msgstr ""
+"Now, take another look.\n"
+"These are the three lifeforms representing Earth!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -225,6 +244,9 @@ msgstr ""
 #: sc/0209:16 
 msgid "オ、オホン。この三人……いや三体が、\n地球の生命体を代表したアンテナ装着者だ。\n"
 msgstr ""
+"A-ahem. These three people...\n"
+"Rather, these three beings, are the\n"
+"antenna wearers representing Earth.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -237,6 +259,9 @@ msgstr ""
 #: sc/0209:17 
 msgid "この３つのうち、どのアンテナで放送するかは\n中継する地球人を選んだ後に決定される。\n"
 msgstr ""
+"Which of these three antennas will be\n"
+"used for broadcasting will be determined\n"
+"after selecting the human relay operator.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -249,6 +274,8 @@ msgstr ""
 #: sc/0209:18 
 msgid "表示されている通り、装着者の差で効果にも\n差が生まれるが……それは後で説明する。\n"
 msgstr ""
+"As you saw, the effect varies depending\n"
+"on the wearer...but I'll explain that later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -261,6 +288,9 @@ msgstr ""
 #: sc/0209:19 
 msgid "まずはこのグラフ。この面積が大きいほど\n選びやすいアンテナだと覚えてくれ。\n"
 msgstr ""
+"First, look at this graph.\n"
+"Remember, the larger the area,\n"
+"the easier it is to choose an antenna.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -273,6 +303,9 @@ msgstr ""
 #: sc/0209:20 
 msgid "ちなみにグラフは装着者のコンディションや\nＫＨＵＤ中継を行う場所で変化するぞ。\n"
 msgstr ""
+"Keep in mind that the graph changes\n"
+"depending on the wearer's condition\n"
+"and the location where LIVE relay is performed.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -285,6 +318,9 @@ msgstr ""
 #: sc/0209:21 
 msgid "さて、ここまでは大丈夫だな？\nアンテナで重要なのはここからだぞ。\n"
 msgstr ""
+"Okay, you got all that so far, right?\n"
+"The most important part about\n"
+"the antennas starts here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -297,6 +333,9 @@ msgstr ""
 #: sc/0209:22 
 msgid "グラフや情報を確認したらボタンを押す。\nそれでル―レット開始だ。\n"
 msgstr ""
+"After checking the graph and information,\n"
+"press the confirm button. That's how you\n"
+"start the roulette.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -309,6 +348,9 @@ msgstr ""
 #: sc/0209:23 
 msgid "好きに選んでも良いのだが、\nこれもまあ番組を盛り上げる演出の１つだ。\n"
 msgstr ""
+"You can choose whichever you like,\n"
+"this is just one of the ways the show\n"
+"livens things up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -320,7 +362,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0209:24 
 msgid "ル―レットでは、まずグラフが\nシャッフルされる。\n"
-msgstr ""
+msgstr "In roulette, the graph is first shuffled.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -333,6 +375,9 @@ msgstr ""
 #: sc/0209:25 
 msgid "シャッフルが終了すると、グラフの\n面積比にあわせたル―レットに変化するぞ。\n"
 msgstr ""
+"Once the shuffling is complete,\n"
+"the roulette will change to match\n"
+"the area ratio of the graph.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -345,6 +390,9 @@ msgstr ""
 #: sc/0209:26 
 msgid "そしていよいよアンテナ装着者の決定。\nル―レットのスタ―トだ。\n"
 msgstr ""
+"And finally, the person who will wear\n"
+"the antenna is decided.\n"
+"The roulette begins.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -357,6 +405,8 @@ msgstr ""
 #: sc/0209:27 
 msgid "ル―レットが回り始めた後は、\nどのアンテナにするかを決めるだけ。\n"
 msgstr ""
+"Once the roulette wheel starts spinning,\n"
+"all you have to do is choose an antenna.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -369,6 +419,8 @@ msgstr ""
 #: sc/0209:28 
 msgid "この最終決定は、プロデュ―サ―であるお前に\n行ってもらうぞ。\n"
 msgstr ""
+"This final decision is yours to make,\n"
+"as the producer.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -381,6 +433,8 @@ msgstr ""
 #: sc/0209:29 
 msgid "な―に、やり方は簡単だ。\n止めたい場所を狙ってボタン！\n"
 msgstr ""
+"What's the holdup? It's easy.\n"
+"Just aim at where you want to stop and press the button!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -393,6 +447,8 @@ msgstr ""
 #: sc/0209:30 
 msgid "これでアンテナ装着者が決まり、\nＫＨＵＤ中継がスタ―トする。\n"
 msgstr ""
+"This determines who will wear the antenna,\n"
+"and the LIVE broadcast can begin.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -405,3 +461,5 @@ msgstr "Otsuki #3"
 #: sc/0209:31 
 msgid "……以上だ。\nではアンテナ装着者の決定に挑んでくれ！\n"
 msgstr ""
+"...That's all there is to it.\n"
+"Now, it's time to select the antenna wearer!\n"
