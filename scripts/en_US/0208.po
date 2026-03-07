@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2026-03-01 01:25+0000\n"
+"PO-Revision-Date: 2026-03-08 17:25+0000\n"
 "Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0208/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -370,7 +370,7 @@ msgstr ""
 #: sc/0208:28 
 msgid "すると、その場所のＫＨＵＤ映像が\n送られてくるぞ。\n"
 msgstr ""
-"Then the KHUD footage for that\n"
+"Then the LIVE footage for that\n"
 "location will be transmitted.\n"
 
 #  speaker 
