@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2024-05-17 20:19+0000\n"
-"Last-Translator: Ethan Ceckson <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2026-03-23 02:31+0000\n"
+"Last-Translator: Jazyzamp <jazyzamp@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0106/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,8 +73,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0106:4 
+#, fuzzy
 msgid "（今度は相生が長野原に渡したぞ）\n"
-msgstr ""
+msgstr "(This time Aioi handed it over to Naganohara.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,7 +87,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0106:5 
 msgid "（……なるほど、宿題を写してるんだな）\n"
-msgstr ""
+msgstr "(......Of course, she's copying homework.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -109,8 +110,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0106:7 
+#, fuzzy
 msgid "相生！　長野原！\n何をやってるんだ！？\n"
 msgstr ""
+"Aioi! Naganohara!\n"
+"What are you doing?!\n"
 
 #  speaker 
 #  warnings: 0 
