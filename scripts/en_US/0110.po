@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:36+0000\n"
-"PO-Revision-Date: 2026-03-23 02:31+0000\n"
-"Last-Translator: Jazyzamp <jazyzamp@gmail.com>\n"
+"PO-Revision-Date: 2026-04-02 17:53+0000\n"
+"Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0110/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0110:0 
 msgid "ねえ麻衣ちゃん。ゆっこ知らない？\n"
-msgstr ""
+msgstr "Hey, Mai. Do you know where Yukko is?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0110:1 
 msgid "ゆっこ？　知らない。\n"
-msgstr ""
+msgstr "Yukko? No idea.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,6 +49,9 @@ msgstr ""
 #: sc/0110:2 
 msgid "そっか―。\n自分で誘っておいてどこ行ったんだろ。\n"
 msgstr ""
+"Oh, huh.\n"
+"Why would she call me out\n"
+"here and not even show?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -74,6 +77,8 @@ msgstr ""
 #: sc/0110:4 
 msgid "あ、うん。ゆっこが\n叩いてかぶってしようって誘ってきて。\n"
 msgstr ""
+"Uh huh. Yukko asked me to play\n"
+"\"rock-paper-scissors\" with her.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -98,6 +103,8 @@ msgstr ""
 #: sc/0110:6 
 msgid "そうだ。前哨戦ってわけじゃないけど、\nゆっこが来るまでやらない？\n"
 msgstr ""
+"Okay, it’s not exactly a warm-up, but\n"
+"why don’t we play until Yukko gets here?\n"
 
 #  speaker 
 #  warnings: 0 
