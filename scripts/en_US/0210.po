@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2021-10-05 12:37+0000\n"
-"Last-Translator: asasd <2jiwoomail3@gmail.com>\n"
+"PO-Revision-Date: 2026-05-06 15:25+0000\n"
+"Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0210/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #  speaker 
 #  warnings: 0 
@@ -23,11 +23,10 @@ msgstr "#42"
 #  text 
 #  warnings: 0 
 #: sc/0210:0 
-#, fuzzy
 msgid "弌弌聞こえるか？　分析と説明の４２番だ。\nおつきの３の代わりに説明させてもらうぞ。\n"
 msgstr ""
-"...can you hear me? It's me, #42 of analysis and explain.\n"
-"I'm gonna explain for you instead of --\n"
+"...can you hear me? This is Analysis and Explanation #42.\n"
+"I’ll be giving the explanation instead of the usual #3.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -40,8 +39,8 @@ msgstr ""
 #: sc/0210:1 
 msgid "銀河に放送されているこの番組だが、\n知っての通り、これは視聴者参加型番組だ。\n"
 msgstr ""
-"This program is being broadcast to the Galaxy.\n"
-"but, as you know, this is a participatory program.\n"
+"This program is being broadcast across the galaxy,\n"
+"but, as you know, this is an interactive program.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -54,8 +53,8 @@ msgstr ""
 #: sc/0210:2 
 msgid "その視聴者が参加できるコ―ナ―が、\nこのギャラクシ―電波光線タイムだ。\n"
 msgstr ""
-"And the corner that those audiences can participate is,\n"
-"this \"Galaxy Radio Wave Time\".\n"
+"This is the segment where viewers can participate:\n"
+"“Galaxy Radio Wave Time”.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -68,8 +67,8 @@ msgstr ""
 #: sc/0210:3 
 msgid "アンテナには、装着者をコントロ―ルして\n映像を送る機能があるが……実はもう１つ。\n"
 msgstr ""
-"The antenna has the function that can control\n"
-"the installed ones.....However, it has one more feature.\n"
+"The antenna has the ability to control the wearer\n"
+"and transmit video...and one more thing.\n"
 
 #  speaker 
 #  warnings: 4 
@@ -82,6 +81,8 @@ msgstr ""
 #: sc/0210:4 
 msgid "その場の空気を変えることができる\nギャラクシ―電波光線の発信機能がある！\n"
 msgstr ""
+"It can change the mood of the room\n"
+"with the Galaxy Wave Beam emission function!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -94,6 +95,8 @@ msgstr ""
 #: sc/0210:5 
 msgid "これこそ、ギャラクシ―・エア―・チェンジ・\n空気・ヨシ　システム弌弌\n"
 msgstr ""
+"This is the Galaxy Air Change\n"
+"Keen Yang System...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -105,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0210:6 
 msgid "通称、Ｆ・９・Ｂ・Ｊ・Ｘ　システムだ！！\n"
-msgstr ""
+msgstr "Commonly known as the G.A.C.K.Y System!!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -118,6 +121,8 @@ msgstr ""
 #: sc/0210:7 
 msgid "では、改めてギャラクシ―電波光線タイム\nについて説明しよう。\n"
 msgstr ""
+"Now, I will explain “Galaxy Radio Wave\n"
+"Beam Time” again.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -130,6 +135,8 @@ msgstr ""
 #: sc/0210:8 
 msgid "このシステムは、その場の空気を変えることで\n地球の出来事に干渉することができる。\n"
 msgstr ""
+"This system can influence events on Earth\n"
+"by altering the mood in a given area.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -142,6 +149,8 @@ msgstr ""
 #: sc/0210:9 
 msgid "これによって展開を面白くし、ひいては\n視聴率が稼げる番組にしていくわけだ。\n"
 msgstr ""
+"This is how we make the show more engaging,\n"
+"and, ultimately, attract high ratings.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -154,6 +163,8 @@ msgstr ""
 #: sc/0210:10 
 msgid "システムで干渉することによって、\n地球の出来事は３つの展開に変化する。\n"
 msgstr ""
+"With this system, events on Earth will take\n"
+"one of three different turns.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -166,6 +177,8 @@ msgstr ""
 #: sc/0210:11 
 msgid "赤は熱くホットな空気、緑は暖い\nウォ―ムな空気、そして青はク―ルな空気。\n"
 msgstr ""
+"Red represents hot air, green represents warm\n"
+"air, and blue represents cool air.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -178,6 +191,8 @@ msgstr ""
 #: sc/0210:12 
 msgid "まあ、予想外の展開になって、\n空気を無視した結果になる場合も多いがな。\n"
 msgstr ""
+"Well, things often take an unexpected turn,\n"
+"and that usually results in ignoring the mood.\n"
 
 #  speaker 
 #  warnings: 2 
