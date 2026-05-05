@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2026-03-08 17:25+0000\n"
+"PO-Revision-Date: 2026-05-06 15:25+0000\n"
 "Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0208/en_US/>\n"
@@ -35,8 +35,7 @@ msgstr ""
 msgid "４２番、聞いた？\nこれ、視聴者参加型の番組なんだってさ。\n"
 msgstr ""
 "Hey #42, didja hear?\n"
-"Apparently, this is a viewer-\n"
-"participation show.\n"
+"Apparently, this show is interactive.\n"
 
 #  speaker 
 #  warnings: 0 
