@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2026-05-06 15:25+0000\n"
+"PO-Revision-Date: 2026-05-12 10:43+0000\n"
 "Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0000/en_US/>\n"
@@ -577,8 +577,8 @@ msgstr ""
 #: sc/0000:46 
 msgid "ああああ――！？　もう遅刻寸前！！\nはかせ、行ってきま―す！\n"
 msgstr ""
-"Ahh!? I'm already late!! \n"
-"Hakase, I'm going!\n"
+"Oh no! I'm already late!! \n"
+"Professor, I'm off!\n"
 
 #  speaker 
 #  warnings: 0 
