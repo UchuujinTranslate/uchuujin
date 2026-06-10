@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 01:01+0000\n"
-"PO-Revision-Date: 2026-05-06 15:25+0000\n"
+"PO-Revision-Date: 2026-06-11 21:57+0000\n"
 "Last-Translator: SONICMAN69 <PhillipGalpin@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.colebob9.net/"
 "projects/uchuujin/script-0210/en_US/>\n"
@@ -205,6 +205,8 @@ msgstr ""
 #: sc/0210:13 
 msgid "さて話を戻して、今行われている\nギャラクシ―電波光線タイムの続きだ。\n"
 msgstr ""
+"Anyway, let's now get back to\n"
+"the current Galaxy Radio Wave Beam Time.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +219,8 @@ msgstr ""
 #: sc/0210:14 
 msgid "コ―ナ―が始まると、どの空気にするか\n視聴者たちが投票することができる。\n"
 msgstr ""
+"When the segment begins, viewers can\n"
+"vote on which atmosphere they want.\n"
 
 #  speaker 
 #  warnings: 0 
